@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>חדשות הפאדל · Padel News Israel</title>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#10233a">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="description" content="חדשות הפאדל מהעולם ומהארץ, בעברית פשוטה, עם מקור לכל ידיעה. מייקל קדוש · Michael Kadosh">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="חדשות הפאדל · Padel News Israel">
+<meta property="og:title" content="חדשות הפאדל 🎾 Padel News Israel">
+<meta property="og:description" content="חדשות פאדל מהעולם ומהארץ, בעברית פשוטה. תוצאות, תקצירי וידאו, דירוגים ומונדיאל הפאדל – מתעדכן כל שעתיים.">
+<meta property="og:url" content="https://michael123450.github.io/padelnewsisr/">
+<meta property="og:image" content="https://michael123450.github.io/padelnewsisr/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="he_IL">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="512x512" href="icon-512.png">
+<meta name="apple-mobile-web-app-title" content="PadelNewsISR">
+<meta name="application-name" content="PadelNewsISR">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Assistant:wght@400;600;700;800&family=Secular+One&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#eef3f6; --surface:#fff; --sunk:#e4ebf0; --ink:#10233a; --muted:#566778; --line:#d3dde5;
+    --court:#1c5ca6; --court-soft:#dce8f6; --ball:#d6ea2f; --ball-ink:#1d2a05;
+    --live:#d83a2e; --live-soft:#fbe3e0; --il:#0b5cc2;
+    --display:"Secular One","Assistant",system-ui,sans-serif; --body:"Assistant",system-ui,-apple-system,Arial,sans-serif;
+  }
+  @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+    --bg:#0b141d; --surface:#132130; --sunk:#0f1a26; --ink:#e3ebf2; --muted:#93a4b5; --line:#24374a;
+    --court:#5d9de6; --court-soft:#1a3350; --live:#ff6b5e; --live-soft:#3d1916; --il:#7fb3ff; color-scheme:dark}}
+  :root[data-theme="dark"]{
+    --bg:#0b141d; --surface:#132130; --sunk:#0f1a26; --ink:#e3ebf2; --muted:#93a4b5; --line:#24374a;
+    --court:#5d9de6; --court-soft:#1a3350; --live:#ff6b5e; --live-soft:#3d1916; --il:#7fb3ff; color-scheme:dark}
+  :root[data-theme="light"]{color-scheme:light}
+  *{box-sizing:border-box}
+  html,body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.6}
+  a{color:var(--court)}
+  .top{background:#10233a;color:#eef3f6}
+  .top-in{max-width:760px;margin:0 auto;padding:16px 16px 14px;display:flex;gap:14px;align-items:center}
+  .logo{width:114px;height:76px;border-radius:14px;background:#fff;display:grid;place-items:center;flex:none;overflow:hidden;box-shadow:0 0 0 3px var(--ball)}
+  .logo img{width:108px;height:72px;object-fit:contain}
+  .brand h1{margin:0;font-family:var(--display);font-weight:400;font-size:27px;line-height:1.1}
+  .brand h1 b{color:var(--ball);font-weight:400}
+  .brand p{margin:4px 0 0;font-size:14.5px;opacity:.8}
+  .brand .by{display:block;margin-top:2px;font-size:12.5px;opacity:.55;letter-spacing:.02em}
+  .brand .en{display:block;margin-top:2px;font-size:13px;font-weight:700;letter-spacing:.08em;color:var(--ball);direction:ltr;unicode-bidi:isolate;text-align:right}
+  .upd{max-width:760px;margin:0 auto;padding:0 16px 12px;font-size:13.5px;color:#c7d3de;display:flex;gap:8px;align-items:center}
+  .upd i{width:8px;height:8px;border-radius:50%;background:var(--ball);display:inline-block;box-shadow:0 0 0 4px rgba(214,234,47,.2)}
+  main{max-width:760px;margin:0 auto;padding:16px 16px 50px;display:grid;gap:16px}
+  .live{background:var(--surface);border:2px solid var(--live);border-radius:14px;padding:16px}
+  .live h2{margin:0 0 4px;font-family:var(--display);font-weight:400;font-size:21px;display:flex;gap:8px;align-items:center}
+  .live .pulse{width:11px;height:11px;border-radius:50%;background:var(--live);animation:p 1.6s infinite;flex:none}
+  @keyframes p{0%{box-shadow:0 0 0 0 rgba(216,58,46,.5)}70%{box-shadow:0 0 0 10px rgba(216,58,46,0)}100%{box-shadow:0 0 0 0 rgba(216,58,46,0)}}
+  @media (prefers-reduced-motion:reduce){.live .pulse{animation:none}}
+  .live p{margin:4px 0 10px;color:var(--muted)}
+  .sched{display:grid;gap:6px}
+  .match{display:grid;grid-template-columns:auto 1fr;gap:2px 12px;align-items:center;background:var(--sunk);border-radius:10px;padding:9px 12px}
+  .match .t{font-weight:800;font-variant-numeric:tabular-nums;font-size:18px;color:var(--live);direction:ltr}
+  .match .w{font-weight:700}
+  .match .r{grid-column:2;font-size:14.5px;color:var(--muted)}
+  .match.done .t{color:var(--muted)}
+  .onair{margin-inline-start:auto;white-space:nowrap;flex:none;background:var(--live);color:#fff;font-family:var(--body);font-weight:800;font-size:13px;border-radius:999px;padding:2px 10px;animation:blink 1.1s steps(2,start) infinite}
+  .match.is-live{background:var(--live-soft);box-shadow:inset 0 0 0 2px var(--live);animation:glow 1.6s ease-in-out infinite}
+  .match.is-live .w{color:var(--live)}
+  .ldot{display:inline-block;width:12px;height:12px;border-radius:50%;background:var(--live);margin-inline-end:7px;vertical-align:middle;animation:blink 1s steps(2,start) infinite;box-shadow:0 0 8px var(--live)}
+  .r.lv{color:var(--live);font-weight:800}
+  @keyframes blink{to{visibility:hidden}}
+  @keyframes glow{0%,100%{box-shadow:inset 0 0 0 2px var(--live)}50%{box-shadow:inset 0 0 0 2px transparent}}
+  @media (prefers-reduced-motion:reduce){.onair,.ldot,.match.is-live{animation:none}}
+  .watch{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:14px}
+  .watch h2{margin:0 0 10px;font-family:var(--display);font-weight:400;font-size:19px}
+  .tiles{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+  .tile{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;text-align:center;text-decoration:none;color:#fff;border-radius:12px;padding:12px 6px;min-height:96px}
+  .tile .ti{width:34px;height:34px;border-radius:50%;background:rgba(255,255,255,.2);display:grid;place-items:center;font-size:16px;margin-bottom:4px}
+  .tile b{font-size:15px;line-height:1.2}
+  .tile small{font-size:12.5px;opacity:.85}
+  .t-rb{background:linear-gradient(160deg,#0a1e46,#d0102b)} .t-fip{background:linear-gradient(160deg,#c4302b,#7a1512)} .t-pp{background:linear-gradient(160deg,#1c5ca6,#10233a)}
+  .rbweb{display:inline-block;margin-top:8px;font-size:13px;color:var(--muted);text-decoration:none}
+  .wextra{display:grid;gap:8px;margin-bottom:8px}
+  .wextra:empty{display:none}
+  .wbtn{display:flex;align-items:center;gap:10px;text-decoration:none;color:#fff;border-radius:12px;padding:10px 14px;font-weight:800;font-size:16px;background:linear-gradient(135deg,#d83a2e,#8e1f17)}
+  .wbtn small{display:block;font-weight:600;font-size:12.5px;opacity:.9}
+  .wbtn .go{margin-inline-start:auto}
+  .livetag{display:inline-block;background:#fff;color:#d83a2e;border-radius:999px;padding:0 8px;font-size:12px;font-weight:800;margin-inline-start:6px;vertical-align:middle}
+  .chips{display:flex;gap:8px;overflow-x:auto;scrollbar-width:none;padding-bottom:2px}
+  .chips::-webkit-scrollbar{display:none}
+  .chip{border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:999px;padding:7px 15px;font:inherit;font-size:15px;font-weight:700;cursor:pointer;white-space:nowrap}
+  .chip[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:var(--bg)}
+  .news{display:grid;gap:12px;scroll-margin-top:12px}
+  .item{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px}
+  .item .meta{display:flex;gap:8px;align-items:center;flex-wrap:wrap;font-size:13.5px;color:var(--muted)}
+  .cat{font-weight:800;font-size:12.5px;border-radius:999px;padding:2px 10px;background:var(--court-soft);color:var(--court)}
+  .cat.il{background:#dbe9ff;color:var(--il)} .cat.res{background:#eef6c2;color:#4a5a00} .cat.op{background:#efe3fb;color:#6a3fb0} .cat.cal{background:var(--sunk);color:var(--muted)}
+  @media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .cat.il{background:#14294a}:root:not([data-theme="light"]) .cat.res{background:#2a3311;color:#d6ea2f}:root:not([data-theme="light"]) .cat.op{background:#2b1f40;color:#c9a8f5}}
+  :root[data-theme="dark"] .cat.il{background:#14294a} :root[data-theme="dark"] .cat.res{background:#2a3311;color:#d6ea2f} :root[data-theme="dark"] .cat.op{background:#2b1f40;color:#c9a8f5}
+  .item h3{margin:8px 0 6px;font-size:20px;line-height:1.35;font-weight:800}
+  .item p{margin:0;font-size:16.5px}
+  .src{margin-top:12px;padding-top:10px;border-top:1px dashed var(--line);display:flex;gap:6px 12px;align-items:center;flex-wrap:wrap;font-size:14px;color:var(--muted)}
+  .src b{color:var(--ink)}
+  .src .tr{background:var(--sunk);border-radius:6px;padding:1px 8px;font-weight:700}
+  .src a{font-weight:700;text-decoration:none}
+  .src .sp{flex:1}
+  .sc{direction:ltr;unicode-bidi:isolate;white-space:nowrap;font-variant-numeric:tabular-nums;font-weight:700}
+  .share{color:var(--muted)!important;font-weight:600!important}
+  .day{font-family:var(--display);font-weight:400;font-size:17px;color:var(--muted);margin:8px 2px -2px}
+  .up{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px}
+  .up h2{margin:0 0 10px;font-family:var(--display);font-weight:400;font-size:20px}
+  .up-row{display:flex;gap:12px;padding:7px 0;border-bottom:1px solid var(--line)}
+  .up-row:last-child{border-bottom:0}
+  .up-row b{min-width:96px;color:var(--court);flex:none}
+  #news .up{margin-bottom:12px}
+  .up h3.sd{margin:14px 0 4px;font-size:16px;color:var(--ink)}
+  .up p{margin:0 0 8px;font-size:15px}
+  .vis{position:relative;margin:-16px -16px 12px;height:118px;border-radius:14px 14px 0 0;overflow:hidden;display:flex;align-items:center;gap:14px;padding:0 18px;color:#fff}
+  .vis svg.bgc{position:absolute;inset:0;width:100%;height:100%}
+  .vis .ic{position:relative;flex:none;width:78px;height:78px}
+  .vis .tx{position:relative;display:grid;gap:4px;min-width:0}
+  .vis .lb{font-family:var(--display);font-size:20px;line-height:1.15}
+  .vis .sub{font-size:14.5px;opacity:.9;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .vis .sets{display:flex;gap:6px;direction:ltr;flex-wrap:wrap}
+  .vis .set{background:rgba(255,255,255,.95);color:#10233a;border-radius:7px;padding:1px 9px;font-weight:800;font-size:19px;font-variant-numeric:tabular-nums}
+  .v-res{background:linear-gradient(135deg,#1c6b3c,#0f4a2a)} .v-fin{background:linear-gradient(135deg,#b07a00,#6b4300)}
+  .v-il{background:linear-gradient(135deg,#0b5cc2,#083d82)} .v-op{background:linear-gradient(135deg,#6a3fb0,#40237a)}
+  .v-cal{background:linear-gradient(135deg,#3d5268,#22313f)} .v-tv{background:linear-gradient(135deg,#d83a2e,#8e1f17)} .v-wo{background:linear-gradient(135deg,#1c5ca6,#10233a)}
+  .vis .gds{display:flex;gap:6px}
+  .vis.vm{height:auto;min-height:118px;padding:14px 16px}
+  .vis.vm .ic{width:56px;height:56px;align-self:flex-start;margin-top:4px}
+  .vis.vm .tx{flex:1;gap:6px}
+  .vis .mrow{display:grid;gap:4px;padding-top:6px;border-top:1px solid rgba(255,255,255,.2)}
+  .vis .mp{font-size:15.5px;line-height:1.35}
+  .vis .mp b{font-weight:800}
+  .vis .mp .vs{opacity:.8;font-weight:400}
+  .vis .sets.sm .set{font-size:16px;padding:0 8px}
+  .vis .gd{background:#fff;border-radius:999px;padding:1px 11px;font-weight:800;font-size:15px;line-height:1.5}
+  .vis .gd.w{background:#ffe1ef;color:#9b1858} .vis .gd.m{background:#dcecff;color:#0b4a9a}
+  .gtag{font-weight:800;font-size:12.5px;border-radius:999px;padding:2px 10px}
+  .gtag.w{background:#ffe1ef;color:#9b1858} .gtag.m{background:#dcecff;color:#0b4a9a}
+  .vid{display:flex;align-items:center;gap:10px;margin-top:12px;border-radius:12px;padding:10px 14px;text-decoration:none;font-weight:800;font-size:15.5px}
+  a.vid{background:#c4302b;color:#fff}
+  a.vid .pl{width:28px;height:28px;border-radius:50%;background:#fff;color:#c4302b;display:grid;place-items:center;font-size:13px;flex:none}
+  a.vid small{display:block;font-weight:600;font-size:12.5px;opacity:.9}
+  a.vid .go{margin-inline-start:auto}
+  span.vid{background:var(--sunk);color:var(--muted);font-weight:700;font-size:14px}
+  .empty{text-align:center;color:var(--muted);padding:30px}
+  footer{max-width:760px;margin:0 auto;padding:0 16px 40px;font-size:14px;color:var(--muted);text-align:center}
+  .legal{margin:16px auto 0;max-width:640px;text-align:right;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:4px 14px}
+  .legal summary{cursor:pointer;font-weight:800;color:var(--ink);padding:8px 0;list-style-position:inside}
+  .legal h4{margin:12px 0 4px;font-size:15px;color:var(--ink)}
+  .legal p,.legal li{margin:0 0 6px;font-size:14px;line-height:1.6}
+  .legal ul{margin:0 0 6px;padding-inline-start:18px}
+  .a11y-st{margin-top:10px}
+  .skip{position:absolute;inset-inline-start:8px;top:-60px;z-index:999;background:var(--ball);color:#10233a;font-weight:800;padding:8px 14px;border-radius:10px;text-decoration:none}
+  .skip:focus{top:8px}
+  a:focus-visible,button:focus-visible,summary:focus-visible,.chip:focus-visible{outline:3px solid var(--ball);outline-offset:2px}
+  .copy{margin-top:12px;font-weight:700;color:var(--ink)}
+  .flogo{width:132px;height:88px;border-radius:14px;background:#fff;display:inline-grid;place-items:center;margin-bottom:8px}
+  .flogo img{width:126px}
+  .gear{margin-inline-start:auto;flex:none;width:44px;height:44px;border-radius:50%;border:0;background:rgba(255,255,255,.12);color:#fff;font-size:22px;cursor:pointer;display:grid;place-items:center}
+  .gear:focus-visible,.seg button:focus-visible,.sw:focus-visible{outline:3px solid var(--ball);outline-offset:2px}
+  dialog.set{border:0;border-radius:16px;padding:0;width:min(440px,calc(100vw - 32px));max-height:calc(100vh - 32px);background:var(--surface);color:var(--ink);box-shadow:0 20px 60px rgba(0,0,0,.35)}
+  dialog.set::backdrop{background:rgba(8,16,26,.55)}
+  .set-h{display:flex;align-items:center;justify-content:space-between;padding:14px 16px;border-bottom:1px solid var(--line)}
+  .set-h h2{margin:0;font-family:var(--display);font-weight:400;font-size:21px}
+  .set-x{border:0;background:var(--sunk);color:var(--ink);width:40px;height:40px;border-radius:50%;font-size:18px;cursor:pointer}
+  .set-b{padding:6px 16px 18px;display:grid;gap:4px}
+  .row{padding:12px 0;border-bottom:1px solid var(--line)}
+  .row:last-child{border-bottom:0}
+  .row h3{margin:0 0 8px;font-size:16px;font-weight:800}
+  .row p{margin:6px 0 0;font-size:14px;color:var(--muted)}
+  .seg{display:grid;grid-auto-flow:column;grid-auto-columns:1fr;gap:4px;background:var(--sunk);border-radius:12px;padding:4px}
+  .seg button{border:0;background:transparent;color:var(--ink);font:inherit;font-size:15px;font-weight:700;border-radius:9px;padding:8px 4px;cursor:pointer}
+  .seg button[aria-pressed="true"]{background:var(--surface);box-shadow:0 1px 3px rgba(0,0,0,.18);color:var(--court)}
+  .tg{display:flex;align-items:center;justify-content:space-between;gap:12px}
+  .sw{flex:none;width:56px;height:32px;border-radius:999px;border:0;background:var(--line);position:relative;cursor:pointer;transition:background .2s}
+  .sw::after{content:"";position:absolute;top:4px;inset-inline-start:4px;width:24px;height:24px;border-radius:50%;background:#fff;transition:inset-inline-start .2s}
+  .sw[aria-checked="true"]{background:#1c6b3c}
+  .sw[aria-checked="true"]::after{inset-inline-start:28px}
+  .mail{display:inline-block;margin-top:4px;font-weight:800;direction:ltr}
+  .toast{position:fixed;bottom:16px;left:50%;transform:translateX(-50%);z-index:50;background:#10233a;color:#fff;border:2px solid var(--ball);border-radius:999px;padding:10px 18px;font-weight:800;font-size:16px;box-shadow:0 8px 30px rgba(0,0,0,.35);cursor:pointer;max-width:calc(100vw - 32px)}
+  .toast[hidden]{display:none}
+  .cform{display:grid;gap:8px;margin-top:6px}
+  .cform label{display:grid;gap:3px;font-size:14px;font-weight:700}
+  .cform input,.cform select,.cform textarea{font:inherit;font-size:16px;color:var(--ink);background:var(--sunk);border:1px solid var(--line);border-radius:10px;padding:9px 10px}
+  .cform input:focus,.cform select:focus,.cform textarea:focus{outline:3px solid var(--ball);outline-offset:1px}
+  .cform button{border:0;border-radius:12px;padding:11px;font:inherit;font-weight:800;font-size:16px;color:#fff;background:var(--court);cursor:pointer}
+  .fmsg{margin:0;font-size:14px;color:var(--live)}
+  .rkw{display:grid;gap:14px}
+  .rkd{margin:0;color:var(--muted);font-size:14px}
+  .rk{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px}
+  .rk h2{margin:0 0 10px;font-family:var(--display);font-weight:400;font-size:20px}
+  .rkl{list-style:none;margin:0;padding:0}
+  .rkl li{display:flex;gap:10px;align-items:center;padding:7px 0;border-bottom:1px solid var(--line)}
+  .rkl li:last-child{border-bottom:0}
+  .rn{min-width:34px;font-weight:800;color:var(--court);font-variant-numeric:tabular-nums}
+  .rp{flex:1;font-weight:700}
+  .rp small{color:var(--muted);font-weight:600}
+  .rpt{font-variant-numeric:tabular-nums;font-weight:800;direction:ltr}
+  .rkbtn{display:block;margin-top:12px;text-align:center;text-decoration:none;color:#fff;background:var(--court);border-radius:12px;padding:10px;font-weight:800}
+  .wch{background:linear-gradient(135deg,#7a1f3d,#3d0f1f);color:#fff;border-radius:14px;padding:14px 16px}
+  .wch h2{margin:0 0 4px;font-family:var(--display);font-weight:400;font-size:22px}
+  .wch p{margin:2px 0;font-size:14.5px;opacity:.92}
+  .wcg{margin-top:10px}
+  .wcg h3{margin:0 0 6px;font-size:16px;color:var(--court)}
+  .wct{width:100%;border-collapse:collapse;font-size:15px}
+  .wct th{font-size:12.5px;color:var(--muted);font-weight:700;text-align:center;padding:4px 2px;border-bottom:1px solid var(--line)}
+  .wct th:first-child,.wct td:first-child{text-align:right}
+  .wct td{padding:6px 2px;border-bottom:1px solid var(--line);text-align:center;font-variant-numeric:tabular-nums}
+  .wct tr.q td{font-weight:800}
+  .wcm{grid-template-columns:auto 1fr}
+  .wcgsel button{font-size:16px}
+  .wctm{display:grid;gap:2px;padding:8px 0;border-bottom:1px solid var(--line)}
+  .wctm:last-child{border-bottom:0}
+  .wctm b small{color:var(--muted);font-weight:600}
+  .wctm span{font-size:14.5px;color:var(--muted)}
+  .wcr{color:var(--court);font-weight:800;direction:ltr;unicode-bidi:isolate}
+  .wcnote{font-size:13px;color:var(--muted);margin:0 0 6px}
+  .wcw{grid-column:2;font-size:14px;font-weight:800;text-decoration:none;color:var(--live)}
+  .rkseg{display:flex;gap:6px;flex-wrap:wrap}
+  .rkseg button{flex:1 1 auto;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:999px;padding:8px 12px;font:inherit;font-size:14.5px;font-weight:800;cursor:pointer}
+  .rkseg button[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+  .rkseg button:focus-visible{outline:3px solid var(--ball);outline-offset:2px}
+  main,header.top,footer{-webkit-user-select:none;user-select:none;-webkit-touch-callout:none}
+  input,textarea,select{-webkit-user-select:text;user-select:text}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">דלגו לתוכן הראשי</a>
+<header class="top">
+  <div class="top-in">
+    <div class="logo"><img src="logo.png" alt="MK Padel News – חדשות הפאדל בארץ ובעולם · מייקל קדוש, Michael Kadosh"></div>
+    <div class="brand">
+      <h1>חדשות ה<b>פאדל</b></h1>
+      <span class="en" lang="en">Padel News Israel</span>
+      <p>חדשות מהעולם ומהארץ</p>
+      <span class="by">מייקל קדוש · <span lang="en" style="white-space:nowrap">Michael Kadosh</span></span>
+    </div>
+    <button class="gear" id="gear" type="button" aria-label="הגדרות" title="הגדרות">⚙️</button>
+  </div>
+  <div class="upd"><i></i><span id="upd">טוען…</span></div>
+</header>
+
+<main id="main" tabindex="-1">
+  <div class="chips" role="group" aria-label="סינון חדשות" id="chips"></div>
+  <section class="live" id="live" hidden></section>
+  <section class="watch" id="watch">
+    <h2>📺 צפייה</h2>
+    <div id="wextra" class="wextra"></div>
+    <div class="tiles">
+      <a class="tile t-rb" id="rbApp" href="https://www.redbull.com/int-en/premier-padel-calendar" target="_blank" rel="noopener"><span class="ti">🐂</span><b>Red Bull TV</b><small>חי · חינם</small></a>
+      <a class="tile t-fip" href="https://www.youtube.com/@padelfip/live" target="_blank" rel="noopener"><span class="ti">▶</span><b>FIP</b><small>יוטיוב · חי</small></a>
+      <a class="tile t-pp" href="https://www.youtube.com/premierpadelTV" target="_blank" rel="noopener"><span class="ti">▶</span><b>Premier Padel</b><small>יוטיוב · תקצירים</small></a>
+    </div>
+  </section>
+  <section class="news" id="news"><div class="empty">טוען חדשות…</div></section>
+  <section class="up" id="upcoming" hidden></section>
+</main>
+
+<footer>
+  <div class="flogo"><img src="logo.png" alt=""></div>
+  <div>החדשות נאספות מאתרי פאדל מובילים בעולם ובארץ, מתורגמות ומסוכמות בעברית.<br>לכל ידיעה מצורף המקור ושפת המקור.</div>
+  <div style="margin-top:6px">MK · מייקל קדוש · <span lang="en">Michael Kadosh</span></div>
+  <div class="copy">© <span id="yr">2026</span> מייקל קדוש (Michael Kadosh) · כל הזכויות שמורות</div>
+  <details class="legal">
+    <summary>⚖️ זכויות יוצרים ותנאי שימוש</summary>
+    <h4>1. של מי התוכן</h4>
+    <p>השם "חדשות הפאדל" ו-PadelNewsISR, הלוגו MK, האייקון, העיצוב, הציורים והתקצירים בעברית נוצרו בשביל האפליקציה הזאת. הזכויות עליהם שייכות למייקל קדוש.</p>
+    <h4>2. מה מותר ומה אסור</h4>
+    <ul>
+      <li>✅ מותר לקרוא, ולשתף ידיעה עם כפתור "שתף", עם השם "חדשות הפאדל".</li>
+      <li>❌ אסור להעתיק את האפליקציה, את העיצוב, את הלוגו או הרבה ידיעות, ולפרסם אותם במקום אחר.</li>
+      <li>❌ אסור להשתמש בתוכן לפרסומת או למכירה, או להציג אותו כאילו הוא שלכם.</li>
+      <li>כל שימוש אחר רק באישור בכתב ממייקל קדוש.</li>
+    </ul>
+    <h4>3. מקורות החדשות</h4>
+    <p>כל ידיעה היא תקציר קצר במילים שלנו של דיווח שפורסם בפומבי. בכל ידיעה יש שם המקור וקישור אליו. הזכויות על הכתבות, התמונות, הסרטונים והפוסטים המקוריים שייכות לבעלים שלהם. אנחנו לא מעתיקים כתבות מלאות ולא מפרסמים תמונות או סרטונים של אחרים.</p>
+    <h4>4. אנחנו לא אתר רשמי</h4>
+    <p>האפליקציה עצמאית. היא לא קשורה ל-Premier Padel, ל-FIP, ל-ILPA, לשחקנים, לערוצי הטלוויזיה או לאתרים שמופיעים בה. השמות שלהם מופיעים רק כדי למסור חדשות ולתת קרדיט.</p>
+    <h4>5. דיוק המידע</h4>
+    <p>החדשות נאספות ומתורגמות בעזרת בינה מלאכותית (Claude). אנחנו משתדלים לדייק, אבל יכולות להיות טעויות. שעות משחקים ושידורים יכולות להשתנות. לפני החלטה חשובה, בדקו במקור הרשמי. אנחנו לא אחראים לנזק בגלל טעות במידע או בגלל אתרים חיצוניים.</p>
+    <h4>6. בקשה להסרה או תיקון</h4>
+    <p>חושבים שידיעה פוגעת בזכויות שלכם או שיש בה טעות? פנו למייקל קדוש ונבדוק. אם צריך, נתקן או נוריד את הידיעה מהר.</p>
+    <h4>7. פרטיות</h4>
+    <p>האפליקציה לא אוספת פרטים אישיים ולא משתמשת בעוגיות. אנחנו סופרים כניסות באופן אנונימי בעזרת GoatCounter, שירות שלא שומר מי אתם: רק כמה ביקורים היו, מאיזה סוג מכשיר ומאיזו מדינה. ההגדרות שלכם (גודל אותיות, צבע מסך) נשמרות רק בטלפון שלכם.</p>
+  </details>
+  <details class="legal a11y-st" id="accessibility">
+    <summary>♿ הצהרת נגישות</summary>
+    <p>"חדשות הפאדל – Padel News Israel" נבנתה כדי שכל אחד ואחת יוכלו להשתמש בה בקלות, ובמיוחד קהילת החירשים וכבדי השמיעה. הנגישות חשובה לנו, ואנחנו ממשיכים לשפר אותה.</p>
+    <h4>מה כבר נגיש</h4>
+    <ul>
+      <li>👁️ כל התוכן כתוב. אין מידע שמגיע רק בשמע, ואין צלילים או סרטונים שמתנגנים לבד.</li>
+      <li>🔠 אפשר להגדיל את האותיות (⚙️ הגדרות ← גודל אותיות). גם הגדלה של הדפדפן (זום) עובדת.</li>
+      <li>🌗 אפשר לבחור מסך בהיר או כהה (⚙️ הגדרות ← צבע מסך), עם ניגודיות צבעים גבוהה.</li>
+      <li>⌨️ אפשר לנווט עם המקלדת (Tab), עם סימון ברור של הכפתור שנבחר, וקישור "דלגו לתוכן הראשי".</li>
+      <li>🔊 הדף בנוי בעברית ומימין לשמאל, עם כותרות ותוויות לכפתורים, כך שתוכנות הקראה יכולות לקרוא אותו.</li>
+      <li>🐢 מי שהגדיר בטלפון "הפחתת תנועה" לא יראה אנימציות מהבהבות.</li>
+      <li>📱 האתר מתאים את עצמו לטלפון, לטאבלט ולמחשב.</li>
+    </ul>
+    <h4>מה עוד לא מושלם</h4>
+    <ul>
+      <li>הסרטונים והתקצירים נמצאים באתרים חיצוניים (כמו YouTube). הכתוביות בהם תלויות בבעלי הערוצים ולא בנו.</li>
+      <li>הקישורים מובילים לאתרי מקור שלא בשליטתנו, וייתכן שהם לא נגישים במלואם.</li>
+      <li>החדשות מתעדכנות אוטומטית, ולכן ייתכן שבחלק מהידיעות יהיה פער קטן בנגישות.</li>
+    </ul>
+    <h4>נתקלתם בבעיה? פנו אלינו</h4>
+    <p>רכז הנגישות: <b>מייקל קדוש</b><br>מייל: <a class="mail" href="mailto:michael.kadosh@gmail.com?subject=%D7%A0%D7%92%D7%99%D7%A9%D7%95%D7%AA">michael.kadosh@gmail.com</a><br>או דרך ⚙️ הגדרות ← יצירת קשר. כתבו מה הבעיה ובאיזה עמוד, ונטפל בה בהקדם.</p>
+    <p style="font-size:12.5px;opacity:.75">ההצהרה עודכנה ב-2 בנובמבר 2026.</p>
+  </details>
+</footer>
+
+<dialog class="set" id="settings" aria-labelledby="setTitle">
+  <div class="set-h"><h2 id="setTitle">⚙️ הגדרות</h2><button class="set-x" id="setClose" type="button" aria-label="סגור">✕</button></div>
+  <div class="set-b">
+    <div class="row"><div class="tg"><h3 style="margin:0">🔔 התראות על ידיעות חדשות</h3><button class="sw" id="notif" type="button" role="switch" aria-checked="true" aria-label="התראות"></button></div>
+      <p>כשהאפליקציה פתוחה ומגיעות ידיעות חדשות, תופיע הודעה למטה. כבוי = שקט.</p></div>
+    <div class="row"><h3>🌗 צבע מסך</h3>
+      <div class="seg" role="group" aria-label="צבע מסך" id="themeSeg"><button type="button" data-v="light">☀️ בהיר</button><button type="button" data-v="dark">🌙 כהה</button><button type="button" data-v="system">📱 לפי הטלפון</button></div></div>
+    <div class="row"><h3>🔠 גודל אותיות</h3>
+      <div class="seg" role="group" aria-label="גודל אותיות" id="sizeSeg"><button type="button" data-v="1" style="font-size:14px">רגיל</button><button type="button" data-v="1.15" style="font-size:16px">גדול</button><button type="button" data-v="1.3" style="font-size:18px">גדול מאוד</button><button type="button" data-v="1.5" style="font-size:20px">ענק</button></div>
+      <p>לכבדי ראייה: מגדיל את כל האפליקציה.</p></div>
+    <div class="row"><h3>📣 יצירת קשר ופרסום</h3>
+      <p style="color:var(--ink);font-size:15px">רוצים לפרסם או ליצור קשר? מלאו את הטופס:</p>
+      <form id="cform" class="cform" novalidate>
+        <label>שם<input name="name" required autocomplete="name"></label>
+        <label>טלפון או מייל לחזרה<input name="back" required autocomplete="email"></label>
+        <label>נושא<select name="topic"><option>פרסום</option><option>שיתוף פעולה</option><option>הצעה או תיקון לידיעה</option><option>אחר</option></select></label>
+        <label>הודעה<textarea name="msg" rows="3" required></textarea></label>
+        <button type="submit">✉️ שליחה</button>
+        <p class="fmsg" id="fmsg" role="status"></p>
+      </form>
+      <p>הכפתור פותח את המייל שלכם עם ההודעה מוכנה, ושם לוחצים "שלח". או כתבו ישירות: <a class="mail" href="mailto:michael.kadosh@gmail.com">michael.kadosh@gmail.com</a></p></div>
+  </div>
+</dialog>
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+
+<script>
+(function(){
+  const CATS = {all:'הכל', wc:'🏆 מונדיאל הפאדל', world:'🌍 עולם', israel:'🇮🇱 ישראל', results:'🎾 תוצאות', opinion:'💬 פרשנות', rank:'🏅 דירוג', calendar:'📺 לו״ז ושידורים'};
+  const CLS = {israel:'il', results:'res', opinion:'op', calendar:'cal'};
+  let data = null, filter = 'all';
+  const $ = id => document.getElementById(id);
+  const esc = s => String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const safeUrl = u => { try{ const x=new URL(u); return /^https?:$/.test(x.protocol)?x.href:'#'; }catch(e){ return '#'; } };
+  const DAYS=['ראשון','שני','שלישי','רביעי','חמישי','שישי','שבת'];
+  function ilParts(d){ const o={}; new Intl.DateTimeFormat('en-GB',{timeZone:'Asia/Jerusalem',year:'numeric',month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit',hour12:false}).formatToParts(d).forEach(p=>o[p.type]=p.value); return o; }
+  function dayKey(d){ const p=ilParts(d); return p.year+'-'+p.month+'-'+p.day; }
+  function dayLabel(d){
+    const now=new Date(); const k=dayKey(d);
+    if(k===dayKey(now)) return 'היום';
+    if(k===dayKey(new Date(now-864e5))) return 'אתמול';
+    const p=ilParts(d); const wd=new Date(Date.UTC(+p.year,+p.month-1,+p.day,12)).getUTCDay();
+    return 'יום '+DAYS[wd]+', '+p.day+'.'+p.month;
+  }
+  function ago(d){
+    const m=Math.round((Date.now()-d)/60000);
+    if(m<1) return 'עכשיו'; if(m<60) return 'לפני '+m+' דק׳';
+    const h=Math.round(m/60); if(h<24) return h===1?'לפני שעה':'לפני '+h+' שעות';
+    const p=ilParts(d); return p.day+'.'+p.month+' · '+p.hour+':'+p.minute;
+  }
+
+  const SC=/\d{1,2}-\d{1,2}(?:\(\d+\))?(?:,\s*\d{1,2}-\d{1,2}(?:\(\d+\))?)*/g;
+  const fmt = t => esc(t).replace(SC, m=>'<bdi class="sc" dir="ltr">'+m+'</bdi>');
+  const iso = t => String(t||'').replace(SC, m=>'\u2066'+m+'\u2069');
+
+  const COURT='<svg class="bgc" viewBox="0 0 400 118" preserveAspectRatio="none" aria-hidden="true"><g fill="none" stroke="rgba(255,255,255,.13)" stroke-width="2"><rect x="10" y="10" width="380" height="98"/><line x1="200" y1="10" x2="200" y2="108"/><line x1="110" y1="10" x2="110" y2="108"/><line x1="290" y1="10" x2="290" y2="108"/><line x1="110" y1="59" x2="290" y2="59"/></g></svg>';
+  const ICONS={
+    ball:'<svg class="ic" viewBox="0 0 80 80"><circle cx="40" cy="40" r="32" fill="#d6ea2f" stroke="#fff" stroke-width="3"/><path d="M14 28c14 6 14 26 0 32M66 20c-14 8-14 32 0 40" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/></svg>',
+    trophy:'<svg class="ic" viewBox="0 0 80 80"><path d="M24 10h32v18a16 16 0 0 1-32 0z" fill="#ffd34d" stroke="#fff" stroke-width="3"/><path d="M24 16H12a10 10 0 0 0 12 16M56 16h12a10 10 0 0 1-12 16" fill="none" stroke="#ffd34d" stroke-width="5"/><rect x="36" y="44" width="8" height="14" fill="#ffd34d"/><rect x="24" y="58" width="32" height="10" rx="3" fill="#fff"/></svg>',
+    flag:'<svg class="ic" viewBox="0 0 80 80"><rect x="6" y="14" width="68" height="52" rx="5" fill="#fff"/><rect x="6" y="20" width="68" height="7" fill="#0038b8"/><rect x="6" y="53" width="68" height="7" fill="#0038b8"/><g fill="none" stroke="#0038b8" stroke-width="3"><path d="M40 28l9 15H31z"/><path d="M40 52l-9-15h18z"/></g></svg>',
+    bubble:'<svg class="ic" viewBox="0 0 80 80"><path d="M10 14h60a6 6 0 0 1 6 6v32a6 6 0 0 1-6 6H34l-14 12v-12H10a6 6 0 0 1-6-6V20a6 6 0 0 1 6-6z" fill="#fff"/><g fill="#6a3fb0"><circle cx="26" cy="36" r="5"/><circle cx="40" cy="36" r="5"/><circle cx="54" cy="36" r="5"/></g></svg>',
+    tv:'<svg class="ic" viewBox="0 0 80 80"><rect x="6" y="16" width="68" height="46" rx="6" fill="#fff"/><rect x="12" y="22" width="56" height="34" rx="3" fill="#10233a"/><path d="M34 31l14 8-14 8z" fill="#d6ea2f"/><path d="M28 70h24M40 62v8" stroke="#fff" stroke-width="4" stroke-linecap="round"/></svg>',
+    cal:'<svg class="ic" viewBox="0 0 80 80"><rect x="8" y="14" width="64" height="58" rx="7" fill="#fff"/><rect x="8" y="14" width="64" height="16" rx="7" fill="#d83a2e"/><rect x="8" y="24" width="64" height="6" fill="#d83a2e"/><g fill="#3d5268"><rect x="18" y="38" width="10" height="9" rx="2"/><rect x="35" y="38" width="10" height="9" rx="2"/><rect x="52" y="38" width="10" height="9" rx="2"/><rect x="18" y="54" width="10" height="9" rx="2"/><rect x="35" y="54" width="10" height="9" rx="2"/></g><rect x="22" y="8" width="6" height="14" rx="3" fill="#3d5268"/><rect x="52" y="8" width="6" height="14" rx="3" fill="#3d5268"/></svg>',
+    globe:'<svg class="ic" viewBox="0 0 80 80"><circle cx="40" cy="40" r="32" fill="#5d9de6" stroke="#fff" stroke-width="3"/><g fill="none" stroke="#fff" stroke-width="2.5"><ellipse cx="40" cy="40" rx="14" ry="32"/><path d="M8 40h64M14 24h52M14 56h52"/></g></svg>'
+  };
+
+  const W_NAMES=/נשים|בנות|סאנצ'ס|אוסטרו|חוסמריה|גונסלס|טריאי|ברעה|פרננדס|קאלבו|איקרדו|ינסן|אורטגה|אראוחו|רופו|איגלסיאס|סאלאסאר|ניקולטי|אלגואסיל|אוסורו|ריקה|דל פוצו|👩/;
+  const M_NAMES=/גברים|טאפיה|קואייו|גלאן|צ'ינגוטו|לברון|אוגסבורגר|סטופאצ'וק|סאנס|די נינו|נבארו|ליבאק|אלפונסו|ינגואס|נייטו|אלונסו|גוני|טייו|ארסה|סינטס|סמורה|באוטיסטה|ברגמיני|👨/;
+  function gender(it){
+    const g=String(it.gender||'').toLowerCase();
+    if(g==='women') return 'w'; if(g==='men') return 'm'; if(g==='both') return 'b';
+    const t=String(it.title||''), all=t+' '+String(it.summary||'');
+    const tw=W_NAMES.test(t), tm=M_NAMES.test(t);
+    if(tw&&!tm) return 'w'; if(tm&&!tw) return 'm';
+    const w=W_NAMES.test(all), m=M_NAMES.test(all);
+    return w&&m?'b':w?'w':m?'m':'';
+  }
+  function gBadge(g,cls){
+    const M='<span class="'+cls+' m">👨 גברים</span>', F='<span class="'+cls+' w">👩 נשים</span>';
+    return g==='w'?F:g==='m'?M:g==='b'?M+F:'';
+  }
+  const PAIR="(?:(?:די|דל|דה|דלה|קוקי) )?[א-ת'׳\"]+\\/[א-ת'׳\"]+";
+  function parseMatches(it){
+    if(Array.isArray(it.matches)&&it.matches.length) return it.matches.filter(m=>m&&m.winner).slice(0,4).map(m=>({w:String(m.winner),l:String(m.loser||''),s:String(m.score||'')}));
+    const out=[];
+    String(it.summary||'').split(/[.!?]\s+|\n/).forEach(sen=>{
+      const v=sen.match(/\s(ניצחו|ניצח|ניצחה|הדיחו|הביסו|גברו על)\s/); if(!v) return;
+      const before=sen.slice(0,v.index), after=sen.slice(v.index+v[0].length);
+      const ws=before.match(new RegExp(PAIR,'g')); if(!ws) return;
+      const l=(after.match(new RegExp(PAIR))||[])[0]||'';
+      const s=(after.match(SC)||[])[0]||'';
+      if(!l&&!s) return;
+      out.push({w:ws[ws.length-1],l:l,s:s});
+    });
+    return out.slice(0,4);
+  }
+  function matchRows(ms){
+    return ms.map(m=>'<div class="mrow"><div class="mp"><b>🏆 '+esc(m.w)+'</b>'+(m.l?' <span class="vs">נגד</span> '+esc(m.l):'')+'</div>'+
+      (m.s?'<div class="sets sm">'+m.s.split(/,\s*/).map(x=>'<span class="set">'+esc(x)+'</span>').join('')+'</div>':'')+'</div>').join('');
+  }
+  function visual(it){
+    const t=String(it.title||''), s=String(it.summary||''), all=t+' '+s;
+    const sc=(s.match(SC)||t.match(SC)||[])[0];
+    const sets=sc?'<div class="sets">'+sc.split(/,\s*/).map(x=>'<span class="set">'+esc(x)+'</span>').join('')+'</div>':'';
+    const win=(all.match(/([֐-׿'"׳]+\/[֐-׿'"׳]+)\s+(?:ניצחו|ניצח|זכו|זכתה|זכה)/)||[])[1];
+    let cls='v-wo', ic=ICONS.globe, lb='חדשות מהעולם', sub='';
+    if(it.category==='results'){
+      const fin=/זכו|זכה|זכתה|אלופ|תואר/.test(t);
+      const gS=gender(it); const stage=fin?(gS==='w'?'אלופות':gS==='b'?'אלופים ואלופות':'אלופים'):/(עלו|הזוגות|זוגות).*(לחצי|בחצי)/.test(t)?'רבע גמר':/רבע/.test(t)?'רבע גמר':/חצי|חצאי/.test(t)?'חצי גמר':/בגמר|לגמר/.test(t)?'עלו לגמר':'תוצאה';
+      cls=fin?'v-fin':'v-res'; ic=fin?ICONS.trophy:ICONS.ball; lb=stage+(win?' · '+win:''); sub='';
+      const gg=gender(it); const gb0=gg==='b'?'<span class="gd m">👨 גברים</span><span class="gd w">👩 נשים</span>':gg==='w'?'<span class="gd w">👩 נשים</span>':gg==='m'?'<span class="gd m">👨 גברים</span>':''; const gb=''; const gbx=gb0?'<div class="gds">'+gb0+'</div>':'';
+      const ms=parseMatches(it);
+      if(ms.length) return '<div class="vis vm '+cls+'" aria-hidden="true">'+COURT+ic+'<div class="tx">'+gbx+'<div class="lb">'+esc(stage)+'</div>'+matchRows(ms)+'</div></div>';
+      return '<div class="vis '+cls+'" aria-hidden="true">'+COURT+gb+ic+'<div class="tx">'+gbx+'<div class="lb">'+esc(lb)+'</div>'+(win?sets:'')+'</div></div>';
+    }
+    if(it.category==='israel'){cls='v-il';ic=ICONS.flag;lb='פאדל ישראלי';}
+    else if(it.category==='opinion'){cls='v-op';ic=ICONS.bubble;lb='דעה ופרשנות';sub=(it.source&&it.source.name)||'';}
+    else if(it.category==='calendar'){ if(/📺|לראות|שידור/.test(all)){cls='v-tv';ic=ICONS.tv;lb='איפה לראות';} else {cls='v-cal';ic=ICONS.cal;lb='לוח זמנים';} }
+    else {cls='v-wo';ic=ICONS.globe;lb='חדשות מהעולם';}
+    if(win&&!sub) sub='🏅 '+win;
+    return '<div class="vis '+cls+'" aria-hidden="true">'+COURT+ic+'<div class="tx"><div class="lb">'+esc(lb)+'</div>'+(sub?'<div class="sub">'+esc(sub)+'</div>':'')+'</div></div>';
+  }
+  function renderChips(){
+    const present = new Set((data.items||[]).map(i=>i.category));
+    $('chips').innerHTML = Object.keys(CATS).filter(k=>k!=='wc'||!!(data.worldcup&&data.worldcup.title)).map(k=>
+      '<button class="chip" data-f="'+k+'" aria-pressed="'+(k===filter)+'">'+CATS[k]+'</button>').join('');
+  }
+  function isLiveNow(L,m,i,arr){
+    if(m.result) return false;
+    if(m.live===true) return true;
+    if(m.live===false || !L.date) return false;
+    const p=ilParts(new Date()); const today=p.year+'-'+String(p.month).padStart(2,'0')+'-'+String(p.day).padStart(2,'0');
+    if(L.date!==today) return false;
+    const t=String(m.time||'').match(/(\d{1,2}):(\d{2})/); if(!t) return false;
+    const now=(+p.hour)*60+(+p.minute), st=(+t[1])*60+(+t[2]);
+    if(now<st || now>st+180) return false;
+    for(let j=i+1;j<arr.length;j++){ const n=String(arr[j].time||'').match(/(\d{1,2}):(\d{2})/); if(n && now>=(+n[1])*60+(+n[2]) && !arr[j].result) return false; }
+    return true;
+  }
+  function renderLive(){
+    const L = data.live; const el=$('live');
+    if(!L || !L.title){ el.hidden=true; return; }
+    el.hidden=false;
+    const ms=L.matches||[]; const flags=ms.map((m,i,a)=>isLiveNow(L,m,i,a)); const any=flags.some(Boolean);
+    el.innerHTML='<h2><span class="pulse"></span>'+esc(L.title)+(any?'<span class="onair">LIVE</span>':'')+'</h2>'+(L.note?'<p>'+esc(L.note)+'</p>':'')+
+      '<div class="sched">'+ms.map((m,i)=>{const lv=flags[i]; return '<div class="match'+(m.result?' done':'')+(lv?' is-live':'')+'"><span class="t">'+esc(m.time||'')+'</span><span class="w">'+(lv?'<span class="ldot" aria-hidden="true"></span>':'')+esc(m.what)+'</span>'+(lv?'<span class="r lv">חי עכשיו</span>':'')+(m.result?'<span class="r">✅ '+fmt(m.result)+'</span>':'')+'</div>';}).join('')+'</div>';
+  }
+  function videoRow(it){
+    if(it.category!=='results' && !(it.video&&it.video.url)) return '';
+    const v=it.video||{};
+    if(v.url) return '<a class="vid" href="'+esc(safeUrl(v.url))+'" target="_blank" rel="noopener"><span class="pl">'+(v.type==='replay'?'📺':'▶')+'</span><span>'+(v.type==='replay'?'אין תקציר עדיין · צפו בשידור החוזר':'תקציר וידאו')+'<small>'+esc(v.name||'יוטיוב')+'</small></span><span class="go">↖</span></a>';
+    const age=(Date.now()-new Date(it.publishedAt))/36e5;
+    if(it.videoStatus==='none' || age>48) return '<span class="vid">🎬 אין תקציר וידאו</span>';
+    return '<span class="vid">🎬 תקציר וידאו עוד לא פורסם</span>';
+  }
+  let wcView='groups', wcGender='women';
+  const WC_RX=/גביע העולם|מונדיאל|World Cup|Mundial/i;
+  function isWc(it){ return it.tag==='worldcup' || WC_RX.test(String(it.title||'')+' '+String(it.summary||'')); }
+  function renderWc(){
+    const W=data.worldcup||{};
+    const V={groups:'📊 בתים',games:'📅 משחקים ותוצאות',teams:'👥 נבחרות ושחקנים',news:'📰 ידיעות ופרשנות'};
+    const GV={men:'👨 גברים',women:'👩 נשים'};
+    const g=wcGender, gl=g==='men'?'גברים':'נשים';
+    const seg='<div class="rkseg wcgsel" role="group" aria-label="גברים או נשים">'+Object.keys(GV).map(k=>'<button type="button" data-wg="'+k+'" aria-pressed="'+(k===g)+'">'+GV[k]+'</button>').join('')+'</div>'+
+      '<div class="rkseg" role="group" aria-label="מונדיאל הפאדל">'+Object.keys(V).map(k=>'<button type="button" data-wv="'+k+'" aria-pressed="'+(k===wcView)+'">'+V[k]+'</button>').join('')+'</div>';
+    const head='<div class="wch"><h2>🏆 '+esc(W.title||'מונדיאל הפאדל')+'</h2>'+(W.note?'<p>'+esc(W.note)+'</p>':'')+(W.tv?'<p class="wctv">📺 '+esc(W.tv)+'</p>':'')+'</div>';
+    let body='';
+    if(wcView==='groups'){
+      const G=W.groups||{};
+      const grp=g=>'<div class="wcg"><h3>בית '+esc(g.name)+'</h3><table class="wct"><thead><tr><th>נבחרת</th><th>מש׳</th><th>נ׳</th><th>ה׳</th><th>משחקים</th></tr></thead><tbody>'+(g.teams||[]).map((t,i)=>'<tr'+(t.q?' class="q"':'')+'><td>'+(i+1)+'. '+esc(t.team)+(t.q?' ✅':'')+'</td><td>'+esc(t.p||0)+'</td><td>'+esc(t.w||0)+'</td><td>'+esc(t.l||0)+'</td><td class="sc" dir="ltr">'+esc(t.m||'0-0')+'</td></tr>').join('')+'</tbody></table></div>';
+      const side=(arr,title)=>'<div class="rk"><h2>'+title+'</h2>'+(arr&&arr.length?arr.map(grp).join(''):'<p class="rkd">הבתים יתעדכנו בקרוב.</p>')+'</div>';
+      const KO=W.knockout||{};
+      const ko=(arr,title)=>arr&&arr.length?'<div class="rk"><h2>'+title+'</h2>'+arr.map(m=>'<div class="match'+(m.result?' done':'')+'"><span class="t">'+esc(m.stage||'')+'</span><span class="w">'+esc(m.home||'')+' – '+esc(m.away||'')+'</span>'+(m.result?'<span class="r">✅ '+fmt(m.result)+'</span>':'')+'</div>').join('')+'</div>':'';
+      body='<p class="rkd">'+esc(W.format||'')+'</p>'+ko(KO[g],(g==='men'?'👨':'👩')+' שלב ההכרעה – '+gl)+side(G[g],(g==='men'?'👨':'👩')+' בתים – '+gl);
+    } else if(wcView==='games'){
+      const S=(W.schedule||[]).filter(m=>!m.gender||m.gender===g).slice().sort((a,b)=>(String(a.date)+String(a.time)).localeCompare(String(b.date)+String(b.time)));
+      if(!S.length) body='<p class="rkd">לוח המשחקים יתעדכן בקרוב.</p>';
+      let last='';
+      S.forEach(m=>{
+        if(m.date!==last){ last=m.date; const d=new Date(String(m.date)+'T12:00:00'); body+='<div class="day">'+esc(isNaN(d)?m.date:dayLabel(d))+'</div>'; }
+        const lv=!m.result&&m.live===true;
+        body+='<div class="match wcm'+(m.result?' done':'')+(lv?' is-live':'')+'"><span class="t">'+esc(m.time||'')+'</span><span class="w">'+(lv?'<span class="ldot" aria-hidden="true"></span>':'')+(m.gender==='women'?'👩 ':m.gender==='men'?'👨 ':'')+esc(m.home||'')+(m.away?' – '+esc(m.away):'')+'</span>'+
+          '<span class="r">'+esc(m.stage||'')+'</span>'+(m.result?'<span class="r">✅ '+fmt(m.result)+'</span>':'')+(lv?'<span class="r lv">חי עכשיו</span>':'')+
+          (m.watch?'<a class="wcw" href="'+esc(safeUrl(m.watch))+'" target="_blank" rel="noopener">📺 '+esc(m.tv||'לצפייה')+' ↖</a>':(m.tv?'<span class="r">📺 '+esc(m.tv)+'</span>':''))+'</div>';
+      });
+    } else if(wcView==='teams'){
+      const T=(W.teams||{})[g]||[];
+      body=T.length?'<div class="rk"><h2>'+(g==='men'?'👨':'👩')+' הנבחרות והשחקנים – '+gl+'</h2><p class="wcnote">#מספר = המקום בדירוג FIP העולמי'+(W.rankDate?' (נכון ל-'+esc(W.rankDate)+')':'')+'</p>'+T.map(t=>'<div class="wctm"><b>'+esc(t.team)+(t.group?' <small>· בית '+esc(t.group)+'</small>':'')+'</b><span>'+((t.players||[]).map(p=>typeof p==='string'?esc(p):esc(p.name)+(p.rank?' <small class="wcr">#'+esc(p.rank)+'</small>':'')+(p.note?' <small>('+esc(p.note)+')</small>':'')).join(' · ')||'הסגל יתעדכן בקרוב')+'</span></div>').join('')+'</div>':'<p class="rkd">רשימת הנבחרות והשחקנים תתעדכן בקרוב.</p>';
+    } else {
+      const its=(data.items||[]).filter(isWc).sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt));
+      body=its.length?its.map(it=>{const s=it.source||{}; return '<article class="item">'+visual(it)+'<div class="meta"><span class="cat '+(CLS[it.category]||'')+'">'+esc(CATS[it.category]||it.category)+'</span><span>'+esc(ago(new Date(it.publishedAt)))+'</span></div><h3>'+fmt(it.title)+'</h3><p>'+fmt(it.summary)+'</p>'+videoRow(it)+'<div class="src">📰 <span>מקור: <b>'+esc(s.name||'')+'</b></span>'+(s.url?'<a href="'+esc(safeUrl(s.url))+'" target="_blank" rel="noopener">לכתבה המקורית ↗</a>':'')+'</div></article>';}).join(''):'<p class="rkd">עוד אין ידיעות על המונדיאל.</p>';
+    }
+    $('news').innerHTML='<section class="rkw">'+head+seg+body+'</section>';
+    $('news').querySelectorAll('[data-wv]').forEach(b=>b.addEventListener('click',()=>{wcView=b.dataset.wv;renderWc();}));
+    $('news').querySelectorAll('[data-wg]').forEach(b=>b.addEventListener('click',()=>{wcGender=b.dataset.wg;renderWc();}));
+  }
+  let rankView='world';
+  function renderRank(){
+    const R=data.rankings||{};
+    const V={world:'🌍 בינלאומי',isr:'🇮🇱 ישראלים בדירוג העולמי',ilpa:'🇮🇱 דירוג ישראל'};
+    const tbl=(arr,n,title,url,btn)=>'<div class="rk"><h2>'+title+'</h2>'+(arr&&arr.length?'<ol class="rkl">'+arr.slice(0,n).map(p=>'<li><span class="rn">'+esc(p.rank)+'</span><span class="rp">'+esc(p.name)+(p.country?' <small>'+esc(p.country)+'</small>':'')+'</span><span class="rpt">'+esc(Number(p.points||0).toLocaleString('en-US'))+'</span></li>').join('')+'</ol>':'<p class="rkd">הדירוג יתעדכן בקרוב.</p>')+(url?'<a class="rkbtn" href="'+esc(safeUrl(url))+'" target="_blank" rel="noopener">'+btn+' ↖</a>':'')+'</div>';
+    const seg='<div class="rkseg" role="group" aria-label="סוג דירוג">'+Object.keys(V).map(k=>'<button type="button" data-rv="'+k+'" aria-pressed="'+(k===rankView)+'">'+V[k]+'</button>').join('')+'</div>';
+    let body='';
+    if(rankView==='world'){ body='<p class="rkd">דירוג FIP העולמי'+(R.date?' · נכון ל-'+esc(R.date):'')+' · מתעדכן כל שבוע</p>'+tbl(R.men,20,'👨 20 הגברים המובילים בעולם','https://www.padelfip.com/ranking-male/','לדירוג המלא – גברים')+tbl(R.women,20,'👩 20 הנשים המובילות בעולם','https://www.padelfip.com/ranking-female/','לדירוג המלא – נשים'); }
+    else if(rankView==='isr'){ const I=R.israelis||{}; body='<p class="rkd">השחקנים והשחקניות מישראל עם הדירוג הגבוה ביותר בדירוג FIP העולמי. המספר הוא המקום בעולם.'+(I.date?' · נכון ל-'+esc(I.date):'')+'</p>'+tbl(I.men,10,'👨 10 הישראלים המובילים בעולם',I.urlMen||'https://www.padelfip.com/ranking-male/','לדירוג העולמי המלא – גברים')+tbl(I.women,10,'👩 10 הישראליות המובילות בעולם',I.urlWomen||'https://www.padelfip.com/ranking-female/','לדירוג העולמי המלא – נשים'); }
+    else { const L=R.ilpa||{}; body='<p class="rkd">הדירוג הארצי הרשמי של ILPA – העמותה לקידום הפאדל בישראל'+(L.date?' · נכון ל-'+esc(L.date):'')+'</p>'+tbl(L.men,10,'👨 10 הגברים המובילים בישראל',L.urlMen||L.url||'https://ilpa.co.il/','לדירוג הארצי המלא – גברים')+tbl(L.women,10,'👩 10 הנשים המובילות בישראל',L.urlWomen||L.url||'https://ilpa.co.il/','לדירוג הארצי המלא – נשים'); }
+    $('news').innerHTML='<section class="rkw">'+seg+body+'</section>';
+    $('news').querySelectorAll('[data-rv]').forEach(b=>b.addEventListener('click',()=>{rankView=b.dataset.rv;renderRank();}));
+  }
+  function renderNews(){
+    if(filter==='rank'){ renderRank(); return; }
+    if(filter==='wc'){ renderWc(); return; }
+    if(filter==='calendar'){ renderSched(); return; }
+    const items=(data.items||[]).filter(i=>filter==='all'?i.category!=='opinion':i.category===filter).slice().sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt));
+    if(!items.length){ const EM={israel:'🇮🇱 אין כרגע ידיעה עדכנית מהפאדל בישראל.',world:'🌍 אין כרגע ידיעה עדכנית מהעולם.',results:'🎾 אין כרגע תוצאות חדשות.',opinion:'💬 אין כרגע פרשנות עדכנית.',all:'אין כרגע ידיעות עדכניות.'}; $('news').innerHTML='<div class="empty"><b>'+(EM[filter]||'אין כרגע ידיעה עדכנית.')+'</b><br>כל ידיעה מוצגת עד 24 שעות. הסריקה הבאה תעדכן כאן ידיעות חדשות.</div>'; return; }
+    let html='', lastDay='';
+    items.forEach(it=>{
+      const d=new Date(it.publishedAt); const lab=dayLabel(d);
+      if(lab!==lastDay){ html+='<div class="day">'+esc(lab)+'</div>'; lastDay=lab; }
+      const s=it.source||{};
+      const tr = s.lang && s.lang!=='עברית' ? '<span class="tr">תורגם מ'+esc(s.lang)+'</span>' : '<span class="tr">מקור בעברית</span>';
+      html+='<article class="item">'+visual(it)+
+        '<div class="meta"><span class="cat '+(CLS[it.category]||'')+'">'+esc(CATS[it.category]||it.category)+'</span>'+(it.category==='results'?gBadge(gender(it),'gtag'):'')+'<span>'+esc(ago(d))+'</span></div>'+
+        '<h3>'+fmt(it.title)+'</h3><p>'+fmt(it.summary)+'</p>'+videoRow(it)+
+        '<div class="src">📰 <span>מקור: <b>'+esc(s.name||'')+'</b></span>'+tr+
+          (s.url?'<a href="'+esc(safeUrl(s.url))+'" target="_blank" rel="noopener">לכתבה המקורית ↗</a>':'')+
+          '<span class="sp"></span><a class="share" target="_blank" rel="noopener" href="https://wa.me/?text='+encodeURIComponent('🎾 '+iso(it.title)+'\n\n'+iso(it.summary)+'\n\nמקור: '+(s.name||'')+'\n— חדשות הפאדל · MK מייקל קדוש')+'">שתף 💬</a>'+
+        '</div></article>';
+    });
+    $('news').innerHTML=html;
+  }
+  function renderSched(){
+    const p=ilParts(new Date()); const today=p.year+'-'+String(p.month).padStart(2,'0')+'-'+String(p.day).padStart(2,'0');
+    const DN=['ראשון','שני','שלישי','רביעי','חמישי','שישי','שבת'];
+    const dl=ds=>{ if(ds===today) return 'היום'; const t=new Date(ds+'T12:00:00Z'); const [y,m,d]=ds.split('-'); return 'יום '+DN[t.getUTCDay()]+' '+(+d)+'.'+(+m); };
+    let html='<div class="up"><h2>📺 לו״ז ושידורים</h2><p class="rkd">כל השעות לפי שעון ישראל. איפה רואים: בכל משחק כתוב הערוץ.</p></div>';
+    const L=data.live||{};
+    if(L.title&&(L.matches||[]).length){
+      html+='<div class="up"><h2>🔴 '+esc(L.title)+'</h2>'+(L.note?'<p>'+fmt(L.note)+'</p>':'')+
+        L.matches.map(m=>'<div class="up-row"><b>'+esc(m.time||'')+'</b><span>'+esc(m.what||'')+(m.result?' · <strong>'+fmt(m.result)+'</strong>':'')+(m.live?' <span class="livetag">חי</span>':'')+'</span></div>').join('')+'</div>';
+    }
+    const W=data.worldcup||{};
+    const S=(W.schedule||[]).filter(m=>m.date&&m.date>=today).slice().sort((a,b)=>(String(a.date)+String(a.time)).localeCompare(String(b.date)+String(b.time)));
+    if(W.title&&S.length){
+      html+='<div class="up"><h2>🏆 '+esc(W.title)+'</h2>'+(W.tv?'<p>📺 '+fmt(W.tv)+'</p>':'');
+      let last='';
+      S.forEach(m=>{
+        if(m.date!==last){ html+='<h3 class="sd">'+esc(dl(m.date))+'</h3>'; last=m.date; }
+        const g=m.gender==='men'?'👨 ':m.gender==='women'?'👩 ':'';
+        const what=m.away?(esc(m.home)+' – '+esc(m.away)+(m.stage?' <small>('+esc(m.stage)+')</small>':'')):(esc(m.home||'')+(m.stage?' · '+esc(m.stage):''));
+        const tv=m.watch?'<a href="'+esc(safeUrl(m.watch))+'" target="_blank" rel="noopener">📺 '+esc(m.tv||'לצפייה')+' ↖</a>':(m.tv?'📺 '+esc(m.tv):'');
+        html+='<div class="up-row"><b>'+esc(m.time||'')+'</b><span>'+g+what+(m.result?' · <strong>'+fmt(m.result)+'</strong>':'')+(tv?'<br><small>'+tv+'</small>':'')+'</span></div>';
+      });
+      html+='</div>';
+    }
+    const u=data.upcoming||[];
+    if(u.length) html+='<div class="up"><h2>📅 מה בהמשך</h2>'+u.map(x=>'<div class="up-row"><b>'+esc(x.when)+'</b><span>'+fmt(x.what)+'</span></div>').join('')+'</div>';
+    html+='<div class="up"><h2>📡 איפה רואים פאדל</h2>'+
+      '<div class="up-row"><b>Red Bull TV</b><span>חינם, באינטרנט ובאפליקציה. משדר את טורנירי Premier Padel ואת המגרש המרכזי בגביע העולם.</span></div>'+
+      '<div class="up-row"><b>יוטיוב FIP</b><span>חינם. שידורים חיים ושידורים חוזרים של טורנירי FIP וגביע העולם.</span></div>'+
+      '<div class="up-row"><b>ערוצי ספורט בישראל</b><span>מופיעים ליד כל משחק ובלו״ז למעלה, לפי לוח השידורים.</span></div></div>';
+    const items=(data.items||[]).filter(i=>i.category==='calendar').sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt));
+    if(items.length) html+=items.map(it=>'<article class="item"><h3>'+fmt(it.title)+'</h3><p>'+fmt(it.summary)+'</p></article>').join('');
+    $('news').innerHTML=html;
+  }
+  function renderUpcoming(){
+    const u=data.upcoming||[]; const el=$('upcoming');
+    if(!u.length){ el.hidden=true; return; }
+    el.hidden=false;
+    el.innerHTML='<h2>📅 מה בהמשך</h2>'+u.map(x=>'<div class="up-row"><b>'+esc(x.when)+'</b><span>'+esc(x.what)+'</span></div>').join('');
+  }
+  function renderWatch(){
+    const w=Array.isArray(data.watch)?data.watch:[]; const el=$('wextra');
+    el.innerHTML=w.filter(x=>x&&x.url&&x.label).map(x=>'<a class="wbtn" href="'+esc(safeUrl(x.url))+'" target="_blank" rel="noopener"><span>'+(x.live?'🔴':'📺')+'</span><span>'+esc(x.label)+(x.live?'<span class="livetag">חי עכשיו</span>':'')+(x.note?'<small>'+esc(x.note)+'</small>':'')+'</span><span class="go">↖</span></a>').join('');
+  }
+  function renderAll(){
+    const u=new Date(data.updatedAt); const p=ilParts(u);
+    $('upd').textContent='עודכן '+dayLabel(u)+' ב-'+p.hour+':'+p.minute+' · מתעדכן כל שעתיים';
+    renderLive(); renderWatch(); renderChips(); renderNews(); renderUpcoming();
+  }
+  $('chips').addEventListener('click',e=>{ const b=e.target.closest('.chip'); if(!b) return; filter=b.dataset.f; renderChips(); renderNews(); $('news').scrollIntoView({behavior:'smooth',block:'start'}); });
+
+  const ST={get(k,d){try{const v=localStorage.getItem('pn_'+k);return v==null?d:v;}catch(e){return d;}},set(k,v){try{localStorage.setItem('pn_'+k,v);}catch(e){}}};
+  let prefs={theme:ST.get('theme','system'),size:ST.get('size','1'),notif:ST.get('notif','1')};
+  function applyPrefs(){
+    const r=document.documentElement;
+    if(prefs.theme==='system') r.removeAttribute('data-theme'); else r.setAttribute('data-theme',prefs.theme);
+    document.querySelectorAll('header.top, main, footer').forEach(el=>{el.style.zoom=prefs.size==='1'?'':prefs.size;});
+    document.querySelectorAll('#themeSeg button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.v===prefs.theme));
+    document.querySelectorAll('#sizeSeg button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.v===prefs.size));
+    $('notif').setAttribute('aria-checked',prefs.notif==='1');
+  }
+  applyPrefs();
+  const dlg=$('settings');
+  $('gear').addEventListener('click',()=>{ try{dlg.showModal();}catch(e){dlg.setAttribute('open','');} });
+  $('setClose').addEventListener('click',()=>{ try{dlg.close();}catch(e){dlg.removeAttribute('open');} });
+  dlg.addEventListener('click',e=>{ if(e.target===dlg){ try{dlg.close();}catch(x){} } });
+  $('themeSeg').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;prefs.theme=b.dataset.v;ST.set('theme',prefs.theme);applyPrefs();});
+  $('sizeSeg').addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;prefs.size=b.dataset.v;ST.set('size',prefs.size);applyPrefs();});
+  $('notif').addEventListener('click',()=>{
+    prefs.notif=prefs.notif==='1'?'0':'1';ST.set('notif',prefs.notif);applyPrefs();
+    if(prefs.notif==='1'){ try{ if('Notification' in window && Notification.permission==='default') Notification.requestPermission().catch(()=>{}); }catch(e){} }
+  });
+  $('cform').addEventListener('submit',e=>{
+    e.preventDefault(); const f=e.target, v=k=>String(f.elements[k].value||'').trim();
+    if(!v('name')||!v('back')||!v('msg')){ $('fmsg').textContent='נא למלא שם, דרך לחזור אליכם והודעה.'; return; }
+    $('fmsg').textContent='';
+    const subj='חדשות הפאדל – '+v('topic')+' – '+v('name');
+    const body='שם: '+v('name')+'\nלחזרה: '+v('back')+'\nנושא: '+v('topic')+'\n\n'+v('msg');
+    const a=document.createElement('a'); a.href='mailto:michael.kadosh@gmail.com?subject='+encodeURIComponent(subj)+'&body='+encodeURIComponent(body); a.target='_blank'; a.rel='noopener'; document.body.appendChild(a); a.click(); a.remove();
+  });
+  let toastT=null;
+  function notifyNew(n,first){
+    if(prefs.notif!=='1'||!n) return;
+    const msg='🔔 '+(n===1?'ידיעה חדשה':n+' ידיעות חדשות')+(first?': '+first:'');
+    const t=$('toast'); t.textContent=msg; t.hidden=false;
+    clearTimeout(toastT); toastT=setTimeout(()=>{t.hidden=true;},12000);
+    try{ if(navigator.vibrate) navigator.vibrate(150); }catch(e){}
+    try{ if(document.hidden && 'Notification' in window && Notification.permission==='granted') new Notification('חדשות הפאדל',{body:msg.replace('🔔 ',''),icon:'icon-512.png'}); }catch(e){}
+  }
+  $('toast').addEventListener('click',()=>{ $('toast').hidden=true; filter='all'; renderChips(); renderNews(); $('news').scrollIntoView({behavior:'smooth',block:'start'}); });
+  async function load(){
+    try{
+      const r=await fetch('news.json?t='+Date.now(),{cache:'no-store'});
+      if(!r.ok) throw new Error(r.status);
+      const j=await r.json();
+      if(!data || j.updatedAt!==data.updatedAt){
+        const old=data?new Set((data.items||[]).map(i=>i.id)):null;
+        data=j; renderAll();
+        if(old){ const fresh=(j.items||[]).filter(i=>!old.has(i.id)).sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt)); if(fresh.length) notifyNew(fresh.length, fresh[0].title); }
+      }
+    }catch(e){ if(!data) $('news').innerHTML='<div class="empty">לא הצלחנו לטעון את החדשות. נסו לרענן.</div>'; }
+  }
+  try{ const y=ilParts(new Date()).year; if(y) $('yr').textContent=(+y>2026?'2026–'+y:y); }catch(e){}
+  (function(){
+    const WEB='https://www.redbull.com/int-en/premier-padel-calendar';
+    const ua=navigator.userAgent||''; const isA=/Android/i.test(ua); const isI=/iPhone|iPad|iPod/i.test(ua)||(/Macintosh/.test(ua)&&navigator.maxTouchPoints>1);
+    const b=document.getElementById('rbApp');
+    if(isA){ b.href='intent:#Intent;package=com.nousguide.android.rbtv;S.browser_fallback_url='+encodeURIComponent(WEB)+';end'; b.removeAttribute('target'); }
+    else if(isI){ b.href='https://apps.apple.com/app/id364269164'; }
+  })();
+  document.addEventListener('contextmenu',e=>{ if(!e.target.closest('input,textarea,select,a')) e.preventDefault(); });
+  document.addEventListener('copy',e=>{try{const t=String(window.getSelection()||'');if(t.length<40||!e.clipboardData)return;e.clipboardData.setData('text/plain',t+'\n\n— מקור: חדשות הפאדל · © מייקל קדוש (MK)');e.preventDefault();}catch(x){}});
+  if('serviceWorker' in navigator){ window.addEventListener('load',()=>{ navigator.serviceWorker.register('sw.js').catch(()=>{}); }); }
+  load(); setInterval(load, 10*60*1000);
+  setInterval(()=>{ if(data){ renderNews(); renderLive(); } }, 60*1000);
+})();
+</script>
+<script data-goatcounter="https://padelnewsisr.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+</body>
+</html>
