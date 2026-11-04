@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T16:30:51Z",
+  "updatedAt": "2026-11-04T16:32:03Z",
   "live": {
     "title": "גביע העולם בדוחא – יום 3 (יום הבתים האחרון)",
     "date": "2026-11-04",
@@ -297,7 +297,8 @@
         "name": "העמותה לקידום הפאדל (ILPA) – אינסטגרם",
         "url": "https://www.instagram.com/padelilpa/",
         "lang": "עברית"
-      }
+      },
+      "keepUntil": "2026-11-12"
     },
     {
       "id": "ilpa-israel-champ-2026-draw-women",
@@ -309,7 +310,8 @@
         "name": "העמותה לקידום הפאדל (ILPA) – אינסטגרם",
         "url": "https://www.instagram.com/padelilpa/",
         "lang": "עברית"
-      }
+      },
+      "keepUntil": "2026-11-12"
     },
     {
       "id": "ilpa-israel-champ-2026-venues",
@@ -321,7 +323,8 @@
         "name": "10.Padel – אינסטגרם",
         "url": "https://www.instagram.com/reel/DfSbAsux19t/",
         "lang": "עברית"
-      }
+      },
+      "keepUntil": "2026-11-12"
     }
   ],
   "upcoming": [
