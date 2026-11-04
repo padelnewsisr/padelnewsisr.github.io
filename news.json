@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T14:27:06Z",
+  "updatedAt": "2026-11-04T14:34:28Z",
   "live": {
     "title": "גביע העולם בדוחא – יום 3 (יום הבתים האחרון)",
     "date": "2026-11-04",
@@ -96,6 +96,32 @@
     ]
   },
   "items": [
+    {
+      "id": "padeladdict-paula-josemaria-mundial-numero1-2026-11-04",
+      "publishedAt": "2026-11-04T08:41:09Z",
+      "category": "opinion",
+      "tag": "worldcup",
+      "title": "פאולה חוסמריה ב-Padel Addict: מעדיפה להיות מספר 1 בעולם",
+      "summary": "בראיון ל-Padel Addict בדוחא אמרה פאולה חוסמריה שהאווירה בנבחרת ספרד מצוינת, בתוך המגרש ומחוצה לו. היא אמרה שהיה מוזר לשחק נגד ארי סאנצ'ס אחרי חמש שנים יחד, ויש לה \"רק מילים טובות\" עליה. כשנשאלה מה חשוב לה יותר – אליפות העולם עם הנבחרת או מקום 1 בדירוג – אמרה שקשה לבחור, אבל בסוף בחרה במקום 1.",
+      "source": {
+        "name": "Padel Addict",
+        "url": "https://www.padeladdict.com/paula-josemaria-mundial-numero-1-entrevista/",
+        "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "padeladdict-paquito-javi-leal-mundial-2026-11-04",
+      "publishedAt": "2026-11-04T08:30:17Z",
+      "category": "opinion",
+      "tag": "worldcup",
+      "title": "פאקיטו נבארו מגן על חאבי לאל בנבחרת ספרד",
+      "summary": "לפי Padel Addict, פאקיטו נבארו אמר שחאבי לאל הגיע לנבחרת כשחקן רגיל, לא כמחליף, ולכל השחקנים יש אותו סיכוי לשחק. לאל הצטרף אחרי שגלאן ביטל ברגע האחרון. לאל אמר שבהתחלה הרגיש אחריות גדולה, אבל החליט ליהנות. נבארו (37) אמר שהוא יכול לתת לצעירים ניסיון.",
+      "source": {
+        "name": "Padel Addict",
+        "url": "https://www.padeladdict.com/paquito-navarro-javi-leal-declaraciones-mundial-padel/",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "worldcup-women-day3-results-2026-11-04",
       "publishedAt": "2026-11-04T14:27:06Z",
