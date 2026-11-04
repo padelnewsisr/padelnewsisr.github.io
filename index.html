@@ -117,6 +117,7 @@
   .up-row{display:flex;gap:12px;padding:7px 0;border-bottom:1px solid var(--line)}
   .up-row:last-child{border-bottom:0}
   .up-row b{min-width:96px;color:var(--court);flex:none}
+  .item.deep{box-shadow:0 0 0 4px var(--ball);transition:box-shadow .4s}
   .vis.v-pf{background:linear-gradient(135deg,#5b8fd6,#1d3d78)}
   .vis .pfs{display:inline-block;margin-top:6px;background:rgba(255,255,255,.95);color:#10233a;border-radius:7px;padding:2px 10px;font-weight:800;font-size:15px;unicode-bidi:isolate}
   .vis .pfi{font-size:44px;line-height:1;flex:none;width:64px;height:64px;display:grid;place-items:center;background:rgba(255,255,255,.18);border-radius:50%}
@@ -540,12 +541,12 @@
       if(lab!==lastDay){ html+='<div class="day">'+esc(lab)+'</div>'; lastDay=lab; }
       const s=it.source||{};
       const tr = s.lang && s.lang!=='עברית' ? '<span class="tr">תורגם מ'+esc(s.lang)+'</span>' : '<span class="tr">מקור בעברית</span>';
-      html+='<article class="item">'+visual(it)+
+      html+='<article class="item" id="n-'+esc(it.id)+'">'+visual(it)+
         '<div class="meta"><span class="cat '+(CLS[it.category]||'')+'">'+esc(CATS[it.category]||it.category)+'</span>'+(it.category==='results'?gBadge(gender(it),'gtag'):'')+'<span>'+esc(ago(d))+'</span></div>'+
         '<h3>'+fmt(it.title)+'</h3><p>'+fmt(it.summary)+'</p>'+videoRow(it)+
         '<div class="src">📰 <span>מקור: <b>'+esc(s.name||'')+'</b></span>'+tr+
           (s.url?'<a href="'+esc(safeUrl(s.url))+'" target="_blank" rel="noopener">לכתבה המקורית ↗</a>':'')+
-          '<span class="sp"></span><a class="share" target="_blank" rel="noopener" href="https://wa.me/?text='+encodeURIComponent('🎾 '+iso(it.title)+'\n\n'+iso(it.summary)+'\n\nמקור: '+(s.name||'')+'\n— חדשות הפאדל · MK מייקל קדוש')+'">שתף 💬</a>'+
+          '<span class="sp"></span><a class="share" target="_blank" rel="noopener" href="https://wa.me/?text='+encodeURIComponent('🎾 '+iso(it.title)+'\n\n'+(iso(it.summary).split(/(?<=[.!?])\s/)[0]||'')+'\n\n👈 לידיעה המלאה: https://padelnewsisr.github.io/#n-'+it.id+'\n— חדשות הפאדל · MK מייקל קדוש')+'">שתף 💬</a>'+
         '</div></article>';
     });
     $('news').innerHTML=html;
@@ -640,6 +641,15 @@
     try{ if(document.hidden && 'Notification' in window && Notification.permission==='granted') new Notification('חדשות הפאדל',{body:msg.replace('🔔 ',''),icon:'icon-512.png'}); }catch(e){}
   }
   $('toast').addEventListener('click',()=>{ $('toast').hidden=true; filter='all'; renderChips(); renderNews(); $('news').scrollIntoView({behavior:'smooth',block:'start'}); });
+  function openDeep(){
+    try{
+      const h=decodeURIComponent((location.hash||'').replace(/^#/,'')); if(!h) return;
+      const id=h.replace(/^n-/,''); const it=(data.items||[]).find(x=>x.id===id); if(!it) return;
+      if(filter!=='all'||it.category==='opinion'){ filter=it.category==='opinion'?'opinion':'all'; renderChips(); renderNews(); }
+      setTimeout(()=>{ const el=document.getElementById('n-'+id); if(!el) return; el.scrollIntoView({behavior:'smooth',block:'start'}); el.classList.add('deep'); setTimeout(()=>el.classList.remove('deep'),4000); },300);
+    }catch(e){}
+  }
+  window.addEventListener('hashchange',()=>{ if(data) openDeep(); });
   async function load(){
     try{
       const r=await fetch('news.json?t='+Date.now(),{cache:'no-store'});
@@ -647,7 +657,7 @@
       const j=await r.json();
       if(!data || j.updatedAt!==data.updatedAt){
         const old=data?new Set((data.items||[]).map(i=>i.id)):null;
-        data=j; renderAll();
+        const first=!data; data=j; renderAll(); if(first) openDeep();
         if(old){ const fresh=(j.items||[]).filter(i=>!old.has(i.id)).sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt)); if(fresh.length) notifyNew(fresh.length, fresh[0].title); }
       }
     }catch(e){ if(!data) $('news').innerHTML='<div class="empty">לא הצלחנו לטעון את החדשות. נסו לרענן.</div>'; }
