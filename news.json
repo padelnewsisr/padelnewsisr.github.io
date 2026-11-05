@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T12:27:51Z",
+  "updatedAt": "2026-11-05T14:27:48Z",
   "live": {
     "title": "גביע העולם בדוחא – רבע הגמר (5.11)",
     "date": "2026-11-05",
@@ -13,7 +13,8 @@
       {
         "time": "13:00",
         "what": "👩 ספרד – שוודיה (Grand Stand 1)",
-        "result": ""
+        "result": "ספרד ניצחה 3-0",
+        "live": false
       },
       {
         "time": "13:00",
@@ -52,6 +53,32 @@
     ]
   },
   "items": [
+    {
+      "id": "worldcup-women-qf-spa-swe-2026-11-05",
+      "publishedAt": "2026-11-05T14:19:13Z",
+      "category": "results",
+      "gender": "women",
+      "tag": "worldcup",
+      "title": "👩 ספרד מחצה את שוודיה 3-0 – בחצי הגמר!",
+      "summary": "אלופות העולם ספרד ניצחו את שוודיה 3-0 ברבע הגמר בדוחא. מרטה אורטגה ומרטינה קאלבו ניצחו 6-0, 6-2. פאולה חוסמריה ובאה גונסלס ניצחו את בהרם/שולנד. ספרד ניצחה את כל המשחקים שלה במונדיאל עד עכשיו. מה הלאה: חצי הגמר ביום שישי (6.11), היריבה עוד לא ידועה. 📺 ספורט 6 מ-13:00.",
+      "matches": [
+        {
+          "winner": "ספרד",
+          "loser": "שוודיה",
+          "score": "3-0"
+        },
+        {
+          "winner": "אורטגה/קאלבו",
+          "loser": "אנדרסון/גירדו",
+          "score": "6-0, 6-2"
+        }
+      ],
+      "source": {
+        "name": "Diari de Tarragona",
+        "url": "https://www.diaridetarragona.com/deportes/274967/espana-ari-sanchez-semifinales-mundial.html",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "worldcup-women-ned-fra-qf-preview-2026-11-05",
       "publishedAt": "2026-11-05T07:43:23Z",
@@ -1064,7 +1091,7 @@
           "stage": "רבע גמר",
           "home": "ספרד",
           "away": "שוודיה",
-          "result": ""
+          "result": "ספרד ניצחה 3-0"
         },
         {
           "stage": "רבע גמר",
@@ -1702,7 +1729,7 @@
         "stage": "רבע גמר · Grand Stand 1",
         "home": "ספרד",
         "away": "שוודיה",
-        "result": "",
+        "result": "ספרד ניצחה 3-0",
         "live": false,
         "tv": "ספורט 2 · Red Bull TV",
         "watch": "https://www.redbull.com/es-es/events/fip-world-cup"
