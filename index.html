@@ -470,7 +470,7 @@
   function videoRow(it){
     if(it.category!=='results' && !(it.video&&it.video.url)) return '';
     const v=it.video||{};
-    if(v.url) return '<a class="vid" href="'+esc(safeUrl(v.url))+'" target="_blank" rel="noopener"><span class="pl">'+(v.type==='replay'?'📺':'▶')+'</span><span>'+(v.type==='replay'?'אין תקציר עדיין · צפו בשידור החוזר':'תקציר וידאו')+'<small>'+esc(v.name||'יוטיוב')+'</small></span><span class="go">↖</span></a>';
+    if(v.url) return '<a class="vid" href="'+esc(safeUrl(v.url))+'" target="_blank" rel="noopener"><span class="pl">'+(v.type==='replay'?'📺':'▶')+'</span><span>'+(v.label||(v.type==='replay'?'אין תקציר עדיין · צפו בשידור החוזר':'תקציר וידאו'))+'<small>'+esc(v.name||'יוטיוב')+'</small></span><span class="go">↖</span></a>';
     const age=(Date.now()-new Date(it.publishedAt))/36e5;
     if(it.videoStatus==='none' || age>48) return '<span class="vid">🎬 אין תקציר וידאו</span>';
     return '<span class="vid">🎬 תקציר וידאו עוד לא פורסם</span>';
