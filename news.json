@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T08:23:52Z",
+  "updatedAt": "2026-11-05T12:27:51Z",
   "live": {
     "title": "גביע העולם בדוחא – רבע הגמר (5.11)",
     "date": "2026-11-05",
@@ -8,26 +8,22 @@
       {
         "time": "13:00",
         "what": "👩 ארגנטינה – פורטוגל (המגרש המרכזי)",
-        "result": "",
-        "live": false
+        "result": ""
       },
       {
         "time": "13:00",
         "what": "👩 ספרד – שוודיה (Grand Stand 1)",
-        "result": "",
-        "live": false
+        "result": ""
       },
       {
         "time": "13:00",
         "what": "👩 הולנד – צרפת (Grand Stand 2)",
-        "result": "",
-        "live": false
+        "result": ""
       },
       {
         "time": "13:00",
         "what": "👩 איטליה – ברזיל (מגרש 5)",
-        "result": "",
-        "live": false
+        "result": ""
       },
       {
         "time": "17:00",
@@ -56,6 +52,19 @@
     ]
   },
   "items": [
+    {
+      "id": "worldcup-women-ned-fra-qf-preview-2026-11-05",
+      "publishedAt": "2026-11-05T07:43:23Z",
+      "category": "world",
+      "tag": "worldcup",
+      "title": "🇫🇷 צרפת מול הולנד: מי תעלה לחצי הגמר?",
+      "summary": "היום ברבע גמר הנשים במונדיאל הפאדל: צרפת נגד הולנד, ב-13:00 שעון ישראל (Grand Stand 2). הולנד סיימה ראשונה בבית אחרי ניצחון 2-1 על פורטוגל. צרפת ניצחה את בלגיה 2-1 ואת צ'ילה 3-0, והפסידה לארגנטינה 0-3 (בלי קולומבון וטולי, שנחו). הגברים של צרפת לא עלו לרבע הגמר: הערב הם משחקים נגד קטאר במשחקי הדירוג (מקומות 9–16), לא לפני 17:00.",
+      "source": {
+        "name": "Padel Magazine (בנז'מן דופואי)",
+        "url": "https://padelmagazine.fr/mondiaux-2026-place-aux-quarts-de-finale-les-bleues-defient-les-pays-bas-les-hommes-retrouvent-le-qatar-pour-les-matchs-de-classement/",
+        "lang": "צרפתית"
+      }
+    },
     {
       "id": "isr-josh-itai-fip-bronze-cyprus-iv-qual-2026-11-05",
       "publishedAt": "2026-11-05T08:23:52Z",
@@ -145,45 +154,6 @@
       "source": {
         "name": "El Neverazo – לוח המשחקים של היום",
         "url": "https://www.elneverazo.com/en-directo-la-tercera-jornada-de-la-fase-de-grupos-masculina-del-mundial-de-padel-2026/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "padelmag-france-blanque-auradou-2026-11-04",
-      "publishedAt": "2026-11-04T11:48:14Z",
-      "category": "opinion",
-      "tag": "worldcup",
-      "title": "💬 צרפת אחרי ההפסד להולנד: \"לא לזרוק הכול\"",
-      "summary": "ב-Padel Magazine דיברו בסטיאן בלנקה ומאמן צרפת יאן אורדו אחרי ההפסד 2-1 להולנד בגביע העולם. בלנקה אמר שצרפת לא שיחקה את המשחק הכי טוב שלה, והייתה לה הזדמנות במערכה הראשונה. לדבריו זו קבוצה חדשה עם שחקנים צעירים, ואסור לוותר בגלל הפסד אחד. אורדו אמר שהוא היה בוחר שוב באותם זוגות, ושהעתיד של נבחרת צרפת טוב.",
-      "source": {
-        "name": "Padel Magazine (פרנק ביניסטי)",
-        "url": "https://padel-magazine.es/Mundial-de-2026:-Blanque-y-Auradou--tras-la-decepci%C3%B3n-contra-los-Pa%C3%ADses-Bajos--no-deber%C3%ADan-tirar-la-toalla./",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "padeladdict-paula-josemaria-mundial-numero1-2026-11-04",
-      "publishedAt": "2026-11-04T08:41:09Z",
-      "category": "opinion",
-      "tag": "worldcup",
-      "title": "פאולה חוסמריה ב-Padel Addict: מעדיפה להיות מספר 1 בעולם",
-      "summary": "בראיון ל-Padel Addict בדוחא אמרה פאולה חוסמריה שהאווירה בנבחרת ספרד מצוינת, בתוך המגרש ומחוצה לו. היא אמרה שהיה מוזר לשחק נגד ארי סאנצ'ס אחרי חמש שנים יחד, ויש לה \"רק מילים טובות\" עליה. כשנשאלה מה חשוב לה יותר – אליפות העולם עם הנבחרת או מקום 1 בדירוג – אמרה שקשה לבחור, אבל בסוף בחרה במקום 1.",
-      "source": {
-        "name": "Padel Addict",
-        "url": "https://www.padeladdict.com/paula-josemaria-mundial-numero-1-entrevista/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "padeladdict-paquito-javi-leal-mundial-2026-11-04",
-      "publishedAt": "2026-11-04T08:30:17Z",
-      "category": "opinion",
-      "tag": "worldcup",
-      "title": "פאקיטו נבארו מגן על חאבי לאל בנבחרת ספרד",
-      "summary": "לפי Padel Addict, פאקיטו נבארו אמר שחאבי לאל הגיע לנבחרת כשחקן רגיל, לא כמחליף, ולכל השחקנים יש אותו סיכוי לשחק. לאל הצטרף אחרי שגלאן ביטל ברגע האחרון. לאל אמר שבהתחלה הרגיש אחריות גדולה, אבל החליט ליהנות. נבארו (37) אמר שהוא יכול לתת לצעירים ניסיון.",
-      "source": {
-        "name": "Padel Addict",
-        "url": "https://www.padeladdict.com/paquito-navarro-javi-leal-declaraciones-mundial-padel/",
         "lang": "ספרדית"
       }
     },
@@ -320,10 +290,6 @@
     {
       "when": "5–11.11",
       "what": "🇮🇱 אליפות ישראל בפאדל 2026 (ILPA) – נתניה (Top Padel), סביון, קיסריה (Steele's club). 📺 חצאי הגמר בשידור חי באינסטגרם 10.Padel"
-    },
-    {
-      "when": "5.11 · 10:00",
-      "what": "🇮🇱 איתי רופ וג׳וש – סיבוב ראשון במוקדמות FIP Bronze Cyprus IV, קפריסין. 📺 שידור חי ביוטיוב"
     },
     {
       "when": "5–8.11",
