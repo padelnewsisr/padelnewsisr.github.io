@@ -1,61 +1,72 @@
 {
-  "updatedAt": "2026-11-05T20:25:07Z",
+  "updatedAt": "2026-11-06T02:26:04Z",
   "live": {
-    "title": "גביע העולם בדוחא – רבע הגמר (5.11)",
-    "date": "2026-11-05",
-    "note": "✅ רבע הגמר הסתיים. מחר (6.11) חצאי הגמר: 👨 ספרד–פורטוגל, ארגנטינה–איטליה · 👩 ספרד–צרפת, ארגנטינה–איטליה. 📺 ספורט 6 מ-13:00, בעולם Red Bull TV.",
+    "title": "גביע העולם בדוחא – חצאי הגמר (6.11)",
+    "date": "2026-11-06",
+    "note": "📺 איפה לראות: ספורט 6 מ-13:00 (לפי לוח השידורים), בעולם Red Bull TV. מחר (7.11) הגמרים.",
     "matches": [
       {
         "time": "13:00",
-        "what": "👩 ארגנטינה – פורטוגל (המגרש המרכזי)",
-        "result": "ארגנטינה ניצחה 3-0",
-        "live": false
+        "what": "👩 ספרד – צרפת (המגרש המרכזי)",
+        "result": ""
       },
       {
         "time": "13:00",
-        "what": "👩 ספרד – שוודיה (Grand Stand 1)",
-        "result": "ספרד ניצחה 3-0",
-        "live": false
-      },
-      {
-        "time": "13:00",
-        "what": "👩 הולנד – צרפת (Grand Stand 2)",
-        "result": "צרפת ניצחה 2-0",
-        "live": false
-      },
-      {
-        "time": "13:00",
-        "what": "👩 איטליה – ברזיל (מגרש 5)",
-        "result": "איטליה ניצחה 2-0",
-        "live": false
+        "what": "👩 ארגנטינה – איטליה (Grand Stand 1)",
+        "result": ""
       },
       {
         "time": "17:00",
-        "what": "👨 ספרד – ברזיל (המגרש המרכזי)",
-        "result": "ספרד ניצחה 2-0",
-        "live": false
+        "what": "👨 ארגנטינה – איטליה (המגרש המרכזי, לא לפני 17:00)",
+        "result": ""
       },
       {
         "time": "17:00",
-        "what": "👨 ארגנטינה – גרמניה (Grand Stand 2)",
-        "result": "ארגנטינה ניצחה 3-0",
-        "live": false
-      },
-      {
-        "time": "17:00",
-        "what": "👨 איטליה – שוודיה (מגרש 5)",
-        "result": "איטליה ניצחה 2-0",
-        "live": false
-      },
-      {
-        "time": "17:00",
-        "what": "👨 פורטוגל – הולנד (מגרש 6)",
-        "result": "פורטוגל ניצחה 2-0",
-        "live": false
+        "what": "👨 ספרד – פורטוגל (Grand Stand 1, לא לפני 17:00)",
+        "result": ""
       }
     ]
   },
   "items": [
+    {
+      "id": "where-to-watch-worldcup-semis-2026-11-06",
+      "publishedAt": "2026-11-05T23:09:16Z",
+      "category": "calendar",
+      "tag": "worldcup",
+      "title": "📺 איפה לראות את חצאי הגמר של המונדיאל",
+      "summary": "בישראל: ספורט 6 מ-13:00 (לפי לוח השידורים). לפי Padel Addict, בספרד: Movistar Plus+. בארה\"ב, צרפת והמזרח התיכון: beIN SPORTS. בדרום ומרכז אמריקה: ESPN. משחקים במגרשים שלא משודרים בטלוויזיה אפשר לראות ביוטיוב של FIP, במדינות שבהן זה פתוח. לפי El Neverazo, Red Bull TV משדר חינם את המגרש המרכזי ומגרש 1.",
+      "source": {
+        "name": "Padel Addict",
+        "url": "https://www.padeladdict.com/semifinales-mundial-padel-2026-partidos-horarios-retransmision/",
+        "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "worldcup-men-semi-spain-portugal-preview-2026-11-06",
+      "publishedAt": "2026-11-05T21:53:22Z",
+      "category": "world",
+      "tag": "worldcup",
+      "title": "🇪🇸🇵🇹 דרבי איברי בחצי הגמר: ספרד מול פורטוגל",
+      "summary": "ספרד ופורטוגל ייפגשו היום (6.11) בחצי הגמר של הגברים, לא לפני 17:00 (שעון ישראל), ב-Grand Stand 1. ספרד ניצחה ברבע הגמר את ברזיל 2-0: נייטו/סאנס 6-2, 6-2 ולאל/קואייו 6-2, 6-1. פורטוגל ניצחה את הולנד 2-0: מיגל ונונו דאוס 6-2, 6-1, וארוז'ו/גראסה 6-3, 6-4. המאמן של ספרד הוא חואנחו גוטיירס. מה הלאה: המנצחת תשחק מחר (7.11) בגמר.",
+      "source": {
+        "name": "PadelStar (ראול ד. מרטין)",
+        "url": "https://padelstar.es/noticias-padel/mundial-padel-2026-semifinales-masculinas-espana-portugal/",
+        "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "padeladdict-qf-analysis-france-surprise-2026-11-05",
+      "publishedAt": "2026-11-05T19:41:33Z",
+      "category": "opinion",
+      "tag": "worldcup",
+      "title": "💬 Padel Addict: צרפת היא ההפתעה של רבע הגמר",
+      "summary": "לפי הכתב אנחל גונסלס ב-Padel Addict, ספרד וארגנטינה הן \"שתי הפייבוריטיות הגדולות\", והן ניצחו ברבע הגמר בביטחון. לדעתו, הניצחון של צרפת על הולנד אצל הנשים היה ההפתעה הגדולה של היום. הוא מציין שהספרדיות עוד לא הפסידו אף מערכה בטורניר. על נבחרת הנשים של גרמניה הוא כותב שזה היה שבוע לשכוח.",
+      "source": {
+        "name": "Padel Addict (אנחל גונסלס)",
+        "url": "https://www.padeladdict.com/resultados-cuartos-mundial-padel-2026/",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "worldcup-women-qf-spa-swe-2026-11-05",
       "publishedAt": "2026-11-05T19:41:33Z",
@@ -130,14 +141,14 @@
     },
     {
       "id": "worldcup-semis-preview-2026-11-06",
-      "publishedAt": "2026-11-05T19:41:33Z",
+      "publishedAt": "2026-11-05T23:09:16Z",
       "category": "calendar",
       "tag": "worldcup",
-      "title": "👀 מחר חצאי הגמר: איטליה מול ארגנטינה פעמיים",
-      "summary": "ביום שישי (6.11) ארבעה משחקי חצי גמר במונדיאל הפאדל בדוחא. גברים: ספרד נגד פורטוגל, וארגנטינה נגד איטליה. נשים: ספרד נגד צרפת, וארגנטינה נגד איטליה. איטליה תפגוש את ארגנטינה גם בגברים וגם בנשים. 📺 איפה לראות: ספורט 6 מ-13:00 (לפי לוח השידורים), ובעולם Red Bull TV חינם.",
+      "title": "👀 היום חצאי הגמר: הנשים ב-13:00, הגברים ב-17:00",
+      "summary": "היום (6.11) ארבעה משחקי חצי גמר במונדיאל הפאדל בדוחא. 👩 נשים בשעה 13:00 (שעון ישראל): ספרד נגד צרפת במגרש המרכזי, וארגנטינה נגד איטליה ב-Grand Stand 1. 👨 גברים לא לפני 17:00: ארגנטינה נגד איטליה במגרש המרכזי, וספרד נגד פורטוגל ב-Grand Stand 1. איטליה פוגשת את ארגנטינה גם בגברים וגם בנשים. מה הלאה: מחר (7.11) הגמרים. 📺 איפה לראות: ספורט 6 מ-13:00 (לפי לוח השידורים), ובעולם Red Bull TV.",
       "source": {
-        "name": "Padel Addict (אנחל גונסלס)",
-        "url": "https://www.padeladdict.com/resultados-de-los-cuartos-de-final-del-mundial-de-padel-2026-espana-y-argentina-a-semifinales/",
+        "name": "Padel Addict",
+        "url": "https://www.padeladdict.com/semifinales-mundial-padel-2026-partidos-horarios-retransmision/",
         "lang": "ספרדית"
       }
     },
@@ -169,81 +180,6 @@
         "url": "https://www.youtube.com/live/zEO_EVQxUIs",
         "name": "יוטיוב · שידור חי",
         "label": "צפו במשחק בשידור חי"
-      }
-    },
-    {
-      "id": "padelmag-fonteny-joris-tapia-libaak-2026-11-05",
-      "publishedAt": "2026-11-04T23:01:42Z",
-      "category": "opinion",
-      "tag": "worldcup",
-      "title": "💬 הצרפתים שכמעט הפילו את טאפיה: \"האמנו עד הנקודה האחרונה\"",
-      "summary": "פונטני/ז'וריס מצרפת לקחו מערכה מטאפיה/ליבאק במונדיאל, והפסידו 7-5, 3-6, 4-6 אחרי שעה ו-46 דקות. בראיון ל-Padel Magazine אמר ז'וריס שזה היה \"כמעט משחק מושלם\". פונטני אמר ש\"הכול יכול לקרות במגרש\". לדבריו, נקודת המפנה הייתה גיים ביתרון 40-15 שהם לא סגרו. מה הלאה: צרפת משחקת היום על המקומות 9–16, נגד קטאר.",
-      "source": {
-        "name": "Padel Magazine (פרנק ביניסטי)",
-        "url": "https://www.padel-magazine.co.uk/Fonteny-Joris--after-their-near-victory-against-Tapia-Libaak--we-believed-until-the-very-last-point./",
-        "lang": "אנגלית"
-      }
-    },
-    {
-      "id": "padeladdict-favoritas-espana-argentina-2026-11-04",
-      "publishedAt": "2026-11-04T21:41:43Z",
-      "category": "opinion",
-      "tag": "worldcup",
-      "title": "💬 Padel Addict: ספרד וארגנטינה עדיין הפייבוריטיות",
-      "summary": "הכתב אנחל גונסלס ב-Padel Addict מסכם את שלב הבתים: לספרד ולארגנטינה יש עדיין סיכוי מלא לזכות בתואר, גם אצל הגברים וגם אצל הנשים. לדעתו, ארגנטינה קיבלה בהלה: טאפיה/ליבאק הפסידו מערכה ראשונה לצרפת 7-5, ורק אחר כך ניצחו 6-3, 6-4. הוא כותב שגם איטליה הראתה שהיא מועמדת, אחרי 3-0 של הנשים על שוודיה.",
-      "source": {
-        "name": "Padel Addict – אנחל גונסלס",
-        "url": "https://www.padeladdict.com/resultados-tercera-jornada-mundial-padel-2026/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "worldcup-men-day3-results-2026-11-04",
-      "publishedAt": "2026-11-04T21:35:56Z",
-      "category": "results",
-      "gender": "men",
-      "tag": "worldcup",
-      "title": "👨 הולנד וגרמניה בפנים, צרפת בחוץ!",
-      "summary": "הפתעה בבית A: צרפת הפסידה לארגנטינה 2-0 ונשארה בחוץ. הולנד ניצחה את אוסטרליה 3-0 ועלתה במקום השני. גם גרמניה עלתה: ניצחה את קטאר 2-1, וצ'ילה הפסידה לפורטוגל 2-1. שוודיה ניצחה את פרגוואי 2-1 ועלתה שנייה בבית B. מה הלאה: רבע הגמר ב-5.11, לא לפני 17:00 – ספרד נגד ברזיל, ארגנטינה נגד גרמניה, איטליה נגד שוודיה ופורטוגל נגד הולנד.",
-      "matches": [
-        {
-          "winner": "ארגנטינה",
-          "loser": "צרפת",
-          "score": "2-0"
-        },
-        {
-          "winner": "הולנד",
-          "loser": "אוסטרליה",
-          "score": "3-0"
-        },
-        {
-          "winner": "גרמניה",
-          "loser": "קטאר",
-          "score": "2-1"
-        },
-        {
-          "winner": "שוודיה",
-          "loser": "פרגוואי",
-          "score": "2-1"
-        }
-      ],
-      "source": {
-        "name": "StudyPadel – תוצאות גביע העולם",
-        "url": "https://www.studypadel.com/tournaments/2026/fip-world-cup-2026",
-        "lang": "אנגלית"
-      }
-    },
-    {
-      "id": "where-to-watch-worldcup-2026-11-03",
-      "publishedAt": "2026-11-04T21:18:15Z",
-      "category": "calendar",
-      "tag": "worldcup",
-      "title": "📺 איפה לראות את רבע הגמר של המונדיאל",
-      "summary": "Red Bull TV משדר חינם לכל המדינות את המגרש המרכזי ואת Grand Stand 1. שאר המגרשים ביוטיוב, לכל העולם. בישראל: ספורט 2 מ-13:00 (לפי לוח השידורים). בספרד: Movistar Plus+ מרבע הגמר. בדרום אמריקה: Disney+ Premium. במזרח התיכון: beIN Sports.",
-      "source": {
-        "name": "El Neverazo",
-        "url": "https://www.elneverazo.com/fip-world-cup-horarios-y-retransmision-de-los-cuartos-de-final-del-mundial-de-padel-2026/",
-        "lang": "ספרדית"
       }
     },
     {
@@ -310,20 +246,6 @@
         "name": "אינסטגרם · padelargentinaok",
         "label": "צפו בראיון איתה"
       }
-    },
-    {
-      "id": "worldcup-qf-lineup-2026-11-05",
-      "publishedAt": "2026-11-04T23:14:57Z",
-      "category": "calendar",
-      "gender": "both",
-      "tag": "worldcup",
-      "title": "👀 היום רבע הגמר: 8 משחקים, הכול או כלום",
-      "summary": "היום, 5.11, רבע הגמר של גביע העולם בדוחא. הנשים מ-13:00: ארגנטינה – פורטוגל, ספרד – שוודיה, הולנד – צרפת, איטליה – ברזיל. הגברים לא לפני 17:00: ספרד – ברזיל, ארגנטינה – גרמניה, איטליה – שוודיה, פורטוגל – הולנד. ספרד וארגנטינה הן הפייבוריטיות בשתי הקטגוריות. איפה לראות: בישראל ספורט 2, בעולם Red Bull TV ויוטיוב.",
-      "source": {
-        "name": "Padel Addict – רבע הגמר: משחקים, שעות ושידורים",
-        "url": "https://www.padeladdict.com/cuartos-mundial-padel-2026-partidos-horarios-retransmision/",
-        "lang": "ספרדית"
-      }
     }
   ],
   "upcoming": [
@@ -337,7 +259,7 @@
     },
     {
       "when": "6.11 · 13:00",
-      "what": "📺 ספורט 6: חצאי הגמר של גביע העולם – 👨 ספרד–פורטוגל, ארגנטינה–איטליה · 👩 ספרד–צרפת, ארגנטינה–איטליה"
+      "what": "📺 ספורט 6: חצאי הגמר של גביע העולם – 👩 13:00 ספרד–צרפת, ארגנטינה–איטליה · 👨 לא לפני 17:00 ארגנטינה–איטליה, ספרד–פורטוגל"
     },
     {
       "when": "7.11 · 13:00",
@@ -1841,10 +1763,51 @@
       },
       {
         "date": "2026-11-06",
-        "time": "",
-        "home": "חצי הגמר: 👨 ספרד–פורטוגל, ארגנטינה–איטליה · 👩 ספרד–צרפת, ארגנטינה–איטליה",
-        "stage": "גברים ונשים",
-        "tv": "ספורט 6 · Red Bull TV"
+        "time": "13:00",
+        "gender": "women",
+        "stage": "חצי גמר · המגרש המרכזי",
+        "home": "ספרד",
+        "away": "צרפת",
+        "result": "",
+        "live": false,
+        "tv": "ספורט 6 · Red Bull TV",
+        "watch": "https://www.redbull.com/es-es/events/fip-world-cup"
+      },
+      {
+        "date": "2026-11-06",
+        "time": "13:00",
+        "gender": "women",
+        "stage": "חצי גמר · Grand Stand 1",
+        "home": "ארגנטינה",
+        "away": "איטליה",
+        "result": "",
+        "live": false,
+        "tv": "ספורט 6 · Red Bull TV",
+        "watch": "https://www.redbull.com/es-es/events/fip-world-cup"
+      },
+      {
+        "date": "2026-11-06",
+        "time": "17:00",
+        "gender": "men",
+        "stage": "חצי גמר · המגרש המרכזי (לא לפני 17:00)",
+        "home": "ארגנטינה",
+        "away": "איטליה",
+        "result": "",
+        "live": false,
+        "tv": "ספורט 6 · Red Bull TV",
+        "watch": "https://www.redbull.com/es-es/events/fip-world-cup"
+      },
+      {
+        "date": "2026-11-06",
+        "time": "17:00",
+        "gender": "men",
+        "stage": "חצי גמר · Grand Stand 1 (לא לפני 17:00)",
+        "home": "ספרד",
+        "away": "פורטוגל",
+        "result": "",
+        "live": false,
+        "tv": "ספורט 6 · Red Bull TV",
+        "watch": "https://www.redbull.com/es-es/events/fip-world-cup"
       },
       {
         "date": "2026-11-07",
