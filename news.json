@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T02:26:04Z",
+  "updatedAt": "2026-11-06T06:58:54Z",
   "live": {
     "title": "גביע העולם בדוחא – חצאי הגמר (6.11)",
     "date": "2026-11-06",
@@ -28,6 +28,18 @@
     ]
   },
   "items": [
+    {
+      "id": "gonzalo-rubio-wrist-surgery-2026-11-06",
+      "publishedAt": "2026-11-06T05:45:00Z",
+      "category": "world",
+      "title": "🩹 גונסלו רוביו עבר ניתוח בשורש כף היד",
+      "summary": "השחקן הספרדי גונסלו רוביו עבר בהצלחה ניתוח בשורש כף היד. הוא סבל מבעיות פציעה בשורש היד כבר כשנה וחצי. הניתוח נעשה במרפאת Teknon בברצלונה, בהובלת ד\"ר אנחל רואיס קוטורו. מה הלאה: לפי Padel Spain, מחכים לו כמה חודשים של שיקום לפני שיחזור למגרשים.",
+      "source": {
+        "name": "Padel Spain",
+        "url": "https://www.padelspain.net/padel-profesional/835598/gonzalo-rubio-operado-con-exito-y-con-la-mente-puesta-en-la-vuelta/",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "where-to-watch-worldcup-semis-2026-11-06",
       "publishedAt": "2026-11-05T23:09:16Z",
