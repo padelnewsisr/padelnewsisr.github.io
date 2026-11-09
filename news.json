@@ -232,7 +232,9 @@
       "url": "https://www.youtube.com/watch?v=hVO9LQ9N3tA",
       "label": "פאדל ישראלי ברמה A – שידור חי ביוטיוב",
       "live": true,
-      "note": "טורניר בישראל, עכשיו"
+      "note": "טורניר בישראל, עכשיו",
+      "manual": true,
+      "until": "2026-11-09T22:30:00Z"
     }
   ],
   "israeliPlayers": [
