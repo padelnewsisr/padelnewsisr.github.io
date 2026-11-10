@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T09:01:00Z",
+  "updatedAt": "2026-11-10T10:35:59Z",
   "live": {
     "title": "דובאי P1 (8–15.11) – היום מתחילה ההגרלה הראשית",
     "date": "2026-11-10",
@@ -28,6 +28,30 @@
     ]
   },
   "items": [
+    {
+      "id": "opinion-padeladdict-women-no1-race-2026-11-10",
+      "publishedAt": "2026-11-10T09:45:38Z",
+      "category": "opinion",
+      "title": "💬 Padel Addict: 3 זוגות עוד יכולות להיות מספר 1",
+      "summary": "לפי ניתוח של אדריאנה דיאס פרס ב-Padel Addict, המרוץ למקום הראשון בנשים עוד פתוח. טריאי/ברעה מובילות עם 14,020 נקודות, סאנצ׳ס/אוסטרו עם 11,240, וחוסמריה/גונסלס עם 10,340. אם טריאי/ברעה יזכו בדובאי ובמקסיקו, הן יסגרו את המקום הראשון עוד לפני גמר העונה. לדעת הכותבת, היתרון שלהן קטן מאוד, והמרוץ יכול להימשך עד הטורניר האחרון של 2026.",
+      "source": {
+        "name": "Padel Addict · אדריאנה דיאס פרס",
+        "url": "https://www.padeladdict.com/numero-1-femenino-premier-padel-2026/",
+        "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "padeladdict-finals-barcelona-2026-race",
+      "publishedAt": "2026-11-10T09:30:49Z",
+      "category": "world",
+      "title": "🏁 גמר העונה בברצלונה: מי כבר בפנים?",
+      "summary": "נשארו רק שני טורנירים לפני גמר העונה: דובאי P1 ומייג׳ור מקסיקו. בגברים כבר הבטיחו מקום: קואייו/טאפיה, גלאן/צ׳ינגוטו ולברון/אוגסבורגר. בנשים: טריאי/ברעה, סאנצ׳ס/אוסטרו, גונסלס/חוסמריה ופרננדס/קאלבו. קמפניולו, לאל, אלונסו ואלפונסו עוד נלחמים על המקומות האחרונים. מה הלאה: גמר העונה ייערך 10–13.12 בפאלאו סנט ג׳ורדי בברצלונה.",
+      "source": {
+        "name": "Padel Addict",
+        "url": "https://www.padeladdict.com/clasificados-finals-barcelona-2026-lucha/",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "ilpa-israel-champ-2026-semis-cat-a-live",
       "publishedAt": "2026-11-10T08:51:24Z",
@@ -203,18 +227,6 @@
       "source": {
         "name": "Padel Spain · מערכת",
         "url": "https://www.padelspain.net/padel-profesional/835716/dubai-emerge-como-punto-final-de-la-gira-por-oriente-medio/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "dubai-p1-2026-conditions-heat",
-      "publishedAt": "2026-11-09T10:33:18Z",
-      "category": "world",
-      "title": "🌡️ דובאי P1: 32 מעלות על המגרש",
-      "summary": "בדובאי צפוי חום של 28–32 מעלות בשעות המשחקים, ולחות עד 56%. הטורניר במתחם חמדאן, עם כדור Adidas Speed RX ופרסים של 479,068 יורו. ההגרלה הראשית מתחילה מחר (שלישי, 10.11), והזוגות המדורגים מתחילים לשחק ביום רביעי. מה הלאה: קואייו/טאפיה רודפים אחרי תואר שלישי ברצף בדובאי, ובאה גונסלס זכתה בשתי הפעמים הקודמות.",
-      "source": {
-        "name": "Padel Addict · אדריאנה דיאס פרס",
-        "url": "https://www.padeladdict.com/dubai-p1-condiciones-clima-pista-bola/",
         "lang": "ספרדית"
       }
     },
