@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T14:35:54Z",
+  "updatedAt": "2026-11-10T14:37:47Z",
   "live": {
     "title": "דובאי P1 (8–15.11) – היום הראשון של ההגרלה הראשית",
     "date": "2026-11-10",
@@ -131,6 +131,18 @@
       }
     },
     {
+      "id": "opinion-padelmagazine-dubai-market-2026-11-10",
+      "publishedAt": "2026-11-10T12:12:20Z",
+      "category": "opinion",
+      "title": "💬 Padel Magazine: דובאי – שוק פאדל גדול, אבל מעט שחקנים מקומיים",
+      "summary": "אנטואן טריקולה ב-Padel Magazine בודק את הפאדל באיחוד האמירויות. לפי הערכה מ-2025 יש שם 320 מועדונים, 950 מגרשים וכ-450 אלף שחקנים חובבים. השחקן המקומי הטוב, פארס אל-ג׳נאחי, רק במקום 361 בעולם. לדעתו טורניר ה-P1 הוא חלון ראווה חזק. האתגר הבא לדבריו: לגדל שחקנים מקומיים לרמה הגבוהה.",
+      "source": {
+        "name": "Padel Magazine – אנטואן טריקולה",
+        "url": "https://padelmagazine.fr/dubai-derriere-le-p1-un-marche-du-padel-deja-bien-installe/",
+        "lang": "צרפתית"
+      }
+    },
+    {
       "id": "opinion-padeladdict-women-no1-race-2026-11-10",
       "publishedAt": "2026-11-10T09:45:38Z",
       "category": "opinion",
@@ -170,6 +182,30 @@
         "url": "https://www.youtube.com/live/Z9DdaXclRHI",
         "name": "יוטיוב · 10.Padel",
         "label": "צפו בשידור החי (מ-18:00)"
+      }
+    },
+    {
+      "id": "opinion-padelmagazine-coello-fridge-nieto-2026-11-10",
+      "publishedAt": "2026-11-10T08:47:29Z",
+      "category": "opinion",
+      "title": "💬 Padel Magazine: למה התוכנית נגד קואייו לא עבדה בגמר המונדיאל",
+      "summary": "אנטואן טריקולה ב-Padel Magazine מנתח את גמר המונדיאל: ספרד ניצחה 6-3, 6-2. לדבריו, ליבאק ואלפונסו שלחו את רוב הכדורים לקוקי נייטו כדי להרחיק את המשחק מקואייו. לדעתו זה לא מספיק: לקואייו מספיק כדור אחד טוב כדי לסיים נקודה. הוא כותב שהטקטיקה עובדת רק אם הכדורים לבן הזוג באמת קשים. המסקנה שלו: הניצחון האמיתי הוא של נייטו, שעמד בלחץ.",
+      "source": {
+        "name": "Padel Magazine – אנטואן טריקולה",
+        "url": "https://padelmagazine.fr/coello-au-refrigerateur-nieto-decisif-les-limites-du-ciblage-du-partenaire/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "padelmagazine-fip-ranking-josemaria-7-dinenno-top10-2026-11-10",
+      "publishedAt": "2026-11-10T08:32:46Z",
+      "category": "world",
+      "title": "📉 דירוג FIP: חוסמריה ירדה למקום 7, די נינו חזר לטופ 10",
+      "summary": "דירוג FIP החדש פורסם, ויש שינויים בצמרת. פאולה חוסמריה ירדה למקום 7 עם 11,069 נקודות. קלאודיה פרננדס עלתה למקום 5 (12,357). בגברים מרטין די נינו עלה 2 מקומות וחזר למקום 10 (4,929), ומייק ינגואס ירד למקום 11. בצמרת אין שינוי: קואייו וטאפיה במקום 1 עם 20,994 נקודות, טריאי וברעה במקום 1 בנשים עם 16,394. הסיבה לשינויים: ירדו הנקודות של טורניר כווית 2025.",
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/classement-fip-josemaria-chute-a-la-7e-place-di-nenno-retrouve-le-top-10/",
+        "lang": "צרפתית"
       }
     },
     {
