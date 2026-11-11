@@ -101,7 +101,8 @@ jobs:
         run: |
           git pull -q --rebase origin main || true
           date -u +%FT%TZ > data/last-run.txt
-          git add data/last-run.txt
+          python3 tools/seo.py || true
+          git add data/last-run.txt index.html sitemap.xml
           git commit -qm "News update marker $(date -u +%FT%TZ)" && git push -q origin HEAD:main || true
 
       - name: בקשה לבנות את האתר מחדש
