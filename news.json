@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T21:05:00Z",
+  "updatedAt": "2026-11-11T21:15:00Z",
   "live": {
     "title": "דובאי P1 (8–15.11) – יום רביעי: 32 האחרונים בגברים, 16 האחרונות בנשים",
     "date": "2026-11-11",
@@ -112,6 +112,18 @@
       "source": {
         "name": "StudyPadel – תוצאות דובאי P1",
         "url": "https://www.studypadel.com/tournaments/2026/dubai-p1-2026/matches",
+        "lang": "אנגלית"
+      }
+    },
+    {
+      "id": "opinion-thenational-triay-interview-dubai-2026-11-11",
+      "publishedAt": "2026-11-11T05:49:00Z",
+      "category": "opinion",
+      "title": "💬 ג׳מה טריאי ב-The National: \"נמאס לי להפסיד, לא לנצח\"",
+      "summary": "מספר 1 בעולם, ג׳מה טריאי, דיברה עם העיתון The National (מאת רים אבולייל) לפני דובאי P1. לדבריה היא מרגישה בטוחה ונוח לה באיחוד האמירויות, והפאדל גדל שם מהר, גם אצל נשים. היא חושבת שהגיע הזמן שהפאדל ייכנס לאולימפיאדה, אולי כספורט הדגמה ב-2032. היא מתכננת לשחק עוד 4–5 שנים, למרות האתגר מול שחקניות צעירות. מה הלאה: מחר (12.11) טריאי/ברעה פותחות בשמינית הגמר מול טלבאן/סאיס.",
+      "source": {
+        "name": "The National – רים אבולייל",
+        "url": "https://www.thenationalnews.com/sport/2026/11/11/i-get-tired-of-losing-but-i-dont-get-tired-of-winning-gemma-triay-on-padel-ambition-and-dubai/",
         "lang": "אנגלית"
       }
     },
