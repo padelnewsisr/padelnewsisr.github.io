@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T09:34:11Z",
+  "updatedAt": "2026-11-12T12:32:55Z",
   "live": {
     "title": "דובאי P1 (8–15.11) – יום חמישי: שמינית הגמר בגברים ובנשים",
     "date": "2026-11-12",
@@ -8,48 +8,56 @@
       {
         "time": "10:00",
         "what": "👩 ברעה/טריאי נגד טלבאן/סאיס · 📺 יוטיוב Premier Padel",
-        "result": ""
+        "result": "ברעה/טריאי ניצחו 6-3, 6-1",
+        "live": false
       },
       {
         "time": "10:00",
         "what": "👩 רופו/איגלסיאס נגד אמנדה לופס/קמילה פסיו",
-        "result": "",
-        "live": true
+        "result": "רופו/איגלסיאס ניצחו 6-4, 4-6, 6-2",
+        "live": false
       },
       {
         "time": "10:00",
         "what": "👩 ג׳נסן/איקרדו נגד ארליאנו/קורץ",
-        "result": ""
+        "result": "ג׳נסן/איקרדו ניצחו 6-4, 6-2",
+        "live": false
       },
       {
         "time": "11:30",
         "what": "👨 אבטה/דל ביאנקו נגד אראגון/רוגלאן (משוער)",
-        "result": ""
+        "result": "אבטה/דל ביאנקו ניצחו 7-6, 6-3",
+        "live": false
       },
       {
         "time": "11:30",
         "what": "👩 אריאנה סאנצ׳ס/אוסטרו נגד מנקיו/לוסיה סאינס (משוער)",
-        "result": ""
+        "result": "סאנצ׳ס/אוסטרו ניצחו 6-0, 6-4",
+        "live": false
       },
       {
         "time": "11:30",
         "what": "👩 קלאודיה פרננדס/קאלבו נגד קסטיו/מריה רודריגס (משוער)",
-        "result": ""
+        "result": "פרננדס/קאלבו ניצחו 7-6, 6-4",
+        "live": false
       },
       {
         "time": "13:00",
         "what": "👩 חוסמריה/ביאה גונסלס נגד מרטינה פסיו/וירסדה (משוער)",
-        "result": ""
+        "result": "חוסמריה/גונסלס ניצחו 6-4, 6-1",
+        "live": false
       },
       {
         "time": "13:00",
         "what": "👨 מומו גונסלס/קמפניולו נגד ז׳ופרה/אסברי (משוער)",
-        "result": ""
+        "result": "",
+        "live": true
       },
       {
         "time": "13:00",
         "what": "👩 גינארט/אלונסו נגד קנובס/לובו (משוער)",
-        "result": ""
+        "result": "",
+        "live": true
       },
       {
         "time": "14:30",
@@ -89,6 +97,18 @@
     ]
   },
   "items": [
+    {
+      "id": "opinion-padelmagazine-alfonso-aguirre-split-2026-11-12",
+      "publishedAt": "2026-11-12T10:23:00Z",
+      "category": "opinion",
+      "title": "💬 גונסלו אלפונסו על הפרידה מטוליטו אגירה: \"היה כואב\"",
+      "summary": "גונסלו אלפונסו דיבר עם el4Set על הפרידה מהשותף הקודם שלו, טוליטו אגירה. לפי Padel Magazine, הוא אמר שהפרידה הייתה כואבת ועצובה, אבל היחסים ביניהם נשארו טובים. לדבריו, הבעיה לא הייתה הרמה – אלא רגשות וחוסר כיוון, והם הפסידו משחקים שהיו צריכים לנצח. הוא אמר שאף אחד בעולם לא נוגע בכדור כמו אגירה.",
+      "source": {
+        "name": "Padel Magazine – מאסאו זרהט (על ראיון ב-el4Set)",
+        "url": "https://padelmagazine.fr/gonzalo-alfonso-sur-sa-separation-avec-tolito-aguirre-ca-a-ete-douloureux-triste/",
+        "lang": "צרפתית"
+      }
+    },
     {
       "id": "padelmagazine-rcc-master-final-russia-coello-chingotto-2026-11-12",
       "publishedAt": "2026-11-12T09:13:00Z",
@@ -245,18 +265,6 @@
       }
     },
     {
-      "id": "padelmagazine-triay-brea-no1-dubai-2026-11-11",
-      "publishedAt": "2026-11-11T10:09:00Z",
-      "category": "world",
-      "title": "👑 ברעה וטריאי יכולות לסגור את מקום 1 כבר בדובאי",
-      "summary": "ג׳מה טריאי ודלפי ברעה קרובות לסיים את השנה במקום הראשון בעולם. לפי Padel Magazine, הן צריכות שני דברים בדובאי: לזכות בטורניר (1,000 נקודות), ושאריאדנה סאנצ׳ס ואנדראה אוסטרו יודחו עד רבע הגמר. אם שני הדברים יקרו, מקום 1 יהיה סגור עוד לפני מייג׳ור מקסיקו. מה הלאה: ב-12.11 הן פותחות את הטורניר ברבע הגמר.",
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/dubai-p1-triay-et-brea-peuvent-deja-sassurer-la-place-de-numero-1-mondiale/",
-        "lang": "צרפתית"
-      }
-    },
-    {
       "id": "opinion-padelmagazine-doha-worldcup-week-2026-11-11",
       "publishedAt": "2026-11-11T09:47:00Z",
       "category": "opinion",
@@ -313,54 +321,6 @@
       "source": {
         "name": "PadelStar – ראול ד. מרטין",
         "url": "https://padelstar.es/noticias-padel/por-que-la-clasificacion-del-padel-profesional-puede-cambiar-rapido/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-salazar-osoro-finals-2026-11-10",
-      "publishedAt": "2026-11-10T12:31:15Z",
-      "category": "opinion",
-      "title": "💬 Padel Magazine: סלאסר/אוסורו בסכנה לפספס את גמר העונה",
-      "summary": "לפי בנז׳מן דופוי ב-Padel Magazine, ההדחה של סלאסר/אוסורו בסיבוב הראשון בדובאי היא מכה קשה. זו הפעם השנייה ברצף שהן מודחות במשחק הראשון: גם במייג׳ור כווית. לדעתו הן מתקשות להיות יציבות מול הזוגות החזקים. סלאסר במקום 15 במירוץ לגמר העונה, ורק 16 הראשונות עולות לברצלונה. הכותב מזכיר שסלאסר הודיעה ש-2026 היא העונה האחרונה שלה.",
-      "source": {
-        "name": "Padel Magazine – בנז׳מן דופוי",
-        "url": "https://padelmagazine.fr/dubai-p1-nouvelle-desillusion-pour-salazar-osoro-eliminees-dentree-les-barcelona-finals-seloignent-dangereusement/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelstar-commercial-growth-2026-11-10",
-      "publishedAt": "2026-11-10T12:29:39Z",
-      "category": "opinion",
-      "title": "💬 PadelStar: מה הפאדל יכול ללמוד מכדורגל וטניס?",
-      "summary": "הכותב ראול ד. מרטין ב-PadelStar בודק איך הפאדל המקצועני יכול לגדול כמו עסק. לדעתו, כדורגל וטניס הם דוגמה טובה, אבל אי אפשר להעתיק אותם אחד לאחד. הוא כותב שצריך לוח טורנירים מאוזן וברור, שיפוט קבוע ושידורים טובים. עוד לדעתו: צריך למדוד קהל לאורך כמה עונות, כי שיא צפייה אחד לא מוכיח שיש קהל נאמן.",
-      "source": {
-        "name": "PadelStar – ראול ד. מרטין",
-        "url": "https://padelstar.es/noticias-padel/que-puede-aprender-el-padel-profesional-del-crecimiento-comercial-del-futbol-y-el-tenis/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-dubai-market-2026-11-10",
-      "publishedAt": "2026-11-10T12:12:20Z",
-      "category": "opinion",
-      "title": "💬 Padel Magazine: דובאי – שוק פאדל גדול, אבל מעט שחקנים מקומיים",
-      "summary": "אנטואן טריקולה ב-Padel Magazine בודק את הפאדל באיחוד האמירויות. לפי הערכה מ-2025 יש שם 320 מועדונים, 950 מגרשים וכ-450 אלף שחקנים חובבים. השחקן המקומי הטוב, פארס אל-ג׳נאחי, רק במקום 361 בעולם. לדעתו טורניר ה-P1 הוא חלון ראווה חזק. האתגר הבא לדבריו: לגדל שחקנים מקומיים לרמה הגבוהה.",
-      "source": {
-        "name": "Padel Magazine – אנטואן טריקולה",
-        "url": "https://padelmagazine.fr/dubai-derriere-le-p1-un-marche-du-padel-deja-bien-installe/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padeladdict-women-no1-race-2026-11-10",
-      "publishedAt": "2026-11-10T09:45:38Z",
-      "category": "opinion",
-      "title": "💬 Padel Addict: 3 זוגות עוד יכולות להיות מספר 1",
-      "summary": "לפי ניתוח של אדריאנה דיאס פרס ב-Padel Addict, המרוץ למקום הראשון בנשים עוד פתוח. טריאי/ברעה מובילות עם 14,020 נקודות, סאנצ׳ס/אוסטרו עם 11,240, וחוסמריה/גונסלס עם 10,340. אם טריאי/ברעה יזכו בדובאי ובמקסיקו, הן יסגרו את המקום הראשון עוד לפני גמר העונה. לדעת הכותבת, היתרון שלהן קטן מאוד, והמרוץ יכול להימשך עד הטורניר האחרון של 2026.",
-      "source": {
-        "name": "Padel Addict · אדריאנה דיאס פרס",
-        "url": "https://www.padeladdict.com/numero-1-femenino-premier-padel-2026/",
         "lang": "ספרדית"
       }
     },
