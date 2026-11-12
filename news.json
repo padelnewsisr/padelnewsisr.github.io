@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T07:45:00Z",
+  "updatedAt": "2026-11-12T09:34:11Z",
   "live": {
     "title": "דובאי P1 (8–15.11) – יום חמישי: שמינית הגמר בגברים ובנשים",
     "date": "2026-11-12",
@@ -13,7 +13,8 @@
       {
         "time": "10:00",
         "what": "👩 רופו/איגלסיאס נגד אמנדה לופס/קמילה פסיו",
-        "result": ""
+        "result": "",
+        "live": true
       },
       {
         "time": "10:00",
@@ -89,64 +90,52 @@
   },
   "items": [
     {
-      "id": "padelspain-dubai-polemics-net-warning-2026-11-12",
-      "publishedAt": "2026-11-12T02:00:00Z",
+      "id": "padelmagazine-rcc-master-final-russia-coello-chingotto-2026-11-12",
+      "publishedAt": "2026-11-12T09:13:00Z",
       "category": "world",
-      "title": "🤨 דובאי: רשת מורמת ואזהרה שהכריעה משחק",
-      "summary": "שתי מחלוקות ביום השני של הטבלה הראשית בדובאי. במשחק של לברון/אוגסבורגר מול קסטניו/פול הרננדס במגרש המרכזי, הרשת נתלתה בערך שלוש אצבעות מעל הרצפה. הרשת זזה לבד, והשופט אמר שאם רגל תעבור מתחת לרשת – זו עבירה. השחקנים, כולל אוגסבורגר, צחקו ולא האמינו, כי לא ראו דבר כזה לפני כן. במשחק אחר, ג׳נסן/איקרדו הובילו 6-2, 5-3 ו-30-40, ואז נוריה רודריגס/דל פוצו קיבלו אזהרה שנייה – והמשחק נגמר בנקודה בעונש. רודריגס אמרה שזה \"מטורף\", והתלונה שלהן לא עזרה.",
+      "title": "😮 קואייו וצ׳ינגוטו יחד: גמר ליגת RCC ברוסיה",
+      "summary": "שני יריבים גדולים ישחקו כזוג: ארטורו קואייו ופדה צ׳ינגוטו. זה יהיה ב-Master Final של ליגת RCC, בעיר יקטרינבורג ברוסיה, ב-3–5.12. צ׳ינגוטו צפוי לשחק בצד שמאל, וזה לא רגיל אצלו. השותפים הקבועים שלהם, טאפיה וגלאן, לא זמינים. עוד זוגות: לברון/אוגסבורגר, נבארו/די נינו, סאניו/אלפונסו וגררו/לאל – 17 זוגות בסך הכול. למה זה חשוב: הזוג המנצח יקבל 150 אלף יורו ושתי מכוניות ספורט. זה לא טורניר של Premier Padel.",
       "source": {
-        "name": "Padel Spain",
-        "url": "https://www.padelspain.net/padel-profesional/835799/el-torneo-de-dubai-acumula-polemicas-en-su-segundo-dia-de-cuadro-final/",
+        "name": "Padel Magazine – מאסאו זרהט",
+        "url": "https://padelmagazine.fr/coello-chingotto-reunis-lebron-augsburger-navarro-di-nenno-un-plateau-surprenant-pour-le-master-final-en-russie/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "opinion-padeladdict-modia-dubai-director-2026-11-12",
+      "publishedAt": "2026-11-12T09:00:20Z",
+      "category": "opinion",
+      "title": "💬 מנהל דובאי P1: \"צריך עוד חמישה-שישה טורנירים בספרד\"",
+      "summary": "איבן מודיה, מנהל הטורניר בדובאי, דיבר עם אנחל גונסלס מ-Padel Addict. לדבריו, ההיעדרות של טאפיה וגלאן לא גרמה לביטולים, והוא שמח לראות אלוף חדש. הוא אמר שמכירת הכרטיסים טובה יותר מבשנה שעברה. כספרדי, הוא היה מבקש עוד חמישה-שישה טורנירים בספרד, בעיקר בשביל שחקנים בדירוג נמוך, שקשה להם לטוס רחוק. אבל לדעתו הפאדל חייב לגדול גם ביבשות אחרות, אחרת הוא \"יישאר בתקופת האבן\".",
+      "source": {
+        "name": "Padel Addict – אנחל גונסלס",
+        "url": "https://www.padeladdict.com/entrevista-ivan-modia-director-dubai-p1/",
         "lang": "ספרדית"
       }
     },
     {
-      "id": "opinion-padelmagazine-lebron-changing-dubai-2026-11-11",
-      "publishedAt": "2026-11-11T16:31:47Z",
+      "id": "opinion-padelmagazine-leygue-france-worldcup-2026-11-12",
+      "publishedAt": "2026-11-12T08:36:00Z",
       "category": "opinion",
-      "title": "💬 Padel Magazine: \"לברון משתנה\" – הוא כבר לא נשבר",
-      "summary": "הכתב מאסאו זרהט ב-Padel Magazine כותב שחואן לברון נראה שחקן אחר. בעבר לברון איבד ריכוז כשהמשחק הלך רע. מול קסטניו/פול הרננדס, אחרי מערכה ראשונה שהפסידו, לברון לקח שליטה בהחלטות, בשליטה בכדור ובזוויות. לדעתו, כך גם הכוח של אוגסבורגר עבד יותר טוב. מה הלאה: בלי שתי הזוגות הראשונות, הכותב רואה בדובאי הזדמנות גדולה ללברון/אוגסבורגר, אבל הם עוד צריכים יציבות.",
+      "title": "💬 תומא לג (צרפת): \"המקום התשיעי היה חובה, לא מטרה\"",
+      "summary": "תומא לג, השחקן מספר 2 של צרפת, דיבר עם Padel Magazine על מונדיאל הפאדל. לדבריו, ההפסד להולנד אכזב מאוד, כי הוא סגר לצרפת את הדרך לרבע הגמר. המקום התשיעי היה חשוב, כי הוא חוסך לצרפת מוקדמות במונדיאל הבא. אחרי ההפסד צרפת ניצחה את אוסטרליה, ארגנטינה ופרגוואי. על המונדיאל הבא הוא אמר בחיוך: קודם כל צריך לעבור את שלב הבתים.",
       "source": {
         "name": "Padel Magazine – מאסאו זרהט",
-        "url": "https://padel-magazine.co.uk/Dubai-P1-LeBron-Augsburger-overturn-Castano-Hernandez-the-wolf-impresses-again/",
-        "lang": "אנגלית"
+        "url": "https://padelmagazine.fr/mondial-2026-thomas-leygue-la-neuvieme-place-cetait-plus-une-obligation-quun-objectif/",
+        "lang": "צרפתית"
       }
     },
     {
-      "id": "opinion-padelmagazine-tournaments-vs-regulars-2026-11-11",
-      "publishedAt": "2026-11-11T13:25:06Z",
+      "id": "opinion-padelmagazine-clubs-young-players-2026-11-12",
+      "publishedAt": "2026-11-12T08:08:00Z",
       "category": "opinion",
-      "title": "💬 Padel Magazine: למה טורנירים משפרים אתכם יותר",
-      "summary": "אנטואן טריקולה כותב ב-Padel Magazine שמשחקים קבועים עם אותם חברים נעימים, אבל לפעמים גורמים לשחק בלי חשיבה. בטורניר צריך לבחור: לתקוף או להאריך את הנקודה, מכה יפה או מכה בטוחה. טורניר גם חושף בעיות: לחץ אחרי טעות, איבוד ריכוז ותקשורת חלשה עם בן הזוג. לדעתו, טורניר לבד לא מספיק – צריך להבין מה לא עבד ולתרגל את זה באימון. טיפ שלו: במשחקים הקבועים, להחליף בני זוג ולשחק ברצינות על התוצאה.",
+      "title": "💬 Padel Magazine: מועדונים מושכים צעירים – אבל לא שומרים עליהם",
+      "summary": "אנטואן טריקולה ב-Padel Magazine שואל: האם המועדונים באמת משנים את ההצעות לצעירים, או רק את הפרסום? לדעתו, משחק ראשון זה קל, אבל כדי שצעירים יחזרו צריך מחיר נמוך, שעות שמתאימות להם ודרך נוחה להגיע. הנחות לסטודנטים לא עוזרות לכל הצעירים, למשל לצעירים שכבר עובדים. הוא כותב שקהילה ושותפים למשחק חשובים כמו המחיר.",
       "source": {
         "name": "Padel Magazine – אנטואן טריקולה",
-        "url": "https://padel-magazine.co.uk/Why-tournaments-lead-to-different-progress-than-matches-between-regulars/",
-        "lang": "אנגלית"
+        "url": "https://padelmagazine.fr/attirer-les-jeunes-les-clubs-adaptent-ils-leurs-offres-ou-seulement-leur-communication/",
+        "lang": "צרפתית"
       }
-    },
-    {
-      "id": "ilpa-israel-champ-2026-champions",
-      "publishedAt": "2026-11-11T22:21:38Z",
-      "category": "results",
-      "also": [
-        "israel"
-      ],
-      "keepUntil": "2026-11-13",
-      "title": "🏆 קאמבק של אלופים: דניאל בן הרוש והוד כהן אלופי ישראל בפאדל 2026",
-      "summary": "דניאל בן הרוש והוד כהן הם אלופי ישראל בפאדל לשנת 2026. בגמר קטגוריה A, ששודר הערב בשידור חי בספורט 5+, הם ניצחו את אהרון כהן ונועם כהן 2:1 במערכות: 4-6, 7-6, 6-4. הם הפסידו במערכה הראשונה, ניצחו בשובר שוויון במערכה השנייה, וסגרו את הגמר במערכה השלישית. הזוכים מקבלים 10,000 ש״ח ו-5,000 נקודות דירוג לאומי. האליפות היא של העמותה לקידום הפאדל (ILPA). מזל טוב לאלופים!",
-      "matches": [
-        {
-          "winner": "דניאל בן הרוש / הוד כהן",
-          "loser": "אהרון כהן / נועם כהן",
-          "score": "4-6 7-6 6-4"
-        }
-      ],
-      "source": {
-        "name": "ספורט 5+ – שידור הגמר",
-        "url": "https://www.sport5.co.il/liga.aspx?FolderID=12175",
-        "lang": "עברית"
-      },
-      "gender": "men"
     },
     {
       "id": "dubai-p1-2026-day4-r32-results",
@@ -184,14 +173,50 @@
       }
     },
     {
-      "id": "opinion-thenational-triay-interview-dubai-2026-11-11",
-      "publishedAt": "2026-11-11T05:49:00Z",
-      "category": "opinion",
-      "title": "💬 ג׳מה טריאי ב-The National: \"נמאס לי להפסיד, לא לנצח\"",
-      "summary": "מספר 1 בעולם, ג׳מה טריאי, דיברה עם העיתון The National (מאת רים אבולייל) לפני דובאי P1. לדבריה היא מרגישה בטוחה ונוח לה באיחוד האמירויות, והפאדל גדל שם מהר, גם אצל נשים. היא חושבת שהגיע הזמן שהפאדל ייכנס לאולימפיאדה, אולי כספורט הדגמה ב-2032. היא מתכננת לשחק עוד 4–5 שנים, למרות האתגר מול שחקניות צעירות. מה הלאה: מחר (12.11) טריאי/ברעה פותחות בשמינית הגמר מול טלבאן/סאיס.",
+      "id": "padelspain-dubai-polemics-net-warning-2026-11-12",
+      "publishedAt": "2026-11-12T02:00:00Z",
+      "category": "world",
+      "title": "🤨 דובאי: רשת מורמת ואזהרה שהכריעה משחק",
+      "summary": "שתי מחלוקות ביום השני של הטבלה הראשית בדובאי. במשחק של לברון/אוגסבורגר מול קסטניו/פול הרננדס במגרש המרכזי, הרשת נתלתה בערך שלוש אצבעות מעל הרצפה. הרשת זזה לבד, והשופט אמר שאם רגל תעבור מתחת לרשת – זו עבירה. השחקנים, כולל אוגסבורגר, צחקו ולא האמינו, כי לא ראו דבר כזה לפני כן. במשחק אחר, ג׳נסן/איקרדו הובילו 6-2, 5-3 ו-30-40, ואז נוריה רודריגס/דל פוצו קיבלו אזהרה שנייה – והמשחק נגמר בנקודה בעונש. רודריגס אמרה שזה \"מטורף\", והתלונה שלהן לא עזרה.",
       "source": {
-        "name": "The National – רים אבולייל",
-        "url": "https://www.thenationalnews.com/sport/2026/11/11/i-get-tired-of-losing-but-i-dont-get-tired-of-winning-gemma-triay-on-padel-ambition-and-dubai/",
+        "name": "Padel Spain",
+        "url": "https://www.padelspain.net/padel-profesional/835799/el-torneo-de-dubai-acumula-polemicas-en-su-segundo-dia-de-cuadro-final/",
+        "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "ilpa-israel-champ-2026-champions",
+      "publishedAt": "2026-11-11T22:21:38Z",
+      "category": "results",
+      "also": [
+        "israel"
+      ],
+      "keepUntil": "2026-11-13",
+      "title": "🏆 קאמבק של אלופים: דניאל בן הרוש והוד כהן אלופי ישראל בפאדל 2026",
+      "summary": "דניאל בן הרוש והוד כהן הם אלופי ישראל בפאדל לשנת 2026. בגמר קטגוריה A, ששודר הערב בשידור חי בספורט 5+, הם ניצחו את אהרון כהן ונועם כהן 2:1 במערכות: 4-6, 7-6, 6-4. הם הפסידו במערכה הראשונה, ניצחו בשובר שוויון במערכה השנייה, וסגרו את הגמר במערכה השלישית. הזוכים מקבלים 10,000 ש״ח ו-5,000 נקודות דירוג לאומי. האליפות היא של העמותה לקידום הפאדל (ILPA). מזל טוב לאלופים!",
+      "matches": [
+        {
+          "winner": "דניאל בן הרוש / הוד כהן",
+          "loser": "אהרון כהן / נועם כהן",
+          "score": "4-6 7-6 6-4"
+        }
+      ],
+      "source": {
+        "name": "ספורט 5+ – שידור הגמר",
+        "url": "https://www.sport5.co.il/liga.aspx?FolderID=12175",
+        "lang": "עברית"
+      },
+      "gender": "men"
+    },
+    {
+      "id": "opinion-padelmagazine-lebron-changing-dubai-2026-11-11",
+      "publishedAt": "2026-11-11T16:31:47Z",
+      "category": "opinion",
+      "title": "💬 Padel Magazine: \"לברון משתנה\" – הוא כבר לא נשבר",
+      "summary": "הכתב מאסאו זרהט ב-Padel Magazine כותב שחואן לברון נראה שחקן אחר. בעבר לברון איבד ריכוז כשהמשחק הלך רע. מול קסטניו/פול הרננדס, אחרי מערכה ראשונה שהפסידו, לברון לקח שליטה בהחלטות, בשליטה בכדור ובזוויות. לדעתו, כך גם הכוח של אוגסבורגר עבד יותר טוב. מה הלאה: בלי שתי הזוגות הראשונות, הכותב רואה בדובאי הזדמנות גדולה ללברון/אוגסבורגר, אבל הם עוד צריכים יציבות.",
+      "source": {
+        "name": "Padel Magazine – מאסאו זרהט",
+        "url": "https://padel-magazine.co.uk/Dubai-P1-LeBron-Augsburger-overturn-Castano-Hernandez-the-wolf-impresses-again/",
         "lang": "אנגלית"
       }
     },
@@ -208,6 +233,18 @@
       }
     },
     {
+      "id": "opinion-padelmagazine-tournaments-vs-regulars-2026-11-11",
+      "publishedAt": "2026-11-11T13:25:06Z",
+      "category": "opinion",
+      "title": "💬 Padel Magazine: למה טורנירים משפרים אתכם יותר",
+      "summary": "אנטואן טריקולה כותב ב-Padel Magazine שמשחקים קבועים עם אותם חברים נעימים, אבל לפעמים גורמים לשחק בלי חשיבה. בטורניר צריך לבחור: לתקוף או להאריך את הנקודה, מכה יפה או מכה בטוחה. טורניר גם חושף בעיות: לחץ אחרי טעות, איבוד ריכוז ותקשורת חלשה עם בן הזוג. לדעתו, טורניר לבד לא מספיק – צריך להבין מה לא עבד ולתרגל את זה באימון. טיפ שלו: במשחקים הקבועים, להחליף בני זוג ולשחק ברצינות על התוצאה.",
+      "source": {
+        "name": "Padel Magazine – אנטואן טריקולה",
+        "url": "https://padel-magazine.co.uk/Why-tournaments-lead-to-different-progress-than-matches-between-regulars/",
+        "lang": "אנגלית"
+      }
+    },
+    {
       "id": "padelmagazine-triay-brea-no1-dubai-2026-11-11",
       "publishedAt": "2026-11-11T10:09:00Z",
       "category": "world",
@@ -220,14 +257,14 @@
       }
     },
     {
-      "id": "padelmagazine-injuries-stats-2026-11-11",
-      "publishedAt": "2026-11-11T09:29:00Z",
-      "category": "world",
-      "title": "🎯 המספר של היום: 52% מהשחקנים נפצעו בשנה האחרונה",
-      "summary": "מחקר בצרפת שאל 645 שחקני פאדל על פציעות: 52% מהם נפצעו לפחות פעם אחת ב-12 החודשים האחרונים. האזורים שנפגעו הכי הרבה: השוק וגיד אכילס (18.8%) והמרפק (18.5%). שחקנים מעל גיל 40 נפצעו בערך פי 4 יותר. גם בבלגיה בדקו דיווחים על פציעות: 20% בקרסול ו-16% בברך, ו-19 מתוך 203 דיווחים היו פגיעות בעין. למה זה חשוב: חימום טוב ומשקפי מגן יכולים לעזור.",
+      "id": "opinion-padelmagazine-doha-worldcup-week-2026-11-11",
+      "publishedAt": "2026-11-11T09:47:00Z",
+      "category": "opinion",
+      "title": "💬 Padel Magazine: שבוע לא רגיל במונדיאל בדוחה",
+      "summary": "הכתב מסאו זרהאט מ-Padel Magazine מסכם את מונדיאל הפאדל בדוחה. לדעתו, ספרד נשארה המדינה החזקה, וקואייו היה ה\"מלך\", ואימאר גוני הרשים לצד לברון בגמר. הוא כותב שפורטוגל הביאה את האווירה הכי שמחה, ושהפורטוגלית אנה קתרינה נוגיירה, בת 48, שיחקה את המשחקים האחרונים שלה בנבחרת. הוא מציין גם את אורנלה בלטרמינו, בת 13, שניצחה משחק בשביל ארה\"ב. המסקנה שלו: המונדיאל לא תמיד מראה את הפאדל הכי טוב, אבל הוא מלא ברגש.",
       "source": {
-        "name": "Padel Magazine (הודעה לעיתונות)",
-        "url": "https://padelmagazine.fr/blessures-au-padel-cheville-genou-coude-oeil-ce-que-revelent-les-derniers-chiffres/",
+        "name": "Padel Magazine (מסאו זרהאט)",
+        "url": "https://padelmagazine.fr/mondial-2026-une-semaine-pas-comme-les-autres-a-doha/",
         "lang": "צרפתית"
       }
     },
@@ -253,6 +290,18 @@
         "name": "Padel Spain",
         "url": "https://www.padelspain.net/padel-profesional/835784/tapia-y-coello-se-caen-de-dubai-otra-importante-ausencia-para-el-cuadro-masculino/",
         "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "opinion-thenational-triay-interview-dubai-2026-11-11",
+      "publishedAt": "2026-11-11T05:49:00Z",
+      "category": "opinion",
+      "title": "💬 ג׳מה טריאי ב-The National: \"נמאס לי להפסיד, לא לנצח\"",
+      "summary": "מספר 1 בעולם, ג׳מה טריאי, דיברה עם העיתון The National (מאת רים אבולייל) לפני דובאי P1. לדבריה היא מרגישה בטוחה ונוח לה באיחוד האמירויות, והפאדל גדל שם מהר, גם אצל נשים. היא חושבת שהגיע הזמן שהפאדל ייכנס לאולימפיאדה, אולי כספורט הדגמה ב-2032. היא מתכננת לשחק עוד 4–5 שנים, למרות האתגר מול שחקניות צעירות. מה הלאה: מחר (12.11) טריאי/ברעה פותחות בשמינית הגמר מול טלבאן/סאיס.",
+      "source": {
+        "name": "The National – רים אבולייל",
+        "url": "https://www.thenationalnews.com/sport/2026/11/11/i-get-tired-of-losing-but-i-dont-get-tired-of-winning-gemma-triay-on-padel-ambition-and-dubai/",
+        "lang": "אנגלית"
       }
     },
     {
@@ -334,18 +383,6 @@
       }
     },
     {
-      "id": "opinion-padelmagazine-coello-fridge-nieto-2026-11-10",
-      "publishedAt": "2026-11-10T08:47:29Z",
-      "category": "opinion",
-      "title": "💬 Padel Magazine: למה התוכנית נגד קואייו לא עבדה בגמר המונדיאל",
-      "summary": "אנטואן טריקולה ב-Padel Magazine מנתח את גמר המונדיאל: ספרד ניצחה 6-3, 6-2. לדבריו, ליבאק ואלפונסו שלחו את רוב הכדורים לקוקי נייטו כדי להרחיק את המשחק מקואייו. לדעתו זה לא מספיק: לקואייו מספיק כדור אחד טוב כדי לסיים נקודה. הוא כותב שהטקטיקה עובדת רק אם הכדורים לבן הזוג באמת קשים. המסקנה שלו: הניצחון האמיתי הוא של נייטו, שעמד בלחץ.",
-      "source": {
-        "name": "Padel Magazine – אנטואן טריקולה",
-        "url": "https://padelmagazine.fr/coello-au-refrigerateur-nieto-decisif-les-limites-du-ciblage-du-partenaire/",
-        "lang": "צרפתית"
-      }
-    },
-    {
       "id": "ilpa-israel-champ-2026-venues",
       "publishedAt": "2026-11-07T09:54:32Z",
       "category": "israel",
@@ -396,18 +433,6 @@
         "lang": "עברית"
       },
       "keepUntil": "2026-11-12"
-    },
-    {
-      "id": "opinion-padelmagazine-doha-worldcup-week-2026-11-11",
-      "publishedAt": "2026-11-11T09:47:00Z",
-      "category": "opinion",
-      "title": "💬 Padel Magazine: שבוע לא רגיל במונדיאל בדוחה",
-      "summary": "הכתב מסאו זרהאט מ-Padel Magazine מסכם את מונדיאל הפאדל בדוחה. לדעתו, ספרד נשארה המדינה החזקה, וקואייו היה ה\"מלך\", ואימאר גוני הרשים לצד לברון בגמר. הוא כותב שפורטוגל הביאה את האווירה הכי שמחה, ושהפורטוגלית אנה קתרינה נוגיירה, בת 48, שיחקה את המשחקים האחרונים שלה בנבחרת. הוא מציין גם את אורנלה בלטרמינו, בת 13, שניצחה משחק בשביל ארה\"ב. המסקנה שלו: המונדיאל לא תמיד מראה את הפאדל הכי טוב, אבל הוא מלא ברגש.",
-      "source": {
-        "name": "Padel Magazine (מסאו זרהאט)",
-        "url": "https://padelmagazine.fr/mondial-2026-une-semaine-pas-comme-les-autres-a-doha/",
-        "lang": "צרפתית"
-      }
     }
   ],
   "upcoming": [
