@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T12:34:53Z",
+  "updatedAt": "2026-11-13T14:40:00Z",
   "live": {
     "title": "דובאי P1 (8–15.11) – יום שישי 13.11: רבעי הגמר בגברים ובנשים",
     "date": "2026-11-13",
@@ -8,7 +8,8 @@
       {
         "time": "10:00",
         "what": "👩 טריאי/ברעה נגד ג׳נסן/איקרדו · מגרש מרכזי · 📺 Red Bull TV",
-        "result": ""
+        "result": "ג׳נסן/איקרדו ניצחו 6-3, 3-6, 6-1",
+        "live": false
       },
       {
         "time": "10:00",
@@ -28,7 +29,8 @@
       {
         "time": "13:00",
         "what": "👩 אריאנה סאנצ׳ס/אוסטרו נגד ולסקו/אאוחניו · מגרש מרכזי (משוער)",
-        "result": ""
+        "result": "סאנצ׳ס/אוסטרו ניצחו 6-2, 6-3",
+        "live": false
       },
       {
         "time": "14:30",
@@ -48,6 +50,46 @@
     ]
   },
   "items": [
+    {
+      "id": "dubai-p1-2026-qf-jensen-icardo-beat-triay-brea",
+      "publishedAt": "2026-11-13T11:06:04Z",
+      "category": "results",
+      "gender": "women",
+      "title": "👩 😱 טריאי/ברעה בחוץ! ג׳נסן/איקרדו הדיחו אותן ברבע הגמר",
+      "summary": "הזוג המדורג ראשון בעולם הודח ברבע הגמר בדובאי. קלאודיה ג׳נסן/תמרה איקרדו (מדורגות 6) ניצחו את ג׳מה טריאי/דלפי ברעה 6-3, 3-6, 6-1. טריאי/ברעה לקחו את המערכה השנייה, אבל במערכה השלישית ג׳נסן/איקרדו שלטו לגמרי. למה זה חשוב: טריאי/ברעה כבר לא יכולות לסגור בדובאי את המקום הראשון לסוף השנה – המרוץ מול סאנצ׳ס/אוסטרו נפתח מחדש.",
+      "matches": [
+        {
+          "winner": "ג׳נסן/איקרדו",
+          "loser": "טריאי/ברעה",
+          "score": "6-3, 3-6, 6-1"
+        }
+      ],
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/dubai-p1-coup-de-tonnerre-triay-brea-eliminees-des-les-quarts-la-course-au-numero-1-mondial-totalement-relancee/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "dubai-p1-2026-qf-sanchez-ustero-semis",
+      "publishedAt": "2026-11-13T13:31:45Z",
+      "category": "results",
+      "gender": "women",
+      "title": "👩 סאנצ׳ס/אוסטרו בחצי הגמר: 6-2, 6-3 מהיר",
+      "summary": "אריאנה סאנצ׳ס/אנדראה אוסטרו עלו לחצי הגמר בדובאי. הן ניצחו את חימנה ולסקו/רקל אאוחניו 6-2, 6-3. הן זכו ב-61 מתוך 101 נקודות (60%), ו-73% מהנקודות על ההגשה שלהן. מה הלאה: בחצי הגמר הן יפגשו את פאולה חוסמריה/ביאה גונסלס. עם ההדחה של טריאי/ברעה, זה סיכוי גדול שלהן במרוץ למקום הראשון.",
+      "matches": [
+        {
+          "winner": "סאנצ׳ס/אוסטרו",
+          "loser": "ולסקו/אאוחניו",
+          "score": "6-2, 6-3"
+        }
+      ],
+      "source": {
+        "name": "Diari de Tarragona",
+        "url": "https://www.diaridetarragona.com/deportes/275653/ari-sanchez-andrea-ustero-meten-semifinales-dubai-p1.html",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "opinion-padelmagazine-dubai-qf-preview-2026-11-13",
       "publishedAt": "2026-11-13T07:43:00Z",
@@ -243,30 +285,6 @@
       "source": {
         "name": "Padel Magazine – מאסאו זרהט",
         "url": "https://padel-magazine.co.uk/Dubai-P1-LeBron-Augsburger-overturn-Castano-Hernandez-the-wolf-impresses-again/",
-        "lang": "אנגלית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-dubai-who-profits-2026-11-11",
-      "publishedAt": "2026-11-11T13:33:32Z",
-      "category": "opinion",
-      "title": "💬 Padel Magazine: מי ינצל את דובאי בלי שתי הצמרות?",
-      "summary": "רפאל דז׳ירונד ב-Padel Magazine כותב: בלי קואייו/טאפיה ובלי גלאן/צ׳ינגוטו, הטורניר בדובאי פתוח מאוד. לדעתו לברון/אוגסבורגר הם הפייבוריטים – הזוג היחיד שניצח את הצמרת העונה, בגמר בריסל באפריל. סטופאצ׳וק/סאנס הפסידו 3 גמרים ברצף לקואייו/טאפיה, ועכשיו יש להם הזדמנות. הוא מזכיר גם את ינגואס/קוקי נייטו, ואת גררו/לאל וליבאק/אלפונסו כזוגות שיכולים להפתיע.",
-      "source": {
-        "name": "Padel Magazine – רפאל דז׳ירונד",
-        "url": "https://padelmagazine.fr/dubai-p1-sans-coello-tapia-ni-galan-chingotto-qui-pour-en-profiter/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-tournaments-vs-regulars-2026-11-11",
-      "publishedAt": "2026-11-11T13:25:06Z",
-      "category": "opinion",
-      "title": "💬 Padel Magazine: למה טורנירים משפרים אתכם יותר",
-      "summary": "אנטואן טריקולה כותב ב-Padel Magazine שמשחקים קבועים עם אותם חברים נעימים, אבל לפעמים גורמים לשחק בלי חשיבה. בטורניר צריך לבחור: לתקוף או להאריך את הנקודה, מכה יפה או מכה בטוחה. טורניר גם חושף בעיות: לחץ אחרי טעות, איבוד ריכוז ותקשורת חלשה עם בן הזוג. לדעתו, טורניר לבד לא מספיק – צריך להבין מה לא עבד ולתרגל את זה באימון. טיפ שלו: במשחקים הקבועים, להחליף בני זוג ולשחק ברצינות על התוצאה.",
-      "source": {
-        "name": "Padel Magazine – אנטואן טריקולה",
-        "url": "https://padel-magazine.co.uk/Why-tournaments-lead-to-different-progress-than-matches-between-regulars/",
         "lang": "אנגלית"
       }
     }
