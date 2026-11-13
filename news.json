@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T20:45:00Z",
+  "updatedAt": "2026-11-13T20:55:00Z",
   "live": {
     "title": "דובאי P1 (8–15.11) – שבת 14.11: חצאי הגמר בגברים ובנשים",
     "date": "2026-11-14",
@@ -159,6 +159,18 @@
       "source": {
         "name": "Diari de Tarragona",
         "url": "https://www.diaridetarragona.com/deportes/275653/ari-sanchez-andrea-ustero-meten-semifinales-dubai-p1.html",
+        "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "opinion-padelmagazine-race-number1-reopens-2026-11-13",
+      "publishedAt": "2026-11-13T11:06:04Z",
+      "category": "opinion",
+      "title": "💬 Padel Magazine: המרוץ למקום הראשון בנשים נפתח מחדש",
+      "summary": "הכתב מאסאו זרהט ב-Padel Magazine כותב שההפסד של טריאי/ברעה בדובאי פותח מחדש את המרוץ למקום הראשון בעולם. לפני דובאי הן הובילו ב-2,780 נקודות על סאנצ׳ס/אוסטרו. אם סאנצ׳ס/אוסטרו יזכו בדובאי, הפער יירד לכ-1,960 נקודות. לדעתו טריאי/ברעה עדיין בפתח טוב, אבל עכשיו יש לרודפות סיכוי אמיתי. מה הלאה: עוד כ-3,500 נקודות במקסיקו ובגמר העונה בברצלונה.",
+      "source": {
+        "name": "Padel Magazine – Maceo Zerhat",
+        "url": "https://padel-magazine.es/Dubai-P1-Thunderclap-Triay-Brea-eliminado-en-cuartos-de-final-la-carrera-por-el-n%C3%BAmero-1-del-mundo-se-relanza-por-completo/",
         "lang": "ספרדית"
       }
     },
