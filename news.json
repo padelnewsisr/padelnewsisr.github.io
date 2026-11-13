@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T07:32:52Z",
+  "updatedAt": "2026-11-13T09:33:02Z",
   "live": {
     "title": "דובאי P1 (8–15.11) – יום שישי 13.11: רבעי הגמר בגברים ובנשים",
     "date": "2026-11-13",
@@ -48,6 +48,42 @@
     ]
   },
   "items": [
+    {
+      "id": "opinion-padelmagazine-dubai-qf-preview-2026-11-13",
+      "publishedAt": "2026-11-13T07:43:00Z",
+      "category": "opinion",
+      "title": "💬 Padel Magazine: רבעי גמר פתוחים בדובאי – טייו/ארסה מאיימים על לברון",
+      "summary": "הכתב מאסאו זרהט ב-Padel Magazine כותב שרבעי הגמר בדובאי פתוחים מאוד. לדעתו המשחק הגדול של היום הוא טייו/ארסה נגד לברון/אוגסבורגר: לברון/אוגסבורגר בין המועמדים לתואר, אבל הכוח והאגרסיביות של טייו/ארסה יכולים להקשות עליהם. אצל הנשים טריאי/ברעה הן הפייבוריטיות, וגם נלחמות על המקום הראשון בסוף העונה. גארידו/דה פסקואל כבר ניצחו זוגות חזקים מהם, ויכולים להפתיע את סטופאצ׳וק/סאנס.",
+      "source": {
+        "name": "Padel Magazine – מאסאו זרהט",
+        "url": "https://padelmagazine.fr/dubai-p1-des-quarts-de-finale-tres-ouverts-avec-un-choc-tello-arce-face-a-lebron-augsburger/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "opinion-padelmagazine-big-clubs-competitions-2026-11-13",
+      "publishedAt": "2026-11-13T07:37:00Z",
+      "category": "opinion",
+      "title": "💬 Padel Magazine: תחרויות גדולות רק למועדונים גדולים?",
+      "summary": "פרנק ביניסטי ב-Padel Magazine שואל אם מועדונים קטנים יוכלו עוד לארח תחרויות גדולות. התנאים החדשים של איגוד הטניס הצרפתי (FFT) ל-2028 דורשים לרוב לפחות 8 מגרשים, ובאליפות צרפת לוותיקים 10 מגרשים. צריך גם תקרה בגובה 7 מטר לפחות, חדרי הלבשה, עזרה רפואית, אבטחה ומקום לקהל. לדעתו, התשובה תלויה באיזון שהאיגוד ימצא בין איכות האירועים לבין פתיחות למועדונים קטנים.",
+      "source": {
+        "name": "Padel Magazine – פרנק ביניסטי",
+        "url": "https://padelmagazine.fr/padel-les-grandes-competitions-reservees-aux-grands-clubs/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "world-triay-brea-number1-math-dubai-2026-11-13",
+      "publishedAt": "2026-11-13T02:59:00Z",
+      "category": "world",
+      "title": "🎯 2,780 נקודות: טריאי/ברעה קרובות לסגור את המקום הראשון",
+      "summary": "ג׳מה טריאי ודלפי ברעה יכולות להבטיח כבר בדובאי את המקום הראשון של 2026. יש להן 14,020 נקודות, ולאריאנה סאנצ׳ס ואנדריאה אוסטרו יש 11,240 – פער של 2,780. אם טריאי/ברעה יזכו בדובאי וסאנצ׳ס/אוסטרו יפסידו עד רבע הגמר, הפער יהיה 3,600 נקודות, ונשארו רק 3,500 נקודות לשחק. מה הלאה: היום ב-10:00 (שעון ישראל) הן משחקות ברבע הגמר נגד ג׳נסן/איקרדו · 📺 Red Bull TV.",
+      "source": {
+        "name": "Menorca.info – ז׳ואן ז׳ואניקו",
+        "url": "https://www.menorca.info/deportes/polideportivo/2026/11/13/2748681/cabalas-gemma-triay-para-atar-dubai-numero-premier-padel.html",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "calendar-where-to-watch-dubai-p1-2026-qf",
       "publishedAt": "2026-11-12T23:37:12Z",
@@ -135,18 +171,6 @@
       "source": {
         "name": "Padel Magazine – מאסאו זרהט (על ראיון ב-el4Set)",
         "url": "https://padelmagazine.fr/gonzalo-alfonso-sur-sa-separation-avec-tolito-aguirre-ca-a-ete-douloureux-triste/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "padelmagazine-rcc-master-final-russia-coello-chingotto-2026-11-12",
-      "publishedAt": "2026-11-12T09:13:00Z",
-      "category": "world",
-      "title": "😮 קואייו וצ׳ינגוטו יחד: גמר ליגת RCC ברוסיה",
-      "summary": "שני יריבים גדולים ישחקו כזוג: ארטורו קואייו ופדה צ׳ינגוטו. זה יהיה ב-Master Final של ליגת RCC, בעיר יקטרינבורג ברוסיה, ב-3–5.12. צ׳ינגוטו צפוי לשחק בצד שמאל, וזה לא רגיל אצלו. השותפים הקבועים שלהם, טאפיה וגלאן, לא זמינים. עוד זוגות: לברון/אוגסבורגר, נבארו/די נינו, סאניו/אלפונסו וגררו/לאל – 17 זוגות בסך הכול. למה זה חשוב: הזוג המנצח יקבל 150 אלף יורו ושתי מכוניות ספורט. זה לא טורניר של Premier Padel.",
-      "source": {
-        "name": "Padel Magazine – מאסאו זרהט",
-        "url": "https://padelmagazine.fr/coello-chingotto-reunis-lebron-augsburger-navarro-di-nenno-un-plateau-surprenant-pour-le-master-final-en-russie/",
         "lang": "צרפתית"
       }
     },
@@ -255,18 +279,6 @@
       "source": {
         "name": "Padel Magazine (מסאו זרהאט)",
         "url": "https://padelmagazine.fr/mondial-2026-une-semaine-pas-comme-les-autres-a-doha/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-ayma-france-netherlands-2026-11-11",
-      "publishedAt": "2026-11-11T08:04:00Z",
-      "category": "opinion",
-      "title": "💬 מאמן צרפת אימה: \"זו אשמתי\" – ההפסד להולנד במונדיאל",
-      "summary": "פבלו אימה, המאמן הספרדי של נבחרת הגברים של צרפת, דיבר עם Padel Magazine אחרי מונדיאל הפאדל. צרפת הודחה בשלב הבתים וסיימה במקום 9. לדבריו, במשחק הפתיחה נגד הולנד השחקנים היו לחוצים ועשו טעויות שאי אפשר להסביר, והוא לקח על עצמו את האחריות. הוא אמר שקשה לארגן מחנות אימון כי לוח התחרויות של FIP ו-Premier Padel עמוס מאוד. מה הלאה: הוא רוצה להשאיר יחד את גישאר/בלנקה, ומאמין שצרפת יכולה להגיע לחצי הגמר בפעם הבאה.",
-      "source": {
-        "name": "Padel Magazine – Maceo Zerhat",
-        "url": "https://padelmagazine.fr/pablo-ayma-apres-le-mondial-ce-qui-sest-passe-contre-les-pays-bas-est-inexplicable/",
         "lang": "צרפתית"
       }
     }
