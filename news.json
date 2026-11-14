@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T20:55:00Z",
+  "updatedAt": "2026-11-14T22:33:25Z",
   "live": {
     "title": "דובאי P1 (8–15.11) – ראשון 15.11: הגמרים",
     "date": "2026-11-15",
@@ -18,6 +18,18 @@
     ]
   },
   "items": [
+    {
+      "id": "world-dubai-race-finals-barcelona-2026-11-14",
+      "publishedAt": "2026-11-14T20:06:16Z",
+      "category": "world",
+      "title": "🏁 הגמר בדובאי מכריע גם את המרוץ לברצלונה",
+      "summary": "הגמר מחר בדובאי חשוב גם למרוץ לגמר העונה בברצלונה. לפי Padel Addict, אלפונסו במקום 20 וליבאק במקום 22 במרוץ, ונקודות הגמר יכולות לקרב אותם לכרטיס. שני המקומות האחרונים ייקבעו במייג'ור מקסיקו באקפולקו. אצל הנשים: אחרי ההפסד של סאנצ׳ס/אוסטרו, טריאי/ברעה יבטיחו את המקום הראשון בעולם אם יגיעו לחצי הגמר באקפולקו. חוסמריה/גונסלס כבר הבטיחו מקום 2 בדירוג הזוגות במקסיקו. מה הלאה: גמר הגברים מחר, לא לפני 18:00 שעון ישראל · 📺 Red Bull TV.",
+      "source": {
+        "name": "Padel Addict (Ángel González)",
+        "url": "https://www.padeladdict.com/las-semifinales-del-dubai-p1-reparten-los-ultimos-billetes-para-la-gran-final/",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "dubai-p1-2026-sf-men-libaak-alfonso-beat-depascual-garrido",
       "publishedAt": "2026-11-14T18:33:00Z",
@@ -56,6 +68,18 @@
         "name": "Padel Magazine",
         "url": "https://padel-magazine.es/Dubai-P1-demasiado-fuerte-para-Abbate-Dal-Bianco--LeBron-y-Augsburger-corren-hacia-la-final/",
         "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "opinion-padelmagazine-lebron-augsburger-favorites-final-2026-11-14",
+      "publishedAt": "2026-11-14T17:10:20Z",
+      "category": "opinion",
+      "title": "💬 Padel Magazine: לברון/אוגסבורגר – הפייבוריטים הגדולים לגמר",
+      "summary": "לדעת בנז׳מין דופוי מ-Padel Magazine, לברון ואוגסבורגר יעלו לגמר מחר כ\"פייבוריטים מוחלטים\". לדבריו, בחצי הגמר הייתה להם תוכנית ברורה: לשלוח כמה שיותר כדורים לאבאטה, ולהשאיר את דל ביאנקו מחוץ למשחק. לפי הכתבה, הם זכו ב-40 נקודות מנצחות מול 18, ולאבאטה/דל ביאנקו לא היה אף כדור שבירה. מה הלאה: גמר נגד ליבאק/אלפונסו, לא לפני 18:00 שעון ישראל.",
+      "source": {
+        "name": "Padel Magazine (Benjamin Dupouy)",
+        "url": "https://padel-magazine.co.uk/Dubai-P1-too-strong-for-Abbate-Dal-Bianco--LeBron-and-Augsburger-are-racing-towards-the-final/",
+        "lang": "אנגלית"
       }
     },
     {
@@ -155,18 +179,6 @@
       "source": {
         "name": "AnalistasPadel – ז׳ורדי מרטינס",
         "url": "https://www.analistaspadel.com/resultados-cuartos-final-dubai-p1-2026/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "calendar-dubai-p1-2026-semis-order-of-play",
-      "publishedAt": "2026-11-13T20:56:23Z",
-      "category": "calendar",
-      "title": "📺 מחר: חצאי הגמר בדובאי – השעות נקבעו",
-      "summary": "סדר המשחקים של חצאי הגמר בדובאי פורסם. 👩 הנשים מתחילות ב-14:00 שעון ישראל: ג׳נסן/איקרדו נגד קאלבו/פרננדס, ומיד אחריהן סאנצ׳ס/אוסטרו נגד חוסמריה/גונסלס. 👨 הגברים לא לפני 17:00: אבאטה/דל ביאנקו נגד לברון/אוגסבורגר, ומיד אחריהם דה פסקואל/גארידו נגד ליבאק/אלפונסו. איפה לראות: Red Bull TV חינם ברוב העולם; במזרח התיכון beIN SPORTS ו-TOD.",
-      "source": {
-        "name": "El Neverazo",
-        "url": "https://www.elneverazo.com/dubai-premier-padel-p1-2026-horarios-y-retransmision-de-las-semifinales/",
         "lang": "ספרדית"
       }
     },
