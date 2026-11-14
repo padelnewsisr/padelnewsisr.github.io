@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T16:33:04Z",
+  "updatedAt": "2026-11-14T18:33:20Z",
   "live": {
     "title": "דובאי P1 (8–15.11) – שבת 14.11: חצאי הגמר בגברים ובנשים",
     "date": "2026-11-14",
@@ -20,18 +20,38 @@
       {
         "time": "17:00",
         "what": "👨 אבאטה/דל ביאנקו נגד לברון/אוגסבורגר (לא לפני 17:00)",
-        "result": "",
+        "result": "לברון/אוגסבורגר ניצחו 6-4, 6-2",
         "live": false
       },
       {
         "time": "",
         "what": "👨 דה פסקואל/גארידו נגד ליבאק/אלפונסו (מיד אחרי)",
         "result": "",
-        "live": false
+        "live": true
       }
     ]
   },
   "items": [
+    {
+      "id": "dubai-p1-2026-sf-men-lebron-augsburger-beat-abbate-dalbianco",
+      "publishedAt": "2026-11-14T17:10:20Z",
+      "category": "results",
+      "gender": "men",
+      "title": "👨 🔥 לברון/אוגסבורגר בגמר דובאי! 6-4, 6-2 על אבאטה/דל ביאנקו",
+      "summary": "לברון ואוגסבורגר עצרו את ההפתעה של הטורניר. הם ניצחו את אבאטה/דל ביאנקו 6-4, 6-2 בשעה ו-4 דקות. המערכה הראשונה הייתה צמודה, ושבירה ב-4-4 הכריעה אותה. במערכה השנייה הם שברו פעמיים וברחו. מה הלאה: בגמר מחר (15.11) הם יפגשו את המנצחים של ליבאק/אלפונסו נגד דה פסקואל/גארידו.",
+      "matches": [
+        {
+          "winner": "לברון/אוגסבורגר",
+          "loser": "אבאטה/דל ביאנקו",
+          "score": "6-4, 6-2"
+        }
+      ],
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padel-magazine.es/Dubai-P1-demasiado-fuerte-para-Abbate-Dal-Bianco--LeBron-y-Augsburger-corren-hacia-la-final/",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "dubai-p1-2026-sf-women-josemaria-gonzalez-beat-sanchez-ustero",
       "publishedAt": "2026-11-14T16:05:00Z",
@@ -173,55 +193,6 @@
       "source": {
         "name": "Padel Addict – Ángel González",
         "url": "https://www.padeladdict.com/de-pascual-garrido-y-abbate-dal-bianco-se-cuelan-en-las-semis-de-un-dubai-p1-de-sorpresas/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "world-abbate-first-italian-semis-dubai-2026-11-13",
-      "publishedAt": "2026-11-13T18:30:17Z",
-      "category": "world",
-      "title": "⭐ היסטוריה: אבאטה – האיטלקי הראשון בחצי גמר Premier Padel",
-      "summary": "פלביו אבאטה עשה היסטוריה בדובאי. הוא האיטלקי הראשון בגברים שמגיע לחצי גמר של Premier Padel. הוא ופרנקו דל ביאנקו התחילו במוקדמות, כזוג מדורג 30, וזו התוצאה הטובה ביותר שלהם בסבב. מה הלאה: חצי גמר בשבת נגד לברון/אוגסבורגר.",
-      "profile": {
-        "icon": "⭐",
-        "flag": "🇮🇹",
-        "name": "פלביו אבאטה",
-        "line": "מהמוקדמות עד חצי הגמר בדובאי",
-        "stat": "האיטלקי הראשון בחצי גמר"
-      },
-      "source": {
-        "name": "Padel Addict – Adriana Díaz Pérez",
-        "url": "https://www.padeladdict.com/abbate-historia-semifinales-dubai-p1/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "dubai-p1-2026-qf-men-lebron-abbate-libaak",
-      "publishedAt": "2026-11-13T18:30:17Z",
-      "category": "results",
-      "gender": "men",
-      "title": "👨 דובאי: לברון/אוגסבורגר, אבאטה/דל ביאנקו וליבאק/אלפונסו בחצי הגמר",
-      "summary": "שלושה זוגות כבר עלו לחצי הגמר בגברים בדובאי. לברון/אוגסבורגר ניצחו את טייו/ארסה 6-3, 3-6, 6-2 – הפסידו מערכה ואז שלטו במערכה השלישית. אבאטה/דל ביאנקו, שהגיעו מהמוקדמות, ניצחו את מומו גונסלס/קמפניולו (מדורגים 8) 7-6, 3-6, 6-2. ליבאק/אלפונסו ניצחו את באוטיסטה/ברגמיני 4-6, 6-3, 7-6 בשובר שוויון (לפי טבלת התוצאות של Actu Padel). מה הלאה: בשבת 14.11 – אבאטה/דל ביאנקו נגד לברון/אוגסבורגר, וליבאק/אלפונסו נגד דה פסקואל/גארידו. 📺 Red Bull TV.",
-      "matches": [
-        {
-          "winner": "לברון/אוגסבורגר",
-          "loser": "טייו/ארסה",
-          "score": "6-3, 3-6, 6-2"
-        },
-        {
-          "winner": "אבאטה/דל ביאנקו",
-          "loser": "מומו גונסלס/קמפניולו",
-          "score": "7-6, 3-6, 6-2"
-        },
-        {
-          "winner": "ליבאק/אלפונסו",
-          "loser": "באוטיסטה/ברגמיני",
-          "score": "4-6, 6-3, 7-6"
-        }
-      ],
-      "source": {
-        "name": "Padel Addict",
-        "url": "https://www.padeladdict.com/abbate-historia-semifinales-dubai-p1/",
         "lang": "ספרדית"
       }
     },
