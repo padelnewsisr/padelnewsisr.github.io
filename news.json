@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T07:31:51Z",
+  "updatedAt": "2026-11-14T09:40:00Z",
   "live": {
     "title": "דובאי P1 (8–15.11) – שבת 14.11: חצאי הגמר בגברים ובנשים",
     "date": "2026-11-14",
@@ -28,6 +28,30 @@
     ]
   },
   "items": [
+    {
+      "id": "opinion-padelmagazine-garrido-depascual-target-sanz-2026-11-14",
+      "publishedAt": "2026-11-14T08:51:00Z",
+      "category": "opinion",
+      "title": "💬 Padel Magazine: הסוד של דה פסקואל/גארידו – לשחק על סאנס",
+      "summary": "לפי Padel Magazine, דה פסקואל/גארידו ניצחו את סטופאצ׳וק/סאנס כי שלחו כמעט כל כדור לג׳ון סאנס. הם המשיכו כך גם כשסאנס הצליח במכות יפות. לדעת הכתב, הסמאשים שלהם והמגרש המהיר בדובאי עזרו להם מאוד. מה הלאה: היום בחצי הגמר נגד ליבאק/אלפונסו, אחרי חצי הגמר של לברון/אוגסבורגר (לא לפני 17:00).",
+      "source": {
+        "name": "Padel Magazine (אנטואן טריקולה)",
+        "url": "https://padelmagazine.fr/garrido-de-pascual-cibler-sanz-et-garder-le-cap-pour-rejoindre-les-demi-finales/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "opinion-padelmagazine-piris-spain-worlds-2030-2026-11-14",
+      "publishedAt": "2026-11-14T08:32:51Z",
+      "category": "opinion",
+      "title": "💬 נשיא פדרציית ספרד: \"רוצה את אליפות העולם בספרד ב-2030\"",
+      "summary": "חאבייר רודריגס פיריס, נשיא פדרציית הפאדל של ספרד, דיבר עם העיתון Marca אחרי ששתי נבחרות ספרד זכו במונדיאל בדוחה. הוא אמר שהוא רוצה שספרד תארח את אליפות העולם ב-2030. הוא חושב שצרפת, איטליה, הולנד, שוודיה ופורטוגל מתקרבות לספרד. הוא גם מקווה שפאדל ייכנס לאולימפיאדה ב-2036. למה זה חשוב: אין עדיין הגשת מועמדות רשמית – זו משאלה שלו.",
+      "source": {
+        "name": "Padel Magazine (בנז׳מן דופואי, על ראיון ב-Marca)",
+        "url": "https://padelmagazine.fr/javier-rodriguez-piris-jaimerais-que-lespagne-accueille-les-championnats-du-monde-en-2030/",
+        "lang": "צרפתית"
+      }
+    },
     {
       "id": "opinion-padelspain-dubai-revolution-semis-2026-11-14",
       "publishedAt": "2026-11-14T06:00:00Z",
