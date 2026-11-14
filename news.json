@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T03:32:48Z",
+  "updatedAt": "2026-11-14T07:31:51Z",
   "live": {
     "title": "דובאי P1 (8–15.11) – שבת 14.11: חצאי הגמר בגברים ובנשים",
     "date": "2026-11-14",
@@ -28,6 +28,30 @@
     ]
   },
   "items": [
+    {
+      "id": "opinion-padelspain-dubai-revolution-semis-2026-11-14",
+      "publishedAt": "2026-11-14T06:00:00Z",
+      "category": "opinion",
+      "title": "💬 PadelSpain: מהפכה בדובאי – רק זוג אחד מהטופ 4 בחצי הגמר",
+      "summary": "לפי PadelSpain, חצאי הגמר בגברים בדובאי \"מפתיעים ומושכים\" באותה מידה. שני הזוגות הראשונים בדירוג לא משחקים בטורניר, ורק לברון/אוגסבורגר נשארו מהטופ 4. האתר מדגיש שלכל אחד מארבעת הזוגות הייתה דרך אחרת: גארידו/דה פסקואל ניצחו את סטופאצ׳וק/סאנס 6-1, 7-5, ואבאטה/דל ביאנקו ניצחו אחרי יותר משעתיים 7-6, 3-6, 6-3. מה הלאה: היום, לא לפני 17:00 (שעון ישראל), אבאטה/דל ביאנקו נגד לברון/אוגסבורגר.",
+      "source": {
+        "name": "PadelSpain",
+        "url": "https://www.padelspain.net/padel-profesional/835890/revolucion-en-dubai-solo-una-pareja-del-top-4-jugara-las-semifinales/",
+        "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "opinion-analistaspadel-dubai-open-finish-2026-11-14",
+      "publishedAt": "2026-11-13T23:44:00Z",
+      "category": "opinion",
+      "title": "💬 AnalistasPadel: בדובאי הכול פתוח – אבאטה/דל ביאנקו הם ההפתעה",
+      "summary": "הכותב ז׳ורדי מרטינס באתר AnalistasPadel חושב שהסיום בדובאי \"פתוח לגמרי\". לדבריו אבאטה/דל ביאנקו הם \"הגילוי\" של הטורניר, אבל מול לברון/אוגסבורגר מחכה להם מבחן גדול. הוא רואה סיכוי אמיתי לליבאק/אלפונסו להגיע לגמר P1, אבל מזהיר שגארידו/דה פסקואל מגיעים בכושר טוב. בנשים הוא מצפה במיוחד לחצי הגמר סאנצ׳ס/אוסטרו נגד חוסמריה/גונסלס.",
+      "source": {
+        "name": "AnalistasPadel – ז׳ורדי מרטינס",
+        "url": "https://www.analistaspadel.com/resultados-cuartos-final-dubai-p1-2026/",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "calendar-dubai-p1-2026-semis-order-of-play",
       "publishedAt": "2026-11-13T20:56:23Z",
@@ -147,26 +171,6 @@
       }
     },
     {
-      "id": "dubai-p1-2026-qf-jensen-icardo-beat-triay-brea",
-      "publishedAt": "2026-11-13T11:06:04Z",
-      "category": "results",
-      "gender": "women",
-      "title": "👩 😱 טריאי/ברעה בחוץ! ג׳נסן/איקרדו הדיחו אותן ברבע הגמר",
-      "summary": "הזוג המדורג ראשון בעולם הודח ברבע הגמר בדובאי. קלאודיה ג׳נסן/תמרה איקרדו (מדורגות 6) ניצחו את ג׳מה טריאי/דלפי ברעה 6-3, 3-6, 6-1. טריאי/ברעה לקחו את המערכה השנייה, אבל במערכה השלישית ג׳נסן/איקרדו שלטו לגמרי. למה זה חשוב: טריאי/ברעה כבר לא יכולות לסגור בדובאי את המקום הראשון לסוף השנה – המרוץ מול סאנצ׳ס/אוסטרו נפתח מחדש.",
-      "matches": [
-        {
-          "winner": "ג׳נסן/איקרדו",
-          "loser": "טריאי/ברעה",
-          "score": "6-3, 3-6, 6-1"
-        }
-      ],
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/dubai-p1-coup-de-tonnerre-triay-brea-eliminees-des-les-quarts-la-course-au-numero-1-mondial-totalement-relancee/",
-        "lang": "צרפתית"
-      }
-    },
-    {
       "id": "dubai-p1-2026-qf-sanchez-ustero-semis",
       "publishedAt": "2026-11-13T13:31:45Z",
       "category": "results",
@@ -184,6 +188,26 @@
         "name": "Diari de Tarragona",
         "url": "https://www.diaridetarragona.com/deportes/275653/ari-sanchez-andrea-ustero-meten-semifinales-dubai-p1.html",
         "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "dubai-p1-2026-qf-jensen-icardo-beat-triay-brea",
+      "publishedAt": "2026-11-13T11:06:04Z",
+      "category": "results",
+      "gender": "women",
+      "title": "👩 😱 טריאי/ברעה בחוץ! ג׳נסן/איקרדו הדיחו אותן ברבע הגמר",
+      "summary": "הזוג המדורג ראשון בעולם הודח ברבע הגמר בדובאי. קלאודיה ג׳נסן/תמרה איקרדו (מדורגות 6) ניצחו את ג׳מה טריאי/דלפי ברעה 6-3, 3-6, 6-1. טריאי/ברעה לקחו את המערכה השנייה, אבל במערכה השלישית ג׳נסן/איקרדו שלטו לגמרי. למה זה חשוב: טריאי/ברעה כבר לא יכולות לסגור בדובאי את המקום הראשון לסוף השנה – המרוץ מול סאנצ׳ס/אוסטרו נפתח מחדש.",
+      "matches": [
+        {
+          "winner": "ג׳נסן/איקרדו",
+          "loser": "טריאי/ברעה",
+          "score": "6-3, 3-6, 6-1"
+        }
+      ],
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/dubai-p1-coup-de-tonnerre-triay-brea-eliminees-des-les-quarts-la-course-au-numero-1-mondial-totalement-relancee/",
+        "lang": "צרפתית"
       }
     },
     {
