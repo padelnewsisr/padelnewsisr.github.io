@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T12:32:47Z",
+  "updatedAt": "2026-11-14T14:33:14Z",
   "live": {
     "title": "דובאי P1 (8–15.11) – שבת 14.11: חצאי הגמר בגברים ובנשים",
     "date": "2026-11-14",
@@ -8,8 +8,8 @@
       {
         "time": "14:00",
         "what": "👩 ג׳נסן/איקרדו נגד קאלבו/קלאודיה פרננדס · 📺 Red Bull TV",
-        "result": "",
-        "live": true
+        "result": "קאלבו/פרננדס ניצחו 6-3, 6-1",
+        "live": false
       },
       {
         "time": "",
@@ -32,6 +32,38 @@
     ]
   },
   "items": [
+    {
+      "id": "dubai-p1-2026-sf-women-calvo-fernandez-beat-jensen-icardo",
+      "publishedAt": "2026-11-14T13:41:40Z",
+      "category": "results",
+      "gender": "women",
+      "title": "👩 🔥 קאלבו/פרננדס בגמר דובאי! 6-3, 6-1 על ג׳נסן/איקרדו",
+      "summary": "מרטינה קאלבו וקלאודיה פרננדס עלו לגמר דובאי P1. הן ניצחו את טמרה איקרדו וקלאודיה ג׳נסן 6-3, 6-1. במערכה הראשונה ג׳נסן/איקרדו פתחו טוב והיו להן כמה נקודות שבירה, אבל הן לא ניצלו אותן. ב-4-3 איקרדו עשתה שתי טעויות חשובות, וקאלבו/פרננדס סגרו 6-3. במערכה השנייה קאלבו/פרננדס לחצו יותר, שברו פעמיים וניצחו 6-1. מה הלאה: בגמר ביום ראשון (15.11) הן יפגשו את המנצחות בין סאנצ׳ס/אוסטרו לחוסמריה/גונסלס.",
+      "matches": [
+        {
+          "winner": "קאלבו/פרננדס",
+          "loser": "ג׳נסן/איקרדו",
+          "score": "6-3, 6-1"
+        }
+      ],
+      "source": {
+        "name": "Padel Magazine (Benjamín Dupouy)",
+        "url": "https://padel-magazine.es/Dubai-P1-Calvo-y-Fern%C3%A1ndez-regresan-a-la-final-tras-una-demostraci%C3%B3n-contra-Icardo-Jensen./",
+        "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "world-dubai-semis-first-timers-2026-11-14",
+      "publishedAt": "2026-11-14T10:31:48Z",
+      "category": "world",
+      "title": "🎯 3 שחקנים בחצי גמר ראשון שלהם – הערב בדובאי",
+      "summary": "בחצאי הגמר של הגברים בדובאי אין את טאפיה/קואייו ואין את גלאן/צ׳ינגוטו. רק לברון/אוגסבורגר נשארו מ-8 הזוגות המדורגים הראשונים. אבאטה (22), דל ביאנקו ודה פסקואל משחקים בחצי גמר Premier Padel בפעם הראשונה. גארידו חוזר לחצי גמר אחרי 364 יום – הפעם הקודמת הייתה גם בדובאי. מה הלאה: אבאטה/דל ביאנקו נגד לברון/אוגסבורגר (לא לפני 17:00), ואחריהם דה פסקואל/גארידו נגד ליבאק/אלפונסו · 📺 Red Bull TV.",
+      "source": {
+        "name": "AnalistasPadel (Jordi Martinez Exposito)",
+        "url": "https://www.analistaspadel.com/dubai-semifinales-historicas-abbate-garrido/",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "opinion-padelmagazine-garrido-depascual-target-sanz-2026-11-14",
       "publishedAt": "2026-11-14T08:51:00Z",
@@ -195,26 +227,6 @@
       "source": {
         "name": "Padel Spain",
         "url": "https://www.padelspain.net/padel-profesional/835873/saltan-las-alarmas-en-dubai-caen-triay-y-brea-y-se-abre-la-batalla-por-el-numero-uno/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "dubai-p1-2026-qf-sanchez-ustero-semis",
-      "publishedAt": "2026-11-13T13:31:45Z",
-      "category": "results",
-      "gender": "women",
-      "title": "👩 סאנצ׳ס/אוסטרו בחצי הגמר: 6-2, 6-3 מהיר",
-      "summary": "אריאנה סאנצ׳ס/אנדראה אוסטרו עלו לחצי הגמר בדובאי. הן ניצחו את חימנה ולסקו/רקל אאוחניו 6-2, 6-3. הן זכו ב-61 מתוך 101 נקודות (60%), ו-73% מהנקודות על ההגשה שלהן. מה הלאה: בחצי הגמר הן יפגשו את פאולה חוסמריה/ביאה גונסלס. עם ההדחה של טריאי/ברעה, זה סיכוי גדול שלהן במרוץ למקום הראשון.",
-      "matches": [
-        {
-          "winner": "סאנצ׳ס/אוסטרו",
-          "loser": "ולסקו/אאוחניו",
-          "score": "6-2, 6-3"
-        }
-      ],
-      "source": {
-        "name": "Diari de Tarragona",
-        "url": "https://www.diaridetarragona.com/deportes/275653/ari-sanchez-andrea-ustero-meten-semifinales-dubai-p1.html",
         "lang": "ספרדית"
       }
     },
