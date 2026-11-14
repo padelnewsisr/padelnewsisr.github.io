@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T14:33:14Z",
+  "updatedAt": "2026-11-14T16:31:50Z",
   "live": {
     "title": "דובאי P1 (8–15.11) – שבת 14.11: חצאי הגמר בגברים ובנשים",
     "date": "2026-11-14",
@@ -14,7 +14,7 @@
       {
         "time": "",
         "what": "👩 סאנצ׳ס/אוסטרו נגד חוסמריה/ביאה גונסלס (מיד אחרי)",
-        "result": "",
+        "result": "חוסמריה/גונסלס ניצחו 6-4, 7-5",
         "live": false
       },
       {
@@ -32,6 +32,26 @@
     ]
   },
   "items": [
+    {
+      "id": "dubai-p1-2026-sf-women-josemaria-gonzalez-beat-sanchez-ustero",
+      "publishedAt": "2026-11-14T16:05:00Z",
+      "category": "results",
+      "gender": "women",
+      "title": "👩 חוסמריה/גונסלס בגמר דובאי! 6-4, 7-5 על סאנצ׳ס/אוסטרו",
+      "summary": "פאולה חוסמריה וביאה גונסלס ניצחו את ארי סאנצ׳ס ואנדראה אוסטרו 6-4, 7-5 בחצי הגמר בדובאי. המשחק נמשך שעה ו-49 דקות. סאנצ׳ס/אוסטרו מקבלות רק 360 נקודות, והן נמצאות 2,600 נקודות אחרי בריאה/טריאי במרוץ העונה. מה הלאה: גמר הנשים ביום ראשון 15.11 בשעה 16:00 (שעון ישראל) נגד קאלבו/קלאודיה פרננדס · 📺 Red Bull TV.",
+      "matches": [
+        {
+          "winner": "חוסמריה/גונסלס",
+          "loser": "סאנצ׳ס/אוסטרו",
+          "score": "6-4, 7-5"
+        }
+      ],
+      "source": {
+        "name": "Diari de Tarragona",
+        "url": "https://www.diaridetarragona.com/deportes/polideportivo/275733/ari-sanchez-andrea-ustero-quedan-final-dubai.html",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "dubai-p1-2026-sf-women-calvo-fernandez-beat-jensen-icardo",
       "publishedAt": "2026-11-14T13:41:40Z",
@@ -202,31 +222,6 @@
       "source": {
         "name": "Padel Addict",
         "url": "https://www.padeladdict.com/abbate-historia-semifinales-dubai-p1/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "dubai-p1-2026-qf-women-fernandez-calvo-josemaria-gonzalez",
-      "publishedAt": "2026-11-13T15:48:00Z",
-      "category": "results",
-      "gender": "women",
-      "title": "👩 חצאי הגמר בדובאי נקבעו: קאלבו/פרננדס וחוסמריה/גונסלס עלו",
-      "summary": "ארבע הזוגות של חצי הגמר בנשים ידועות. קלאודיה פרננדס ומרטינה קאלבו ניצחו את רופו/איגלסיאס 7-6, 6-4 – המערכה הראשונה הוכרעה בשובר שוויון. פאולה חוסמריה וביאה גונסלס ניצחו את גינארט/אלונסו 6-3, 6-1 בקלות. מה הלאה: בשבת 14.11 – ג׳נסן/איקרדו נגד פרננדס/קאלבו, וסאנצ׳ס/אוסטרו נגד חוסמריה/גונסלס. המשחקים מתחילים ב-14:00 שעון ישראל.",
-      "matches": [
-        {
-          "winner": "קלאודיה פרננדס/מרטינה קאלבו",
-          "loser": "לורנה רופו/ויקטוריה איגלסיאס",
-          "score": "7-6, 6-4"
-        },
-        {
-          "winner": "פאולה חוסמריה/ביאה גונסלס",
-          "loser": "מרינה גינארט/אלחנדרה אלונסו",
-          "score": "6-3, 6-1"
-        }
-      ],
-      "source": {
-        "name": "Padel Spain",
-        "url": "https://www.padelspain.net/padel-profesional/835873/saltan-las-alarmas-en-dubai-caen-triay-y-brea-y-se-abre-la-batalla-por-el-numero-uno/",
         "lang": "ספרדית"
       }
     },
