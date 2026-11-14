@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T09:50:00Z",
+  "updatedAt": "2026-11-14T12:32:47Z",
   "live": {
     "title": "דובאי P1 (8–15.11) – שבת 14.11: חצאי הגמר בגברים ובנשים",
     "date": "2026-11-14",
@@ -8,22 +8,26 @@
       {
         "time": "14:00",
         "what": "👩 ג׳נסן/איקרדו נגד קאלבו/קלאודיה פרננדס · 📺 Red Bull TV",
-        "result": ""
+        "result": "",
+        "live": true
       },
       {
         "time": "",
         "what": "👩 סאנצ׳ס/אוסטרו נגד חוסמריה/ביאה גונסלס (מיד אחרי)",
-        "result": ""
+        "result": "",
+        "live": false
       },
       {
         "time": "17:00",
         "what": "👨 אבאטה/דל ביאנקו נגד לברון/אוגסבורגר (לא לפני 17:00)",
-        "result": ""
+        "result": "",
+        "live": false
       },
       {
         "time": "",
         "what": "👨 דה פסקואל/גארידו נגד ליבאק/אלפונסו (מיד אחרי)",
-        "result": ""
+        "result": "",
+        "live": false
       }
     ]
   },
@@ -215,26 +219,6 @@
       }
     },
     {
-      "id": "dubai-p1-2026-qf-jensen-icardo-beat-triay-brea",
-      "publishedAt": "2026-11-13T11:06:04Z",
-      "category": "results",
-      "gender": "women",
-      "title": "👩 😱 טריאי/ברעה בחוץ! ג׳נסן/איקרדו הדיחו אותן ברבע הגמר",
-      "summary": "הזוג המדורג ראשון בעולם הודח ברבע הגמר בדובאי. קלאודיה ג׳נסן/תמרה איקרדו (מדורגות 6) ניצחו את ג׳מה טריאי/דלפי ברעה 6-3, 3-6, 6-1. טריאי/ברעה לקחו את המערכה השנייה, אבל במערכה השלישית ג׳נסן/איקרדו שלטו לגמרי. למה זה חשוב: טריאי/ברעה כבר לא יכולות לסגור בדובאי את המקום הראשון לסוף השנה – המרוץ מול סאנצ׳ס/אוסטרו נפתח מחדש.",
-      "matches": [
-        {
-          "winner": "ג׳נסן/איקרדו",
-          "loser": "טריאי/ברעה",
-          "score": "6-3, 3-6, 6-1"
-        }
-      ],
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/dubai-p1-coup-de-tonnerre-triay-brea-eliminees-des-les-quarts-la-course-au-numero-1-mondial-totalement-relancee/",
-        "lang": "צרפתית"
-      }
-    },
-    {
       "id": "opinion-padelmagazine-race-number1-reopens-2026-11-13",
       "publishedAt": "2026-11-13T11:06:04Z",
       "category": "opinion",
@@ -283,18 +267,6 @@
         "name": "ILPA ו-One Padel – אינסטגרם (מקור הנתונים: loglig)",
         "url": "https://www.instagram.com/padelilpa/",
         "lang": "עברית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-alfonso-aguirre-split-2026-11-12",
-      "publishedAt": "2026-11-12T10:23:00Z",
-      "category": "opinion",
-      "title": "💬 גונסלו אלפונסו על הפרידה מטוליטו אגירה: \"היה כואב\"",
-      "summary": "גונסלו אלפונסו דיבר עם el4Set על הפרידה מהשותף הקודם שלו, טוליטו אגירה. לפי Padel Magazine, הוא אמר שהפרידה הייתה כואבת ועצובה, אבל היחסים ביניהם נשארו טובים. לדבריו, הבעיה לא הייתה הרמה – אלא רגשות וחוסר כיוון, והם הפסידו משחקים שהיו צריכים לנצח. הוא אמר שאף אחד בעולם לא נוגע בכדור כמו אגירה.",
-      "source": {
-        "name": "Padel Magazine – מאסאו זרהט (על ראיון ב-el4Set)",
-        "url": "https://padelmagazine.fr/gonzalo-alfonso-sur-sa-separation-avec-tolito-aguirre-ca-a-ete-douloureux-triste/",
-        "lang": "צרפתית"
       }
     }
   ],
