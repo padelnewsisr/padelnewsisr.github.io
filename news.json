@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T03:32:24Z",
+  "updatedAt": "2026-11-15T07:32:42Z",
   "live": {
     "title": "דובאי P1 (8–15.11) – ראשון 15.11: הגמרים",
     "date": "2026-11-15",
@@ -18,6 +18,18 @@
     ]
   },
   "items": [
+    {
+      "id": "opinion-padelspain-libaak-alfonso-lowest-ranked-title-2026-11-15",
+      "publishedAt": "2026-11-15T06:00:48Z",
+      "category": "opinion",
+      "title": "💬 PadelSpain: ליבאק/אלפונסו יכולים לעשות היסטוריה היום",
+      "summary": "לפי PadelSpain, גמר הגברים בדובאי הוא \"גמר חדש\": לברון/אוגסבורגר וליבאק/אלפונסו עוד לא נפגשו בגמר. ליבאק/אלפונסו הם זוג מספר 10 בטורניר. לדעת האתר, אם ינצחו הם יהיו הזוג עם הדירוג הנמוך ביותר שזוכה בתואר P1 ב-Premier Padel. לברון/אוגסבורגר הם הפייבוריטים, והם רוצים לסיים את השנה עם תואר. זה ה-P1 האחרון של 2026. מה הלאה: היום, לא לפני 18:00 שעון ישראל · 📺 Red Bull TV.",
+      "source": {
+        "name": "PadelSpain",
+        "url": "https://www.padelspain.net/padel-profesional/835927/libaak-y-alfonso-desafian-a-lebron-y-augsburger-en-una-final-inedita/",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "calendar-where-to-watch-dubai-p1-finals-2026-11-15",
       "publishedAt": "2026-11-14T22:12:00Z",
