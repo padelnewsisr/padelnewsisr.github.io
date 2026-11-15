@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-11-15T20:55:00Z",
+  "updatedAt": "2026-11-15T22:34:23Z",
   "live": {},
   "items": [
+    {
+      "id": "opinion-elmonterizo-augsburger-tears-dubai-2026-11-15",
+      "publishedAt": "2026-11-15T21:56:42Z",
+      "category": "opinion",
+      "title": "💬 אוגסבורגר בוכה אחרי הזכייה: \"הביקורת ברשתות פגעה בי\"",
+      "summary": "לאו אוגסבורגר דיבר בדמעות במיקרופון אחרי הזכייה בדובאי, כך מדווח El Monterizo הארגנטינאי. הוא אמר שהתגובות ברשתות אחרי ההפסד של ארגנטינה בגמר המונדיאל פגעו בו מאוד. הוא סיפר שהתחיל השבוע לעבוד עם פסיכולוג, ושזה עזר לו. הוא בירך את ליבאק ואלפונסו, שגם להם היה שבוע קשה אחרי המונדיאל, ואמר: \"זה הפרס שלנו\". בסוף הודה למשפחה וללברון.",
+      "source": {
+        "name": "El Monterizo (על נאום של אוגסבורגר בטקס)",
+        "url": "https://elmonterizo.com/gano-en-dubai-tomo-el-microfono-y-se-quebro-al-recordar-una-semana-que-lo-golpeo-fuerte",
+        "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "race-number1-women-after-dubai-2026-11-15",
+      "publishedAt": "2026-11-15T19:20:38Z",
+      "category": "world",
+      "title": "🎯 המרוץ למקום 1: נשארו רק שני זוגות",
+      "summary": "אחרי ההפסד בגמר דובאי, חוסמריה/ביאה גונסלס כבר לא יכולות לסיים את העונה במקום הראשון. כך כותב Padel Addict. המקום הראשון ייקבע בין טריאי/ברעה לבין ארי סאנצ'ס/אוסטרו. אצל הגברים, אלפונסו נכנס לטופ 16 במרוץ לגמר העונה, וליבאק ממש מתחת. למה זה חשוב: במייג'ור מקסיקו באקפולקו (23–29.11) הכול יכול להשתנות.",
+      "source": {
+        "name": "Padel Addict",
+        "url": "https://www.padeladdict.com/lebron-augsburger-y-fernandez-calvo-campeones-del-dubai-p1/",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "dubai-p1-2026-final-men-lebron-augsburger-beat-libaak-alfonso",
       "publishedAt": "2026-11-15T19:01:00Z",
