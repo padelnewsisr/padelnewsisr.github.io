@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T09:32:58Z",
+  "updatedAt": "2026-11-15T12:33:03Z",
   "live": {
     "title": "דובאי P1 (8–15.11) – ראשון 15.11: הגמרים",
     "date": "2026-11-15",
@@ -167,18 +167,6 @@
       }
     },
     {
-      "id": "world-dubai-semis-first-timers-2026-11-14",
-      "publishedAt": "2026-11-14T10:31:48Z",
-      "category": "world",
-      "title": "🎯 3 שחקנים בחצי גמר ראשון שלהם – הערב בדובאי",
-      "summary": "בחצאי הגמר של הגברים בדובאי אין את טאפיה/קואייו ואין את גלאן/צ׳ינגוטו. רק לברון/אוגסבורגר נשארו מ-8 הזוגות המדורגים הראשונים. אבאטה (22), דל ביאנקו ודה פסקואל משחקים בחצי גמר Premier Padel בפעם הראשונה. גארידו חוזר לחצי גמר אחרי 364 יום – הפעם הקודמת הייתה גם בדובאי. מה הלאה: אבאטה/דל ביאנקו נגד לברון/אוגסבורגר (לא לפני 17:00), ואחריהם דה פסקואל/גארידו נגד ליבאק/אלפונסו · 📺 Red Bull TV.",
-      "source": {
-        "name": "AnalistasPadel (Jordi Martinez Exposito)",
-        "url": "https://www.analistaspadel.com/dubai-semifinales-historicas-abbate-garrido/",
-        "lang": "ספרדית"
-      }
-    },
-    {
       "id": "opinion-padelmagazine-garrido-depascual-target-sanz-2026-11-14",
       "publishedAt": "2026-11-14T08:51:00Z",
       "category": "opinion",
@@ -239,18 +227,6 @@
       }
     },
     {
-      "id": "opinion-padelmagazine-race-number1-reopens-2026-11-13",
-      "publishedAt": "2026-11-13T11:06:04Z",
-      "category": "opinion",
-      "title": "💬 Padel Magazine: המרוץ למקום הראשון בנשים נפתח מחדש",
-      "summary": "הכתב מאסאו זרהט ב-Padel Magazine כותב שההפסד של טריאי/ברעה בדובאי פותח מחדש את המרוץ למקום הראשון בעולם. לפני דובאי הן הובילו ב-2,780 נקודות על סאנצ׳ס/אוסטרו. אם סאנצ׳ס/אוסטרו יזכו בדובאי, הפער יירד לכ-1,960 נקודות. לדעתו טריאי/ברעה עדיין מובילות בפער גדול, אבל עכשיו יש לרודפות סיכוי אמיתי. מה הלאה: עוד כ-3,500 נקודות במקסיקו ובגמר העונה בברצלונה.",
-      "source": {
-        "name": "Padel Magazine – Maceo Zerhat",
-        "url": "https://padel-magazine.es/Dubai-P1-Thunderclap-Triay-Brea-eliminado-en-cuartos-de-final-la-carrera-por-el-n%C3%BAmero-1-del-mundo-se-relanza-por-completo/",
-        "lang": "ספרדית"
-      }
-    },
-    {
       "id": "ilpa-ranking-nov-2026-new-leaders",
       "publishedAt": "2026-11-12T14:20:00Z",
       "category": "israel",
@@ -280,7 +256,14 @@
       "what": "גמר העונה בברצלונה – 16 הזוגות הטובים"
     }
   ],
-  "watch": [],
+  "watch": [
+    {
+      "label": "👩👨 גמרי דובאי P1 – נשים ואחריו גברים",
+      "url": "https://www.redbull.tv/es_ES/page/rrn%3Acontent%3Aevent-profiles%3Ad369f9b5-b64b-4102-bd34-161448a09081/premier-padel-dubai-p1",
+      "live": false,
+      "note": "Red Bull TV · 16:00 (גברים לא לפני 18:00)"
+    }
+  ],
   "israeliPlayers": [
     {
       "he": "אהרון כהן",
