@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T07:34:08Z",
+  "updatedAt": "2026-11-15T09:32:58Z",
   "live": {
     "title": "דובאי P1 (8–15.11) – ראשון 15.11: הגמרים",
     "date": "2026-11-15",
@@ -76,6 +76,18 @@
       "video": {
         "url": "https://www.youtube.com/watch?v=AlWukfRgYn4",
         "name": "יוטיוב · Flash Padel (לא רשמי)"
+      }
+    },
+    {
+      "id": "opinion-analistaspadel-triay-brea-number1-2026-11-14",
+      "publishedAt": "2026-11-14T18:33:00Z",
+      "category": "opinion",
+      "title": "💬 AnalistasPadel: טריאי/ברעה כמעט בטוחות במקום הראשון",
+      "summary": "לפי האתר AnalistasPadel, חצי הגמר בדובאי כמעט סגר את המרוץ למקום הראשון בעולם בנשים. חוסמריה/ביאה גונסלס ניצחו את סאנצ'ס/אוסטרו 6-4, 7-5. לדעת הכותבת מרינה הרננדס, הניצחון הזה \"מגיש על מגש\" את המקום הראשון לטריאי/ברעה, שהודחו כבר ברבע הגמר. מה הלאה: היום ב-16:00 (שעון ישראל) גמר הנשים – חוסמריה/גונסלס נגד קאלבו/קלאודיה פרננדס.",
+      "source": {
+        "name": "AnalistasPadel – מרינה הרננדס",
+        "url": "https://www.analistaspadel.com/resultados-semifinales-dubai-p1/",
+        "lang": "ספרדית"
       }
     },
     {
@@ -236,30 +248,6 @@
         "name": "Padel Magazine – Maceo Zerhat",
         "url": "https://padel-magazine.es/Dubai-P1-Thunderclap-Triay-Brea-eliminado-en-cuartos-de-final-la-carrera-por-el-n%C3%BAmero-1-del-mundo-se-relanza-por-completo/",
         "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-dubai-qf-preview-2026-11-13",
-      "publishedAt": "2026-11-13T07:43:00Z",
-      "category": "opinion",
-      "title": "💬 Padel Magazine: רבעי גמר פתוחים בדובאי – טייו/ארסה מאיימים על לברון",
-      "summary": "הכתב מאסאו זרהט ב-Padel Magazine כותב שרבעי הגמר בדובאי פתוחים מאוד. לדעתו המשחק הגדול של היום הוא טייו/ארסה נגד לברון/אוגסבורגר: לברון/אוגסבורגר בין המועמדים לתואר, אבל הכוח והאגרסיביות של טייו/ארסה יכולים להקשות עליהם. אצל הנשים טריאי/ברעה הן הפייבוריטיות, וגם נלחמות על המקום הראשון בסוף העונה. גארידו/דה פסקואל כבר ניצחו זוגות חזקים מהם, ויכולים להפתיע את סטופאצ׳וק/סאנס.",
-      "source": {
-        "name": "Padel Magazine – מאסאו זרהט",
-        "url": "https://padelmagazine.fr/dubai-p1-des-quarts-de-finale-tres-ouverts-avec-un-choc-tello-arce-face-a-lebron-augsburger/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-big-clubs-competitions-2026-11-13",
-      "publishedAt": "2026-11-13T07:37:00Z",
-      "category": "opinion",
-      "title": "💬 Padel Magazine: תחרויות גדולות רק למועדונים גדולים?",
-      "summary": "פרנק ביניסטי ב-Padel Magazine שואל אם מועדונים קטנים יוכלו עוד לארח תחרויות גדולות. התנאים החדשים של איגוד הטניס הצרפתי (FFT) ל-2028 דורשים לרוב לפחות 8 מגרשים, ובאליפות צרפת לוותיקים 10 מגרשים. צריך גם תקרה בגובה 7 מטר לפחות, חדרי הלבשה, עזרה רפואית, אבטחה ומקום לקהל. לדעתו, התשובה תלויה באיזון שהאיגוד ימצא בין איכות האירועים לבין פתיחות למועדונים קטנים.",
-      "source": {
-        "name": "Padel Magazine – פרנק ביניסטי",
-        "url": "https://padelmagazine.fr/padel-les-grandes-competitions-reservees-aux-grands-clubs/",
-        "lang": "צרפתית"
       }
     },
     {
