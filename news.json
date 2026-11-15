@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T07:32:42Z",
+  "updatedAt": "2026-11-15T07:34:08Z",
   "live": {
     "title": "דובאי P1 (8–15.11) – ראשון 15.11: הגמרים",
     "date": "2026-11-15",
@@ -72,6 +72,10 @@
         "name": "AnalistasPadel",
         "url": "https://www.analistaspadel.com/resultados-semifinales-dubai-p1/",
         "lang": "ספרדית"
+      },
+      "video": {
+        "url": "https://www.youtube.com/watch?v=AlWukfRgYn4",
+        "name": "יוטיוב · Flash Padel (לא רשמי)"
       }
     },
     {
@@ -92,6 +96,10 @@
         "name": "Padel Magazine",
         "url": "https://padel-magazine.es/Dubai-P1-demasiado-fuerte-para-Abbate-Dal-Bianco--LeBron-y-Augsburger-corren-hacia-la-final/",
         "lang": "ספרדית"
+      },
+      "video": {
+        "url": "https://www.youtube.com/watch?v=3tTNMBuwyds",
+        "name": "יוטיוב · Flash Padel (לא רשמי)"
       }
     },
     {
