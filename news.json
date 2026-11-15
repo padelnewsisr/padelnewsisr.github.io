@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T15:29:55Z",
+  "updatedAt": "2026-11-15T16:32:02Z",
   "live": {
     "title": "דובאי P1 (8–15.11) – ראשון 15.11: הגמרים",
     "date": "2026-11-15",
@@ -8,8 +8,8 @@
       {
         "time": "16:00",
         "what": "👩 גמר: חוסמריה/ביאה גונסלס נגד קאלבו/קלאודיה פרננדס · 📺 Red Bull TV",
-        "result": "",
-        "live": true
+        "result": "קאלבו/קלאודיה פרננדס ניצחו 7-5, 6-1 🏆",
+        "live": false
       },
       {
         "time": "18:00",
@@ -19,6 +19,26 @@
     ]
   },
   "items": [
+    {
+      "id": "dubai-p1-2026-final-women-calvo-fernandez-beat-josemaria-gonzalez",
+      "publishedAt": "2026-11-15T16:23:58Z",
+      "category": "results",
+      "gender": "women",
+      "title": "👩 🏆 קאלבו/קלאודיה פרננדס אלופות דובאי! 7-5, 6-1",
+      "summary": "מרטינה קאלבו וקלאודיה פרננדס זכו בגמר דובאי P1. הן ניצחו את חוסמריה/ביאה גונסלס, הזוג המדורג 2, בתוצאה 7-5, 6-1. במערכה הראשונה חוסמריה/גונסלס שברו ראשונות, קאלבו/פרננדס עלו ל-4-2, ובסוף שבירה ב-6-5 סגרה את המערכה. במערכה השנייה הן ברחו ל-5-0 ולא נתנו סיכוי. זה התואר השלישי שלהן יחד. מה הלאה: מייג'ור מקסיקו באקפולקו, 23–29.11.",
+      "matches": [
+        {
+          "winner": "קאלבו/קלאודיה פרננדס",
+          "loser": "חוסמריה/ביאה גונסלס",
+          "score": "7-5, 6-1"
+        }
+      ],
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padel-magazine.co.uk/Dubai-P1-Fernandez-and-Calvo-impress-against-Josemaria-Gonzalez-and-secure-a-third-title-together/",
+        "lang": "אנגלית"
+      }
+    },
     {
       "id": "opinion-padelmagazine-a1-trajectories-dubai-2026-11-15",
       "publishedAt": "2026-11-15T08:24:25Z",
@@ -152,26 +172,6 @@
       }
     },
     {
-      "id": "dubai-p1-2026-sf-women-josemaria-gonzalez-beat-sanchez-ustero",
-      "publishedAt": "2026-11-14T16:05:00Z",
-      "category": "results",
-      "gender": "women",
-      "title": "👩 חוסמריה/גונסלס בגמר דובאי! 6-4, 7-5 על סאנצ׳ס/אוסטרו",
-      "summary": "פאולה חוסמריה וביאה גונסלס ניצחו את ארי סאנצ׳ס ואנדראה אוסטרו 6-4, 7-5 בחצי הגמר בדובאי. בכל מערכה הן שברו את ההגשה ממש בסוף, ברגע הכי לחוץ. המשחק נמשך שעה ו-49 דקות. עכשיו המאזן בין שני הזוגות 5-5, וסאנצ׳ס/אוסטרו נשארות 2,600 נקודות אחרי בריאה/טריאי במרוץ למקום הראשון. מה הלאה: גמר ראשון אי פעם בין חוסמריה/גונסלס לקאלבו/קלאודיה פרננדס – ראשון 15.11 ב-16:00 (שעון ישראל) · 📺 Red Bull TV. 🎯 לפי Padel Addict, ביאה גונסלס מנסה לזכות בדובאי בפעם השלישית ברציפות – כל פעם עם שותפה אחרת.",
-      "matches": [
-        {
-          "winner": "חוסמריה/גונסלס",
-          "loser": "סאנצ׳ס/אוסטרו",
-          "score": "6-4, 7-5"
-        }
-      ],
-      "source": {
-        "name": "PadelSpain",
-        "url": "https://www.padelspain.net/padel-profesional/835911/paula-y-bea-frenan-a-ari-y-ustero-y-abren-una-final-inedita-en-el-ultimo-p1-del-ano/",
-        "lang": "ספרדית"
-      }
-    },
-    {
       "id": "opinion-padelmagazine-garrido-depascual-target-sanz-2026-11-14",
       "publishedAt": "2026-11-14T08:51:00Z",
       "category": "opinion",
@@ -249,8 +249,8 @@
   ],
   "upcoming": [
     {
-      "when": "15.11 · 16:00",
-      "what": "👩 דובאי P1: גמר הנשים – חוסמריה/גונסלס נגד קאלבו/קלאודיה פרננדס · אחריו 👨 גמר הגברים: לברון/אוגסבורגר נגד ליבאק/אלפונסו (לא לפני 18:00) · 📺 Red Bull TV"
+      "when": "15.11 · 18:00",
+      "what": "👨 דובאי P1: גמר הגברים – לברון/אוגסבורגר נגד ליבאק/אלפונסו (לא לפני 18:00) · 📺 Red Bull TV"
     },
     {
       "when": "23–29.11",
@@ -263,10 +263,10 @@
   ],
   "watch": [
     {
-      "label": "👩👨 גמרי דובאי P1 – נשים ואחריו גברים",
+      "label": "👨 גמר הגברים בדובאי – לברון/אוגסבורגר נגד ליבאק/אלפונסו",
       "url": "https://www.redbull.tv/es_ES/page/rrn%3Acontent%3Aevent-profiles%3Ad369f9b5-b64b-4102-bd34-161448a09081/premier-padel-dubai-p1",
       "live": false,
-      "note": "Red Bull TV · 16:00 (גברים לא לפני 18:00)"
+      "note": "Red Bull TV · לא לפני 18:00"
     }
   ],
   "israeliPlayers": [
