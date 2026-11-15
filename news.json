@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T18:32:36Z",
+  "updatedAt": "2026-11-15T20:40:00Z",
   "live": {
     "title": "דובאי P1 (8–15.11) – ראשון 15.11: הגמרים",
     "date": "2026-11-15",
@@ -14,12 +14,32 @@
       {
         "time": "18:00",
         "what": "👨 גמר: לברון/אוגסבורגר נגד ליבאק/אלפונסו (לא לפני 18:00) · 📺 Red Bull TV",
-        "result": "",
-        "live": true
+        "result": "לברון/אוגסבורגר ניצחו 7-6, 5-7, 6-3 🏆",
+        "live": false
       }
     ]
   },
   "items": [
+    {
+      "id": "dubai-p1-2026-final-men-lebron-augsburger-beat-libaak-alfonso",
+      "publishedAt": "2026-11-15T19:01:00Z",
+      "category": "results",
+      "gender": "men",
+      "title": "👨 🏆 לברון/אוגסבורגר אלופי דובאי אחרי קרב של 3 מערכות",
+      "summary": "לברון ואוגסבורגר ניצחו בגמר דובאי P1 את ליבאק/אלפונסו 7-6, 5-7, 6-3. במערכה הראשונה ליבאק/אלפונסו הובילו 4-1, אבל לברון/אוגסבורגר חזרו וניצחו בשובר שוויון. ליבאק/אלפונסו לקחו את המערכה השנייה עם שבירה חשובה. במערכה השלישית לברון/אוגסבורגר עלו ל-3-0 ושמרו על היתרון. המשחק נמשך 2 שעות ו-22 דקות. זה התואר ה-42 של לברון בקריירה, והתואר השני של הזוג העונה (אחרי בריסל). מה הלאה: אלפונסו נכנס לטופ 16 במרוץ לגמר העונה, והטורניר הבא הוא מייג'ור מקסיקו באקפולקו (23–29.11).",
+      "source": {
+        "name": "Padel Spain · Padel Addict",
+        "url": "https://www.padelspain.net/padel-profesional/835956/lebron-y-augsburger-conquistan-dubai-en-una-final-de-resistencia-y-caracter/",
+        "lang": "ספרדית"
+      },
+      "matches": [
+        {
+          "winner": "לברון/אוגסבורגר",
+          "loser": "ליבאק/אלפונסו",
+          "score": "7-6, 5-7, 6-3"
+        }
+      ]
+    },
     {
       "id": "dubai-p1-2026-final-women-calvo-fernandez-beat-josemaria-gonzalez",
       "publishedAt": "2026-11-15T16:23:58Z",
@@ -77,54 +97,6 @@
       }
     },
     {
-      "id": "calendar-where-to-watch-dubai-p1-finals-2026-11-15",
-      "publishedAt": "2026-11-14T22:12:00Z",
-      "category": "calendar",
-      "title": "📺 איפה לראות את גמרי דובאי היום",
-      "summary": "היום (ראשון) שני גמרים בדובאי. 16:00 שעון ישראל: 👩 קאלבו/קלאודיה פרננדס נגד חוסמריה/ביאה גונסלס. לא לפני 18:00: 👨 לברון/אוגסבורגר נגד ליבאק/אלפונסו – אולי מאוחר יותר אם גמר הנשים ארוך. בעולם: Red Bull TV (חינם, ישראל לא ברשימת המדינות החסומות); בספרד גם Movistar Plus+; במזרח התיכון beIN SPORTS ו-TOD; בארגנטינה ESPN ו-Disney+. המקור לא כותב במפורש מה עובד בישראל.",
-      "source": {
-        "name": "PadelStar",
-        "url": "https://padelstar.es/noticias-padel/final-premier-padel-dubai-p1-2026-en-directo/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "world-dubai-race-finals-barcelona-2026-11-14",
-      "publishedAt": "2026-11-14T20:06:16Z",
-      "category": "world",
-      "title": "🏁 הגמר בדובאי מכריע גם את המרוץ לברצלונה",
-      "summary": "הגמר מחר בדובאי חשוב גם למרוץ לגמר העונה בברצלונה. לפי Padel Addict, אלפונסו במקום 20 וליבאק במקום 22 במרוץ, ונקודות הגמר יכולות לקרב אותם לכרטיס. שני המקומות האחרונים ייקבעו במייג'ור מקסיקו באקפולקו. אצל הנשים: אחרי ההפסד של סאנצ׳ס/אוסטרו, טריאי/ברעה יבטיחו את המקום הראשון בעולם אם יגיעו לחצי הגמר באקפולקו. חוסמריה/גונסלס כבר הבטיחו מקום 2 בדירוג הזוגות במקסיקו. מה הלאה: גמר הגברים מחר, לא לפני 18:00 שעון ישראל · 📺 Red Bull TV.",
-      "source": {
-        "name": "Padel Addict (Ángel González)",
-        "url": "https://www.padeladdict.com/las-semifinales-del-dubai-p1-reparten-los-ultimos-billetes-para-la-gran-final/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "dubai-p1-2026-sf-men-libaak-alfonso-beat-depascual-garrido",
-      "publishedAt": "2026-11-14T18:33:00Z",
-      "category": "results",
-      "gender": "men",
-      "title": "👨 ⚡ ליבאק/אלפונסו בגמר דובאי! 6-1, 6-4 על דה פסקואל/גארידו",
-      "summary": "ליבאק ואלפונסו עצרו את ההפתעה של הטורניר. הם ניצחו את דה פסקואל/גארידו 6-1, 6-4, בקצת יותר משעה. זה הגמר הראשון שלהם ב-Premier Padel (לפי Padel Addict). לפי AnalistasPadel, ליבאק אמר השבוע שהגמר של המונדיאל עדיין מציק לו. מה הלאה: גמר מחר (ראשון) נגד לברון/אוגסבורגר, לא לפני 18:00 שעון ישראל, ב-Red Bull TV.",
-      "matches": [
-        {
-          "winner": "ליבאק/אלפונסו",
-          "loser": "דה פסקואל/גארידו",
-          "score": "6-1, 6-4"
-        }
-      ],
-      "source": {
-        "name": "AnalistasPadel",
-        "url": "https://www.analistaspadel.com/resultados-semifinales-dubai-p1/",
-        "lang": "ספרדית"
-      },
-      "video": {
-        "url": "https://www.youtube.com/watch?v=aqQSOP_nUVs",
-        "name": "יוטיוב · beIN SPORTS"
-      }
-    },
-    {
       "id": "opinion-analistaspadel-triay-brea-number1-2026-11-14",
       "publishedAt": "2026-11-14T18:33:00Z",
       "category": "opinion",
@@ -134,30 +106,6 @@
         "name": "AnalistasPadel – מרינה הרננדס",
         "url": "https://www.analistaspadel.com/resultados-semifinales-dubai-p1/",
         "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "dubai-p1-2026-sf-men-lebron-augsburger-beat-abbate-dalbianco",
-      "publishedAt": "2026-11-14T17:10:20Z",
-      "category": "results",
-      "gender": "men",
-      "title": "👨 🔥 לברון/אוגסבורגר בגמר דובאי! 6-4, 6-2 על אבאטה/דל ביאנקו",
-      "summary": "לברון ואוגסבורגר עצרו את ההפתעה של הטורניר. הם ניצחו את אבאטה/דל ביאנקו 6-4, 6-2 בשעה ו-4 דקות. המערכה הראשונה הייתה צמודה, ושבירה ב-4-4 הכריעה אותה. במערכה השנייה הם שברו פעמיים וברחו. מה הלאה: בגמר מחר (15.11) הם יפגשו את המנצחים של ליבאק/אלפונסו נגד דה פסקואל/גארידו. 🎯 לפי Padel Addict, זה הגמר ה-71 של לברון בקריירה – מקום 9 בכל הזמנים.",
-      "matches": [
-        {
-          "winner": "לברון/אוגסבורגר",
-          "loser": "אבאטה/דל ביאנקו",
-          "score": "6-4, 6-2"
-        }
-      ],
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padel-magazine.es/Dubai-P1-demasiado-fuerte-para-Abbate-Dal-Bianco--LeBron-y-Augsburger-corren-hacia-la-final/",
-        "lang": "ספרדית"
-      },
-      "video": {
-        "url": "https://www.youtube.com/watch?v=aqQSOP_nUVs",
-        "name": "יוטיוב · beIN SPORTS"
       }
     },
     {
@@ -221,18 +169,6 @@
       }
     },
     {
-      "id": "opinion-padeladdict-dubai-qf-ranking-ignored-2026-11-13",
-      "publishedAt": "2026-11-13T19:41:04Z",
-      "category": "opinion",
-      "title": "💬 Padel Addict: בדובאי הדירוג לא שווה כלום",
-      "summary": "הכתב אנחל גונסלס ב-Padel Addict כותב שהטורניר בדובאי \"התעלם\" מהדירוג. לדעתו דה פסקואל/גארידו הם הזוג בכושר הכי טוב, והריצה של אבאטה/דל ביאנקו היא \"הסיפור הכי יפה של השבוע\". הוא מזכיר שלברון/אוגסבורגר הם הזוג היחיד מהשמונה הראשונים שנשאר, אבל גם הם הפסידו מערכה לטייו/ארסה. המסקנה שלו: אף אחד לא בטוח בכלום בדובאי.",
-      "source": {
-        "name": "Padel Addict (אנחל גונסלס)",
-        "url": "https://www.padeladdict.com/de-pascual-garrido-y-abbate-dal-bianco-se-cuelan-en-las-semis-de-un-dubai-p1-de-sorpresas/",
-        "lang": "ספרדית"
-      }
-    },
-    {
       "id": "ilpa-ranking-nov-2026-new-leaders",
       "publishedAt": "2026-11-12T14:20:00Z",
       "category": "israel",
@@ -250,10 +186,6 @@
   ],
   "upcoming": [
     {
-      "when": "15.11 · 18:00",
-      "what": "👨 דובאי P1: גמר הגברים – לברון/אוגסבורגר נגד ליבאק/אלפונסו (לא לפני 18:00) · 📺 Red Bull TV"
-    },
-    {
       "when": "23–29.11",
       "what": "מייג'ור מקסיקו באקפולקו – משחקים בלילה לפי שעון ישראל"
     },
@@ -262,14 +194,7 @@
       "what": "גמר העונה בברצלונה – 16 הזוגות הטובים"
     }
   ],
-  "watch": [
-    {
-      "label": "👨 גמר הגברים בדובאי – לברון/אוגסבורגר נגד ליבאק/אלפונסו",
-      "url": "https://www.redbull.tv/es_ES/page/rrn%3Acontent%3Aevent-profiles%3Ad369f9b5-b64b-4102-bd34-161448a09081/premier-padel-dubai-p1",
-      "live": true,
-      "note": "Red Bull TV · משודר עכשיו"
-    }
-  ],
+  "watch": [],
   "israeliPlayers": [
     {
       "he": "אהרון כהן",
