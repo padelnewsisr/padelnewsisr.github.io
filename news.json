@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T12:33:03Z",
+  "updatedAt": "2026-11-15T14:33:02Z",
   "live": {
     "title": "דובאי P1 (8–15.11) – ראשון 15.11: הגמרים",
     "date": "2026-11-15",
@@ -18,6 +18,18 @@
     ]
   },
   "items": [
+    {
+      "id": "opinion-padelmagazine-a1-trajectories-dubai-2026-11-15",
+      "publishedAt": "2026-11-15T08:24:25Z",
+      "category": "opinion",
+      "title": "💬 Padel Magazine: שלושה ארגנטינאים מ-A1 בחצי הגמר בדובאי",
+      "summary": "לפי אנטואן טריקולה מ-Padel Magazine, שלושה שחקנים שהגיעו מסבב A1 הגיעו לחצי הגמר בדובאי: אלפונסו, דה פסקואל ודל ביאנקו. לדעתו, אצל אלפונסו זו כבר התקדמות אמיתית – הוא היה גם בחצי הגמר במייג'ור כווית. לדה פסקואל ולדל ביאנקו זה חצי הגמר הראשון ב-Premier Padel. הכותב מזהיר: בלי קואייו/טאפיה וגלאן/צ'ינגוטו הטורניר היה פתוח, ושבוע אחד לא מספיק כדי לשפוט.",
+      "source": {
+        "name": "Padel Magazine (Antoine Tricolet)",
+        "url": "https://padel-magazine.co.uk/From-the-first-round-to-the-final-four-in-Dubai--three-very-different-trajectories/",
+        "lang": "אנגלית"
+      }
+    },
     {
       "id": "opinion-padelspain-libaak-alfonso-lowest-ranked-title-2026-11-15",
       "publishedAt": "2026-11-15T06:00:48Z",
@@ -74,8 +86,8 @@
         "lang": "ספרדית"
       },
       "video": {
-        "url": "https://www.youtube.com/watch?v=AlWukfRgYn4",
-        "name": "יוטיוב · Flash Padel (לא רשמי)"
+        "url": "https://www.youtube.com/watch?v=aqQSOP_nUVs",
+        "name": "יוטיוב · beIN SPORTS"
       }
     },
     {
@@ -110,8 +122,8 @@
         "lang": "ספרדית"
       },
       "video": {
-        "url": "https://www.youtube.com/watch?v=3tTNMBuwyds",
-        "name": "יוטיוב · Flash Padel (לא רשמי)"
+        "url": "https://www.youtube.com/watch?v=aqQSOP_nUVs",
+        "name": "יוטיוב · beIN SPORTS"
       }
     },
     {
@@ -143,26 +155,6 @@
       "source": {
         "name": "PadelSpain",
         "url": "https://www.padelspain.net/padel-profesional/835911/paula-y-bea-frenan-a-ari-y-ustero-y-abren-una-final-inedita-en-el-ultimo-p1-del-ano/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "dubai-p1-2026-sf-women-calvo-fernandez-beat-jensen-icardo",
-      "publishedAt": "2026-11-14T13:41:40Z",
-      "category": "results",
-      "gender": "women",
-      "title": "👩 🔥 קאלבו/פרננדס בגמר דובאי! 6-3, 6-1 על ג׳נסן/איקרדו",
-      "summary": "מרטינה קאלבו וקלאודיה פרננדס עלו לגמר דובאי P1. הן ניצחו את טמרה איקרדו וקלאודיה ג׳נסן 6-3, 6-1. במערכה הראשונה ג׳נסן/איקרדו פתחו טוב והיו להן כמה נקודות שבירה, אבל הן לא ניצלו אותן. ב-4-3 איקרדו עשתה שתי טעויות חשובות, וקאלבו/פרננדס סגרו 6-3. במערכה השנייה קאלבו/פרננדס לחצו יותר, שברו פעמיים וניצחו 6-1. מה הלאה: בגמר ביום ראשון (15.11) הן יפגשו את המנצחות בין סאנצ׳ס/אוסטרו לחוסמריה/גונסלס. 🎯 לפי Padel Addict, זה הגמר החמישי של קאלבו/פרננדס ב-9 טורנירים יחד.",
-      "matches": [
-        {
-          "winner": "קאלבו/פרננדס",
-          "loser": "ג׳נסן/איקרדו",
-          "score": "6-3, 6-1"
-        }
-      ],
-      "source": {
-        "name": "Padel Magazine (Benjamín Dupouy)",
-        "url": "https://padel-magazine.es/Dubai-P1-Calvo-y-Fern%C3%A1ndez-regresan-a-la-final-tras-una-demostraci%C3%B3n-contra-Icardo-Jensen./",
         "lang": "ספרדית"
       }
     },
