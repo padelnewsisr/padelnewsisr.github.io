@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T14:33:02Z",
+  "updatedAt": "2026-11-15T14:34:07Z",
   "live": {
     "title": "דובאי P1 (8–15.11) – ראשון 15.11: הגמרים",
     "date": "2026-11-15",
@@ -27,6 +27,18 @@
       "source": {
         "name": "Padel Magazine (Antoine Tricolet)",
         "url": "https://padel-magazine.co.uk/From-the-first-round-to-the-final-four-in-Dubai--three-very-different-trajectories/",
+        "lang": "אנגלית"
+      }
+    },
+    {
+      "id": "opinion-padelmagazine-triay-brea-number1-math-2026-11-15",
+      "publishedAt": "2026-11-15T08:09:09Z",
+      "category": "opinion",
+      "title": "💬 Padel Magazine: טריאי/ברעה – המנצחות הגדולות של השבוע",
+      "summary": "לדעת בנז׳מין דופוי מ-Padel Magazine, טריאי/ברעה הן המנצחות הגדולות של השבוע, למרות שהודחו ברבע הגמר בדובאי. לפי החישוב שלו: אם יגיעו לחצי הגמר במייג'ור מקסיקו, יהיו להן לפחות 15,190 נקודות. סאנצ׳ס/אוסטרו יכולות להגיע לכל היותר ל-15,100 נקודות, גם אם ינצחו בכל הטורנירים. חוסמריה/גונסלס לא יכולות לעבור 14,840 נקודות. מה הלאה: מייג'ור מקסיקו (23–29.11) וגמר העונה בברצלונה.",
+      "source": {
+        "name": "Padel Magazine (Benjamin Dupouy)",
+        "url": "https://padel-magazine.co.uk/Dubai-P1-Triay-and-Brea-can-thank-Josemaria-Gonzalez-for-a-semi-final-at-the-Mexico-Major-to-finish-the-year-as-world-number-1/",
         "lang": "אנגלית"
       }
     },
