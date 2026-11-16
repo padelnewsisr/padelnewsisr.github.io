@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-11-16T14:32:13Z",
+  "updatedAt": "2026-11-16T16:32:02Z",
   "live": {},
   "items": [
+    {
+      "id": "fip-junior-america-cup-2026-argentina-double",
+      "publishedAt": "2026-11-16T12:36:00Z",
+      "category": "results",
+      "gender": "both",
+      "title": "👨👩 🇦🇷 ארגנטינה לוקחת את שני התארים בגביע אמריקה לנוער",
+      "summary": "ארגנטינה זכתה בגביע אמריקה של FIP לנוער בקנקון, מקסיקו – גם אצל הבנים וגם אצל הבנות. אצל הבנים הגמר נגד פרגוואי הוכרע רק במשחק השלישי: 2-1. אצל הבנות ארגנטינה ניצחה את ברזיל 2-0. במקום השלישי: מקסיקו (בנים) וצ'ילה (בנות). למה זה חשוב: הדור הבא של הפאדל באמריקה מגיע מארגנטינה.",
+      "matches": [
+        {
+          "winner": "ארגנטינה (בנים)",
+          "loser": "פרגוואי",
+          "score": "2-1"
+        },
+        {
+          "winner": "קונטרראס/גראופרה (ארגנטינה)",
+          "loser": "סרנה תומפסון/פטיט פרננדס (פרגוואי)",
+          "score": "7-5, 6-4"
+        },
+        {
+          "winner": "ארגנטינה (בנות)",
+          "loser": "ברזיל",
+          "score": "2-0"
+        },
+        {
+          "winner": "מקסיקו (בנים, מקום 3)",
+          "loser": "ונצואלה",
+          "score": "2-1"
+        }
+      ],
+      "source": {
+        "name": "PadelSpain",
+        "url": "https://www.padelspain.net/padel-internacional/835963/el-padel-del-futuro-en-america-lleva-el-sello-de-argentina/",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "opinion-padelmagazine-lebron-augsburger-dubai-threat-2026-11-16",
       "publishedAt": "2026-11-16T12:15:00Z",
@@ -211,31 +246,6 @@
       "video": {
         "url": "https://www.youtube.com/watch?v=4oiO9CISs80",
         "name": "יוטיוב · beIN SPORTS · תקציר"
-      }
-    },
-    {
-      "id": "dubai-p1-2026-final-women-calvo-fernandez-beat-josemaria-gonzalez",
-      "publishedAt": "2026-11-15T16:23:58Z",
-      "category": "results",
-      "gender": "women",
-      "title": "👩 🏆 קאלבו/קלאודיה פרננדס אלופות דובאי! 7-5, 6-1",
-      "summary": "מרטינה קאלבו וקלאודיה פרננדס זכו בגמר דובאי P1. הן ניצחו את חוסמריה/ביאה גונסלס, הזוג המדורג 2, בתוצאה 7-5, 6-1. במערכה הראשונה חוסמריה/גונסלס שברו ראשונות, קאלבו/פרננדס עלו ל-4-2, ובסוף שבירה ב-6-5 סגרה את המערכה. במערכה השנייה הן ברחו ל-5-0 ולא נתנו סיכוי. זה התואר השלישי שלהן יחד. מה הלאה: מייג'ור מקסיקו באקפולקו, 23–29.11.",
-      "matches": [
-        {
-          "winner": "קאלבו/קלאודיה פרננדס",
-          "loser": "חוסמריה/ביאה גונסלס",
-          "score": "7-5, 6-1"
-        }
-      ],
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padel-magazine.co.uk/Dubai-P1-Fernandez-and-Calvo-impress-against-Josemaria-Gonzalez-and-secure-a-third-title-together/",
-        "lang": "אנגלית"
-      },
-      "video": {
-        "url": "https://www.redbull.tv/es_AR/page/page:rrn:content:live-videos:55975d9e-d92c-4e96-b079-7824ac14e55e/premier-padel-2026-dubai-p1-final",
-        "name": "Red Bull TV · שידור חוזר מלא",
-        "type": "replay"
       }
     },
     {
