@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-11-15T22:34:23Z",
+  "updatedAt": "2026-11-16T03:32:06Z",
   "live": {},
   "items": [
+    {
+      "id": "opinion-infinitysport-dubai-champions-words-2026-11-16",
+      "publishedAt": "2026-11-16T02:51:55Z",
+      "category": "opinion",
+      "title": "💬 האלופות מדובאי: \"הטורניר הזה חשוב לנו מאוד\"",
+      "summary": "אחרי הזכייה בדובאי דיברו האלופים והאלופות, לפי האתר Infinity Sport. קלאודיה פרננדס (20) אמרה שהטורניר חשוב להן מאוד, ושהן עובדות בשביל זה כל שבוע. מרטינה קאלבו (18) אמרה שנתנה את הכי טוב שלה על המגרש, בעיקר ביחס ובגישה. חואן לברון שיבח את היריבים ליבאק/אלפונסו ואמר שהייתה להם עונה מצוינת. ליאו אוגסבורגר הודה לפסיכולוג שהתחיל לעבוד איתו השבוע, ואמר שימשיך איתו.",
+      "source": {
+        "name": "Infinity Sport",
+        "url": "https://www.infinitysport.asia/news/second-seeds-triumph-in-uae-as-fernandez-and-calvo-earn-third-season-title/",
+        "lang": "אנגלית"
+      }
+    },
     {
       "id": "opinion-elmonterizo-augsburger-tears-dubai-2026-11-15",
       "publishedAt": "2026-11-15T21:56:42Z",
@@ -159,18 +171,6 @@
       "source": {
         "name": "PadelSpain",
         "url": "https://www.padelspain.net/padel-profesional/835890/revolucion-en-dubai-solo-una-pareja-del-top-4-jugara-las-semifinales/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "opinion-analistaspadel-dubai-open-finish-2026-11-14",
-      "publishedAt": "2026-11-13T23:44:00Z",
-      "category": "opinion",
-      "title": "💬 AnalistasPadel: בדובאי הכול פתוח – אבאטה/דל ביאנקו הם ההפתעה",
-      "summary": "הכותב ז׳ורדי מרטינס באתר AnalistasPadel חושב שהסיום בדובאי \"פתוח לגמרי\". לדבריו אבאטה/דל ביאנקו הם \"הגילוי\" של הטורניר, אבל מול לברון/אוגסבורגר מחכה להם מבחן גדול. הוא רואה סיכוי אמיתי לליבאק/אלפונסו להגיע לגמר P1, אבל מזהיר שגארידו/דה פסקואל מגיעים בכושר טוב. בנשים הוא מצפה במיוחד לחצי הגמר סאנצ׳ס/אוסטרו נגד חוסמריה/גונסלס.",
-      "source": {
-        "name": "AnalistasPadel – ז׳ורדי מרטינס",
-        "url": "https://www.analistaspadel.com/resultados-cuartos-final-dubai-p1-2026/",
         "lang": "ספרדית"
       }
     },
