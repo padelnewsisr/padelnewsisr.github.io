@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-11-16T18:33:05Z",
+  "updatedAt": "2026-11-16T20:33:23Z",
   "live": {},
   "items": [
+    {
+      "id": "fip-platinum-aguascalientes-2026-last-spots-barcelona",
+      "publishedAt": "2026-11-16T19:29:00Z",
+      "category": "world",
+      "title": "🔥 אגואסקליינטס: הקרב האחרון על כרטיס לגמר העונה",
+      "summary": "מחר מתחיל טורניר FIP Platinum באגואסקליינטס שבמקסיקו (17–21.11). זה אחד הסיכויים האחרונים להיכנס ל-16 הטובים במרוץ לגמר העונה בברצלונה. בגברים המדורגים ראשונים הם קוקי נייטו/ינגואס, ואחריהם לאל/גררו. גם ליבאק/אלפונסו, סגני האלופים בדובאי, משחקים. בנשים המדורגות ראשונות הן קלאודיה ג'נסן/ארנצה אוסורו. מה הלאה: המדורגים מתחילים בשמינית הגמר ביום רביעי, ובשבוע הבא מגיע מייג'ור מקסיקו – הטורניר האחרון של העונה הרגילה.",
+      "source": {
+        "name": "El Neverazo",
+        "url": "https://www.elneverazo.com/fip-platinum-aguascalientes-2026-cruces/",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "dubai-p1-2026-record-attendance-35000",
       "publishedAt": "2026-11-16T13:42:00Z",
@@ -213,18 +225,6 @@
       }
     },
     {
-      "id": "race-number1-women-after-dubai-2026-11-15",
-      "publishedAt": "2026-11-15T19:20:38Z",
-      "category": "world",
-      "title": "🎯 המרוץ למקום 1: נשארו רק שני זוגות",
-      "summary": "אחרי ההפסד בגמר דובאי, חוסמריה/ביאה גונסלס כבר לא יכולות לסיים את העונה במקום הראשון. כך כותב Padel Addict. המקום הראשון ייקבע בין טריאי/ברעה לבין ארי סאנצ'ס/אוסטרו. אצל הגברים, אלפונסו נכנס לטופ 16 במרוץ לגמר העונה, וליבאק ממש מתחת. למה זה חשוב: במייג'ור מקסיקו באקפולקו (23–29.11) הכול יכול להשתנות.",
-      "source": {
-        "name": "Padel Addict",
-        "url": "https://www.padeladdict.com/lebron-augsburger-y-fernandez-calvo-campeones-del-dubai-p1/",
-        "lang": "ספרדית"
-      }
-    },
-    {
       "id": "opinion-padelmagazine-dubai-final-experience-lebron-augsburger-2026-11-15",
       "publishedAt": "2026-11-15T19:15:08Z",
       "category": "opinion",
@@ -234,30 +234,6 @@
         "name": "Padel Magazine (בנחמין דופוי)",
         "url": "https://padel-magazine.es/El-Dubai-P1-LeBron-Augsburger-hace-honor-a-su-estatus-de-favorito-y-se-alza-con-su-segundo-t%C3%ADtulo-de-la-temporada./",
         "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "dubai-p1-2026-final-men-lebron-augsburger-beat-libaak-alfonso",
-      "publishedAt": "2026-11-15T19:01:00Z",
-      "category": "results",
-      "gender": "men",
-      "title": "👨 🏆 לברון/אוגסבורגר אלופי דובאי אחרי קרב של 3 מערכות",
-      "summary": "לברון ואוגסבורגר ניצחו בגמר דובאי P1 את ליבאק/אלפונסו 7-6, 5-7, 6-3. במערכה הראשונה ליבאק/אלפונסו הובילו 4-1, אבל לברון/אוגסבורגר חזרו וניצחו בשובר שוויון. ליבאק/אלפונסו לקחו את המערכה השנייה עם שבירה חשובה. במערכה השלישית לברון/אוגסבורגר עלו ל-3-0 ושמרו על היתרון. המשחק נמשך 2 שעות ו-22 דקות. זה התואר ה-42 של לברון בקריירה, והתואר השני של הזוג העונה (אחרי בריסל). מה הלאה: אלפונסו נכנס לטופ 16 במרוץ לגמר העונה, והטורניר הבא הוא מייג'ור מקסיקו באקפולקו (23–29.11).",
-      "source": {
-        "name": "Padel Spain · Padel Addict",
-        "url": "https://www.padelspain.net/padel-profesional/835956/lebron-y-augsburger-conquistan-dubai-en-una-final-de-resistencia-y-caracter/",
-        "lang": "ספרדית"
-      },
-      "matches": [
-        {
-          "winner": "לברון/אוגסבורגר",
-          "loser": "ליבאק/אלפונסו",
-          "score": "7-6, 5-7, 6-3"
-        }
-      ],
-      "video": {
-        "url": "https://www.youtube.com/watch?v=4oiO9CISs80",
-        "name": "יוטיוב · beIN SPORTS · תקציר"
       }
     },
     {
@@ -313,6 +289,10 @@
     }
   ],
   "upcoming": [
+    {
+      "when": "17–21.11",
+      "what": "FIP Platinum אגואסקליינטס (מקסיקו) – המקומות האחרונים לגמר העונה"
+    },
     {
       "when": "23–29.11",
       "what": "מייג'ור מקסיקו באקפולקו – משחקים בלילה לפי שעון ישראל"
