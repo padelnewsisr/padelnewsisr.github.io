@@ -1,7 +1,26 @@
 {
-  "updatedAt": "2026-11-16T03:33:24Z",
+  "updatedAt": "2026-11-16T07:34:11Z",
   "live": {},
   "items": [
+    {
+      "id": "opinion-padelspain-claudia-jensen-profile-2026-11-16",
+      "publishedAt": "2026-11-16T06:01:00Z",
+      "category": "opinion",
+      "title": "💬 PadelSpain: קלאודיה ג'נסן ראויה ליותר תשומת לב",
+      "summary": "באתר PadelSpain כתבו כתבה על קלאודיה ג'נסן מארגנטינה, בת 21. לדעת הכותבים היא לא מקבלת מספיק תשומת לב, למרות שהיא כבר שנים בין 15 הטובות בעולם והגיעה גם לטופ 10. היא זכתה בטורניר P1 באקפולקו (2024) ובטורניר P2 בבורדו (2026). עם דלפי ברעה היא הגיעה למקום השני במונדיאל 2026 בנבחרת ארגנטינה. אבא שלה, כריסטיאן, היה שחקן מקצועני והיום הוא המאמן שלה.",
+      "source": {
+        "name": "PadelSpain",
+        "url": "https://www.padelspain.net/padel-profesional/835945/claudia-jensen-una-joven-realidad-consolidada-en-la-elite/",
+        "lang": "ספרדית"
+      },
+      "profile": {
+        "icon": "⭐",
+        "flag": "🇦🇷",
+        "name": "קלאודיה ג'נסן",
+        "line": "שמאלית, משחקת בצד ימין",
+        "stat": "בת 21 · בין 15 הטובות בעולם"
+      }
+    },
     {
       "id": "opinion-infinitysport-dubai-champions-words-2026-11-16",
       "publishedAt": "2026-11-16T02:51:55Z",
@@ -70,9 +89,8 @@
         }
       ],
       "video": {
-        "url": "https://www.redbull.tv/es_AR/page/page:rrn:content:live-videos:55975d9e-d92c-4e96-b079-7824ac14e55e/premier-padel-2026-dubai-p1-final",
-        "name": "Red Bull TV · שידור חוזר מלא",
-        "type": "replay"
+        "url": "https://www.youtube.com/watch?v=4oiO9CISs80",
+        "name": "יוטיוב · beIN SPORTS · תקציר"
       }
     },
     {
@@ -182,18 +200,6 @@
         "name": "Padel Magazine (בנז׳מן דופואי, על ראיון ב-Marca)",
         "url": "https://padelmagazine.fr/javier-rodriguez-piris-jaimerais-que-lespagne-accueille-les-championnats-du-monde-en-2030/",
         "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelspain-dubai-revolution-semis-2026-11-14",
-      "publishedAt": "2026-11-14T06:00:00Z",
-      "category": "opinion",
-      "title": "💬 PadelSpain: מהפכה בדובאי – רק זוג אחד מהטופ 4 בחצי הגמר",
-      "summary": "לפי PadelSpain, חצאי הגמר בגברים בדובאי \"מפתיעים ומושכים\" באותה מידה. שני הזוגות הראשונים בדירוג לא משחקים בטורניר, ורק לברון/אוגסבורגר נשארו מהטופ 4. האתר מדגיש שלכל אחד מארבעת הזוגות הייתה דרך אחרת: גארידו/דה פסקואל ניצחו את סטופאצ׳וק/סאנס 6-1, 7-5, ואבאטה/דל ביאנקו ניצחו אחרי יותר משעתיים 7-6, 3-6, 6-3. מה הלאה: היום, לא לפני 17:00 (שעון ישראל), אבאטה/דל ביאנקו נגד לברון/אוגסבורגר.",
-      "source": {
-        "name": "PadelSpain",
-        "url": "https://www.padelspain.net/padel-profesional/835890/revolucion-en-dubai-solo-una-pareja-del-top-4-jugara-las-semifinales/",
-        "lang": "ספרדית"
       }
     },
     {
