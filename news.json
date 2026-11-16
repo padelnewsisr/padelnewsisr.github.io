@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T12:32:58Z",
+  "updatedAt": "2026-11-16T14:32:13Z",
   "live": {},
   "items": [
     {
@@ -24,6 +24,18 @@
         "name": "Padel Magazine – בנז'מן דופוי",
         "url": "https://padelmagazine.fr/dubai-p1-fernandez-calvo-nimporte-laquelle-des-trois-meilleures-paires-pourrait-etre-numero-1-mondiale/",
         "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "lebron-42-titles-ties-sanyo-2026-11-16",
+      "publishedAt": "2026-11-16T10:30:04Z",
+      "category": "world",
+      "title": "🔥 לברון: 42 תארים – שווה לסאניו",
+      "summary": "הזכייה בדובאי היא התואר ה-42 של חואן לברון. עכשיו הוא שווה לסאניו גוטיירס ברשימת השחקנים הפעילים עם הכי הרבה תארים. בראש הרשימה: טאפיה (66), גלאן (60) וקואייו (59). אצל הנשים מובילה ג'מה טריאי עם 59 תארים, ואחריה סלאסר וארי סאנצ'ס עם 58 כל אחת.",
+      "source": {
+        "name": "Padel Addict",
+        "url": "https://www.padeladdict.com/cuales-son-los-jugadores-en-activo-que-han-ganado-mas-titulos-en-el-padel-profesional/",
+        "lang": "ספרדית"
       }
     },
     {
@@ -72,6 +84,30 @@
         "name": "Padel Addict – אדריאנה דיאס פרס",
         "url": "https://www.padeladdict.com/numero-1-femenino-premier-padel-2026/",
         "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "opinion-padelmagazine-dubai-one-tournament-too-many-2026-11-16",
+      "publishedAt": "2026-11-16T08:40:43Z",
+      "category": "opinion",
+      "title": "💬 Padel Magazine: דובאי – טורניר אחד יותר מדי?",
+      "summary": "אנטואן טריקולה ב-Padel Magazine שואל אם דובאי הגיע מוקדם מדי אחרי מייג'ור כווית ומונדיאל הפאדל בדוחא. לדעתו המילה \"טורניר מיותר\" קשה מדי, אבל השאלה נכונה. הוא מזכיר את הפרישה של קואייו/טאפיה בגלל פציעה, ואת ההפסדים המפתיעים של נבארו/די נינו וטריאי/ברעה. מצד שני, לברון זכה במונדיאל ושבוע אחרי זה הגיע לגמר וזכה.",
+      "source": {
+        "name": "Padel Magazine – אנטואן טריקולה",
+        "url": "https://padelmagazine.fr/dubai-p1-le-tournoi-de-trop-apres-les-mondiaux/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "opinion-padelmagazine-lebron-title-for-augsburger-2026-11-16",
+      "publishedAt": "2026-11-16T08:34:02Z",
+      "category": "opinion",
+      "title": "💬 לברון: \"רציתי לתת את התואר הזה לאוגסבורגר\"",
+      "summary": "אחרי הזכייה בדובאי אמר חואן לברון שרצה את התואר בעיקר בשביל השותף שלו, ליאו אוגסבורגר. לדבריו, הוא ידע שאוגסבורגר סבל בשבוע שעבר, אחרי שארגנטינה הפסידה לספרד בגמר המונדיאל. לברון אמר שרצה לתת את השמחה הזאת לאוגסבורגר ולכל הצוות. הגמר: 7-6, 5-7, 6-3 על ליבאק/אלפונסו.",
+      "source": {
+        "name": "Padel Magazine – בנז'מן דופואי",
+        "url": "https://padelmagazine.fr/dubai-p1-lebron-voulait-offrir-ce-titre-a-augsburger-je-savais-quil-avait-souffert-la-semaine-derniere/",
+        "lang": "צרפתית"
       }
     },
     {
