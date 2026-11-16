@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T20:33:23Z",
+  "updatedAt": "2026-11-16T22:40:00Z",
   "live": {},
   "items": [
     {
@@ -131,6 +131,18 @@
         "name": "Padel Addict",
         "url": "https://www.padeladdict.com/premios-ganar-torneo-p1-premier-padel/",
         "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "opinion-padelmagazine-serve-order-error-repeats-2026-11-16",
+      "publishedAt": "2026-11-16T08:46:41Z",
+      "category": "opinion",
+      "title": "💬 Padel Magazine: טעות ההגשה בדובאי – לא בפעם הראשונה",
+      "summary": "לפי Padel Magazine (פרנק ביניסטי), הטעות בגמר הנשים בדובאי היא בעיה שחוזרת בסבב. קלאודיה פרננדס הגישה שלושה משחקונים ברצף, ומרטינה קאלבו הגישה לראשונה רק במשחקון השביעי. הכתבה מזכירה מקרים דומים: בֵּאה גונסלס בקנקון P2 (מרץ 2026), וירחיניה רייה בכווית P1 (2024) – שש הגשות ברצף, ובגמר שטוקהולם 2022. לפי החוקים, אם הטעות לא נתפסת לפני סוף המשחקון – התוצאה נשארת. לדעת הכותב, זו טעות שיפוט שחוזרת שוב ושוב בסבב.",
+      "source": {
+        "name": "Padel Magazine (פרנק ביניסטי)",
+        "url": "https://padelmagazine.fr/trois-services-consecutifs-en-finale-a-dubai-lerreur-darbitrage-qui-se-repete-sur-premier-padel/",
+        "lang": "צרפתית"
       }
     },
     {
