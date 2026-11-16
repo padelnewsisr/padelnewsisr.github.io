@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-11-16T16:32:02Z",
+  "updatedAt": "2026-11-16T16:32:33Z",
   "live": {},
   "items": [
+    {
+      "id": "dubai-p1-2026-record-attendance-35000",
+      "publishedAt": "2026-11-16T13:42:00Z",
+      "category": "world",
+      "title": "🏟️ שיא בדובאי: יותר מ-35,000 צופים ב-8 ימים",
+      "summary": "טורניר P1 בדובאי שבר שיא קהל. יותר מ-35,000 צופים הגיעו במשך 8 ימים. ביום הגמרים היו יותר מ-8,150 צופים – הכי הרבה בתולדות הטורניר. בשנה הראשונה הגיעו 24,000, ובשנה השנייה 30,486. המגרש נבנה בתוך בריכה אולימפית שהפכה לזירה.",
+      "source": {
+        "name": "Dubai Eye 103.8",
+        "url": "https://www.dubaieye1038.com/news/sports/emaar-dubai-premier-padel-p1-wraps-up-with-record-turnout/",
+        "lang": "אנגלית"
+      }
+    },
     {
       "id": "fip-junior-america-cup-2026-argentina-double",
       "publishedAt": "2026-11-16T12:36:00Z",
