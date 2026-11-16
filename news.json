@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T03:32:06Z",
+  "updatedAt": "2026-11-16T03:33:24Z",
   "live": {},
   "items": [
     {
@@ -39,6 +39,18 @@
       }
     },
     {
+      "id": "opinion-padelmagazine-dubai-final-experience-lebron-augsburger-2026-11-15",
+      "publishedAt": "2026-11-15T19:15:08Z",
+      "category": "opinion",
+      "title": "💬 Padel Magazine: הניסיון של לברון ואוגסבורגר הכריע את הגמר",
+      "summary": "לדעת בנחמין דופוי מ-Padel Magazine, הניסיון של לברון/אוגסבורגר הכריע ברגעים החשובים של הגמר בדובאי. ליבאק/אלפונסו פתחו חזק והובילו 4-1, אבל הפייבוריטים חזרו וניצחו בשובר שוויון. במערכה השלישית הם עלו 3-0 ושמרו על היתרון. לפי הכותב, הם נראים עכשיו אחד הזוגות המסוכנים בסבב לפני מייג'ור מקסיקו. מה הלאה: גם ליבאק/אלפונסו הראו התקדמות, והתקרבו במרוץ לגמר העונה בברצלונה.",
+      "source": {
+        "name": "Padel Magazine (בנחמין דופוי)",
+        "url": "https://padel-magazine.es/El-Dubai-P1-LeBron-Augsburger-hace-honor-a-su-estatus-de-favorito-y-se-alza-con-su-segundo-t%C3%ADtulo-de-la-temporada./",
+        "lang": "ספרדית"
+      }
+    },
+    {
       "id": "dubai-p1-2026-final-men-lebron-augsburger-beat-libaak-alfonso",
       "publishedAt": "2026-11-15T19:01:00Z",
       "category": "results",
@@ -56,7 +68,12 @@
           "loser": "ליבאק/אלפונסו",
           "score": "7-6, 5-7, 6-3"
         }
-      ]
+      ],
+      "video": {
+        "url": "https://www.redbull.tv/es_AR/page/page:rrn:content:live-videos:55975d9e-d92c-4e96-b079-7824ac14e55e/premier-padel-2026-dubai-p1-final",
+        "name": "Red Bull TV · שידור חוזר מלא",
+        "type": "replay"
+      }
     },
     {
       "id": "dubai-p1-2026-final-women-calvo-fernandez-beat-josemaria-gonzalez",
@@ -76,6 +93,11 @@
         "name": "Padel Magazine",
         "url": "https://padel-magazine.co.uk/Dubai-P1-Fernandez-and-Calvo-impress-against-Josemaria-Gonzalez-and-secure-a-third-title-together/",
         "lang": "אנגלית"
+      },
+      "video": {
+        "url": "https://www.redbull.tv/es_AR/page/page:rrn:content:live-videos:55975d9e-d92c-4e96-b079-7824ac14e55e/premier-padel-2026-dubai-p1-final",
+        "name": "Red Bull TV · שידור חוזר מלא",
+        "type": "replay"
       }
     },
     {
