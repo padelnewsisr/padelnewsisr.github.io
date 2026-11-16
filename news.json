@@ -292,250 +292,250 @@
     }
   ],
   "rankings": {
-    "date": "26.10.2026",
+    "date": "09.11.2026",
     "checkedAt": "2026-11-02T08:07:54Z",
     "men": [
       {
         "rank": 1,
         "name": "ארטורו קואייו",
-        "country": "ספרד",
-        "points": 20337
+        "country": "ESP",
+        "points": 20994
       },
       {
         "rank": 1,
         "name": "אגוסטין טאפיה",
-        "country": "ארגנטינה",
-        "points": 20337
+        "country": "ARG",
+        "points": 20994
       },
       {
         "rank": 3,
         "name": "אלחנדרו גלאן",
-        "country": "ספרד",
-        "points": 16954
+        "country": "ESP",
+        "points": 14629
       },
       {
         "rank": 3,
         "name": "פדריקו צ'ינגוטו",
-        "country": "ארגנטינה",
-        "points": 16954
+        "country": "ARG",
+        "points": 14629
       },
       {
         "rank": 5,
         "name": "חואן לברון",
-        "country": "ספרד",
-        "points": 8100
+        "country": "ESP",
+        "points": 7920
       },
       {
         "rank": 6,
         "name": "לאנדרו אוגסבורגר",
-        "country": "ארגנטינה",
-        "points": 7624
+        "country": "ARG",
+        "points": 7689
       },
       {
         "rank": 7,
-        "name": "פרנקו סטופאצ'וק",
-        "country": "ארגנטינה",
+        "name": "פרנקו סטופצ'וק",
+        "country": "ARG",
         "points": 6360
       },
       {
         "rank": 8,
-        "name": "פאקו נבארו",
-        "country": "ספרד",
-        "points": 6019
+        "name": "פקיטו נבארו",
+        "country": "ESP",
+        "points": 5337
       },
       {
         "rank": 9,
-        "name": "ג'ון סאנס",
-        "country": "ספרד",
-        "points": 5834
+        "name": "ז'ון סאנס",
+        "country": "ESP",
+        "points": 5179
       },
       {
         "rank": 10,
-        "name": "מיגל ינגואס",
-        "country": "ספרד",
-        "points": 5529
+        "name": "מרטין די נֶנו",
+        "country": "ARG",
+        "points": 4929
       },
       {
         "rank": 11,
-        "name": "פרנסיסקו גררו",
-        "country": "ספרד",
-        "points": 4942
+        "name": "מיגל יאנגואס",
+        "country": "ESP",
+        "points": 4847
       },
       {
         "rank": 12,
-        "name": "מרטין די נינו",
-        "country": "ארגנטינה",
-        "points": 4684
+        "name": "פראן גררו",
+        "country": "ESP",
+        "points": 4704
       },
       {
         "rank": 13,
-        "name": "קוקי נייטו",
-        "country": "ספרד",
-        "points": 4464
+        "name": "מומו גונסלס",
+        "country": "ESP",
+        "points": 4089
       },
       {
         "rank": 14,
-        "name": "חרונימו גונסלס",
-        "country": "ספרד",
-        "points": 4384
+        "name": "חואן טייו",
+        "country": "ARG",
+        "points": 3940
       },
       {
         "rank": 15,
-        "name": "לוקאס קמפניולו",
-        "country": "ברזיל",
-        "points": 3737
+        "name": "קוקי נייטו",
+        "country": "ESP",
+        "points": 3717
       },
       {
         "rank": 16,
-        "name": "חאבי לאל",
-        "country": "ספרד",
-        "points": 3596
+        "name": "לוקאס קמפניולו",
+        "country": "BRA",
+        "points": 3579
       },
       {
         "rank": 17,
-        "name": "חואן טייו",
-        "country": "ארגנטינה",
-        "points": 3000
+        "name": "חבייר לאל",
+        "country": "ESP",
+        "points": 3545
       },
       {
         "rank": 18,
-        "name": "אדוארדו אלונסו",
-        "country": "ספרד",
-        "points": 2974
+        "name": "מקסי ארסה",
+        "country": "ARG",
+        "points": 3460
       },
       {
         "rank": 19,
-        "name": "חאבי גארידו",
-        "country": "ספרד",
-        "points": 2929
+        "name": "אדוארדו אלונסו",
+        "country": "ESP",
+        "points": 3444
       },
       {
         "rank": 20,
-        "name": "לוקאס ברגמיני",
-        "country": "ברזיל",
-        "points": 2819
+        "name": "גונסלו אלפונסו",
+        "country": "ARG",
+        "points": 3045
       }
     ],
     "women": [
       {
         "rank": 1,
         "name": "ג'מה טריאי",
-        "country": "ספרד",
-        "points": 15737
+        "country": "ESP",
+        "points": 16394
       },
       {
         "rank": 1,
         "name": "דלפי ברעה",
-        "country": "ארגנטינה",
-        "points": 15737
+        "country": "ARG",
+        "points": 16394
       },
       {
         "rank": 3,
         "name": "ביאה גונסלס",
-        "country": "ספרד",
-        "points": 14069
+        "country": "ESP",
+        "points": 14377
       },
       {
         "rank": 4,
         "name": "אריאנה סאנצ'ס",
-        "country": "ספרד",
-        "points": 13814
+        "country": "ESP",
+        "points": 12419
       },
       {
         "rank": 5,
-        "name": "פאולה חוסמריה",
-        "country": "ספרד",
-        "points": 12854
+        "name": "קלאודיה פרננדס",
+        "country": "ESP",
+        "points": 12357
       },
       {
         "rank": 6,
-        "name": "קלאודיה פרננדס",
-        "country": "ספרד",
-        "points": 12049
+        "name": "אנדראה אוסטרו",
+        "country": "ESP",
+        "points": 12109
       },
       {
         "rank": 7,
-        "name": "אנדראה אוסטרו",
-        "country": "ספרד",
-        "points": 11732
+        "name": "פאולה חוסמריה",
+        "country": "ESP",
+        "points": 11069
       },
       {
         "rank": 8,
-        "name": "מרטינה קאלבו",
-        "country": "ספרד",
-        "points": 7752
+        "name": "מרטינה קלבו",
+        "country": "ESP",
+        "points": 7829
       },
       {
         "rank": 9,
-        "name": "סופיה אראוחו",
-        "country": "פורטוגל",
-        "points": 6194
+        "name": "סופיה אראוז'ו",
+        "country": "POR",
+        "points": 5719
       },
       {
         "rank": 10,
-        "name": "מרטה אורטגה",
-        "country": "ספרד",
-        "points": 5284
+        "name": "קלאודיה ינסן",
+        "country": "ARG",
+        "points": 5184
       },
       {
         "rank": 11,
-        "name": "קלאודיה ינסן",
-        "country": "ארגנטינה",
-        "points": 5209
+        "name": "מרתה אורטגה",
+        "country": "ESP",
+        "points": 4809
       },
       {
         "rank": 12,
         "name": "תמרה איקרדו",
-        "country": "ספרד",
-        "points": 4984
+        "country": "ESP",
+        "points": 4464
       },
       {
         "rank": 13,
         "name": "אלחנדרה אלונסו",
-        "country": "ספרד",
-        "points": 4172
+        "country": "ESP",
+        "points": 3979
       },
       {
         "rank": 14,
         "name": "מרינה גינרט",
-        "country": "ספרד",
-        "points": 4142
+        "country": "ESP",
+        "points": 3949
       },
       {
         "rank": 15,
-        "name": "אלחנדרה סאלאסאר",
-        "country": "ספרד",
-        "points": 3999
+        "name": "ורוניקה וירסדה",
+        "country": "ESP",
+        "points": 3437
       },
       {
         "rank": 16,
-        "name": "ורוניקה וירסדה",
-        "country": "ספרד",
-        "points": 3669
+        "name": "אלחנדרה סלסר",
+        "country": "ESP",
+        "points": 3407
       },
       {
         "rank": 17,
         "name": "ארנצאסו אוסורו",
-        "country": "ארגנטינה",
-        "points": 3376
+        "country": "ARG",
+        "points": 3325
       },
       {
         "rank": 18,
         "name": "ביאטריס קלדרה",
-        "country": "ספרד",
-        "points": 3374
+        "country": "ESP",
+        "points": 3304
       },
       {
         "rank": 19,
         "name": "כרמן גואנגה",
-        "country": "ספרד",
-        "points": 3224
+        "country": "ESP",
+        "points": 3154
       },
       {
         "rank": 20,
         "name": "רקל אאוחניו",
-        "country": "ספרד",
-        "points": 2866
+        "country": "ESP",
+        "points": 2860
       }
     ],
     "ilpa": {
