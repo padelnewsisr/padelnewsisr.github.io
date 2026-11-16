@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-11-16T07:34:11Z",
+  "updatedAt": "2026-11-16T09:45:00Z",
   "live": {},
   "items": [
+    {
+      "id": "finals-barcelona-2026-race-who-is-in-2026-11-16",
+      "publishedAt": "2026-11-16T09:24:49Z",
+      "category": "world",
+      "title": "🏁 גמר העונה: סטופאצ'וק כבר בפנים, 9 זוגות עוד נלחמים",
+      "summary": "אחרי דובאי, פרנקו סטופאצ'וק הבטיח מקום בגמר העונה בברצלונה (10–13.12, 16 השחקנים והשחקניות הטובים ב-Race). אצל הגברים בפנים גם קואייו/טאפיה, גלאן/צ'ינגוטו ולברון/אוגסבורגר. בקו החיתוך: גונסלו אלפונסו במקום 16 עם 3,300 נקודות, רק 50 לפני לוקאס קמפניולו. אצל הנשים כבר בפנים 4 הזוגות הראשונים וסופיה אראוז'ו; ורוניקה וירסדה במקום 16, 50 נקודות לפני נוריה רודריגס. מה הלאה: מייג'ור מקסיקו (23–29.11) – לזוכים 2,000 נקודות.",
+      "source": {
+        "name": "Padel Addict",
+        "url": "https://www.padeladdict.com/clasificados-finals-barcelona-2026-lucha/",
+        "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "number-of-day-dubai-p1-prize-money-2026-11-16",
+      "publishedAt": "2026-11-16T09:00:43Z",
+      "category": "world",
+      "title": "🎯 המספר של היום: 26,270 יורו לכל אלוף בדובאי",
+      "summary": "זה הפרס שקיבלו לברון ואוגסבורגר – כל אחד מהם – על הזכייה בדובאי P1. האלופות קאלבו ופרננדס קיבלו 17,000 יורו כל אחת. הסגנים ליבאק/אלפונסו קיבלו 13,917 יורו לכל שחקן, והסגניות גונסלס/חוסמריה 9,350 יורו לכל שחקנית.",
+      "source": {
+        "name": "Padel Addict",
+        "url": "https://www.padeladdict.com/premios-ganar-torneo-p1-premier-padel/",
+        "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "opinion-padeladdict-triay-brea-number1-semifinal-mexico-2026-11-16",
+      "publishedAt": "2026-11-16T08:43:38Z",
+      "category": "opinion",
+      "title": "💬 Padel Addict: לטריאי/ברעה מספיק חצי גמר במקסיקו",
+      "summary": "לפי החישוב של אדריאנה דיאס פרס ב-Padel Addict, טריאי/ברעה יכולות לסגור את המקום הראשון של העונה במקסיקו גם בלי לזכות בתואר. הן מובילות ב-Race עם 14,200 נקודות, 2,600 לפני סאנצ'ס/אוסטרו. לדעתה, אם הן יגיעו לחצי הגמר, הפער יישאר גדול מדי גם אם סאנצ'ס/אוסטרו יזכו – כי בגמר העונה נשארות רק 1,500 נקודות. גם חוסמריה/גונסלס לא יוכלו להשיג אותן במקרה כזה.",
+      "source": {
+        "name": "Padel Addict – אדריאנה דיאס פרס",
+        "url": "https://www.padeladdict.com/numero-1-femenino-premier-padel-2026/",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "opinion-padelspain-claudia-jensen-profile-2026-11-16",
       "publishedAt": "2026-11-16T06:01:00Z",
@@ -179,30 +215,6 @@
       }
     },
     {
-      "id": "opinion-padelmagazine-garrido-depascual-target-sanz-2026-11-14",
-      "publishedAt": "2026-11-14T08:51:00Z",
-      "category": "opinion",
-      "title": "💬 Padel Magazine: הסוד של דה פסקואל/גארידו – לשחק על סאנס",
-      "summary": "לפי Padel Magazine, דה פסקואל/גארידו ניצחו את סטופאצ׳וק/סאנס כי שלחו כמעט כל כדור לג׳ון סאנס. הם המשיכו כך גם כשסאנס הצליח במכות יפות. לדעת הכתב, הסמאשים שלהם והמגרש המהיר בדובאי עזרו להם מאוד. מה הלאה: היום בחצי הגמר נגד ליבאק/אלפונסו, אחרי חצי הגמר של לברון/אוגסבורגר (לא לפני 17:00).",
-      "source": {
-        "name": "Padel Magazine (אנטואן טריקולה)",
-        "url": "https://padelmagazine.fr/garrido-de-pascual-cibler-sanz-et-garder-le-cap-pour-rejoindre-les-demi-finales/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-piris-spain-worlds-2030-2026-11-14",
-      "publishedAt": "2026-11-14T08:32:51Z",
-      "category": "opinion",
-      "title": "💬 נשיא פדרציית ספרד: \"רוצה את אליפות העולם בספרד ב-2030\"",
-      "summary": "חאבייר רודריגס פיריס, נשיא פדרציית הפאדל של ספרד, דיבר עם העיתון Marca אחרי ששתי נבחרות ספרד זכו במונדיאל בדוחה. הוא אמר שהוא רוצה שספרד תארח את אליפות העולם ב-2030. הוא חושב שצרפת, איטליה, הולנד, שוודיה ופורטוגל מתקרבות לספרד. הוא גם מקווה שפאדל ייכנס לאולימפיאדה ב-2036. למה זה חשוב: אין עדיין הגשת מועמדות רשמית – זו משאלה שלו.",
-      "source": {
-        "name": "Padel Magazine (בנז׳מן דופואי, על ראיון ב-Marca)",
-        "url": "https://padelmagazine.fr/javier-rodriguez-piris-jaimerais-que-lespagne-accueille-les-championnats-du-monde-en-2030/",
-        "lang": "צרפתית"
-      }
-    },
-    {
       "id": "ilpa-ranking-nov-2026-new-leaders",
       "publishedAt": "2026-11-12T14:20:00Z",
       "category": "israel",
@@ -224,8 +236,8 @@
       "what": "מייג'ור מקסיקו באקפולקו – משחקים בלילה לפי שעון ישראל"
     },
     {
-      "when": "7–13.12",
-      "what": "גמר העונה בברצלונה – 16 הזוגות הטובים"
+      "when": "10–13.12",
+      "what": "גמר העונה בברצלונה (Palau Sant Jordi) – 16 השחקנים והשחקניות הטובים ב-Race"
     }
   ],
   "watch": [],
@@ -292,128 +304,128 @@
     }
   ],
   "rankings": {
-    "date": "09.11.2026",
-    "checkedAt": "2026-11-02T08:07:54Z",
+    "date": "16.11.2026",
+    "checkedAt": "2026-11-16T09:40:00Z",
     "men": [
       {
         "rank": 1,
         "name": "ארטורו קואייו",
         "country": "ESP",
-        "points": 20994
+        "points": 20283
       },
       {
         "rank": 1,
         "name": "אגוסטין טאפיה",
         "country": "ARG",
-        "points": 20994
+        "points": 20283
       },
       {
         "rank": 3,
         "name": "אלחנדרו גלאן",
         "country": "ESP",
-        "points": 14629
+        "points": 14076
       },
       {
         "rank": 3,
         "name": "פדריקו צ'ינגוטו",
         "country": "ARG",
-        "points": 14629
+        "points": 14076
       },
       {
         "rank": 5,
         "name": "חואן לברון",
         "country": "ESP",
-        "points": 7920
+        "points": 8560
       },
       {
         "rank": 6,
         "name": "לאנדרו אוגסבורגר",
         "country": "ARG",
-        "points": 7689
+        "points": 8496
       },
       {
         "rank": 7,
         "name": "פרנקו סטופצ'וק",
         "country": "ARG",
-        "points": 6360
+        "points": 6180
       },
       {
         "rank": 8,
         "name": "פקיטו נבארו",
         "country": "ESP",
-        "points": 5337
+        "points": 5266
       },
       {
         "rank": 9,
         "name": "ז'ון סאנס",
         "country": "ESP",
-        "points": 5179
+        "points": 5256
       },
       {
         "rank": 10,
         "name": "מרטין די נֶנו",
         "country": "ARG",
-        "points": 4929
+        "points": 4826
       },
       {
         "rank": 11,
         "name": "מיגל יאנגואס",
         "country": "ESP",
-        "points": 4847
+        "points": 4821
       },
       {
         "rank": 12,
         "name": "פראן גררו",
         "country": "ESP",
-        "points": 4704
+        "points": 4608
       },
       {
         "rank": 13,
         "name": "מומו גונסלס",
         "country": "ESP",
-        "points": 4089
+        "points": 4076
       },
       {
         "rank": 14,
         "name": "חואן טייו",
         "country": "ARG",
-        "points": 3940
+        "points": 3936
       },
       {
         "rank": 15,
         "name": "קוקי נייטו",
         "country": "ESP",
-        "points": 3717
+        "points": 3691
       },
       {
         "rank": 16,
-        "name": "לוקאס קמפניולו",
-        "country": "BRA",
-        "points": 3579
+        "name": "גונסלו אלפונסו",
+        "country": "ARG",
+        "points": 3596
       },
       {
         "rank": 17,
-        "name": "חבייר לאל",
-        "country": "ESP",
-        "points": 3545
+        "name": "מקסי ארסה",
+        "country": "ARG",
+        "points": 3595
       },
       {
         "rank": 18,
-        "name": "מקסי ארסה",
-        "country": "ARG",
-        "points": 3460
+        "name": "חבייר לאל",
+        "country": "ESP",
+        "points": 3451
       },
       {
         "rank": 19,
-        "name": "אדוארדו אלונסו",
-        "country": "ESP",
-        "points": 3444
+        "name": "לוקאס קמפניולו",
+        "country": "BRA",
+        "points": 3393
       },
       {
         "rank": 20,
-        "name": "גונסלו אלפונסו",
+        "name": "טינו ליבאק",
         "country": "ARG",
-        "points": 3045
+        "points": 3361
       }
     ],
     "women": [
@@ -421,121 +433,121 @@
         "rank": 1,
         "name": "ג'מה טריאי",
         "country": "ESP",
-        "points": 16394
+        "points": 15903
       },
       {
         "rank": 1,
         "name": "דלפי ברעה",
         "country": "ARG",
-        "points": 16394
+        "points": 15903
       },
       {
         "rank": 3,
         "name": "ביאה גונסלס",
         "country": "ESP",
-        "points": 14377
+        "points": 13951
       },
       {
         "rank": 4,
         "name": "אריאנה סאנצ'ס",
         "country": "ESP",
-        "points": 12419
+        "points": 12376
       },
       {
         "rank": 5,
         "name": "קלאודיה פרננדס",
         "country": "ESP",
-        "points": 12357
+        "points": 12331
       },
       {
         "rank": 6,
         "name": "אנדראה אוסטרו",
         "country": "ESP",
-        "points": 12109
+        "points": 12103
       },
       {
         "rank": 7,
         "name": "פאולה חוסמריה",
         "country": "ESP",
-        "points": 11069
+        "points": 11266
       },
       {
         "rank": 8,
         "name": "מרטינה קלבו",
         "country": "ESP",
-        "points": 7829
+        "points": 8643
       },
       {
         "rank": 9,
         "name": "סופיה אראוז'ו",
         "country": "POR",
-        "points": 5719
+        "points": 5436
       },
       {
         "rank": 10,
         "name": "קלאודיה ינסן",
         "country": "ARG",
-        "points": 5184
+        "points": 5351
       },
       {
         "rank": 11,
         "name": "מרתה אורטגה",
         "country": "ESP",
-        "points": 4809
+        "points": 4706
       },
       {
         "rank": 12,
         "name": "תמרה איקרדו",
         "country": "ESP",
-        "points": 4464
+        "points": 4631
       },
       {
         "rank": 13,
         "name": "אלחנדרה אלונסו",
         "country": "ESP",
-        "points": 3979
+        "points": 3973
       },
       {
         "rank": 14,
         "name": "מרינה גינרט",
         "country": "ESP",
-        "points": 3949
+        "points": 3943
       },
       {
         "rank": 15,
         "name": "ורוניקה וירסדה",
         "country": "ESP",
-        "points": 3437
+        "points": 3321
       },
       {
         "rank": 16,
         "name": "אלחנדרה סלסר",
         "country": "ESP",
-        "points": 3407
+        "points": 3291
       },
       {
         "rank": 17,
         "name": "ארנצאסו אוסורו",
         "country": "ARG",
-        "points": 3325
+        "points": 3276
       },
       {
         "rank": 18,
         "name": "ביאטריס קלדרה",
         "country": "ESP",
-        "points": 3304
+        "points": 3246
       },
       {
         "rank": 19,
         "name": "כרמן גואנגה",
         "country": "ESP",
-        "points": 3154
+        "points": 3096
       },
       {
         "rank": 20,
         "name": "רקל אאוחניו",
         "country": "ESP",
-        "points": 2860
+        "points": 2966
       }
     ],
     "ilpa": {
