@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-11-17T12:32:03Z",
+  "updatedAt": "2026-11-17T14:32:51Z",
   "live": {},
   "items": [
+    {
+      "id": "opinion-europapress-juanjo-gutierrez-lebron-top-table-2026-11-17",
+      "publishedAt": "2026-11-17T12:42:00Z",
+      "category": "opinion",
+      "title": "💬 מאמן ספרד: לברון שייך לצמרת, ליד קואייו, טאפיה וגלאן",
+      "summary": "חואנחו גוטיירס, מאמן נבחרת הגברים של ספרד, אמר ב-Europa Press שלברון \"יושב בשולחן\" של קואייו, טאפיה וגלאן. לדבריו, בלי לברון כל קבוצה חלשה יותר. הוא גם בטוח שהפאדל ייכנס לאולימפיאדה \"מוקדם ולא מאוחר\".",
+      "source": {
+        "name": "Europa Press (וידאו)",
+        "url": "https://www.europapress.tv/deportes/1134672/1/juanjo-gutierrez-juan-lebron-sienta-mesa-coello-tapia-galan",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "opinion-padeladdict-coello-best-spanish-player-2026-11-17",
       "publishedAt": "2026-11-17T11:54:15Z",
@@ -15,6 +27,30 @@
       }
     },
     {
+      "id": "opinion-europapress-carolina-navarro-olympics-dream-2026-11-17",
+      "publishedAt": "2026-11-17T11:54:00Z",
+      "category": "opinion",
+      "title": "💬 קרולינה נבארו: פאדל באולימפיאדה \"יהיה חלום\"",
+      "summary": "קרולינה נבארו, מאמנת נבחרת הנשים של ספרד (אלופות העולם בקטאר), דיברה ב-Europa Press. לדבריה, פאדל אולימפי \"יהיה מדהים\", אולי בבריסביין 2032 או ב-2036. היא אמרה שבגלל שהייתה שחקנית, היא מבינה מה השחקניות צריכות.",
+      "source": {
+        "name": "Europa Press (וידאו)",
+        "url": "https://www.europapress.tv/deportes/1134615/1/carolina-navarro-padel-fuera-olimpico-seria-increible-sueno",
+        "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "opinion-libertaddigital-rodriguez-piris-world-cup-2030-2026-11-17",
+      "publishedAt": "2026-11-17T11:42:56Z",
+      "category": "opinion",
+      "title": "💬 נשיא פדרציית ספרד: \"למה לא לחלום\" על מונדיאל 2030",
+      "summary": "חוויאר רודריגס פיריס, נשיא פדרציית הפאדל של ספרד, רוצה לארח את גביע העולם בפאדל ב-2030. לדעתו ההצלחה בדוחה מראה שזה יצליח. הוא אמר שצריך לשנות את לוח הטורנירים, ולמצוא נותני חסות וכסף. על האולימפיאדה אמר שיש \"צעדים חשובים\", והוא מקווה לבריסביין 2032.",
+      "source": {
+        "name": "Libertad Digital",
+        "url": "https://libertaddigital.com/deportes/mas-deporte/2026-11-17/espana-suena-con-acoger-el-mundial-de-padel-en-2030-tendria-exito-y-retorno-asegurados-7493316",
+        "lang": "ספרדית"
+      }
+    },
+    {
       "id": "opinion-padelmagazine-claudia-fernandez-20-builder-2026-11-17",
       "publishedAt": "2026-11-17T08:52:48Z",
       "category": "opinion",
@@ -23,6 +59,25 @@
       "source": {
         "name": "Padel Magazine (אנטואן טריקולה)",
         "url": "https://padelmagazine.fr/claudia-fernandez-a-20-ans-bien-plus-quune-joueuse-de-construction/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "lebron-42-titles-equals-sanyo-2026-11-17",
+      "publishedAt": "2026-11-17T08:45:08Z",
+      "category": "world",
+      "title": "🎯 42 תארים: לברון השווה את סאניו",
+      "summary": "חואן לברון זכה בדובאי בתואר ה-42 שלו, עם לאו אוגסבורגר. עכשיו יש לו בדיוק כמו לסאניו גוטיירס. בין השחקנים הפעילים מובילים טאפיה (66), גלאן (60) וקואייו (59). אצל הנשים מובילה ג'מה טריאי עם 59 תארים, ואחריה סלאסר וארי סאנצ'ס עם 58 כל אחת. קלאודיה פרננדס בת ה-20 הגיעה ל-15 תארים.",
+      "profile": {
+        "icon": "🎯",
+        "flag": "🇪🇸",
+        "name": "חואן לברון",
+        "line": "התואר ה-42 בקריירה – בדובאי",
+        "stat": "42 תארים"
+      },
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/lebron-rejoint-sanyo-avec-42-titres-claudia-fernandez-continue-de-grimper-le-classement-des-joueurs-les-plus-titres-de-lhistoire/",
         "lang": "צרפתית"
       }
     },
@@ -83,53 +138,6 @@
       "source": {
         "name": "El Neverazo",
         "url": "https://www.elneverazo.com/fip-platinum-aguascalientes-2026-cruces/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "dubai-p1-2026-record-attendance-35000",
-      "publishedAt": "2026-11-16T13:42:00Z",
-      "category": "world",
-      "title": "🏟️ שיא בדובאי: יותר מ-35,000 צופים ב-8 ימים",
-      "summary": "טורניר P1 בדובאי שבר שיא קהל. יותר מ-35,000 צופים הגיעו במשך 8 ימים. ביום הגמרים היו יותר מ-8,150 צופים – הכי הרבה בתולדות הטורניר. בשנה הראשונה הגיעו 24,000, ובשנה השנייה 30,486. המגרש נבנה בתוך בריכה אולימפית שהפכה לזירה.",
-      "source": {
-        "name": "Dubai Eye 103.8",
-        "url": "https://www.dubaieye1038.com/news/sports/emaar-dubai-premier-padel-p1-wraps-up-with-record-turnout/",
-        "lang": "אנגלית"
-      }
-    },
-    {
-      "id": "fip-junior-america-cup-2026-argentina-double",
-      "publishedAt": "2026-11-16T12:36:00Z",
-      "category": "results",
-      "gender": "both",
-      "title": "👨👩 🇦🇷 ארגנטינה לוקחת את שני התארים בגביע אמריקה לנוער",
-      "summary": "ארגנטינה זכתה בגביע אמריקה של FIP לנוער בקנקון, מקסיקו – גם אצל הבנים וגם אצל הבנות. אצל הבנים הגמר נגד פרגוואי הוכרע רק במשחק השלישי: 2-1. אצל הבנות ארגנטינה ניצחה את ברזיל 2-0. במקום השלישי: מקסיקו (בנים) וצ'ילה (בנות). למה זה חשוב: הדור הבא של הפאדל באמריקה מגיע מארגנטינה.",
-      "matches": [
-        {
-          "winner": "ארגנטינה (בנים)",
-          "loser": "פרגוואי",
-          "score": "2-1"
-        },
-        {
-          "winner": "קונטרראס/גראופרה (ארגנטינה)",
-          "loser": "סרנה תומפסון/פטיט פרננדס (פרגוואי)",
-          "score": "7-5, 6-4"
-        },
-        {
-          "winner": "ארגנטינה (בנות)",
-          "loser": "ברזיל",
-          "score": "2-0"
-        },
-        {
-          "winner": "מקסיקו (בנים, מקום 3)",
-          "loser": "ונצואלה",
-          "score": "2-1"
-        }
-      ],
-      "source": {
-        "name": "PadelSpain",
-        "url": "https://www.padelspain.net/padel-internacional/835963/el-padel-del-futuro-en-america-lleva-el-sello-de-argentina/",
         "lang": "ספרדית"
       }
     },
