@@ -1,7 +1,54 @@
 {
-  "updatedAt": "2026-11-17T16:33:53Z",
+  "updatedAt": "2026-11-17T18:33:14Z",
   "live": {},
   "items": [
+    {
+      "id": "results-aguascalientes-2026-women-r32-day1-2026-11-17",
+      "publishedAt": "2026-11-17T18:30:00Z",
+      "category": "results",
+      "gender": "women",
+      "title": "👩 אגואסקליינטס: לובו/נבארו ניצחו 6-0, 6-1 בפתיחה",
+      "summary": "הטורניר FIP Platinum במקסיקו התחיל היום עם משחקי סיבוב 32 של הנשים. מרינה לובו וטרסה נבארו ניצחו בקלות 6-0, 6-1. נטיבידד לופס ואידה מרטינס ניצחו 6-2, 6-1. טורס/הולגין חזרו מהפסד במערכה הראשונה וניצחו 3-6, 6-3, 6-3. מה הלאה: בשמינית הגמר מחכות הזוגות המדורגות, כמו אוסורו/ג'נסן.",
+      "matches": [
+        {
+          "winner": "לובו/נבארו",
+          "loser": "צ'יפצ'י/אינדג'ין",
+          "score": "6-0, 6-1"
+        },
+        {
+          "winner": "לופס/מרטינס",
+          "loser": "ארג'נטיירי/סילבה",
+          "score": "6-2, 6-1"
+        },
+        {
+          "winner": "טורס/הולגין",
+          "loser": "מרופו/דרביס",
+          "score": "3-6, 6-3, 6-3"
+        },
+        {
+          "winner": "אלבוחאר/צ'יקרדיני",
+          "loser": "רוסאס/בוטלה",
+          "score": "6-1, 7-6"
+        }
+      ],
+      "source": {
+        "name": "StudyPadel – תוצאות FIP Platinum אגואסקליינטס",
+        "url": "https://www.studypadel.com/es/torneos/2026/fip-platinum-mexico/partidos-por-ronda",
+        "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "opinion-elnacional-finals-presentation-players-words-2026-11-17",
+      "publishedAt": "2026-11-17T14:09:00Z",
+      "category": "opinion",
+      "title": "💬 טאפיה על הגמר בברצלונה: \"זה לסיים את השנה בבית\"",
+      "summary": "בהצגת גמר העונה בברצלונה השחקנים דיברו על הטורניר. טאפיה, מספר 1 בעולם, גר ליד ברצלונה. הוא אמר שזה כמו לסיים את השנה בבית. ארי סאנצ'ס אמרה שהיא אוהבת את האתגר של שיא קהל. אנדראה אוסטרו (19) אמרה שאין דרך טובה יותר לסיים את השנה, מול האנשים שראו אותה גדלה. נשיא FIP, לואיג'י קארארו, בטוח שישברו את כל שיאי הקהל.",
+      "source": {
+        "name": "El Nacional (אלסנדרו מרוצ'לי)",
+        "url": "https://www.elnacional.cat/es/deportes/premier-padel-finals-vuelven-barcelona-se-batiran-todos-records-en-historia_1726922_102.html",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "finals-barcelona-2026-presentation-record-crowd-2026-11-17",
       "publishedAt": "2026-11-17T13:15:00Z",
