@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-11-17T09:33:22Z",
+  "updatedAt": "2026-11-17T12:32:03Z",
   "live": {},
   "items": [
+    {
+      "id": "opinion-padeladdict-coello-best-spanish-player-2026-11-17",
+      "publishedAt": "2026-11-17T11:54:15Z",
+      "category": "opinion",
+      "title": "💬 קואייו: \"אני, לברון וגלאן נלחמים על התואר הספרדי הטוב בהיסטוריה\"",
+      "summary": "בראיון שפורסם ב-Padel Addict, ארטורו קואייו אומר שהוא, חואן לברון ואלה גלאן מתחרים על התואר השחקן הספרדי הטוב ביותר אי פעם. הוא רוצה לסיים עוד עונות במקום הראשון בעולם ולהתקרב לשיאים של לברון. קואייו מספר שהוא לא נח על הניצחונות: הוא בודק מה היה טוב, מה צריך לשפר, וממשיך הלאה. היום הוא שם יותר דגש על שינה, תזונה והתאוששות, כדי לשחק ברמה גבוהה עד תחילת שנות ה-30 שלו.",
+      "source": {
+        "name": "Padel Addict",
+        "url": "https://www.padeladdict.com/entrevista-arturo-coello/",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "opinion-padelmagazine-claudia-fernandez-20-builder-2026-11-17",
       "publishedAt": "2026-11-17T08:52:48Z",
@@ -143,18 +155,6 @@
         "name": "Padel Magazine – בנז'מן דופוי",
         "url": "https://padelmagazine.fr/dubai-p1-fernandez-calvo-nimporte-laquelle-des-trois-meilleures-paires-pourrait-etre-numero-1-mondiale/",
         "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "lebron-42-titles-ties-sanyo-2026-11-16",
-      "publishedAt": "2026-11-16T10:30:04Z",
-      "category": "world",
-      "title": "🔥 לברון: 42 תארים – שווה לסאניו",
-      "summary": "הזכייה בדובאי היא התואר ה-42 של חואן לברון. עכשיו הוא שווה לסאניו גוטיירס ברשימת השחקנים הפעילים עם הכי הרבה תארים. בראש הרשימה: טאפיה (66), גלאן (60) וקואייו (59). אצל הנשים מובילה ג'מה טריאי עם 59 תארים, ואחריה סלאסר וארי סאנצ'ס עם 58 כל אחת.",
-      "source": {
-        "name": "Padel Addict",
-        "url": "https://www.padeladdict.com/cuales-son-los-jugadores-en-activo-que-han-ganado-mas-titulos-en-el-padel-profesional/",
-        "lang": "ספרדית"
       }
     },
     {
