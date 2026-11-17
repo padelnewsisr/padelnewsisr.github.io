@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T14:32:51Z",
+  "updatedAt": "2026-11-17T16:33:13Z",
   "live": {},
   "items": [
     {
@@ -12,6 +12,18 @@
         "name": "Europa Press (וידאו)",
         "url": "https://www.europapress.tv/deportes/1134672/1/juanjo-gutierrez-juan-lebron-sienta-mesa-coello-tapia-galan",
         "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "fip-tour-week-2026-11-17-eight-events",
+      "publishedAt": "2026-11-17T12:05:52Z",
+      "category": "calendar",
+      "title": "🌍 8 טורנירי FIP השבוע: ממקסיקו ועד גאנה",
+      "summary": "השבוע יש טורנירי FIP בכל העולם. הגדול ביותר: FIP Platinum באגואסקליינטס, מקסיקו (17–21.11). יש גם טורנירי Silver בהונג קונג וב-MCV Padelness, וטורנירי Bronze בסקורופ (שוודיה), רושפור (בלגיה), יורטה (ספרד), אקרה (גאנה) וקראצ'י (פקיסטן). מה הלאה: נחפש ישראלים בהגרלות ונדווח כאן.",
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/fip-tour-du-mexique-a-la-belgique-en-passant-par-la-suede-et-le-ghana-les-francais-presents-sur-tous-les-fronts-cette-semaine/",
+        "lang": "צרפתית"
       }
     },
     {
@@ -48,6 +60,18 @@
         "name": "Libertad Digital",
         "url": "https://libertaddigital.com/deportes/mas-deporte/2026-11-17/espana-suena-con-acoger-el-mundial-de-padel-en-2030-tendria-exito-y-retorno-asegurados-7493316",
         "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "opinion-padelmagazine-blanque-joris-chingotto-anecdote-2026-11-17",
+      "publishedAt": "2026-11-17T09:27:00Z",
+      "category": "opinion",
+      "title": "💬 צ'ינגוטו לשחקן צרפתי: \"אתה עושה הכול כמוני, רק טוב יותר\"",
+      "summary": "בלאנקה וז'וריס מצרפת זכו בטורניר P3000 בנים, 6-3, 6-4 בגמר, בלי להפסיד מערכה. ז'וריס סיפר ל-Padel Magazine סיפור מהמונדיאל בקטאר: צ'ינגוטו אמר לו בצחוק שהוא התקשר לגלאן לשחק איתו, כי ז'וריס עושה הכול כמוהו – רק יותר טוב. כל השחקנים הצרפתים צחקו. בלאנקה אמר שהזוג היה \"מאוד יציב\", אבל ביקש להישאר צנועים כי חסרו בטורניר שחקנים מהטופ.",
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/blanque-joris-un-p3000-maitrise-un-premier-titre-et-une-anecdote-savoureuse-avec-chingotto/",
+        "lang": "צרפתית"
       }
     },
     {
@@ -126,6 +150,26 @@
       "source": {
         "name": "Padel Magazine (פרנק ביניסטי)",
         "url": "https://padelmagazine.fr/libaak-alfonso-pourquoi-ils-veulent-continuer-ensemble-en-2027/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "opinion-padelmagazine-mansart-pothier-p3000-final-2026-11-17",
+      "publishedAt": "2026-11-17T06:26:00Z",
+      "category": "opinion",
+      "gender": "women",
+      "matches": [
+        {
+          "winner": "פותייה/מנסאר",
+          "loser": "סנז'אן/דרדן",
+          "score": "6-7, 7-6, 6-3"
+        }
+      ],
+      "title": "💬 \"ראיתי מטושטש\": מנסאר ניצחה בגמר למרות קשיים",
+      "summary": "הצרפתיות פותייה/מנסאר זכו בטורניר P3000 נשים בצרפת, 6-7, 7-6, 6-3. מנסאר סיפרה ל-Padel Magazine שכבר במערכה הראשונה היא \"ראתה מטושטש\" ולא הרגישה טוב. פותייה אמרה שהמאמן החזיק אותן בכל החלפת צד. היא גם הודיעה שב-2027 תשחק בטורנירי FIP בצרפת – יש שם 16 תאריכים.",
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/je-voyais-flou-clara-mansart-raconte-sa-finale-mouvementee-au-p3000-lucile-pothier-sattaquera-au-fip-en-france-en-2027/",
         "lang": "צרפתית"
       }
     },
