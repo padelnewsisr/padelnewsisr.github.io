@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T09:33:19Z",
+  "updatedAt": "2026-11-18T12:33:01Z",
   "live": {
     "title": "FIP Platinum אגואסקליינטס (מקסיקו) – שמינית הגמר",
     "date": "2026-11-18",
@@ -33,6 +33,18 @@
     ]
   },
   "items": [
+    {
+      "id": "opinion-padeladdict-triay-brea-number1-math-mexico-2026-11-18",
+      "publishedAt": "2026-11-18T09:00:38Z",
+      "category": "opinion",
+      "title": "💬 Padel Addict: מקסיקו יכולה להכריע מי מספר 1 בנשים",
+      "summary": "לפי ניתוח של אדריאנה דיאס ב-Padel Addict, טריאי/ברעה מובילות ב-Race עם 14,200 נקודות. אחריהן סאנצ'ס/אוסטרו עם 11,600, וחוסמריה/גונסלס עם 10,940. לפי החישוב, אם טריאי/ברעה יגיעו לחצי הגמר במייג'ור מקסיקו, מקום 1 בסוף השנה שלהן. חוסמריה/גונסלס כבר לא יכולות להגיע למקום 1, אבל עוד נלחמות על מקום 2. מה הלאה: מייג'ור מקסיקו באקפולקו, 23–29.11.",
+      "source": {
+        "name": "Padel Addict – אדריאנה דיאס",
+        "url": "https://www.padeladdict.com/numero-1-femenino-premier-padel-2026/",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "opinion-padelmagazine-finals-half-qualified-pairs-2026-11-18",
       "publishedAt": "2026-11-18T08:41:00Z",
@@ -78,6 +90,18 @@
       "source": {
         "name": "Padel Spain (ראיון)",
         "url": "https://www.padelspain.net/entrevistas/836015/javier-sanchez-espadina-hay-jugadores-que-desde-pequenos-se-les-ve-que-tienen-algo-diferente-como-arturo-coello-o-pablo-cardona/",
+        "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "world-fep-spanish-absolute-pairs-championship-2027-2026-11-18",
+      "publishedAt": "2026-11-18T06:47:39Z",
+      "category": "world",
+      "title": "🇪🇸 ספרד מחזירה את אליפות ספרד לזוגות ב-2027",
+      "summary": "חוויאר רודריגס פיריס, נשיא פדרציית הפאדל של ספרד, אמר שב-2027 תחזור אליפות ספרד הפתוחה לזוגות. הוא אמר את זה ב-17.11 באירוע של Europa Press. לפי Padel Spain, קהילת הפאדל ביקשה את זה כבר הרבה זמן. עדיין אין תאריכים, מקום או פורמט.",
+      "source": {
+        "name": "Padel Spain",
+        "url": "https://www.padelspain.net/portada/actualidad/836028/el-presidente-de-la-fep-sube-la-apuesta-habra-campeonato-de-espana-absoluto-por-parejas-en-2027/",
         "lang": "ספרדית"
       }
     },
@@ -200,18 +224,6 @@
       }
     },
     {
-      "id": "fip-tour-week-2026-11-17-eight-events",
-      "publishedAt": "2026-11-17T12:05:52Z",
-      "category": "calendar",
-      "title": "🌍 8 טורנירי FIP השבוע: ממקסיקו ועד גאנה",
-      "summary": "השבוע יש טורנירי FIP בכל העולם. הגדול ביותר: FIP Platinum באגואסקליינטס, מקסיקו (17–21.11). יש גם טורנירי Silver בהונג קונג וב-MCV Padelness, וטורנירי Bronze בסקורופ (שוודיה), רושפור (בלגיה), יורטה (ספרד), אקרה (גאנה) וקראצ'י (פקיסטן). מה הלאה: נחפש ישראלים בהגרלות ונדווח כאן.",
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/fip-tour-du-mexique-a-la-belgique-en-passant-par-la-suede-et-le-ghana-les-francais-presents-sur-tous-les-fronts-cette-semaine/",
-        "lang": "צרפתית"
-      }
-    },
-    {
       "id": "opinion-padeladdict-coello-best-spanish-player-2026-11-17",
       "publishedAt": "2026-11-17T11:54:15Z",
       "category": "opinion",
@@ -301,42 +313,6 @@
         "name": "Padel Magazine",
         "url": "https://padelmagazine.fr/je-voyais-flou-clara-mansart-raconte-sa-finale-mouvementee-au-p3000-lucile-pothier-sattaquera-au-fip-en-france-en-2027/",
         "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-lebron-augsburger-dubai-threat-2026-11-16",
-      "publishedAt": "2026-11-16T12:15:00Z",
-      "category": "opinion",
-      "title": "💬 Padel Magazine: לברון/אוגסבורגר מאיימים יותר על הצמרת",
-      "summary": "לדעת אנטואן טריקולה מ-Padel Magazine, התואר בדובאי מראה צד חדש אצל לברון/אוגסבורגר. בבריסל הם הראו שהם יכולים לנצח את שני הזוגות הטובים בעולם. בדובאי הם הראו שהם יודעים לנצל הגרלה פתוחה – וסגרו בצורת תארים של יותר מחצי שנה. הכותב מזכיר שהם עדיין לא יציבים: בכווית הם הודחו בשמינית הגמר. לדבריו, קואייו/טאפיה וגלאן/צ'ינגוטו לא שיחקו בדובאי, ולכן עוד מוקדם לקבוע שהם ברמה שלהם.",
-      "source": {
-        "name": "Padel Magazine – אנטואן טריקולה",
-        "url": "https://padelmagazine.fr/lebron-augsburger-bruxelles-avait-envoye-un-message-dubai-renforce-la-menace/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-fernandez-calvo-three-pairs-number1-2026-11-16",
-      "publishedAt": "2026-11-16T11:49:00Z",
-      "category": "opinion",
-      "title": "💬 קלאודיה פרננדס וקאלבו: \"כל אחד משלושת הזוגות יכול להיות מספר 1\"",
-      "summary": "במסיבת העיתונאים אחרי הזכייה בדובאי (לפי Padel Magazine), האלופות לא רצו לבחור מי היריבות הכי קשות. לדבריהן, טריאי/ברעה, סאנצ'ס/אוסטרו וחוסמריה/גונסלס כמעט באותה רמה, וכל אחד מהזוגות יכול להיות מספר 1 בעולם. פרננדס (20) תיארה את עצמה כביישנית, וקאלבו (18) כפתוחה מחוץ למגרש ומרוכזת עליו. במילה אחת: דוחא היה \"חלום\", ודובאי – \"שמחה\".",
-      "source": {
-        "name": "Padel Magazine – בנז'מן דופוי",
-        "url": "https://padelmagazine.fr/dubai-p1-fernandez-calvo-nimporte-laquelle-des-trois-meilleures-paires-pourrait-etre-numero-1-mondiale/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padeladdict-dubai-season-limit-injuries-fatigue-2026-11-16",
-      "publishedAt": "2026-11-16T10:05:39Z",
-      "category": "opinion",
-      "title": "💬 Padel Addict: דובאי הראה עונה שעברה את הגבול",
-      "summary": "לדעת אנחל גונסלס מ-Padel Addict, דובאי הראה שהשחקנים עייפים מדי. גלאן (פציעה ביד) וטאפיה (לפי עצת הצוות הרפואי) לא שיחקו, ולכן שני הזוגות הכי טובים בעולם חסרו. רוב 8 הזוגות המובילים הודחו מוקדם, גם נבארו/די נינו בשלב 32 האחרונים מול זוג שעלה מהמוקדמות. הכותב טוען: מייג'ור כווית, מונדיאל ואז P1 בלי הפסקה – זה יותר מדי, וזה גם מקטין את ערך המונדיאל. האכזבה הגדולה לדעתו: חוסמריה/ביאה גונסלס, בלי תואר מאז ויאדוליד.",
-      "source": {
-        "name": "Padel Addict – אנחל גונסלס",
-        "url": "https://www.padeladdict.com/lesiones-sorpresas-y-cansancio-dubai-retrata-un-final-de-temporada-al-limite/",
-        "lang": "ספרדית"
       }
     },
     {
