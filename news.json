@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T07:50:00Z",
+  "updatedAt": "2026-11-18T09:33:19Z",
   "live": {
     "title": "FIP Platinum אגואסקליינטס (מקסיקו) – שמינית הגמר",
     "date": "2026-11-18",
@@ -33,6 +33,54 @@
     ]
   },
   "items": [
+    {
+      "id": "opinion-padelmagazine-finals-half-qualified-pairs-2026-11-18",
+      "publishedAt": "2026-11-18T08:41:00Z",
+      "category": "opinion",
+      "title": "💬 Padel Magazine: זוגות שעלולים להגיע לגמר העונה \"רק בחצי\"",
+      "summary": "אנטואן טריקולה ב-Padel Magazine מסביר בעיה בכרטיסים לגמר העונה בברצלונה: עולים 16 השחקנים הטובים ב-Race, כל שחקן לבד, ולא 8 זוגות. לכן בארבעה זוגות שחקן אחד בפנים והשני בחוץ. למשל: אלפונסו במקום 16 וליבאק במקום 19, גונסלס במקום 15 וקמפניולו במקום 17. גם ינגואס (8) ונייטו (18), וגררו (12) ולאל (20). מה הלאה: אגואסקליינטס ומייג'ור מקסיקו עוד יכולים לשנות הכול.",
+      "source": {
+        "name": "Padel Magazine – אנטואן טריקולה",
+        "url": "https://padelmagazine.fr/finals-quand-une-paire-risque-de-se-qualifier-a-moitie/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "opinion-padelmagazine-coello-tapia-seven-defeats-2026-11-18",
+      "publishedAt": "2026-11-18T08:21:00Z",
+      "category": "opinion",
+      "title": "💬 7 הפסדים מפתיעים: גם טאפיה/קואייו אפשר לנצח",
+      "summary": "מסאו זרהט ב-Padel Magazine סוקר 7 הפסדים מפתיעים של טאפיה/קואייו מאז 2023. ההפסד הגדול: גמר העונה בברצלונה 2024 – נייטו/סאנס חזרו אחרי 2 נקודות משחק ועצרו רצף של 47 ניצחונות. ב-2026 הם הפסידו לליאל/גררו בחצי הגמר בפרטוריה (7-5, 7-5), ולנייטו/ינגואס ברבע הגמר במדריד (7-5, 7-6). לדעת הכותב: הם לא בלתי מנוצחים, אבל עדיין הזוג הטוב בעולם.",
+      "source": {
+        "name": "Padel Magazine – מסאו זרהט",
+        "url": "https://padelmagazine.fr/coello-tapia-retour-sur-sept-defaites-inattendues-depuis-2023/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "opinion-padelmagazine-physical-vs-talent-2026-11-18",
+      "publishedAt": "2026-11-18T08:05:00Z",
+      "category": "opinion",
+      "title": "💬 כושר או כישרון? Padel Magazine על הגוף בפאדל המקצועני",
+      "summary": "מסאו זרהט ב-Padel Magazine כותב שהפאדל המקצועני דורש היום יותר כושר גופני. דוגמה בולטת: גונסאלו אלפונסו שקל 89 ק\"ג בגיל 20 וירד 21 ק\"ג – ואז הגיע ל-Premier Padel ולנבחרת ארגנטינה. גם גלאן, צ'ינגוטו וטוליטו אגירה שינו את הגוף. אבל צ'ינגוטו, שהוא נמוך, מראה שמהירות וקריאת משחק חשובות לא פחות. המסקנה שלו: אין גוף אחד מושלם, כל שחקן צריך כושר שמתאים למשחק שלו.",
+      "source": {
+        "name": "Padel Magazine – מסאו זרהט",
+        "url": "https://padelmagazine.fr/le-physique-dans-le-padel-professionnel-entre-transformations-spectaculaires-et-importance-du-talent/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "opinion-padelspain-sanchez-espadina-coello-youth-2026-11-18",
+      "publishedAt": "2026-11-18T06:49:30Z",
+      "category": "opinion",
+      "title": "💬 המאמן של קואייו בילדות: אופי חשוב יותר מטכניקה",
+      "summary": "חאבייר סאנצ'ס אספדיניה, מאמן נוער מאקסטרמדורה, אימן בעבר את ארטורו קואייו, פבלו קרדונה ולורנה רופו. בראיון ל-Padel Spain הוא אומר שבילדים הוא מחפש קודם אופי של מתחרה – את הטכניקה אפשר לאמן. לדבריו, הורים לחוצים מזיקים לשחקנים צעירים, ולכן הם לא נכנסים לאימונים. הוא שם על משמעת, מנוחה, תזונה ולימודים כבר מגיל צעיר.",
+      "source": {
+        "name": "Padel Spain (ראיון)",
+        "url": "https://www.padelspain.net/entrevistas/836015/javier-sanchez-espadina-hay-jugadores-que-desde-pequenos-se-les-ve-que-tienen-algo-diferente-como-arturo-coello-o-pablo-cardona/",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "results-aguascalientes-2026-men-r32-2026-11-18",
       "publishedAt": "2026-11-18T03:35:00Z",
@@ -224,61 +272,6 @@
       }
     },
     {
-      "id": "lebron-42-titles-equals-sanyo-2026-11-17",
-      "publishedAt": "2026-11-17T08:45:08Z",
-      "category": "world",
-      "title": "🎯 42 תארים: לברון השווה את סאניו",
-      "summary": "חואן לברון זכה בדובאי בתואר ה-42 שלו, עם לאו אוגסבורגר. עכשיו יש לו בדיוק כמו לסאניו גוטיירס. בין השחקנים הפעילים מובילים טאפיה (66), גלאן (60) וקואייו (59). אצל הנשים מובילה ג'מה טריאי עם 59 תארים, ואחריה סלאסר וארי סאנצ'ס עם 58 כל אחת. קלאודיה פרננדס בת ה-20 הגיעה ל-15 תארים.",
-      "profile": {
-        "icon": "🎯",
-        "flag": "🇪🇸",
-        "name": "חואן לברון",
-        "line": "התואר ה-42 בקריירה – בדובאי",
-        "stat": "42 תארים"
-      },
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/lebron-rejoint-sanyo-avec-42-titres-claudia-fernandez-continue-de-grimper-le-classement-des-joueurs-les-plus-titres-de-lhistoire/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "finals-barcelona-2026-last-tickets-gaps-2026-11-17",
-      "publishedAt": "2026-11-17T08:29:27Z",
-      "category": "world",
-      "title": "🏁 70 נקודות בלבד: הקרב על הכרטיס האחרון לברצלונה",
-      "summary": "הקרב על המקומות האחרונים בגמר העונה צמוד מאוד. אלפונסו במקום ה-16 ב-Race עם 3,300 נקודות. אחריו קמפניולו (3,250), קוקי נייטו (3,234) וליבאק (3,230). אצל הנשים וירסדה במקום ה-16 עם 2,810, ורודריגס (2,760) ודאל פוצו (2,730) קרובות מאוד. מה הלאה: המייג'ור במקסיקו (מ-23.11) נותן 2,000 נקודות לזוכים ויכריע.",
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/alfonso-nieto-libaak-salazar-qui-decrochera-les-derniers-billets-pour-les-premier-padel-finals/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "fip-ranking-2026-11-16-alfonso-top16",
-      "publishedAt": "2026-11-17T08:18:45Z",
-      "category": "world",
-      "title": "📈 אלפונסו נכנס לטופ 16 בעולם אחרי דובאי",
-      "summary": "בדירוג FIP החדש גונסלו אלפונסו עלה 4 מקומות, למקום ה-16. הוא הגיע לגמר דובאי עם ליבאק. דה פסקואל עלה 7 מקומות למקום 34, ואבאטה עלה 6 מקומות למקום 41. בצמרת: קואייו וטאפיה במקום 1 עם 20,283 נקודות. אצל הנשים טריאי וברעה במקום 1 עם 15,903 נקודות.",
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/ranking-fip-alfonso-fait-son-entree-dans-le-top-16-mondial-de-pascual-et-abbate-font-un-bond-au-classement/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "aguascalientes-2026-main-draw-starts-2026-11-17",
-      "publishedAt": "2026-11-17T08:02:25Z",
-      "category": "world",
-      "title": "👀 אגואסקליינטס מתחיל היום: נייטו/ינגואס מדורגים ראשונים",
-      "summary": "ההגרלה הראשית של FIP Platinum אגואסקליינטס במקסיקו מתחילה היום ותימשך עד 21.11. אצל הגברים, נייטו/ינגואס הם המדורגים הראשונים. אצל הנשים, רופו/וירסדה מדורגות רביעיות. מה הלאה: המדורגים עולים ישר לשמינית הגמר. ההגרלה לא זמינה לנו כרגע, ולכן לא ידוע אם יש בה ישראלים.",
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/guichard-face-a-un-gros-defi-fonteny-et-bahurel-avec-des-opportunites-au-premier-tour-du-fip-platinum-aguascalientes/",
-        "lang": "צרפתית"
-      }
-    },
-    {
       "id": "opinion-padelmagazine-libaak-alfonso-together-2027-2026-11-17",
       "publishedAt": "2026-11-17T07:59:00Z",
       "category": "opinion",
@@ -344,54 +337,6 @@
         "name": "Padel Addict – אנחל גונסלס",
         "url": "https://www.padeladdict.com/lesiones-sorpresas-y-cansancio-dubai-retrata-un-final-de-temporada-al-limite/",
         "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-serve-order-error-repeats-2026-11-16",
-      "publishedAt": "2026-11-16T08:46:41Z",
-      "category": "opinion",
-      "title": "💬 Padel Magazine: טעות ההגשה בדובאי – לא בפעם הראשונה",
-      "summary": "לפי Padel Magazine (פרנק ביניסטי), הטעות בגמר הנשים בדובאי היא בעיה שחוזרת בסבב. קלאודיה פרננדס הגישה שלושה משחקונים ברצף, ומרטינה קאלבו הגישה לראשונה רק במשחקון השביעי. הכתבה מזכירה מקרים דומים: בֵּאה גונסלס בקנקון P2 (מרץ 2026), וירחיניה רייה בכווית P1 (2024) – שש הגשות ברצף, ובגמר שטוקהולם 2022. לפי החוקים, אם הטעות לא נתפסת לפני סוף המשחקון – התוצאה נשארת. לדעת הכותב, זו טעות שיפוט שחוזרת שוב ושוב בסבב.",
-      "source": {
-        "name": "Padel Magazine (פרנק ביניסטי)",
-        "url": "https://padelmagazine.fr/trois-services-consecutifs-en-finale-a-dubai-lerreur-darbitrage-qui-se-repete-sur-premier-padel/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padeladdict-triay-brea-number1-semifinal-mexico-2026-11-16",
-      "publishedAt": "2026-11-16T08:43:38Z",
-      "category": "opinion",
-      "title": "💬 Padel Addict: לטריאי/ברעה מספיק חצי גמר במקסיקו",
-      "summary": "לפי החישוב של אדריאנה דיאס פרס ב-Padel Addict, טריאי/ברעה יכולות לסגור את המקום הראשון של העונה במקסיקו גם בלי לזכות בתואר. הן מובילות ב-Race עם 14,200 נקודות, 2,600 לפני סאנצ'ס/אוסטרו. לדעתה, אם הן יגיעו לחצי הגמר, הפער יישאר גדול מדי גם אם סאנצ'ס/אוסטרו יזכו – כי בגמר העונה נשארות רק 1,500 נקודות. גם חוסמריה/גונסלס לא יוכלו להשיג אותן במקרה כזה.",
-      "source": {
-        "name": "Padel Addict – אדריאנה דיאס פרס",
-        "url": "https://www.padeladdict.com/numero-1-femenino-premier-padel-2026/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-dubai-one-tournament-too-many-2026-11-16",
-      "publishedAt": "2026-11-16T08:40:43Z",
-      "category": "opinion",
-      "title": "💬 Padel Magazine: דובאי – טורניר אחד יותר מדי?",
-      "summary": "אנטואן טריקולה ב-Padel Magazine שואל אם דובאי הגיע מוקדם מדי אחרי מייג'ור כווית ומונדיאל הפאדל בדוחא. לדעתו המילה \"טורניר מיותר\" קשה מדי, אבל השאלה נכונה. הוא מזכיר את הפרישה של קואייו/טאפיה בגלל פציעה, ואת ההפסדים המפתיעים של נבארו/די נינו וטריאי/ברעה. מצד שני, לברון זכה במונדיאל ושבוע אחרי זה הגיע לגמר וזכה.",
-      "source": {
-        "name": "Padel Magazine – אנטואן טריקולה",
-        "url": "https://padelmagazine.fr/dubai-p1-le-tournoi-de-trop-apres-les-mondiaux/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-lebron-title-for-augsburger-2026-11-16",
-      "publishedAt": "2026-11-16T08:34:02Z",
-      "category": "opinion",
-      "title": "💬 לברון: \"רציתי לתת את התואר הזה לאוגסבורגר\"",
-      "summary": "אחרי הזכייה בדובאי אמר חואן לברון שרצה את התואר בעיקר בשביל השותף שלו, ליאו אוגסבורגר. לדבריו, הוא ידע שאוגסבורגר סבל בשבוע שעבר, אחרי שארגנטינה הפסידה לספרד בגמר המונדיאל. לברון אמר שרצה לתת את השמחה הזאת לאוגסבורגר ולכל הצוות. הגמר: 7-6, 5-7, 6-3 על ליבאק/אלפונסו.",
-      "source": {
-        "name": "Padel Magazine – בנז'מן דופואי",
-        "url": "https://padelmagazine.fr/dubai-p1-lebron-voulait-offrir-ce-titre-a-augsburger-je-savais-quil-avait-souffert-la-semaine-derniere/",
-        "lang": "צרפתית"
       }
     },
     {
