@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T14:32:35Z",
+  "updatedAt": "2026-11-19T16:32:16Z",
   "live": {
     "title": "FIP Platinum אגואסקליינטס (מקסיקו) – רבע הגמר",
     "date": "2026-11-20",
@@ -48,6 +48,18 @@
     ]
   },
   "items": [
+    {
+      "id": "opinion-padelmagazine-bardasco-three-shots-2026-11-19",
+      "publishedAt": "2026-11-19T15:37:00Z",
+      "category": "opinion",
+      "title": "🎯 מאמן מבילבאו: 3 מכות שינצחו לכם יותר משחקים",
+      "summary": "אנדוני ברדסקו, מאמן פאדל במועדון Padel Stuff בבילבאו, כתב ב-Padel Magazine על 3 מכות חשובות. 1) הלוב: לא רק הגנה – הוא דוחף את היריבים אחורה ונותן לכם לחזור לרשת. 2) הוולה: המטרה היא לשמור על הרשת וללחוץ, לא לסיים כל נקודה. וולה עמוקה ובטוחה עדיפה על מכה חזקה עם טעות. 3) הבנדחה: תשובה בטוחה ללוב שמשאירה אתכם בהתקפה. למה זה חשוב: טיפים שמתאימים לכל שחקן חובב.",
+      "source": {
+        "name": "Padel Magazine (הודעה לעיתונות)",
+        "url": "https://padelmagazine.fr/padel-les-3-coups-a-maitriser-pour-gagner-plus-de-matchs-selon-andoni-bardasco/",
+        "lang": "צרפתית"
+      }
+    },
     {
       "id": "opinion-padelmagazine-galan-chingotto-mexico-major-2026-11-19",
       "publishedAt": "2026-11-19T13:49:19Z",
@@ -129,6 +141,18 @@
       "source": {
         "name": "Padel Magazine – Maceo Zerhat",
         "url": "https://padelmagazine.fr/meme-en-moto-il-ne-la-remet-pas-retour-sur-la-polemique-entre-tolito-aguirre-et-geens-guichard-au-mexique/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "opinion-el4set-lebron-platinum-blond-promise-2026-11-19",
+      "publishedAt": "2026-11-19T08:01:00Z",
+      "category": "opinion",
+      "title": "💇 לברון הבטיח שיער בלונדיני אם ספרד תזכה – ספרד זכתה",
+      "summary": "בספטמבר, בראיון ל-el4Set באינסטגרם, חואן לברון אמר: אם ספרד תזכה במונדיאל הפאדל, הוא יסתפר ויצבע את השיער לבלונד פלטינה. הוא סיפר שבדרך כלל הוא שמרן עם השיער, ולכן זה צעד גדול בשבילו. ספרד זכתה בדוחא ב-7.11. Padel Magazine שואל עכשיו: האם לברון יקיים את ההבטחה?",
+      "source": {
+        "name": "Padel Magazine (על ראיון של el4Set באינסטגרם)",
+        "url": "https://padelmagazine.fr/juan-lebron-bientot-blond-platine-une-promesse-qui-refait-surface-apres-son-sacre-mondial/",
         "lang": "צרפתית"
       }
     },
