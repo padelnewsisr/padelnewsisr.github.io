@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T07:33:51Z",
+  "updatedAt": "2026-11-19T09:32:23Z",
   "live": {
     "title": "FIP Platinum אגואסקליינטס (מקסיקו) – רבע הגמר",
     "date": "2026-11-19",
@@ -48,6 +48,42 @@
     ]
   },
   "items": [
+    {
+      "id": "opinion-padeladdict-libaak-alfonso-finals-race-2026-11-19",
+      "publishedAt": "2026-11-19T08:43:29Z",
+      "category": "opinion",
+      "title": "💬 Padel Addict: ליבאק/אלפונסו – ההפתעה שדופקת על דלת ברצלונה",
+      "summary": "לפי Padel Addict (אדריאנה דיאס פרס), ליבאק ואלפונסו הם הזוג המפתיע של 2026. מאז שהתחילו לשחק יחד בפרטוריה ביולי: 31 ניצחונות ו-10 הפסדים, ו-11-0 בסבב Cupra FIP. חצי מההפסדים שלהם היו מול טאפיה/קואייו. בדירוג ה-Race אלפונסו במקום 16 (3,300 נקודות), בדיוק בפנים, וליבאק במקום 19 (3,230), קצת בחוץ. מה הלאה: אגואסקליינטס ואקפולקו יכריעו אם שניהם יגיעו לגמר העונה.",
+      "source": {
+        "name": "Padel Addict – Adriana Díaz Pérez",
+        "url": "https://www.padeladdict.com/libaak-alfonso-revelacion-finals-barcelona/",
+        "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "opinion-padelmagazine-tolito-aguirre-geens-guichard-controversy-2026-11-19",
+      "publishedAt": "2026-11-19T08:12:00Z",
+      "category": "opinion",
+      "title": "💬 סערה במקסיקו: טוליטו אגירה כעס על נקודה שנלקחה ממנו",
+      "summary": "Padel Magazine (מאסאו זרהט) חוזר לוויכוח בסיבוב הראשון באגואסקליינטס: רוביני/אגירה נגד הצרפתים גינס/גישאר. בסט השלישי אגירה התחיל לחגוג לפני שהנקודה נגמרה. גינס אמר שזה הפריע לו, והשופט העביר את הנקודה לצרפתים. אגירה כעס מאוד, אבל הארגנטינאים ניצחו בסוף בשלוש מערכות. לדעת הכותב: לפי החוקים, חגיגה מוקדמת יכולה להיחשב הפרעה – גם כשנראה שאין סיכוי להחזיר את הכדור.",
+      "source": {
+        "name": "Padel Magazine – Maceo Zerhat",
+        "url": "https://padelmagazine.fr/meme-en-moto-il-ne-la-remet-pas-retour-sur-la-polemique-entre-tolito-aguirre-et-geens-guichard-au-mexique/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "opinion-padelmagazine-auradou-lob-tapia-2026-11-19",
+      "publishedAt": "2026-11-19T07:46:00Z",
+      "category": "opinion",
+      "title": "💬 עוזר מאמן צרפת: \"ביקשתי מהשחקנים להרים לובים על טאפיה\"",
+      "summary": "יאן אורדו, עוזר המאמן של נבחרת צרפת, מספר ל-Padel Magazine על המונדיאל בקטאר. מול טאפיה/ליבאק הוא ביקש מפונטני וז'וריס לשחק לובים על טאפיה – וזה עבד עד שטאפיה הסתגל. צרפת ניצחה במערכה הראשונה, אבל הפסידה 7-5, 3-6, 4-6. לדבריו, הזוג הצרפתי שיחק ברמה \"סטרטוספרית\".",
+      "source": {
+        "name": "Padel Magazine – Franck Binisti",
+        "url": "https://padelmagazine.fr/yann-auradou-jai-demande-a-fonteny-et-joris-de-lober-tapia/",
+        "lang": "צרפתית"
+      }
+    },
     {
       "id": "results-aguascalientes-2026-men-r16-2026-11-18",
       "publishedAt": "2026-11-19T03:40:00Z",
@@ -260,42 +296,6 @@
         "name": "Libertad Digital",
         "url": "https://libertaddigital.com/deportes/mas-deporte/2026-11-17/espana-suena-con-acoger-el-mundial-de-padel-en-2030-tendria-exito-y-retorno-asegurados-7493316",
         "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-blanque-joris-chingotto-anecdote-2026-11-17",
-      "publishedAt": "2026-11-17T09:27:00Z",
-      "category": "opinion",
-      "title": "💬 צ'ינגוטו לשחקן צרפתי: \"אתה עושה הכול כמוני, רק טוב יותר\"",
-      "summary": "בלאנקה וז'וריס מצרפת זכו בטורניר P3000 בנים, 6-3, 6-4 בגמר, בלי להפסיד מערכה. ז'וריס סיפר ל-Padel Magazine סיפור מהמונדיאל בקטאר: צ'ינגוטו אמר לו בצחוק שהוא התקשר לגלאן לשחק איתו, כי ז'וריס עושה הכול כמוהו – רק יותר טוב. כל השחקנים הצרפתים צחקו. בלאנקה אמר שהזוג היה \"מאוד יציב\", אבל ביקש להישאר צנועים כי חסרו בטורניר שחקנים מהטופ.",
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/blanque-joris-un-p3000-maitrise-un-premier-titre-et-une-anecdote-savoureuse-avec-chingotto/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-claudia-fernandez-20-builder-2026-11-17",
-      "publishedAt": "2026-11-17T08:52:48Z",
-      "category": "opinion",
-      "title": "💬 Padel Magazine: קלאודיה פרננדס, בת 20, כבר מובילה זוג",
-      "summary": "הכותב אנטואן טריקולה ב-Padel Magazine מנתח את קלאודיה פרננדס. לדעתו היא סבלנית ובונה נקודות, אבל יודעת גם להאיץ וללחוץ. הוא כותב שהיא נותנת סדר למשחק התוקפני של מרטינה קלבו, אבל שתיהן שוות בזוג. לדבריו, אחרי שלושה תארים יחד (לונדון, דיסלדורף ודובאי), היא כבר יכולה להוביל את המשחק של הזוג.",
-      "source": {
-        "name": "Padel Magazine (אנטואן טריקולה)",
-        "url": "https://padelmagazine.fr/claudia-fernandez-a-20-ans-bien-plus-quune-joueuse-de-construction/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-libaak-alfonso-together-2027-2026-11-17",
-      "publishedAt": "2026-11-17T07:59:00Z",
-      "category": "opinion",
-      "title": "💬 ליבאק ואלפונסו: \"נמשיך יחד גם ב-2027\"",
-      "summary": "במסיבת העיתונאים בדובאי, ליבאק ואלפונסו אמרו שהם רוצים להמשיך כזוג גם ב-2027. ליבאק אמר שהם כבר דיברו על זה, גם בלי קשר לתוצאה בדובאי. הוא אמר שהם נהנים לשחק יחד ומרגישים \"כמו משפחה\". אלפונסו אמר שהגמר הראשון שלהם בפרימייר פאדל הוא צעד חשוב. כך דיווח Padel Magazine.",
-      "source": {
-        "name": "Padel Magazine (פרנק ביניסטי)",
-        "url": "https://padelmagazine.fr/libaak-alfonso-pourquoi-ils-veulent-continuer-ensemble-en-2027/",
-        "lang": "צרפתית"
       }
     },
     {
