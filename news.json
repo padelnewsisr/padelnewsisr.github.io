@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T09:32:23Z",
+  "updatedAt": "2026-11-19T12:31:54Z",
   "live": {
     "title": "FIP Platinum אגואסקליינטס (מקסיקו) – רבע הגמר",
     "date": "2026-11-19",
@@ -48,6 +48,30 @@
     ]
   },
   "items": [
+    {
+      "id": "world-augsburger-pressure-documentary-2026-11-19",
+      "publishedAt": "2026-11-19T11:23:00Z",
+      "category": "world",
+      "title": "🎬 אוגסבורגר מוציא סרט על ההפסד בגמר המונדיאל",
+      "summary": "ליאו אוגסבורגר הודיע על סרט תיעודי בשם \"Pressure\". הסרט מראה את 48 השעות אחרי ההפסד של ארגנטינה לספרד בגמר המונדיאל בדוחא (7.11). אוגסבורגר סיפר שקיבל הרבה ביקורת ברשתות, והודה לצוות שלו ולפסיכולוג שהתחיל לעבוד איתו. שבוע אחרי הגמר הוא זכה עם לברון בדובאי P1. מה הלאה: הסרט יעלה ב-22.11 בערוץ היוטיוב של אוגסבורגר.",
+      "source": {
+        "name": "Padel Magazine (Maceo Zerhat)",
+        "url": "https://padelmagazine.fr/leo-augsburger-annonce-pressure-un-documentaire-sur-les-coulisses-de-sa-defaite-au-mondial/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "opinion-padeladdict-aguascalientes-race-points-finals-2026-11-19",
+      "publishedAt": "2026-11-19T09:43:43Z",
+      "category": "opinion",
+      "title": "💬 Padel Addict: מי נלחם במקסיקו על כרטיס לברצלונה?",
+      "summary": "לפי Padel Addict, אגואסקליינטס היא ההזדמנות האחרונה לאסוף נקודות לפני המייג'ור במקסיקו. לגמר העונה עולים רק 16 הראשונים ב-Race. אצל הגברים הקו הוא 3,300 נקודות: אלפונסו במקום 16, וליבאק (19) חסר בערך 70 נקודות. נייטו (18) ולאל (20) צריכים תוצאה טובה. אצל הנשים הקו 2,810: וירסדה במקום 16, ואוסורו (21) צריכה טורניר חזק.",
+      "source": {
+        "name": "Padel Addict (Adriana Díaz Pérez)",
+        "url": "https://www.padeladdict.com/aguascalientes-puntos-finals-barcelona/",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "opinion-padeladdict-libaak-alfonso-finals-race-2026-11-19",
       "publishedAt": "2026-11-19T08:43:29Z",
@@ -259,42 +283,6 @@
       "source": {
         "name": "Europa Press (וידאו)",
         "url": "https://www.europapress.tv/deportes/1134672/1/juanjo-gutierrez-juan-lebron-sienta-mesa-coello-tapia-galan",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "opinion-padeladdict-coello-best-spanish-player-2026-11-17",
-      "publishedAt": "2026-11-17T11:54:15Z",
-      "category": "opinion",
-      "title": "💬 קואייו: \"אני, לברון וגלאן נלחמים על התואר הספרדי הטוב בהיסטוריה\"",
-      "summary": "בראיון שפורסם ב-Padel Addict, ארטורו קואייו אומר שהוא, חואן לברון ואלה גלאן מתחרים על התואר השחקן הספרדי הטוב ביותר אי פעם. הוא רוצה לסיים עוד עונות במקום הראשון בעולם ולהתקרב לשיאים של לברון. קואייו מספר שהוא לא נח על הניצחונות: הוא בודק מה היה טוב, מה צריך לשפר, וממשיך הלאה. היום הוא שם יותר דגש על שינה, תזונה והתאוששות, כדי לשחק ברמה גבוהה עד תחילת שנות ה-30 שלו.",
-      "source": {
-        "name": "Padel Addict",
-        "url": "https://www.padeladdict.com/entrevista-arturo-coello/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "opinion-europapress-carolina-navarro-olympics-dream-2026-11-17",
-      "publishedAt": "2026-11-17T11:54:00Z",
-      "category": "opinion",
-      "title": "💬 קרולינה נבארו: פאדל באולימפיאדה \"יהיה חלום\"",
-      "summary": "קרולינה נבארו, מאמנת נבחרת הנשים של ספרד (אלופות העולם בקטאר), דיברה ב-Europa Press. לדבריה, פאדל אולימפי \"יהיה מדהים\", אולי בבריסביין 2032 או ב-2036. היא אמרה שבגלל שהייתה שחקנית, היא מבינה מה השחקניות צריכות.",
-      "source": {
-        "name": "Europa Press (וידאו)",
-        "url": "https://www.europapress.tv/deportes/1134615/1/carolina-navarro-padel-fuera-olimpico-seria-increible-sueno",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "opinion-libertaddigital-rodriguez-piris-world-cup-2030-2026-11-17",
-      "publishedAt": "2026-11-17T11:42:56Z",
-      "category": "opinion",
-      "title": "💬 נשיא פדרציית ספרד: \"למה לא לחלום\" על מונדיאל 2030",
-      "summary": "חוויאר רודריגס פיריס, נשיא פדרציית הפאדל של ספרד, רוצה לארח את גביע העולם בפאדל ב-2030. לדעתו ההצלחה בדוחה מראה שזה יצליח. הוא אמר שצריך לשנות את לוח הטורנירים, ולמצוא נותני חסות וכסף. על האולימפיאדה אמר שיש \"צעדים חשובים\", והוא מקווה לבריסביין 2032.",
-      "source": {
-        "name": "Libertad Digital",
-        "url": "https://libertaddigital.com/deportes/mas-deporte/2026-11-17/espana-suena-con-acoger-el-mundial-de-padel-en-2030-tendria-exito-y-retorno-asegurados-7493316",
         "lang": "ספרדית"
       }
     },
