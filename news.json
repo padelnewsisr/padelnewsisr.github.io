@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T16:32:16Z",
+  "updatedAt": "2026-11-19T18:32:06Z",
   "live": {
     "title": "FIP Platinum אגואסקליינטס (מקסיקו) – רבע הגמר",
     "date": "2026-11-20",
@@ -48,6 +48,18 @@
     ]
   },
   "items": [
+    {
+      "id": "world-hexagon-world-series-rafa-nadal-team-2026-11-19",
+      "publishedAt": "2026-11-19T16:06:39Z",
+      "category": "world",
+      "title": "🌍 טריאי, חוסמריה, נייטו וינגואס בקבוצה של רפאל נדאל",
+      "summary": "ארבעה אלופי עולם של ספרד ישחקו יחד בקבוצת האקדמיה של רפאל נדאל: ג'מה טריאי ופאולה חוסמריה בנשים, קוקי נייטו ומייק ינגואס בגברים. הם ישחקו ב-Hexagon World Series – ליגת קבוצות חדשה של FIP ב-2027. 8 קבוצות, בכל קבוצה זוג גברים וזוג נשים, ושוויון בפרסים בין גברים לנשים. 4 אירועים: מדריד (21–24.1), צפון אמריקה (מרץ), סקנדינביה (יוני) ואבו דאבי (21–24.10) – שם ייקבעו אלופי העולם. מה הלאה: טריאי תשחק לראשונה עם שמאלית – חוסמריה.",
+      "source": {
+        "name": "El Neverazo",
+        "url": "https://www.elneverazo.com/gemma-triay-y-paula-josemaria-lideraran-el-rafa-nadal-academy-team-en-las-hexagon-world-series/",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "opinion-padelmagazine-bardasco-three-shots-2026-11-19",
       "publishedAt": "2026-11-19T15:37:00Z",
