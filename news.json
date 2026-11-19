@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T18:32:06Z",
+  "updatedAt": "2026-11-19T20:33:05Z",
   "live": {
     "title": "FIP Platinum אגואסקליינטס (מקסיקו) – רבע הגמר",
     "date": "2026-11-20",
@@ -142,6 +142,18 @@
         "name": "Padel Addict – Adriana Díaz Pérez",
         "url": "https://www.padeladdict.com/libaak-alfonso-revelacion-finals-barcelona/",
         "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "opinion-padelmagazine-maradona-padel-fan-2026-11-19",
+      "publishedAt": "2026-11-19T08:32:00Z",
+      "category": "opinion",
+      "title": "⚽ מראדונה על פאדל: \"אחרי כדורגל – הספורט הכי מרגש\"",
+      "summary": "Padel Magazine (מאסאו זרהט) נזכר כמה דייגו מראדונה אהב פאדל. לפי הכתבה, מראדונה אמר שאחרי הכדורגל, פאדל נותן לו הכי הרבה רגשות. הוא בנה מגרש פאדל בבית, ולדבריו משחקים נמשכו לפעמים עד 4–5 בבוקר. ב-1996 הוא הגיע לאליפות העולם בפאדל במדריד. למה זה חשוב: לפי הכתבה, מראדונה הבין את הכוח של פאדל הרבה לפני כולם.",
+      "source": {
+        "name": "Padel Magazine (מאסאו זרהט)",
+        "url": "https://padelmagazine.fr/avec-le-padel-javais-trouve-tout-ce-que-je-recherchais-maradona-le-mordu-de-padel/",
+        "lang": "צרפתית"
       }
     },
     {
@@ -320,18 +332,6 @@
         "name": "Padel Spain (ראיון)",
         "url": "https://www.padelspain.net/entrevistas/836015/javier-sanchez-espadina-hay-jugadores-que-desde-pequenos-se-les-ve-que-tienen-algo-diferente-como-arturo-coello-o-pablo-cardona/",
         "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-tapia-body-said-stop-acapulco-2026-11-17",
-      "publishedAt": "2026-11-17T19:50:01Z",
-      "category": "opinion",
-      "title": "💬 טאפיה: \"הגוף שלי אמר די\" – אבל הוא מוכן לאקפולקו",
-      "summary": "אגוסטין טאפיה, מספר 1 בעולם, אמר בראיון שהגוף שלו \"אמר די\". הוא וקואייו פרשו מדובאי לפי המלצת רופאים. עכשיו טאפיה אומר שהוא ב-100% למייג'ור מקסיקו באקפולקו (23–29.11). לדבריו, ההישג הבא \"יכול להיכנס להיסטוריה\": תואר 14 העונה ישווה את השיא של הזוג מ-2024. כך כתב Padel Magazine, לפי קטעים מראיון שפורסמו באינסטגרם Padelmaniac23.",
-      "source": {
-        "name": "Padel Magazine – פרנק ביניסטי (על ראיון שפורסם באינסטגרם Padelmaniac23)",
-        "url": "https://padelmagazine.fr/tapia-mon-corps-a-dit-stop-mais-le-numero-1-mondial-vise-deja-lhistoire-a-acapulco/",
-        "lang": "צרפתית"
       }
     },
     {
