@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T16:32:49Z",
+  "updatedAt": "2026-11-20T18:40:00Z",
   "live": {
     "title": "FIP Platinum אגואסקליינטס (מקסיקו) – חצי הגמר",
     "date": "2026-11-21",
@@ -28,6 +28,18 @@
     ]
   },
   "items": [
+    {
+      "id": "opinion-padelmagazine-aguascalientes-semis-race-simulations-2026-11-20",
+      "publishedAt": "2026-11-20T16:44:27Z",
+      "category": "opinion",
+      "title": "🎲 80,000 סימולציות: מי ייכנס לגמר העונה בברצלונה?",
+      "summary": "Padel Magazine (מאסאו זרהאט) כותב שחצאי הגמר הלילה באגואסקליינטס יכולים להכריע את המקומות האחרונים לגמר העונה. לפי חישוב של Padel Review ב-80,000 סימולציות: אם לאל/גררו יזכו בתואר, הסיכוי של לאל להגיע לברצלונה עולה ל-70%. אם אלונסו/גוני יזכו, הסיכוי של קוקי נייטו עולה ל-42% והסיכוי של לאל יורד ל-43%. לדעת הכותב, המרוץ פתוח מאוד, ושום דבר לא ייסגר לפני מייג'ור מקסיקו.",
+      "source": {
+        "name": "Padel Magazine – Maceo Zerhat",
+        "url": "https://padelmagazine.fr/fip-platinum-aguascalientes-quatre-demi-finales-et-des-points-qui-valent-de-lor/",
+        "lang": "צרפתית"
+      }
+    },
     {
       "id": "world-red-bull-padel-cross-madrid-2027-2026-11-20",
       "publishedAt": "2026-11-20T16:20:11Z",
