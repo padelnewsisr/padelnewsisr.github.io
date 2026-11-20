@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T07:32:25Z",
+  "updatedAt": "2026-11-20T09:32:06Z",
   "live": {
     "title": "FIP Platinum אגואסקליינטס (מקסיקו) – חצי הגמר",
     "date": "2026-11-21",
@@ -28,6 +28,42 @@
     ]
   },
   "items": [
+    {
+      "id": "world-triay-josemaria-rafa-nadal-academy-hexagon-2027-2026-11-20",
+      "publishedAt": "2026-11-20T08:38:00Z",
+      "category": "world",
+      "title": "🔥 זוג חלומות: טריאי וחוסמריה ישחקו יחד ב-2027",
+      "summary": "ג'מה טריאי, מספר 1 בעולם, ופאולה חוסמריה, מקום 7, יהיו זוג בפעם הראשונה. הן ישחקו בקבוצה של אקדמיית רפאל נדאל בסדרת Hexagon World Series של 2027. האקדמיה הודיעה על כך ברשתות החברתיות. שתיהן זכו השנה באליפות העולם עם ספרד בדוחא. מה הלאה: העונה נפתחת במדריד, 21–24 בינואר, והגמר באבו דאבי באוקטובר.",
+      "source": {
+        "name": "Padel Magazine (על הודעה של אקדמיית רפאל נדאל)",
+        "url": "https://padelmagazine.fr/triay-josemaria-une-association-de-reve-pour-la-rafa-nadal-academy-en-2027/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "opinion-sanyo-coello-better-without-tapia-2026-11-20",
+      "publishedAt": "2026-11-20T08:02:00Z",
+      "category": "opinion",
+      "title": "💬 סאניו: \"בלי טאפיה, קואייו טוב עוד יותר\"",
+      "summary": "סאניו גוטיירס דיבר עם כלי התקשורת הספרדי Veinte Diez (באינסטגרם), לפי Padel Magazine. לדעתו, קואייו מנצח נקודות כמעט בלי מאמץ, ויכול לשחק חמש מערכות ולהישאר רענן. לדבריו, קואייו שולט במגרש רק בזכות הנוכחות שלו ליד הרשת. סאניו אמר שבנבחרת ספרד, בלי טאפיה לצידו, קואייו לוקח יותר אחריות בהתקפה ונראה טוב יותר מאשר ב-Premier Padel.",
+      "source": {
+        "name": "Padel Magazine – Maceo Zerhat (על ראיון של סאניו ב-Veinte Diez)",
+        "url": "https://padelmagazine.fr/sans-tapia-coello-est-encore-meilleur-sanyo-gutierrez-impressionne-par-le-niveau-de-lespagnol/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "opinion-padelmagazine-plassard-too-many-clubs-2026-11-20",
+      "publishedAt": "2026-11-20T07:51:00Z",
+      "category": "opinion",
+      "title": "💬 בעל מועדון בצרפת: \"יותר מדי מגרשים, יותר מדי טורנירים\"",
+      "summary": "ז'אק פלסאר, שותף ברשת המועדונים Terra Padel בצרפת, התראיין ל-Padel Magazine. לדעתו, הצמיחה של הפאדל נעצרה בחצי השנה האחרונה, ובאזור שלו יש יותר מגרשים משחקנים. הוא אומר שמרכז עם 5 מגרשים עולה 2–2.5 מיליון יורו, ושפאדל הוא לא \"תרנגולת שמטילה ביצי זהב\". הוא מציע להגביל את מספר הטורנירים בכל מועדון בחודש.",
+      "source": {
+        "name": "Padel Magazine – Franck Binisti",
+        "url": "https://padelmagazine.fr/jacques-plassard-terra-padel-trop-de-clubs-trop-de-tournois-le-padel-nest-pas-une-poule-aux-oeufs-dor/",
+        "lang": "צרפתית"
+      }
+    },
     {
       "id": "results-aguascalientes-2026-women-qf-2026-11-20",
       "publishedAt": "2026-11-20T07:23:00Z",
