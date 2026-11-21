@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T16:32:36Z",
+  "updatedAt": "2026-11-21T18:40:00Z",
   "live": {
     "title": "FIP Platinum אגואסקליינטס (מקסיקו) – הגמרים",
     "date": "2026-11-22",
@@ -20,6 +20,41 @@
     ]
   },
   "items": [
+    {
+      "id": "results-padelmagazine-fip-tour-naples-skurup-2026-11-21-evening",
+      "publishedAt": "2026-11-21T16:33:16Z",
+      "category": "results",
+      "gender": "both",
+      "title": "👨👩 😮 עוד הפתעה בנאפולי: המדורגים 7 בחוץ",
+      "summary": "בטורניר FIP Silver בנאפולי (איטליה) גאי דה שאמיסו/לסגויטי ניצחו את המדורגים 7, קורדובה/טרוחיו, 7-5, 4-6, 7-5. ברבע הגמר הם יפגשו את המדורגים 2, מלנדס/לונה. אצל הנשים מנסאר/דרדן עלו לרבע הגמר, ושם יפגשו את המדורגות 1, סטלאטו/סוסרלו. בשבדיה (FIP Bronze סקורופ) בלנקה/אוגונאנק, שהדיחו את המדורגים 1, הפסידו בחצי הגמר לווינדאל/ואסקס 7-5, 6-2. לא מופיעים ישראלים בכתבה.",
+      "matches": [
+        {
+          "winner": "גאי דה שאמיסו/לסגויטי",
+          "loser": "קורדובה/טרוחיו",
+          "score": "7-5, 4-6, 7-5"
+        },
+        {
+          "winner": "מנסאר/דרדן",
+          "loser": "די מוציו/קופולה",
+          "score": "6-2, 3-6, 6-4"
+        },
+        {
+          "winner": "ווינדאל/ואסקס",
+          "loser": "בלנקה/אוגונאנק",
+          "score": "7-5, 6-2"
+        },
+        {
+          "winner": "מלנדס/לונה",
+          "loser": "ביורקמן/אוקלס ינסן",
+          "score": "6-3, 6-4"
+        }
+      ],
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/fip-tour-guy-de-chamisso-fait-tomber-la-ts7-mansart-dardaine-en-quarts-en-italie-blanque-hugounenq-sarretent-en-demi-finales-en-suede-les-francais-solides-en-belgique/",
+        "lang": "צרפתית"
+      }
+    },
     {
       "id": "world-padelmagazine-galan-out-mexico-major-2026-11-21",
       "publishedAt": "2026-11-21T14:35:43Z",
