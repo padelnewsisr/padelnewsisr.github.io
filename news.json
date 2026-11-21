@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T07:33:34Z",
+  "updatedAt": "2026-11-21T09:50:00Z",
   "live": {
     "title": "FIP Platinum אגואסקליינטס (מקסיקו) – הגמרים",
     "date": "2026-11-22",
@@ -21,12 +21,36 @@
   },
   "items": [
     {
+      "id": "opinion-padelmagazine-juanjo-gutierrez-lebron-level-2026-11-21",
+      "publishedAt": "2026-11-21T08:55:59Z",
+      "category": "opinion",
+      "title": "💬 מאמן ספרד: \"לברון ברמה של קואייו, טאפיה וגלאן\"",
+      "summary": "חואנחו גוטיירס, מאמן נבחרת ספרד, הסביר לראשונה את ההחלטות שלו בגמר אליפות העולם בדוחא. הוא שלח את לברון עם אימאר גוני למשחק הראשון, ושמר את קואייו וקוקי נייטו למשחק המכריע. לדבריו, זה היה הסיכוי הכי טוב לנצח, והוא היה עושה את אותה בחירה שוב. לברון וגוני פיגרו, אבל חזרו וניצחו את די נינו/אוגסבורגר 5-7, 7-5, 6-2. גוטיירס אמר שלברון \"באותה רמה\" כמו קואייו, טאפיה וגלאן בתנאים האלה. הדברים נאמרו באירוע של Europa Press במדריד.",
+      "source": {
+        "name": "Padel Magazine (בנז'מן דופואי)",
+        "url": "https://padelmagazine.fr/juanjo-gutierrez-lebron-est-au-meme-niveau-que-coello-tapia-ou-galan/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "opinion-padelmagazine-leal-guerrero-vs-libaak-alfonso-acapulco-2026-11-21",
+      "publishedAt": "2026-11-21T08:42:14Z",
+      "category": "opinion",
+      "title": "⚖️ לאל/גררו או ליבאק/אלפונסו – מי מגיע חזק יותר לאקפולקו?",
+      "summary": "אנטואן טריקולה ב-Padel Magazine משווה בין שני זוגות שנלחמים על מקום בצמרת. ברבע הגמר במקסיקו לאל/גררו ניצחו את ליבאק/אלפונסו 6-4, 6-4, אבל במפגשים ביניהם ליבאק/אלפונסו עדיין מובילים 2-1. לדעתו, ליבאק/אלפונסו הראו יותר בטורנירים הגדולים: חצי גמר במייג'ור כווית וגמר בדובאי P1. לפי הכותב, חצי גמר בטורניר Platinum שווה פחות מחצי גמר במייג'ור. מה הלאה: מייג'ור מקסיקו באקפולקו יהיה המבחן של שני הזוגות.",
+      "source": {
+        "name": "Padel Magazine (אנטואן טריקולה)",
+        "url": "https://padelmagazine.fr/leal-guerrero-ou-libaak-alfonso-qui-arrive-le-mieux-lance-a-acapulco/",
+        "lang": "צרפתית"
+      }
+    },
+    {
       "id": "results-aguascalientes-2026-women-sf-2026-11-21",
       "publishedAt": "2026-11-21T03:40:00Z",
       "category": "results",
       "gender": "both",
       "title": "👨👩 😱 גם המדורגים 2 בחוץ! אלונסו/גוני וברגמיני/גאלה בגמר",
-      "summary": "לילה של הפתעות במקסיקו: לאל/גררו (מדורגים 2) הודחו בחצי הגמר. ברגמיני/גאלה ניצחו אותם 1-6, 7-6, 6-4 – הפסידו במערכה הראשונה וחזרו. בחצי הגמר השני אלונסו/גוני ניצחו את סאניו/מקסי סאנצ'ס 6-3, 6-4. אצל הנשים אוסורו/ג'נסן ניצחו את וירסדה/רופו 6-3, 6-3, וקסטיו/רודריגס עלו לגמר בוויתור. מה הלאה: גמר הנשים הלילה ב-03:00 (שעון ישראל), גמר הגברים לא לפני 04:00 · יוטיוב של FIP.",
+      "summary": "לילה של הפתעות במקסיקו: לאל/גררו (מדורגים 2) הודחו בחצי הגמר. ברגמיני/גאלה ניצחו אותם 1-6, 7-6, 6-4 – הפסידו במערכה הראשונה, ניצחו בטייברייק וחזרו. בחצי הגמר השני אלונסו/גוני ניצחו את סאניו/מקסי סאנצ'ס 6-3, 6-4. אצל הנשים אוסורו/ג'נסן ניצחו את וירסדה/רופו 6-3, 6-3, וקסטיו/רודריגס עלו לגמר מול נוריה רודריגס/דאל פוצו. למה זה חשוב: לאל צריך עכשיו תוצאה גדולה במייג'ור מקסיקו כדי להגיע לגמר העונה בברצלונה. מה הלאה: גמר הנשים הלילה ב-03:00 (שעון ישראל), גמר הגברים לא לפני 04:00 · יוטיוב של FIP.",
       "matches": [
         {
           "winner": "ברגמיני/גאלה",
@@ -147,18 +171,6 @@
       }
     },
     {
-      "id": "world-triay-josemaria-rafa-nadal-academy-hexagon-2027-2026-11-20",
-      "publishedAt": "2026-11-20T08:38:00Z",
-      "category": "world",
-      "title": "🔥 זוג חלומות: טריאי וחוסמריה ישחקו יחד ב-2027",
-      "summary": "ג'מה טריאי, מספר 1 בעולם, ופאולה חוסמריה, מקום 7, יהיו זוג בפעם הראשונה. הן ישחקו בקבוצה של אקדמיית רפאל נדאל בסדרת Hexagon World Series של 2027. האקדמיה הודיעה על כך ברשתות החברתיות. שתיהן זכו השנה באליפות העולם עם ספרד בדוחא. מה הלאה: העונה נפתחת במדריד, 21–24 בינואר, והגמר באבו דאבי באוקטובר.",
-      "source": {
-        "name": "Padel Magazine (על הודעה של אקדמיית רפאל נדאל)",
-        "url": "https://padelmagazine.fr/triay-josemaria-une-association-de-reve-pour-la-rafa-nadal-academy-en-2027/",
-        "lang": "צרפתית"
-      }
-    },
-    {
       "id": "opinion-sanyo-coello-better-without-tapia-2026-11-20",
       "publishedAt": "2026-11-20T08:02:00Z",
       "category": "opinion",
@@ -215,78 +227,6 @@
       "source": {
         "name": "Padel Magazine (Maceo Zerhat)",
         "url": "https://padelmagazine.fr/fip-platinum-mexico-des-espagnols-revanchards-et-des-affiches-dignes-de-premier-padel/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padeladdict-aguascalientes-race-points-finals-2026-11-19",
-      "publishedAt": "2026-11-19T09:43:43Z",
-      "category": "opinion",
-      "title": "💬 Padel Addict: מי נלחם במקסיקו על כרטיס לברצלונה?",
-      "summary": "לפי Padel Addict, אגואסקליינטס היא ההזדמנות האחרונה לאסוף נקודות לפני המייג'ור במקסיקו. לגמר העונה עולים רק 16 הראשונים ב-Race. אצל הגברים הקו הוא 3,300 נקודות: אלפונסו במקום 16, וליבאק (19) חסר בערך 70 נקודות. נייטו (18) ולאל (20) צריכים תוצאה טובה. אצל הנשים הקו 2,810: וירסדה במקום 16, ואוסורו (21) צריכה טורניר חזק.",
-      "source": {
-        "name": "Padel Addict (Adriana Díaz Pérez)",
-        "url": "https://www.padeladdict.com/aguascalientes-puntos-finals-barcelona/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "opinion-padeladdict-libaak-alfonso-finals-race-2026-11-19",
-      "publishedAt": "2026-11-19T08:43:29Z",
-      "category": "opinion",
-      "title": "💬 Padel Addict: ליבאק/אלפונסו – ההפתעה שדופקת על דלת ברצלונה",
-      "summary": "לפי Padel Addict (אדריאנה דיאס פרס), ליבאק ואלפונסו הם הזוג המפתיע של 2026. מאז שהתחילו לשחק יחד בפרטוריה ביולי: 31 ניצחונות ו-10 הפסדים, ו-11-0 בסבב Cupra FIP. חצי מההפסדים שלהם היו מול טאפיה/קואייו. בדירוג ה-Race אלפונסו במקום 16 (3,300 נקודות), בדיוק בפנים, וליבאק במקום 19 (3,230), קצת בחוץ. מה הלאה: אגואסקליינטס ואקפולקו יכריעו אם שניהם יגיעו לגמר העונה.",
-      "source": {
-        "name": "Padel Addict – Adriana Díaz Pérez",
-        "url": "https://www.padeladdict.com/libaak-alfonso-revelacion-finals-barcelona/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-maradona-padel-fan-2026-11-19",
-      "publishedAt": "2026-11-19T08:32:00Z",
-      "category": "opinion",
-      "title": "⚽ מראדונה על פאדל: \"אחרי כדורגל – הספורט הכי מרגש\"",
-      "summary": "Padel Magazine (מאסאו זרהט) נזכר כמה דייגו מראדונה אהב פאדל. לפי הכתבה, מראדונה אמר שאחרי הכדורגל, פאדל נותן לו הכי הרבה רגשות. הוא בנה מגרש פאדל בבית, ולדבריו משחקים נמשכו לפעמים עד 4–5 בבוקר. ב-1996 הוא הגיע לאליפות העולם בפאדל במדריד. למה זה חשוב: לפי הכתבה, מראדונה הבין את הכוח של פאדל הרבה לפני כולם.",
-      "source": {
-        "name": "Padel Magazine (מאסאו זרהט)",
-        "url": "https://padelmagazine.fr/avec-le-padel-javais-trouve-tout-ce-que-je-recherchais-maradona-le-mordu-de-padel/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-tolito-aguirre-geens-guichard-controversy-2026-11-19",
-      "publishedAt": "2026-11-19T08:12:00Z",
-      "category": "opinion",
-      "title": "💬 סערה במקסיקו: טוליטו אגירה כעס על נקודה שנלקחה ממנו",
-      "summary": "Padel Magazine (מאסאו זרהט) חוזר לוויכוח בסיבוב הראשון באגואסקליינטס: רוביני/אגירה נגד הצרפתים גינס/גישאר. בסט השלישי אגירה התחיל לחגוג לפני שהנקודה נגמרה. גינס אמר שזה הפריע לו, והשופט העביר את הנקודה לצרפתים. אגירה כעס מאוד, אבל הארגנטינאים ניצחו בסוף בשלוש מערכות. לדעת הכותב: לפי החוקים, חגיגה מוקדמת יכולה להיחשב הפרעה – גם כשנראה שאין סיכוי להחזיר את הכדור.",
-      "source": {
-        "name": "Padel Magazine – Maceo Zerhat",
-        "url": "https://padelmagazine.fr/meme-en-moto-il-ne-la-remet-pas-retour-sur-la-polemique-entre-tolito-aguirre-et-geens-guichard-au-mexique/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-el4set-lebron-platinum-blond-promise-2026-11-19",
-      "publishedAt": "2026-11-19T08:01:00Z",
-      "category": "opinion",
-      "title": "💇 לברון הבטיח שיער בלונדיני אם ספרד תזכה – ספרד זכתה",
-      "summary": "בספטמבר, בראיון ל-el4Set באינסטגרם, חואן לברון אמר: אם ספרד תזכה במונדיאל הפאדל, הוא יסתפר ויצבע את השיער לבלונד פלטינה. הוא סיפר שבדרך כלל הוא שמרן עם השיער, ולכן זה צעד גדול בשבילו. ספרד זכתה בדוחא ב-7.11. Padel Magazine שואל עכשיו: האם לברון יקיים את ההבטחה?",
-      "source": {
-        "name": "Padel Magazine (על ראיון של el4Set באינסטגרם)",
-        "url": "https://padelmagazine.fr/juan-lebron-bientot-blond-platine-une-promesse-qui-refait-surface-apres-son-sacre-mondial/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-auradou-lob-tapia-2026-11-19",
-      "publishedAt": "2026-11-19T07:46:00Z",
-      "category": "opinion",
-      "title": "💬 עוזר מאמן צרפת: \"ביקשתי מהשחקנים להרים לובים על טאפיה\"",
-      "summary": "יאן אורדו, עוזר המאמן של נבחרת צרפת, מספר ל-Padel Magazine על המונדיאל בקטאר. מול טאפיה/ליבאק הוא ביקש מפונטני וז'וריס לשחק לובים על טאפיה – וזה עבד עד שטאפיה הסתגל. צרפת ניצחה במערכה הראשונה, אבל הפסידה 7-5, 3-6, 4-6. לדבריו, הזוג הצרפתי שיחק ברמה \"סטרטוספרית\".",
-      "source": {
-        "name": "Padel Magazine – Franck Binisti",
-        "url": "https://padelmagazine.fr/yann-auradou-jai-demande-a-fonteny-et-joris-de-lober-tapia/",
         "lang": "צרפתית"
       }
     },
