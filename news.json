@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T12:33:14Z",
+  "updatedAt": "2026-11-21T14:34:50Z",
   "live": {
     "title": "FIP Platinum אגואסקליינטס (מקסיקו) – הגמרים",
     "date": "2026-11-22",
@@ -89,6 +89,41 @@
       "source": {
         "name": "Padel Magazine (אנטואן טריקולה)",
         "url": "https://padelmagazine.fr/leal-guerrero-ou-libaak-alfonso-qui-arrive-le-mieux-lance-a-acapulco/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "results-padelmagazine-fip-tour-skurup-ts1-out-2026-11-21",
+      "publishedAt": "2026-11-21T07:56:26Z",
+      "category": "results",
+      "gender": "both",
+      "title": "👨👩 😮 המדורגים 1 הודחו בשבדיה: הפתעות בסבב FIP",
+      "summary": "הפתעה ב-FIP Bronze בסקורופ (שבדיה): הצרפתים בלנקה/אוגונאנק (מדורגים 6) הדיחו את המדורגים 1, ריכטרס/אולסון, 6-0, 6-4 ברבע הגמר. בחצי הגמר הם יפגשו את ואסקס/וינדאל (מדורגים 5). Padel Magazine סיכם גם את טורנירי השבוע בבלגיה (רושפור), ספרד (יורטה), איטליה (נאפולי) והונג קונג. בהונג קונג בוטו/רזפינדרנלי עלו לרבע הגמר אחרי 6-3, 6-3, ושם יפגשו את המדורגות 1, וארו/סנטמריה. לא מופיעים ישראלים בסקירה.",
+      "matches": [
+        {
+          "winner": "בלנקה/אוגונאנק",
+          "loser": "ריכטרס/אולסון",
+          "score": "6-0, 6-4"
+        },
+        {
+          "winner": "ואסקס/וינדאל",
+          "loser": "בורונאד/רובר",
+          "score": "6-4, 3-6, 7-6"
+        },
+        {
+          "winner": "רוטגרסון/יטברק",
+          "loser": "ברז'רון/סרן",
+          "score": "6-4, 7-6"
+        },
+        {
+          "winner": "בוטו/רזפינדרנלי",
+          "loser": "גוריטו/אוזאווה",
+          "score": "6-3, 6-3"
+        }
+      ],
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/fip-tour-blanque-hugounenq-font-tomber-la-ts1-en-suede-les-francais-brillent-aussi-en-belgique-italie-et-a-hong-kong/",
         "lang": "צרפתית"
       }
     },
@@ -220,30 +255,6 @@
       "source": {
         "name": "Padel Magazine (הודעה לעיתונות)",
         "url": "https://padelmagazine.fr/padel-les-3-coups-a-maitriser-pour-gagner-plus-de-matchs-selon-andoni-bardasco/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-galan-chingotto-mexico-major-2026-11-19",
-      "publishedAt": "2026-11-19T13:49:19Z",
-      "category": "opinion",
-      "title": "💬 גלאן חוזר אחרי חודש: \"פדה עושה את כל העבודה\"",
-      "summary": "אלה גלאן חוזר לשחק במייג'ור מקסיקו, אחרי כמעט חודש בלי טורנירים. הוא ישחק עם פדה צ'ינגוטו. Padel Magazine מזכיר מה גלאן אמר במקסיקו בשנה שעברה: כשצ'ינגוטו מכין את הנקודה, לו נשאר \"רק לסיים\". לדברי גלאן, הקושי הגדול שלו הוא למצוא איזון בין התקפה לסבלנות. לדעת הכתב, יריבים ינסו לבדוק את גלאן מוקדם במשחקים.",
-      "source": {
-        "name": "Padel Magazine (Maceo Zerhat)",
-        "url": "https://padelmagazine.fr/fede-fait-tout-le-travail-moi-je-nai-plus-qua-finir-galan-sait-a-quel-point-chingotto-sera-precieux-au-mexico-major/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-aguascalientes-qf-preview-2026-11-19",
-      "publishedAt": "2026-11-19T13:31:23Z",
-      "category": "opinion",
-      "title": "💬 Padel Magazine: ליבאק/אלפונסו נגד לאל/גררו – הקרב של הלילה",
-      "summary": "לדעת Maceo Zerhat ב-Padel Magazine, רבע הגמר במקסיקו נראה כמו טורניר Premier Padel. המשחק הגדול: לאל/גררו רוצים נקמה – ליבאק/אלפונסו ניצחו אותם פעמיים באוקטובר, ברוטרדם ובדיסלדורף, בשלוש מערכות. לדבריו, טייו/ארסה ניצחו את אלונסו/גוני פעמיים לאחרונה, ונייטו/ינגואס חייבים לשחק טוב יותר מול סאניו הוותיק. אצל הנשים הוא רואה את וירסדה/רופו כפייבוריטיות ברורות. מה הלאה: הנשים מ-00:00, הגברים לא לפני 03:00 (שעון ישראל).",
-      "source": {
-        "name": "Padel Magazine (Maceo Zerhat)",
-        "url": "https://padelmagazine.fr/fip-platinum-mexico-des-espagnols-revanchards-et-des-affiches-dignes-de-premier-padel/",
         "lang": "צרפתית"
       }
     },
