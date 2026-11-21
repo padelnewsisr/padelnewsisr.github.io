@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T20:34:03Z",
+  "updatedAt": "2026-11-21T22:33:48Z",
   "live": {
     "title": "FIP Platinum אגואסקליינטס (מקסיקו) – הגמרים",
     "date": "2026-11-22",
@@ -20,6 +20,18 @@
     ]
   },
   "items": [
+    {
+      "id": "calendar-analistas-where-watch-aguascalientes-finals-2026-11-21",
+      "publishedAt": "2026-11-21T22:10:00Z",
+      "category": "calendar",
+      "title": "📺 איפה לראות את גמרי אגואסקליינטס הלילה",
+      "summary": "הלילה נקבעים האלופים של טורניר FIP Platinum האחרון של העונה, במקסיקו. בישראל ובעולם: שידור חי ובחינם ביוטיוב של FIP. גמר הנשים ב-03:00 (שעון ישראל): אוסורו/ג'נסן נגד קסטיו/רודריגס. גמר הגברים לא לפני 04:00: אלונסו/גוני נגד ברגמיני/גאלה. למה זה חשוב: לזוגות הזוכים יש 300 נקודות. הנקודות האלה חשובות במרוץ לגמר העונה בברצלונה.",
+      "source": {
+        "name": "Analistas Pádel",
+        "url": "https://www.analistaspadel.com/finales-fip-platinum-aguascalientes-2026-horario-donde-ver/",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "results-padelmagazine-p1000-padel-campus-arena-qf-2026-11-21",
       "publishedAt": "2026-11-21T20:20:55Z",
@@ -350,7 +362,14 @@
       "what": "Red Bull Padel Cross במדריד – לברון, גלאן, נבארו, סטופאצ'וק, ינגואס ואוגסבורגר, אחד על אחד · 📺 Red Bull TV"
     }
   ],
-  "watch": [],
+  "watch": [
+    {
+      "label": "גמרי אגואסקליינטס (FIP Platinum)",
+      "url": "https://www.youtube.com/@padelfip/live",
+      "live": false,
+      "note": "יוטיוב FIP · 03:00"
+    }
+  ],
   "israeliPlayers": [
     {
       "he": "אהרון כהן",
