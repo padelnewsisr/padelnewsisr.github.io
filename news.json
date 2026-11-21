@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T10:05:00Z",
+  "updatedAt": "2026-11-21T12:32:06Z",
   "live": {
     "title": "FIP Platinum אגואסקליינטס (מקסיקו) – הגמרים",
     "date": "2026-11-22",
@@ -20,6 +20,42 @@
     ]
   },
   "items": [
+    {
+      "id": "opinion-padelmagazine-fip-silver-como-pay-to-train-2026-11-21",
+      "publishedAt": "2026-11-21T12:17:43Z",
+      "category": "opinion",
+      "title": "💸 משלמים כדי להתאמן? הוויכוח על טורנירי FIP Silver",
+      "summary": "אנטואן טריקולה ב-Padel Magazine כותב על בעיה בטורניר FIP Silver בקומו שבאיטליה: השחקנים צריכים לשלם על מגרשי אימון ועל כדורים לאימון. את זה סיפר השחקן ז'ול מארי בסרטון שלו. גם בנאפולי האימונים בתשלום, אבל בקאן בינואר הם היו בחינם. ההרשמה עולה 40 יורו לשחקן, ומי שמפסיד בסיבוב הראשון לא מקבל כסף. לדעת הכותב, צריך להחליט מי משלם על מה – המארגנים או השחקנים – ולתת לשחקנים מידע ברור מראש.",
+      "source": {
+        "name": "Padel Magazine (אנטואן טריקולה)",
+        "url": "https://padelmagazine.fr/fip-silver-quand-les-joueurs-doivent-encore-payer-pour-sentrainer/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "world-padelmagazine-mexico-major-qualifying-starts-2026-11-21",
+      "publishedAt": "2026-11-21T11:40:01Z",
+      "category": "world",
+      "title": "⏳ מחר מתחילות המוקדמות של מייג'ור מקסיקו באקפולקו",
+      "summary": "המייג'ור האחרון של העונה מתחיל מחר, יום ראשון 22.11, עם שלב המוקדמות באקפולקו. אצל הנשים קרלוטה קסאלי/לוסיה גרסיה טרייה מדורגות ראשונות במוקדמות. גם שלושה צרפתים משחקים: לייג/מויה ופונטני/מוראגס פותחים בסיבוב השני, ובאורל/ואל לופס משחקות כבר בסיבוב הראשון. מה הלאה: הטבלה הראשית מתחילה ב-23.11, והגמרים ב-29.11.",
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/mexico-major-leygue-fonteny-et-bahurel-en-lice-pour-les-qualifications-du-dernier-major-de-la-saison/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "opinion-padelmagazine-ari-sanchez-before-mexico-major-2026-11-21",
+      "publishedAt": "2026-11-21T11:27:37Z",
+      "category": "opinion",
+      "title": "💬 ארי סאנצ'ס: \"מקסיקו אף פעם לא הלך לי – רוצה לנצח\"",
+      "summary": "ארי סאנצ'ס מודה לפני מייג'ור מקסיקו: זה טורניר שאף פעם לא הצליח לה. התוצאה הכי טובה שלה שם היא חצי גמר, והיא אומרת שהיא \"מאוד רוצה\" לזכות בו. העונה היא ואנדראה אוסטרו זכו בפריז, ברוטרדם ובמילאנו, והן רודפות אחרי טריאי/ברעה על המקום הראשון בעולם. לזוכות במייג'ור יש 2,000 נקודות. סאנצ'ס מקווה גם לשיא קהל בגמר העונה בברצלונה, מול המשפחה והאוהדים שלה.",
+      "source": {
+        "name": "Padel Magazine (בנז'מן דופואי)",
+        "url": "https://padelmagazine.fr/ari-sanchez-avant-le-mexico-major-cest-un-tournoi-qui-ne-ma-jamais-reussi-jaimerais-vraiment-le-gagner/",
+        "lang": "צרפתית"
+      }
+    },
     {
       "id": "opinion-padelmagazine-juanjo-gutierrez-lebron-level-2026-11-21",
       "publishedAt": "2026-11-21T08:55:59Z",
@@ -125,42 +161,6 @@
         "name": "Padel Magazine (Maceo Zerhat, על ראיון של מקסי ארסה ב-Veintediezpadel)",
         "url": "https://padelmagazine.fr/il-a-fallu-changer-de-mentalite-maxi-arce-raconte-le-passage-da1-a-premier-padel/",
         "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "world-padelmagazine-big-book-womens-padel-2026-11-20",
-      "publishedAt": "2026-11-20T12:19:08Z",
-      "category": "world",
-      "title": "📖 ספר חדש: 50 סיפורים של נשים בפאדל",
-      "summary": "יצא ספר על נשים בפאדל: 310 עמודים ו-50 סיפורים של שחקניות, אלופות ומאמנות מ-14 מדינות. כתבה אותו קריסטין קירש, עיתונאית לשעבר ושחקנית. בספר: התחלות, פציעות, חזרה למשחק, טכניקה, טקטיקה וכוח מנטלי. משתתפות בין היתר: קרולינה נבארו ולוסיה סאינס. ההקדמה של איסיאר מונטס, והסיום של פרננדו בלסטגין.",
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/le-grand-livre-du-padel-feminin-50-temoignages-pour-raconter-celles-qui-font-vivre-le-padel/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "calendar-aguascalientes-semis-schedule-2026-11-20",
-      "publishedAt": "2026-11-20T11:35:05Z",
-      "category": "calendar",
-      "title": "👀 הלילה: חצאי הגמר במקסיקו – שעות ושידור",
-      "summary": "הלילה חצאי הגמר של FIP Platinum אגואסקליינטס. 👩 נשים מ-00:00 (שעון ישראל): נוריה רודריגס/דל פוצו נגד קסטיו/מריה רודריגס, ואחריהן אוסורו/ג'נסן נגד וירסדה/רופו. 👨 גברים לא לפני 03:00: ברגמיני/גאלה נגד לאל/גררו, ואחריהם סאניו/מקסי סאנצ'ס נגד אלונסו/גוני. כל המשחקים במגרש המרכזי. 📺 איפה לראות: בשידור חי ובחינם ביוטיוב של FIP.",
-      "source": {
-        "name": "Analistas Pádel",
-        "url": "https://www.analistaspadel.com/semifinales-fip-platinum-aguascalientes-2026-horario-donde-ver/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "world-padelmagazine-mexico-padel-before-major-2026-11-20",
-      "publishedAt": "2026-11-20T10:12:00Z",
-      "category": "world",
-      "title": "🇲🇽 הפאדל נולד באקפולקו – והמייג'ור חוזר הביתה",
-      "summary": "הפאדל נולד ב-1969 באקפולקו שבמקסיקו. אנריקה קורקוארה בנה שם את המגרש הראשון, ואשתו ויויאנה כתבה את החוקים הראשונים. היום יש במקסיקו לפי הערכה כ-720 מועדונים, כ-2,560 מגרשים וכ-1.1 מיליון שחקנים חובבים. מה הלאה: מייג'ור מקסיקו באקפולקו יתקיים ב-23–29.11, והרשויות מצפות ליותר מ-35 אלף צופים.",
-      "source": {
-        "name": "Padel Magazine (Antoine Tricolet)",
-        "url": "https://www.padel-magazine.co.uk/Before-the-Mexico-Major--from-the-birthplace-of-Dacapulco-to-the-clubs-of-Mexico-City--what-is-the-current-state-of-padel-in-Mexico/",
-        "lang": "אנגלית"
       }
     },
     {
