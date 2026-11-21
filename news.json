@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T14:34:50Z",
+  "updatedAt": "2026-11-21T16:32:36Z",
   "live": {
     "title": "FIP Platinum אגואסקליינטס (מקסיקו) – הגמרים",
     "date": "2026-11-22",
@@ -20,6 +20,18 @@
     ]
   },
   "items": [
+    {
+      "id": "world-padelmagazine-galan-out-mexico-major-2026-11-21",
+      "publishedAt": "2026-11-21T14:35:43Z",
+      "category": "world",
+      "title": "🚑 גלאן מחוץ למייג'ור מקסיקו – גם צ'ינגוטו לא ישחק",
+      "summary": "עוד מכה לאלחנדרו גלאן: הוא הודיע באינסטגרם שלא ישחק במייג'ור מקסיקו באקפולקו (23–29.11). בגלל זה גם בן הזוג שלו, פדה צ'ינגוטו, לא ישחק במייג'ור האחרון של העונה. גלאן נפצע ביד ימין בטורניר במילאנו. לפי העיתונות בספרד, זו פציעה ברצועה של אצבע. בגלל הפציעה הוא כבר פספס את מייג'ור כווית, את אליפות העולם בדוחא ואת דובאי P1. גלאן כתב שהוא ממשיך לעבוד קשה כדי לחזור. מה הלאה: המטרה שלו היא גמר העונה בברצלונה (10–13.12). לפי Padel Magazine, לברון/אוגסבורגר צפויים להיות המדורגים 2 באקפולקו.",
+      "source": {
+        "name": "Padel Magazine (פרנק ביניסטי, על פוסט של גלאן באינסטגרם)",
+        "url": "https://padelmagazine.fr/galan-forfait-au-mexico-major-chingotto-egalement-prive-du-dernier-major-de-la-saison/",
+        "lang": "צרפתית"
+      }
+    },
     {
       "id": "opinion-padelmagazine-fip-silver-como-pay-to-train-2026-11-21",
       "publishedAt": "2026-11-21T12:17:43Z",
@@ -175,18 +187,6 @@
       }
     },
     {
-      "id": "world-red-bull-padel-cross-madrid-2027-2026-11-20",
-      "publishedAt": "2026-11-20T16:20:11Z",
-      "category": "world",
-      "title": "🔥 לברון נגד גלאן – אחד על אחד! אירוע חדש של Red Bull",
-      "summary": "Red Bull מביאה 6 כוכבים לאירוע חדש: Red Bull Padel Cross. כל שחקן משחק לבד נגד שחקן אחר – בלי בן זוג – ובסוף יש מנצח אחד. משתתפים: לברון, גלאן, נבארו, סטופאצ'וק, ינגואס ואוגסבורגר. מתי: שבת 13.2.2027, במדריד ארנה. החוקים המלאים עוד לא פורסמו. 📺 בשידור חי ב-Red Bull TV.",
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/lebron-contre-galan-en-un-contre-un-red-bull-reunit-six-stars-pour-un-evenement-inedit-a-madrid/",
-        "lang": "צרפתית"
-      }
-    },
-    {
       "id": "opinion-padelmagazine-padel-lab-physical-prep-2026-11-20",
       "publishedAt": "2026-11-20T15:17:47Z",
       "category": "opinion",
@@ -243,18 +243,6 @@
       "source": {
         "name": "Padel Magazine – Franck Binisti",
         "url": "https://padelmagazine.fr/jacques-plassard-terra-padel-trop-de-clubs-trop-de-tournois-le-padel-nest-pas-une-poule-aux-oeufs-dor/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-bardasco-three-shots-2026-11-19",
-      "publishedAt": "2026-11-19T15:37:00Z",
-      "category": "opinion",
-      "title": "🎯 מאמן מבילבאו: 3 מכות שינצחו לכם יותר משחקים",
-      "summary": "אנדוני ברדסקו, מאמן פאדל במועדון Padel Stuff בבילבאו, כתב ב-Padel Magazine על 3 מכות חשובות. 1) הלוב: לא רק הגנה – הוא דוחף את היריבים אחורה ונותן לכם לחזור לרשת. 2) הוולה: המטרה היא לשמור על הרשת וללחוץ, לא לסיים כל נקודה. וולה עמוקה ובטוחה עדיפה על מכה חזקה עם טעות. 3) הבנדחה: תשובה בטוחה ללוב שמשאירה אתכם בהתקפה. למה זה חשוב: טיפים שמתאימים לכל שחקן חובב.",
-      "source": {
-        "name": "Padel Magazine (הודעה לעיתונות)",
-        "url": "https://padelmagazine.fr/padel-les-3-coups-a-maitriser-pour-gagner-plus-de-matchs-selon-andoni-bardasco/",
         "lang": "צרפתית"
       }
     },
