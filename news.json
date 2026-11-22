@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T14:32:54Z",
+  "updatedAt": "2026-11-22T16:34:20Z",
   "live": {
     "title": "מייג'ור מקסיקו באקפולקו – מוקדמות (יום שני)",
     "date": "2026-11-23",
@@ -23,6 +23,43 @@
     ]
   },
   "items": [
+    {
+      "id": "results-padelmagazine-p1000-france-finals-2026-11-22",
+      "publishedAt": "2026-11-22T15:25:10Z",
+      "category": "results",
+      "gender": "men",
+      "title": "👨 🏆 ארבעה גמרי P1000 בצרפת: קאמבק, פרישה ותואר חמישי",
+      "summary": "יום הגמרים בטורנירי P1000 בצרפת. בפאדל קמפוס ארנה: דקנויט/פורישון (מדורגים 1) ניצחו את מורבן/גורצוניאן 6-1, 4-6, 6-4, אחרי שפיגרו 3-1 במערכה השלישית. בגרנובל: לרלאז'/די גרדן זכו אחרי שאוטייה נפצע ביד בזמן ש-5-3 במערכה הראשונה. בלה ויר: קזאבן/רוביו זכו בתואר החמישי שלהם יחד השנה, מול איוסו/ברנאר. בטודו פאדל: בן לאלהום/אספינל ריי הדיחו בגמר את המדורגים 1, שופ/וויניה.",
+      "matches": [
+        {
+          "winner": "דקנויט/פורישון",
+          "loser": "מורבן/גורצוניאן",
+          "score": "6-1, 4-6, 6-4"
+        },
+        {
+          "winner": "לרלאז'/די גרדן",
+          "loser": "אוטייה/גרסיה",
+          "score": "5-3 (פרישה)"
+        }
+      ],
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/p1000-padel-campus-arena-deknuydt-et-forichon-renversent-morvan-gortzounian-et-soffrent-le-titre-a-domicile/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "world-padelmagazine-galan-finals-doubt-2026-11-22",
+      "publishedAt": "2026-11-22T14:40:00Z",
+      "category": "world",
+      "title": "🚑 גלאן בחוץ גם במקסיקו – ומה עם גמר העונה?",
+      "summary": "אלה גלאן לא ישחק במייג'ור מקסיקו באקפולקו, שמתחיל מחר. זה הטורניר הרביעי ברציפות שהוא מפספס. הוא לא שיחק מאז מילאנו P1 ב-17 באוקטובר, ומקבל טיפול זהיר כדי להימנע מניתוח. גלאן וצ'ינגוטו כבר בתוך גמר העונה בברצלונה (10–13.12), אבל עוד לא ברור אם גלאן ישחק שם. גלאן כתב שהוא עובד כל יום עם המטרה של גמר העונה. מה הלאה: בדיקות רפואיות יקבעו מתי יחזור.",
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/mexico-major-ale-galan-declare-forfait-sa-participation-aux-finals-de-barcelone-reste-incertaine/",
+        "lang": "צרפתית"
+      }
+    },
     {
       "id": "results-padelmagazine-fip-tour-bronze-sf-courrin-sireix-2026-11-22",
       "publishedAt": "2026-11-22T13:41:34Z",
@@ -225,53 +262,6 @@
       }
     },
     {
-      "id": "results-padelmagazine-fip-tour-naples-skurup-2026-11-21-evening",
-      "publishedAt": "2026-11-21T16:33:16Z",
-      "category": "results",
-      "gender": "both",
-      "title": "👨👩 😮 עוד הפתעה בנאפולי: המדורגים 7 בחוץ",
-      "summary": "בטורניר FIP Silver בנאפולי (איטליה) גאי דה שאמיסו/לסגויטי ניצחו את המדורגים 7, קורדובה/טרוחיו, 7-5, 4-6, 7-5. ברבע הגמר הם יפגשו את המדורגים 2, מלנדס/לונה. אצל הנשים מנסאר/דרדן עלו לרבע הגמר, ושם יפגשו את המדורגות 1, סטלאטו/סוסרלו. בשבדיה (FIP Bronze סקורופ) בלנקה/אוגונאנק, שהדיחו את המדורגים 1, הפסידו בחצי הגמר לווינדאל/ואסקס 7-5, 6-2. לא מופיעים ישראלים בכתבה.",
-      "matches": [
-        {
-          "winner": "גאי דה שאמיסו/לסגויטי",
-          "loser": "קורדובה/טרוחיו",
-          "score": "7-5, 4-6, 7-5"
-        },
-        {
-          "winner": "מנסאר/דרדן",
-          "loser": "די מוציו/קופולה",
-          "score": "6-2, 3-6, 6-4"
-        },
-        {
-          "winner": "ווינדאל/ואסקס",
-          "loser": "בלנקה/אוגונאנק",
-          "score": "7-5, 6-2"
-        },
-        {
-          "winner": "מלנדס/לונה",
-          "loser": "ביורקמן/אוקלס ינסן",
-          "score": "6-3, 6-4"
-        }
-      ],
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/fip-tour-guy-de-chamisso-fait-tomber-la-ts7-mansart-dardaine-en-quarts-en-italie-blanque-hugounenq-sarretent-en-demi-finales-en-suede-les-francais-solides-en-belgique/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "world-padelmagazine-galan-out-mexico-major-2026-11-21",
-      "publishedAt": "2026-11-21T14:35:43Z",
-      "category": "world",
-      "title": "🚑 גלאן מחוץ למייג'ור מקסיקו – גם צ'ינגוטו לא ישחק",
-      "summary": "עוד מכה לאלחנדרו גלאן: הוא הודיע באינסטגרם שלא ישחק במייג'ור מקסיקו באקפולקו (23–29.11). בגלל זה גם בן הזוג שלו, פדה צ'ינגוטו, לא ישחק במייג'ור האחרון של העונה. גלאן נפצע ביד ימין בטורניר במילאנו. לפי העיתונות בספרד, זו פציעה ברצועה של אצבע. בגלל הפציעה הוא כבר פספס את מייג'ור כווית, את אליפות העולם בדוחא ואת דובאי P1. גלאן כתב שהוא ממשיך לעבוד קשה כדי לחזור. מה הלאה: המטרה שלו היא גמר העונה בברצלונה (10–13.12). לפי Padel Magazine, לברון/אוגסבורגר צפויים להיות המדורגים 2 באקפולקו.",
-      "source": {
-        "name": "Padel Magazine (פרנק ביניסטי, על פוסט של גלאן באינסטגרם)",
-        "url": "https://padelmagazine.fr/galan-forfait-au-mexico-major-chingotto-egalement-prive-du-dernier-major-de-la-saison/",
-        "lang": "צרפתית"
-      }
-    },
-    {
       "id": "opinion-padelmagazine-fip-silver-como-pay-to-train-2026-11-21",
       "publishedAt": "2026-11-21T12:17:43Z",
       "category": "opinion",
@@ -328,18 +318,6 @@
       "source": {
         "name": "Padel Magazine – Maceo Zerhat",
         "url": "https://padelmagazine.fr/fip-platinum-aguascalientes-quatre-demi-finales-et-des-points-qui-valent-de-lor/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-padel-lab-physical-prep-2026-11-20",
-      "publishedAt": "2026-11-20T15:17:47Z",
-      "category": "opinion",
-      "title": "💪 שני בני דודים מצרפת: \"שחקנים שוכחים את הגוף\"",
-      "summary": "לפי כתבה ב-Padel Magazine, גבריאל רודריגס וכריסטוף ראמה הקימו במאי 2026 את Padel Lab – אימוני כושר לשחקני פאדל. לדעתם, שחקנים מתאמנים שעות על טכניקה, אבל מזניחים את הגוף. בספרד ובפורטוגל הכושר הוא חלק רגיל מהאימון, ובצרפת פחות. כל שחקן מקבל בדיקה ותוכנית אישית: גמישות, כוח, פיצוץ, סיבולת ומניעת פציעות. מאוקטובר הם עובדים עם השחקן המקצועי פילמון רייכמן.",
-      "source": {
-        "name": "Padel Magazine (מאסאו זרהאט)",
-        "url": "https://padelmagazine.fr/padel-lab-deux-cousins-qui-veulent-faire-bouger-les-lignes-de-la-preparation-physique-dans-le-padel/",
         "lang": "צרפתית"
       }
     },
