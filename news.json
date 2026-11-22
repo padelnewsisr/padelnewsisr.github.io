@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T18:32:28Z",
+  "updatedAt": "2026-11-22T20:32:48Z",
   "live": {
     "title": "מייג'ור מקסיקו באקפולקו – מוקדמות (יום שני)",
     "date": "2026-11-23",
@@ -24,6 +24,18 @@
   },
   "items": [
     {
+      "id": "world-padelmagazine-gta-vi-padel-video-2026-11-22",
+      "publishedAt": "2026-11-22T19:41:40Z",
+      "category": "world",
+      "title": "🎮 פאדל במשחק GTA VI? סרטון מסעיר את הרשת",
+      "summary": "סרטון קצר באינסטגרם של החשבון הארגנטינאי Mercado de Padel מראה ארבעה שחקנים במגרש פאדל, עם עצי דקל, בסגנון משחק מחשב. אוהדים שואלים אם הפאדל יופיע ב-GTA VI. Padel Magazine מדגיש: אין שום אישור רשמי לכך. ייתכן שהסרטון ממשחק אחר, תוספת של אוהדים או עריכה.",
+      "source": {
+        "name": "Padel Magazine (על פוסט של Mercado de Padel באינסטגרם)",
+        "url": "https://padelmagazine.fr/du-padel-dans-gta-vi-une-video-fait-le-buzz-sur-instagram/",
+        "lang": "צרפתית"
+      }
+    },
+    {
       "id": "results-padelmagazine-fip-bronze-rochefort-final-2026-11-22",
       "publishedAt": "2026-11-22T17:58:44Z",
       "category": "results",
@@ -41,6 +53,18 @@
         "name": "Padel Magazine",
         "url": "https://padelmagazine.fr/fip-bronze-rochefort-courrin-muesser-renversent-la-tete-de-serie-1-et-decrochent-leur-premier-titre-sur-le-circuit-fip/",
         "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "world-padelstar-coello-tapia-record-mexico-2026-11-22",
+      "publishedAt": "2026-11-22T16:29:05Z",
+      "category": "world",
+      "title": "🎯 המספר של היום: 14 – קואייו/טאפיה רודפים אחרי שיא",
+      "summary": "קואייו וטאפיה כבר זכו ב-13 תארים העונה. ניצחון באקפולקו ישווה את 14 התארים שלהם ב-2024. הם גם זכו כבר בשלושה מייג'ורים השנה: רומא, פריז וכווית – ואקפולקו יהיה הרביעי. הם זכו באקפולקו גם בשתי השנים האחרונות. בלי גלאן/צ'ינגוטו, המדורגים 2 הם לברון/אוגסבורגר. מה הלאה: הטבלה הראשית מתחילה ב-23.11 והגמר ב-29.11.",
+      "source": {
+        "name": "Padel Star",
+        "url": "https://padelstar.es/noticias-padel/mexico-major-2026-galan-chingotto-baja-coello-tapia-record/",
+        "lang": "ספרדית"
       }
     },
     {
@@ -244,41 +268,6 @@
         "name": "Analistas Pádel",
         "url": "https://www.analistaspadel.com/finales-fip-platinum-aguascalientes-2026-horario-donde-ver/",
         "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "results-padelmagazine-p1000-padel-campus-arena-qf-2026-11-21",
-      "publishedAt": "2026-11-21T20:20:55Z",
-      "category": "results",
-      "gender": "men",
-      "title": "👨 😮 הפתעה בצרפת: מאקי/ברטראן הדיחו את המדורגים 3",
-      "summary": "בטורניר P1000 בפאדל קמפוס ארנה (בילי-ברקלו, צרפת) מאקי/ברטראן, המדורגים 5, ניצחו את המדורגים 3, ברויאר/אוזו, 6-3, 1-6, 6-2. הפייבוריטים האחרים עברו: דקנויט/פוריצ'ון (1), מורבן/גורצוניאן (2) וסטוג'י/דורבן (4). בטורניר שיחקו 24 זוגות. מה הלאה: חצאי הגמר ביום ראשון מ-10:00 שעון צרפת (11:00 בישראל) – מורבן/גורצוניאן נגד סטוג'י/דורבן, ודקנויט/פוריצ'ון נגד מאקי/ברטראן.",
-      "matches": [
-        {
-          "winner": "מאקי/ברטראן",
-          "loser": "ברויאר/אוזו",
-          "score": "6-3, 1-6, 6-2"
-        },
-        {
-          "winner": "דקנויט/פוריצ'ון",
-          "loser": "למון/נוביצקי",
-          "score": "6-4, 6-2"
-        },
-        {
-          "winner": "מורבן/גורצוניאן",
-          "loser": "מורל/דלבוב",
-          "score": "6-3, 6-3"
-        },
-        {
-          "winner": "סטוג'י/דורבן",
-          "loser": "האחים דנדואה",
-          "score": "6-4, 6-4"
-        }
-      ],
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/p1000-padel-campus-arena-macchi-bertrand-font-tomber-la-ts3-les-favoris-assurent/",
-        "lang": "צרפתית"
       }
     },
     {
