@@ -1,23 +1,77 @@
 {
-  "updatedAt": "2026-11-22T07:40:00Z",
+  "updatedAt": "2026-11-22T09:32:17Z",
   "live": {
-    "title": "FIP Platinum אגואסקליינטס (מקסיקו) – הגמרים",
+    "title": "FIP Platinum אגואסקליינטס (מקסיקו) – הגמרים הסתיימו",
     "date": "2026-11-22",
-    "note": "📺 איפה לראות: יוטיוב של FIP – בשידור חי ובחינם. הגמרים בלילה שבין שבת לראשון (שעון ישראל). גמר הנשים: 19:00 שעון מקסיקו = 03:00. גמר הגברים: לא לפני 20:00 שעון מקסיקו = 04:00.",
+    "note": "🏆 הגמרים שוחקו הלילה. 📺 איפה לראות: השידורים היו ביוטיוב של FIP. מה הלאה: מייג'ור מקסיקו באקפולקו מתחיל עם המוקדמות.",
     "matches": [
       {
         "time": "03:00",
         "what": "👩 גמר: אוסורו/ג'נסן נגד קסטיו/מריה רודריגס",
-        "result": ""
+        "result": "אוסורו/ג'נסן ניצחו 1-6, 7-5, 7-5 🏆",
+        "live": false
       },
       {
         "time": "04:00",
         "what": "👨 גמר: אלונסו/גוני נגד ברגמיני/גאלה (לא לפני 04:00)",
-        "result": ""
+        "result": "ברגמיני/גאלה ניצחו 6-4, 6-2 🏆",
+        "live": false
       }
     ]
   },
   "items": [
+    {
+      "id": "opinion-padelmagazine-sanchez-ustero-gap-triay-brea-2026-11-22",
+      "publishedAt": "2026-11-22T08:51:08Z",
+      "category": "opinion",
+      "title": "🎯 ניתוח ב-Padel Magazine: הפער האמיתי – רק 600 נקודות",
+      "summary": "אנטואן טריקולה ב-Padel Magazine בדק את המרוץ למקום הראשון בנשים. בדירוג הרשמי טריאי/ברעה מובילות על סאנצ'ס/אוסטרו ב-2,600 נקודות. אבל בעשרים הטורנירים ששתי הזוגות שיחקו, הפער רק 600 נקודות. לדעתו רוב הפער בא ממלאגה ופרטוריה, שסאנצ'ס/אוסטרו לא שיחקו בגלל פציעה של אוסטרו. מה הלאה: מייג'ור מקסיקו באקפולקו, ואחריו גמר העונה בברצלונה.",
+      "source": {
+        "name": "Padel Magazine – אנטואן טריקולה",
+        "url": "https://padelmagazine.fr/sanchez-ustero-2-600-points-de-retard-sur-triay-brea-mais-seulement-600-sur-les-tournois-communs/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "results-aguascalientes-2026-women-final-2026-11-22",
+      "publishedAt": "2026-11-22T08:43:42Z",
+      "category": "results",
+      "gender": "women",
+      "title": "👩 🔥 קאמבק! אוסורו/ג'נסן אלופות אגואסקליינטס",
+      "summary": "אוסורו/ג'נסן הפסידו 1-6 במערכה הראשונה – וחזרו לזכות בתואר. קסטיו/לאיה רודריגס (מדורגות 6) שלטו בהתחלה. אוסורו/ג'נסן (מדורגות 1) מצאו את הרמה שלהן וניצחו פעמיים 7-5 בסוף מערכות צמודות. התוצאה: 1-6, 7-5, 7-5. למה זה חשוב: אוסורו קיבלה 300 נקודות והתקרבה למקום 16 ב-Race, שנותן כרטיס לגמר העונה בברצלונה. מה הלאה: היא צריכה תוצאה טובה במייג'ור מקסיקו.",
+      "matches": [
+        {
+          "winner": "אוסורו/ג'נסן",
+          "loser": "קסטיו/לאיה רודריגס",
+          "score": "1-6, 7-5, 7-5"
+        }
+      ],
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/fip-platinum-aguascalientes-osoro-jensen-renversent-castello-rodriguez-et-soffrent-le-titre-osoro-peut-encore-rever-des-finals/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "results-aguascalientes-2026-men-final-2026-11-22",
+      "publishedAt": "2026-11-22T08:28:11Z",
+      "category": "results",
+      "gender": "men",
+      "title": "👨 😮 הפתעה בגמר: ברגמיני/גאלה זכו באגואסקליינטס",
+      "summary": "ברגמיני/גאלה, המדורגים 7, זכו בתואר במקסיקו. הם ניצחו את אלונסו/גוני (מדורגים 5) 6-4, 6-2. המערכה הראשונה הייתה צמודה. במערכה השנייה ברגמיני/גאלה ברחו ולא נתנו לחזור. כל אחד מהם קיבל 300 נקודות. למה זה חשוב: אלונסו (מקום 21 ב-Race) פספס הזדמנות גדולה להתקרב לגמר העונה בברצלונה. עכשיו הוא צריך מייג'ור מקסיקו מצוין.",
+      "matches": [
+        {
+          "winner": "ברגמיני/גאלה",
+          "loser": "אלונסו/גוני",
+          "score": "6-4, 6-2"
+        }
+      ],
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/fip-platinum-aguascalientes-bergamini-gala-creent-la-surprise-et-soffrent-le-titre-alonso-goni-manquent-une-belle-occasion-pour-les-finals/",
+        "lang": "צרפתית"
+      }
+    },
     {
       "id": "calendar-analistas-where-watch-aguascalientes-finals-2026-11-21",
       "publishedAt": "2026-11-21T22:10:00Z",
@@ -149,18 +203,6 @@
       }
     },
     {
-      "id": "world-padelspain-european-deaf-padel-seville-ipma-2026-11-21",
-      "publishedAt": "2026-11-21T09:29:47Z",
-      "category": "world",
-      "title": "🤟 סביליה: השלב האחרון בסבב האירופי של פאדל חירשים",
-      "summary": "השלב האחרון של סבב European Deaf Padel 2026 מתקיים ב-20–21.11 במועדון ICÓNICO בסביליה. השחקנים החירשים וכבדי השמיעה הגיעו מספרד, איטליה, גרמניה, צרפת, פולין ואנגליה. לפני התחרות ארגון התקשורת IPMA העביר להם מפגש של שעה על אינסטגרם וטיקטוק: איך לבנות פרופיל, לצלם בטלפון ולהוסיף כתוביות. המרצים אמרו שכתוביות נותנות נגישות מלאה. השלבים הקודמים היו במילאנו, בקלן ובפריז.",
-      "source": {
-        "name": "Padel Spain",
-        "url": "https://www.padelspain.net/portada/actualidad/836116/jornada-informativa-de-la-ipma-para-acercar-las-redes-sociales-a-los-deportistas-con-dificultades-auditivas/",
-        "lang": "ספרדית"
-      }
-    },
-    {
       "id": "opinion-padelmagazine-juanjo-gutierrez-lebron-level-2026-11-21",
       "publishedAt": "2026-11-21T08:55:59Z",
       "category": "opinion",
@@ -182,76 +224,6 @@
         "name": "Padel Magazine (אנטואן טריקולה)",
         "url": "https://padelmagazine.fr/leal-guerrero-ou-libaak-alfonso-qui-arrive-le-mieux-lance-a-acapulco/",
         "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "results-padelmagazine-fip-tour-skurup-ts1-out-2026-11-21",
-      "publishedAt": "2026-11-21T07:56:26Z",
-      "category": "results",
-      "gender": "both",
-      "title": "👨👩 😮 המדורגים 1 הודחו בשבדיה: הפתעות בסבב FIP",
-      "summary": "הפתעה ב-FIP Bronze בסקורופ (שבדיה): הצרפתים בלנקה/אוגונאנק (מדורגים 6) הדיחו את המדורגים 1, ריכטרס/אולסון, 6-0, 6-4 ברבע הגמר. בחצי הגמר הם יפגשו את ואסקס/וינדאל (מדורגים 5). Padel Magazine סיכם גם את טורנירי השבוע בבלגיה (רושפור), ספרד (יורטה), איטליה (נאפולי) והונג קונג. בהונג קונג בוטו/רזפינדרנלי עלו לרבע הגמר אחרי 6-3, 6-3, ושם יפגשו את המדורגות 1, וארו/סנטמריה. לא מופיעים ישראלים בסקירה.",
-      "matches": [
-        {
-          "winner": "בלנקה/אוגונאנק",
-          "loser": "ריכטרס/אולסון",
-          "score": "6-0, 6-4"
-        },
-        {
-          "winner": "ואסקס/וינדאל",
-          "loser": "בורונאד/רובר",
-          "score": "6-4, 3-6, 7-6"
-        },
-        {
-          "winner": "רוטגרסון/יטברק",
-          "loser": "ברז'רון/סרן",
-          "score": "6-4, 7-6"
-        },
-        {
-          "winner": "בוטו/רזפינדרנלי",
-          "loser": "גוריטו/אוזאווה",
-          "score": "6-3, 6-3"
-        }
-      ],
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/fip-tour-blanque-hugounenq-font-tomber-la-ts1-en-suede-les-francais-brillent-aussi-en-belgique-italie-et-a-hong-kong/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "results-aguascalientes-2026-women-sf-2026-11-21",
-      "publishedAt": "2026-11-21T03:40:00Z",
-      "category": "results",
-      "gender": "both",
-      "title": "👨👩 😱 גם המדורגים 2 בחוץ! אלונסו/גוני וברגמיני/גאלה בגמר",
-      "summary": "לילה של הפתעות במקסיקו: לאל/גררו (מדורגים 2) הודחו בחצי הגמר. ברגמיני/גאלה ניצחו אותם 1-6, 7-6, 6-4 – הפסידו במערכה הראשונה, ניצחו בטייברייק וחזרו. בחצי הגמר השני אלונסו/גוני ניצחו את סאניו/מקסי סאנצ'ס 6-3, 6-4. אצל הנשים אוסורו/ג'נסן ניצחו את וירסדה/רופו 6-3, 6-3, וקסטיו/לאיה רודריגס ניצחו את נוריה רודריגס/דאל פוצו 7-5, 6-3. למה זה חשוב: אדו אלונסו נלחם על מקום ב-16 הראשונים ב-Race, ולאל צריך עכשיו תוצאה גדולה במייג'ור מקסיקו כדי להגיע לגמר העונה בברצלונה. מה הלאה: גמר הנשים הלילה ב-03:00 (שעון ישראל), גמר הגברים לא לפני 04:00 · יוטיוב של FIP.",
-      "matches": [
-        {
-          "winner": "ברגמיני/גאלה",
-          "loser": "לאל/גררו",
-          "score": "1-6, 7-6, 6-4"
-        },
-        {
-          "winner": "אלונסו/גוני",
-          "loser": "סאניו גוטיירס/מקסי סאנצ'ס",
-          "score": "6-3, 6-4"
-        },
-        {
-          "winner": "אוסורו/ג'נסן",
-          "loser": "וירסדה/רופו",
-          "score": "6-3, 6-3"
-        },
-        {
-          "winner": "קסטיו/לאיה רודריגס",
-          "loser": "נוריה רודריגס/דאל פוצו",
-          "score": "7-5, 6-3"
-        }
-      ],
-      "source": {
-        "name": "Padel Spain – חצאי הגמר באגואסקליינטס",
-        "url": "https://www.padelspain.net/padel-profesional/836126/el-ultimo-platinum-del-ano-agita-la-race-y-buscar-coronar-a-sus-ganadores/",
-        "lang": "ספרדית"
       }
     },
     {
@@ -300,30 +272,6 @@
         "name": "Padel Addict",
         "url": "https://www.padeladdict.com/de-a1-a-premier-padel-la-nueva-generacion-que-sacude-la-elite/",
         "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "opinion-sanyo-coello-better-without-tapia-2026-11-20",
-      "publishedAt": "2026-11-20T08:02:00Z",
-      "category": "opinion",
-      "title": "💬 סאניו: \"בלי טאפיה, קואייו טוב עוד יותר\"",
-      "summary": "סאניו גוטיירס דיבר עם כלי התקשורת הספרדי Veinte Diez (באינסטגרם), לפי Padel Magazine. לדעתו, קואייו מנצח נקודות כמעט בלי מאמץ, ויכול לשחק חמש מערכות ולהישאר רענן. לדבריו, קואייו שולט במגרש רק בזכות הנוכחות שלו ליד הרשת. סאניו אמר שבנבחרת ספרד, בלי טאפיה לצידו, קואייו לוקח יותר אחריות בהתקפה ונראה טוב יותר מאשר ב-Premier Padel.",
-      "source": {
-        "name": "Padel Magazine – Maceo Zerhat (על ראיון של סאניו ב-Veinte Diez)",
-        "url": "https://padelmagazine.fr/sans-tapia-coello-est-encore-meilleur-sanyo-gutierrez-impressionne-par-le-niveau-de-lespagnol/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-plassard-too-many-clubs-2026-11-20",
-      "publishedAt": "2026-11-20T07:51:00Z",
-      "category": "opinion",
-      "title": "💬 בעל מועדון בצרפת: \"יותר מדי מגרשים, יותר מדי טורנירים\"",
-      "summary": "ז'אק פלסאר, שותף ברשת המועדונים Terra Padel בצרפת, התראיין ל-Padel Magazine. לדעתו, הצמיחה של הפאדל נעצרה בחצי השנה האחרונה, ובאזור שלו יש יותר מגרשים משחקנים. הוא אומר שמרכז עם 5 מגרשים עולה 2–2.5 מיליון יורו, ושפאדל הוא לא \"תרנגולת שמטילה ביצי זהב\". הוא מציע להגביל את מספר הטורנירים בכל מועדון בחודש.",
-      "source": {
-        "name": "Padel Magazine – Franck Binisti",
-        "url": "https://padelmagazine.fr/jacques-plassard-terra-padel-trop-de-clubs-trop-de-tournois-le-padel-nest-pas-une-poule-aux-oeufs-dor/",
-        "lang": "צרפתית"
       }
     },
     {
