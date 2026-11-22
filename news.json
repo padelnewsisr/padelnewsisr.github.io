@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T09:33:56Z",
+  "updatedAt": "2026-11-22T12:32:22Z",
   "live": {
     "title": "FIP Platinum אגואסקליינטס (מקסיקו) – הגמרים הסתיימו",
     "date": "2026-11-22",
@@ -20,6 +20,43 @@
     ]
   },
   "items": [
+    {
+      "id": "results-padelmagazine-p1000-padel-campus-arena-sf-2026-11-22",
+      "publishedAt": "2026-11-22T11:26:12Z",
+      "category": "results",
+      "gender": "men",
+      "title": "👨 😱 מ-0-5 בטייברייק לגמר! קאמבק בצרפת",
+      "summary": "חצי הגמר בטורניר P1000 Padel Campus Arena בצרפת. מורבן/גורצוניאן (מדורגים 2) ניצחו את סטודג'י/דורבן 6-3, 4-6, 7-6. בטייברייק של המערכה השלישית הם פיגרו 0-5 וניצחו 8-6. המשחק נמשך כמעט שעתיים. בחצי הגמר השני דקנויט/פורישון (מדורגים 1) ניצחו 6-1, 6-2. מה הלאה: גמר בין שני הזוגות המובילים, בשידור חי ב-Padel Mag TV.",
+      "matches": [
+        {
+          "winner": "מורבן/גורצוניאן",
+          "loser": "סטודג'י/דורבן",
+          "score": "6-3, 4-6, 7-6"
+        },
+        {
+          "winner": "דקנויט/פורישון",
+          "loser": "מאקי/ברטראן",
+          "score": "6-1, 6-2"
+        }
+      ],
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/p1000-padel-campus-arena-morvan-et-gortzounian-obtiennent-leur-place-en-finale-au-bout-du-suspense-le-choc-100-club-aura-bien-lieu-face-a-deknuydt-forichon/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "world-padeladdict-mexico-major-draws-2026-11-22",
+      "publishedAt": "2026-11-22T10:26:57Z",
+      "category": "world",
+      "title": "🏆 ההגרלה של מייג'ור מקסיקו: מאבק על מקום 1 אצל הנשים",
+      "summary": "פורסמו ההגרלות של מייג'ור מקסיקו באקפולקו (עד 29.11), הטורניר הגדול האחרון לפני גמר העונה. אצל הגברים: קואייו/טאפיה מדורגים 1, לברון/אוגסבורגר 2. גלאן וצ'ינגוטו לא משחקים. אצל הנשים: טריאי/ברעה יבטיחו את מקום 1 בסוף השנה אם יגיעו לחצי הגמר. רק סאנצ'ס/אוסטרו יכולות לעצור אותן, ורק בגמר. למה זה חשוב: הנקודות כאן יקבעו מי ייכנס לגמר העונה בברצלונה.",
+      "source": {
+        "name": "Padel Addict",
+        "url": "https://www.padeladdict.com/cuadros-mexico-major-2026/",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "opinion-padelmagazine-sanchez-ustero-gap-triay-brea-2026-11-22",
       "publishedAt": "2026-11-22T08:51:08Z",
@@ -69,6 +106,41 @@
       "source": {
         "name": "Padel Magazine",
         "url": "https://padelmagazine.fr/fip-platinum-aguascalientes-bergamini-gala-creent-la-surprise-et-soffrent-le-titre-alonso-goni-manquent-une-belle-occasion-pour-les-finals/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "results-padelmagazine-fip-tour-bronze-qf-2026-11-22",
+      "publishedAt": "2026-11-22T07:48:46Z",
+      "category": "results",
+      "gender": "both",
+      "title": "👨👩 טורנירי FIP Bronze: 6-0, 6-0 פעמיים בגאנה",
+      "summary": "ב-FIP Bronze באקרה (גאנה) סירקס/דה ווכט ניצחו פעמיים 6-0, 6-0 ועלו לחצי הגמר. בבלגיה (רושפור) קורן/מיוסר ניצחו 6-3, 6-4 ועלו לחצי הגמר. בספרד (יורטה) סולאן/ארטטה ניצחו 5-7, 6-2, 7-6 ברבע הגמר. בנאפולי סטלטו/סוסרלו, המדורגות 1, ניצחו 7-6, 6-1.",
+      "matches": [
+        {
+          "winner": "סירקס/דה ווכט",
+          "loser": "גוראייב/גרוואל",
+          "score": "6-0, 6-0"
+        },
+        {
+          "winner": "קורן/מיוסר",
+          "loser": "דלואייה/האריס",
+          "score": "6-3, 6-4"
+        },
+        {
+          "winner": "סולאן/ארטטה",
+          "loser": "סנז'אן/בונאר",
+          "score": "5-7, 6-2, 7-6"
+        },
+        {
+          "winner": "סטלטו/סוסרלו",
+          "loser": "מנסאר/דרדן",
+          "score": "7-6, 6-1"
+        }
+      ],
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/fip-tour-courrin-muesser-merah-et-sireix-derniers-espoirs-francais-plusieurs-tricolores-sarretent-en-quarts/",
         "lang": "צרפתית"
       }
     },
@@ -179,18 +251,6 @@
       }
     },
     {
-      "id": "world-padelmagazine-mexico-major-qualifying-starts-2026-11-21",
-      "publishedAt": "2026-11-21T11:40:01Z",
-      "category": "world",
-      "title": "⏳ מחר מתחילות המוקדמות של מייג'ור מקסיקו באקפולקו",
-      "summary": "המייג'ור האחרון של העונה מתחיל מחר, יום ראשון 22.11, עם שלב המוקדמות באקפולקו. אצל הנשים קרלוטה קסאלי/לוסיה גרסיה טרייה מדורגות ראשונות במוקדמות. גם שלושה צרפתים משחקים: לייג/מויה ופונטני/מוראגס פותחים בסיבוב השני, ובאורל/ואל לופס משחקות כבר בסיבוב הראשון. מה הלאה: הטבלה הראשית מתחילה ב-23.11, והגמרים ב-29.11.",
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/mexico-major-leygue-fonteny-et-bahurel-en-lice-pour-les-qualifications-du-dernier-major-de-la-saison/",
-        "lang": "צרפתית"
-      }
-    },
-    {
       "id": "opinion-padelmagazine-ari-sanchez-before-mexico-major-2026-11-21",
       "publishedAt": "2026-11-21T11:27:37Z",
       "category": "opinion",
@@ -260,18 +320,6 @@
         "name": "Padel Magazine (Maceo Zerhat, על ראיון של מקסי ארסה ב-Veintediezpadel)",
         "url": "https://padelmagazine.fr/il-a-fallu-changer-de-mentalite-maxi-arce-raconte-le-passage-da1-a-premier-padel/",
         "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padeladdict-ex-a1-generation-premier-2026-11-20",
-      "publishedAt": "2026-11-20T09:45:04Z",
-      "category": "opinion",
-      "title": "💬 Padel Addict: שחקני A1 לשעבר כובשים את הצמרת",
-      "summary": "לפי ניתוח של Padel Addict, שנה אחרי שליגת A1 נסגרה, השחקנים שלה מצליחים מאוד בסבב של Premier Padel. אוגסבורגר עלה ממקום 10 למקום 6 בעולם ועלה לגמר העונה בברצלונה. מקסי ארסה עלה ממקום 59 למקום 17, וגוני ממקום 65 למקום 24. לדעת האתר, הכישרון הבא שיגיע לצמרת הוא חואני דה פסקואל (בן 20).",
-      "source": {
-        "name": "Padel Addict",
-        "url": "https://www.padeladdict.com/de-a1-a-premier-padel-la-nueva-generacion-que-sacude-la-elite/",
-        "lang": "ספרדית"
       }
     },
     {
