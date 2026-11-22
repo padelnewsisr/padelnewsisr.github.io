@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T16:34:20Z",
+  "updatedAt": "2026-11-22T18:32:28Z",
   "live": {
     "title": "מייג'ור מקסיקו באקפולקו – מוקדמות (יום שני)",
     "date": "2026-11-23",
@@ -23,6 +23,26 @@
     ]
   },
   "items": [
+    {
+      "id": "results-padelmagazine-fip-bronze-rochefort-final-2026-11-22",
+      "publishedAt": "2026-11-22T17:58:44Z",
+      "category": "results",
+      "gender": "men",
+      "title": "👨 🏆 מ-1-6 לתואר! קורן/מיוסר הפילו את המדורגים 1",
+      "summary": "הצרפתים קורן/מיוסר (מדורגים 8) זכו ב-FIP Bronze ברושפור, בלגיה. זה התואר הראשון שלהם בסבב FIP. בגמר הם ניצחו את פרינס/דה קרון (מדורגים 1) 1-6, 6-3, 7-5, אחרי שעה וחצי. במערכה הראשונה הם שיחקו חלש מאוד. במערכה השנייה הם עלו ברמה. בשלישית היה 5-5, והם לקחו את שני הגיימים האחרונים. מספר מעניין: בכל הגמר כל זוג זכה בדיוק ב-91 נקודות.",
+      "matches": [
+        {
+          "winner": "קורן/מיוסר",
+          "loser": "פרינס/דה קרון",
+          "score": "1-6, 6-3, 7-5"
+        }
+      ],
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/fip-bronze-rochefort-courrin-muesser-renversent-la-tete-de-serie-1-et-decrochent-leur-premier-titre-sur-le-circuit-fip/",
+        "lang": "צרפתית"
+      }
+    },
     {
       "id": "results-padelmagazine-p1000-france-finals-2026-11-22",
       "publishedAt": "2026-11-22T15:25:10Z",
@@ -306,18 +326,6 @@
       "source": {
         "name": "Padel Magazine (אנטואן טריקולה)",
         "url": "https://padelmagazine.fr/leal-guerrero-ou-libaak-alfonso-qui-arrive-le-mieux-lance-a-acapulco/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-aguascalientes-semis-race-simulations-2026-11-20",
-      "publishedAt": "2026-11-20T16:44:27Z",
-      "category": "opinion",
-      "title": "🎲 80,000 סימולציות: מי ייכנס לגמר העונה בברצלונה?",
-      "summary": "Padel Magazine (מאסאו זרהאט) כותב שחצאי הגמר הלילה באגואסקליינטס יכולים להכריע את המקומות האחרונים לגמר העונה. לפי חישוב של Padel Review ב-80,000 סימולציות: אם לאל/גררו יזכו בתואר, הסיכוי של לאל להגיע לברצלונה עולה ל-70%. אם אלונסו/גוני יזכו, הסיכוי של קוקי נייטו עולה ל-42% והסיכוי של לאל יורד ל-43%. לדעת הכותב, המרוץ פתוח מאוד, ושום דבר לא ייסגר לפני מייג'ור מקסיקו.",
-      "source": {
-        "name": "Padel Magazine – Maceo Zerhat",
-        "url": "https://padelmagazine.fr/fip-platinum-aguascalientes-quatre-demi-finales-et-des-points-qui-valent-de-lor/",
         "lang": "צרפתית"
       }
     },
