@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T20:32:48Z",
+  "updatedAt": "2026-11-22T22:33:43Z",
   "live": {
     "title": "מייג'ור מקסיקו באקפולקו – מוקדמות (יום שני)",
     "date": "2026-11-23",
@@ -135,6 +135,18 @@
       }
     },
     {
+      "id": "opinion-analistaspadel-mexico-major-draws-favorites-2026-11-22",
+      "publishedAt": "2026-11-22T11:31:00Z",
+      "category": "opinion",
+      "title": "🔮 ב-Analistas Padel: כך ייראו רבעי הגמר באקפולקו",
+      "summary": "ז'ורדי מרטינס ב-Analistas Padel כותב שקואייו/טאפיה הם הפייבוריטים הברורים במייג'ור מקסיקו, בלי גלאן/צ'ינגוטו. לפי הדירוג הוא צופה רבע גמר של קואייו/טאפיה נגד טייו/ארסה, ושל לברון/אוגסבורגר נגד קוקי נייטו/ינגואס. לדעתו יהיה שוויון גדול אצל הגברים, אחרי ההפתעות באגואסקליינטס. בנשים: לפי הכתבה, אם טריאי/ברעה יגיעו לחצי הגמר, מקום 1 של 2026 שלהן. למה זה חשוב: זה הטורניר האחרון לפני גמר העונה בברצלונה.",
+      "source": {
+        "name": "Analistas Padel – ז'ורדי מרטינס",
+        "url": "https://www.analistaspadel.com/cuadros-mexico-major-2026-favoritos-cruces/",
+        "lang": "ספרדית"
+      }
+    },
+    {
       "id": "results-padelmagazine-p1000-padel-campus-arena-sf-2026-11-22",
       "publishedAt": "2026-11-22T11:26:12Z",
       "category": "results",
@@ -259,18 +271,6 @@
       }
     },
     {
-      "id": "calendar-analistas-where-watch-aguascalientes-finals-2026-11-21",
-      "publishedAt": "2026-11-21T22:10:00Z",
-      "category": "calendar",
-      "title": "📺 איפה לראות את גמרי אגואסקליינטס הלילה",
-      "summary": "הלילה נקבעים האלופים של טורניר FIP Platinum האחרון של העונה, במקסיקו. בישראל ובעולם: שידור חי ובחינם ביוטיוב של FIP. גמר הנשים ב-03:00 (שעון ישראל): אוסורו/ג'נסן נגד קסטיו/רודריגס. גמר הגברים לא לפני 04:00: אלונסו/גוני נגד ברגמיני/גאלה. למה זה חשוב: לזוגות הזוכים יש 300 נקודות. הנקודות האלה חשובות במרוץ לגמר העונה בברצלונה.",
-      "source": {
-        "name": "Analistas Pádel",
-        "url": "https://www.analistaspadel.com/finales-fip-platinum-aguascalientes-2026-horario-donde-ver/",
-        "lang": "ספרדית"
-      }
-    },
-    {
       "id": "opinion-padelmagazine-fip-silver-como-pay-to-train-2026-11-21",
       "publishedAt": "2026-11-21T12:17:43Z",
       "category": "opinion",
@@ -335,10 +335,6 @@
     }
   ],
   "upcoming": [
-    {
-      "when": "23.11 · 00:00",
-      "what": "מייג'ור מקסיקו באקפולקו – מתחילות המוקדמות (16:00 שעון מקסיקו)"
-    },
     {
       "when": "23–29.11",
       "what": "מייג'ור מקסיקו באקפולקו – משחקים בלילה לפי שעון ישראל · 📺 עד שמינית הגמר: יוטיוב של Premier Padel; מרבע הגמר: Red Bull TV (בלעדי)"
