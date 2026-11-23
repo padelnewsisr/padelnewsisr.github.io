@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T16:33:05Z",
+  "updatedAt": "2026-11-23T18:33:10Z",
   "live": {
     "title": "מייג'ור מקסיקו באקפולקו – הסיבוב האחרון של המוקדמות",
     "date": "2026-11-24",
@@ -94,6 +94,18 @@
         "name": "Padel Addict (Adriana Díaz Pérez)",
         "url": "https://www.padeladdict.com/mexico-major-condiciones-clima-pista-bola/",
         "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "world-padelmagazine-mexico-major-main-draw-tonight-french-2026-11-23",
+      "publishedAt": "2026-11-23T11:30:00Z",
+      "category": "world",
+      "title": "👀 הלילה: הטבלה הראשית במקסיקו נפתחת",
+      "summary": "הלילה מתחיל הסיבוב הראשון של הטבלה הראשית במייג'ור מקסיקו באקפולקו. גודאלייה/ולנסואלה (מדורגות 25) נגד פולו/מרטינס פורטון – לא לפני 03:00 לפי שעון ישראל. גישאר/חינס נגד הזוג המקומי ריברו/קסטרו – לא לפני 03:00. המנצחים יפגשו כנראה את מונטס/בארה (נשים) ואת באוטיסטה/ברגמיני, המדורגים 1 (גברים). מה הלאה: המשחקים בשידור חי ביוטיוב של Premier Padel. השעות יכולות לזוז.",
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/mexico-major-guichard-et-godallier-lancent-leur-tournoi-ou-voir-les-francais-et-a-quelle-heure/",
+        "lang": "צרפתית"
       }
     },
     {
@@ -247,26 +259,6 @@
       "source": {
         "name": "Padel Magazine (על פוסט של Mercado de Padel באינסטגרם)",
         "url": "https://padelmagazine.fr/du-padel-dans-gta-vi-une-video-fait-le-buzz-sur-instagram/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "results-padelmagazine-fip-bronze-rochefort-final-2026-11-22",
-      "publishedAt": "2026-11-22T17:58:44Z",
-      "category": "results",
-      "gender": "men",
-      "title": "👨 🏆 מ-1-6 לתואר! קורן/מיוסר הפילו את המדורגים 1",
-      "summary": "הצרפתים קורן/מיוסר (מדורגים 8) זכו ב-FIP Bronze ברושפור, בלגיה. זה התואר הראשון שלהם בסבב FIP. בגמר הם ניצחו את פרינס/דה קרון (מדורגים 1) 1-6, 6-3, 7-5, אחרי שעה וחצי. במערכה הראשונה הם שיחקו חלש מאוד. במערכה השנייה הם עלו ברמה. בשלישית היה 5-5, והם לקחו את שני הגיימים האחרונים. מספר מעניין: בכל הגמר כל זוג זכה בדיוק ב-91 נקודות.",
-      "matches": [
-        {
-          "winner": "קורן/מיוסר",
-          "loser": "פרינס/דה קרון",
-          "score": "1-6, 6-3, 7-5"
-        }
-      ],
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/fip-bronze-rochefort-courrin-muesser-renversent-la-tete-de-serie-1-et-decrochent-leur-premier-titre-sur-le-circuit-fip/",
         "lang": "צרפתית"
       }
     },
