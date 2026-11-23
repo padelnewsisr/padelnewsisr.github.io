@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T14:34:04Z",
+  "updatedAt": "2026-11-23T16:33:05Z",
   "live": {
     "title": "מייג'ור מקסיקו באקפולקו – הסיבוב האחרון של המוקדמות",
     "date": "2026-11-24",
@@ -48,6 +48,18 @@
     ]
   },
   "items": [
+    {
+      "id": "opinion-padeladdict-augsburger-documentary-pressure-2026-11-23",
+      "publishedAt": "2026-11-23T15:44:19Z",
+      "category": "opinion",
+      "title": "🎬 אוגסבורגר בסרט \"PRESSURE\": \"לא עמדתי במילה שלי\"",
+      "summary": "ליאו אוגסבורגר (22) פרסם ביוטיוב שלו סרט תיעודי בשם \"PRESSURE\" (לחץ), על הימים אחרי ההפסד של ארגנטינה לספרד בגמר מונדיאל הפאדל בדוחה. לפי Padel Addict, הוא לוקח אחריות: הוא ודי נינו הובילו 7-5 ו-4-2, ולדבריו הוא הרגיש שאכזב אנשים אחרים, לא רק את עצמו. הפסיכולוגית שלו מספרת שמצאה אותו \"שבור לגמרי\", ואומרת שאי אפשר להעלים לחץ – רק ללמוד לנהל אותו. מה הלאה: אוגסבורגר מספר שנעזר בניסיון של חואן לברון, ושבוע אחר כך הם זכו יחד בדובאי P1.",
+      "source": {
+        "name": "Padel Addict – Ángel González (על הסרט ביוטיוב של אוגסבורגר)",
+        "url": "https://www.padeladdict.com/leo-augsburger-abre-la-herida-del-mundial-en-su-documental-pressure/",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "world-padelmagazine-fip-ranking-race-osoro-2026-11-23",
       "publishedAt": "2026-11-23T12:14:00Z",
@@ -255,55 +267,6 @@
       "source": {
         "name": "Padel Magazine",
         "url": "https://padelmagazine.fr/fip-bronze-rochefort-courrin-muesser-renversent-la-tete-de-serie-1-et-decrochent-leur-premier-titre-sur-le-circuit-fip/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "world-padelstar-coello-tapia-record-mexico-2026-11-22",
-      "publishedAt": "2026-11-22T16:29:05Z",
-      "category": "world",
-      "title": "🎯 המספר של היום: 14 – קואייו/טאפיה רודפים אחרי שיא",
-      "summary": "קואייו וטאפיה כבר זכו ב-13 תארים העונה. ניצחון באקפולקו ישווה את 14 התארים שלהם ב-2024. הם גם זכו כבר בשלושה מייג'ורים השנה: רומא, פריז וכווית – ואקפולקו יהיה הרביעי. הם זכו באקפולקו גם בשתי השנים האחרונות. בלי גלאן/צ'ינגוטו, המדורגים 2 הם לברון/אוגסבורגר. מה הלאה: הטבלה הראשית מתחילה ב-23.11 והגמר ב-29.11.",
-      "source": {
-        "name": "Padel Star",
-        "url": "https://padelstar.es/noticias-padel/mexico-major-2026-galan-chingotto-baja-coello-tapia-record/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "results-padelmagazine-p1000-france-finals-2026-11-22",
-      "publishedAt": "2026-11-22T15:25:10Z",
-      "category": "results",
-      "gender": "men",
-      "title": "👨 🏆 ארבעה גמרי P1000 בצרפת: קאמבק, פרישה ותואר חמישי",
-      "summary": "יום הגמרים בטורנירי P1000 בצרפת. בפאדל קמפוס ארנה: דקנויט/פורישון (מדורגים 1) ניצחו את מורבן/גורצוניאן 6-1, 4-6, 6-4, אחרי שפיגרו 3-1 במערכה השלישית. בגרנובל: לרלאז'/די גרדן זכו אחרי שאוטייה נפצע ביד בזמן ש-5-3 במערכה הראשונה. בלה ויר: קזאבן/רוביו זכו בתואר החמישי שלהם יחד השנה, מול איוסו/ברנאר. בטודו פאדל: בן לאלהום/אספינל ריי הדיחו בגמר את המדורגים 1, שופ/וויניה.",
-      "matches": [
-        {
-          "winner": "דקנויט/פורישון",
-          "loser": "מורבן/גורצוניאן",
-          "score": "6-1, 4-6, 6-4"
-        },
-        {
-          "winner": "לרלאז'/די גרדן",
-          "loser": "אוטייה/גרסיה",
-          "score": "5-3 (פרישה)"
-        }
-      ],
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/p1000-padel-campus-arena-deknuydt-et-forichon-renversent-morvan-gortzounian-et-soffrent-le-titre-a-domicile/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "world-padelmagazine-galan-finals-doubt-2026-11-22",
-      "publishedAt": "2026-11-22T14:40:00Z",
-      "category": "world",
-      "title": "🚑 גלאן בחוץ גם במקסיקו – ומה עם גמר העונה?",
-      "summary": "אלה גלאן לא ישחק במייג'ור מקסיקו באקפולקו, שמתחיל מחר. זה הטורניר הרביעי ברציפות שהוא מפספס. הוא לא שיחק מאז מילאנו P1 ב-17 באוקטובר, ומקבל טיפול זהיר כדי להימנע מניתוח. גלאן וצ'ינגוטו כבר בתוך גמר העונה בברצלונה (10–13.12), אבל עוד לא ברור אם גלאן ישחק שם. גלאן כתב שהוא עובד כל יום עם המטרה של גמר העונה. מה הלאה: בדיקות רפואיות יקבעו מתי יחזור.",
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/mexico-major-ale-galan-declare-forfait-sa-participation-aux-finals-de-barcelone-reste-incertaine/",
         "lang": "צרפתית"
       }
     },
