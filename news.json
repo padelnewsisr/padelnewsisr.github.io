@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T07:33:47Z",
+  "updatedAt": "2026-11-23T09:45:00Z",
   "live": {
     "title": "מייג'ור מקסיקו באקפולקו – הסיבוב האחרון של המוקדמות",
     "date": "2026-11-24",
@@ -38,6 +38,77 @@
     ]
   },
   "items": [
+    {
+      "id": "opinion-padelmagazine-lebron-augsburger-coello-tapia-bete-noire-2026-11-23",
+      "publishedAt": "2026-11-23T08:31:31Z",
+      "category": "opinion",
+      "title": "🧠 ניתוח ב-Padel Magazine: למה לברון/אוגסבורגר לא מצליחים מול קואייו/טאפיה?",
+      "summary": "הכתב אנטואן טריקולה ב-Padel Magazine בדק את העונה של לברון/אוגסבורגר. מול גלאן/צ'ינגוטו הם ניצחו 3 מתוך 7 משחקים. מול קואייו/טאפיה הם ניצחו רק פעם אחת – בגמר בריסל. לדעתו, קואייו/טאפיה יודעים לעצור את הקצב המהיר שלהם ולהאריך את הנקודות. הוא כותב שאוגסבורגר צריך לבחור טוב יותר מתי לתקוף, לא לחבוט חזק יותר. מה הלאה: מפגש אפשרי במקסיקו השבוע.",
+      "source": {
+        "name": "Padel Magazine – אנטואן טריקולה",
+        "url": "https://padelmagazine.fr/lebron-augsburger-pourquoi-coello-tapia-restent-leur-bete-noire/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "results-padelmagazine-p1000-gallery-republique-final-2026-11-23",
+      "publishedAt": "2026-11-23T08:29:43Z",
+      "category": "results",
+      "gender": "men",
+      "title": "👨 🔄 קאמבק בפריז: ארט-אורקה/גרו זכו בתואר שלישי",
+      "summary": "בגמר טורניר P1000 Gallery République בצרפת, אלכסיס ארט-אורקה/בנז'מן גרו (מדורגים 2) הפסידו במערכה הראשונה. הם חזרו וניצחו את אליו סרה/ז'ולן פבאס (מדורגים 3) 5-7, 6-2, 7-5. לפי Padel Magazine, זה התואר השלישי העונה לכל אחד מהם.",
+      "matches": [
+        {
+          "winner": "ארט-אורקה/גרו",
+          "loser": "סרה/פבאס",
+          "score": "5-7, 6-2, 7-5"
+        }
+      ],
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/p1000-gallery-republique-arette-hourquet-et-grue-renversent-la-finale-et-decrochent-chacun-leur-troisieme-titre-de-la-saison/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "results-padelmagazine-fip-bronze-accra-women-final-2026-11-23",
+      "publishedAt": "2026-11-23T08:14:15Z",
+      "category": "results",
+      "gender": "women",
+      "title": "👩 🏆 גאנה: המדורגות 1 זכו, וסירקס הפסידה גמר שמיני",
+      "summary": "בגמר הנשים של FIP Bronze באקרה (גאנה) ניצחו קאייטנה סאנצ'ס ורה/כריסטינה נטאנו (מדורגות 1) את קמי סירקס/טס דה ווכט (מדורגות 2) 6-3, 6-4. סירקס/דה ווכט הגיעו לגמר אחרי ניצחונות ענק 6-0, 6-0. לפי Padel Magazine, זה הגמר השמיני שהצרפתייה סירקס מפסידה. היא עדיין מחכה לתואר הראשון שלה.",
+      "matches": [
+        {
+          "winner": "סאנצ'ס ורה/נטאנו",
+          "loser": "סירקס/דה ווכט",
+          "score": "6-3, 6-4"
+        }
+      ],
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/fip-bronze-accra-huitieme-finale-perdue-pour-camille-sireix-toujours-en-quete-de-son-premier-titre/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "opinion-padelmagazine-bergamini-momentum-2026-11-23",
+      "publishedAt": "2026-11-23T07:54:00Z",
+      "category": "opinion",
+      "title": "⭐ ברגמיני חוזר לנצח: 3 תארי FIP השנה – עם 3 שותפים",
+      "summary": "לפי Padel Magazine, לוקאס ברגמיני מוצא שוב את הדרך אחרי קיץ קשה. עם דוד גאלה הוא זכה באגואסקליינטס: בחצי הגמר חזרו מ-1-6 וניצחו 1-6, 7-6, 6-4, ובגמר ניצחו 6-4, 6-2. זה התואר השלישי שלו העונה, כל פעם עם שותף אחר. לדעת הכותב, עדיין חסר לו חצי גמר בפרימייר פאדל – השיא שלו השנה הוא 6 רבעי גמר. מה הלאה: באקפולקו הוא חוזר לשחק עם ז'איירו באוטיסטה.",
+      "profile": {
+        "icon": "⭐",
+        "flag": "🇧🇷",
+        "name": "לוקאס ברגמיני",
+        "line": "3 תארי FIP ב-2026, כל אחד עם שותף אחר",
+        "stat": "6 רבעי גמר בפרימייר פאדל"
+      },
+      "source": {
+        "name": "Padel Magazine – אנטואן טריקולה",
+        "url": "https://padelmagazine.fr/lucas-bergamini-retrouve-de-lelan-apres-une-saison-longtemps-contrariee/",
+        "lang": "צרפתית"
+      }
+    },
     {
       "id": "world-padelspain-acapulco-draw-stakes-2026-11-23",
       "publishedAt": "2026-11-23T06:01:00Z",
@@ -258,81 +329,6 @@
       }
     },
     {
-      "id": "results-aguascalientes-2026-women-final-2026-11-22",
-      "publishedAt": "2026-11-22T08:43:42Z",
-      "category": "results",
-      "gender": "women",
-      "title": "👩 🔥 קאמבק! אוסורו/ג'נסן אלופות אגואסקליינטס",
-      "summary": "אוסורו/ג'נסן הפסידו 1-6 במערכה הראשונה – וחזרו לזכות בתואר. קסטיו/לאיה רודריגס (מדורגות 6) שלטו בהתחלה. אוסורו/ג'נסן (מדורגות 1) מצאו את הרמה שלהן וניצחו פעמיים 7-5 בסוף מערכות צמודות. התוצאה: 1-6, 7-5, 7-5. למה זה חשוב: אוסורו קיבלה 300 נקודות והתקרבה למקום 16 ב-Race, שנותן כרטיס לגמר העונה בברצלונה. לפי Padel Spain, חסרות לה רק 35 נקודות. מה הלאה: היא צריכה תוצאה טובה במייג'ור מקסיקו.",
-      "matches": [
-        {
-          "winner": "אוסורו/ג'נסן",
-          "loser": "קסטיו/לאיה רודריגס",
-          "score": "1-6, 7-5, 7-5"
-        }
-      ],
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/fip-platinum-aguascalientes-osoro-jensen-renversent-castello-rodriguez-et-soffrent-le-titre-osoro-peut-encore-rever-des-finals/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "results-aguascalientes-2026-men-final-2026-11-22",
-      "publishedAt": "2026-11-22T08:28:11Z",
-      "category": "results",
-      "gender": "men",
-      "title": "👨 😮 הפתעה בגמר: ברגמיני/גאלה זכו באגואסקליינטס",
-      "summary": "ברגמיני/גאלה, המדורגים 7, זכו בתואר במקסיקו. הם ניצחו את אלונסו/גוני (מדורגים 5) 6-4, 6-2. המערכה הראשונה הייתה צמודה. במערכה השנייה ברגמיני/גאלה ברחו ולא נתנו לחזור. כל אחד מהם קיבל 300 נקודות. למה זה חשוב: אלונסו (מקום 21 ב-Race) פספס הזדמנות גדולה להתקרב לגמר העונה בברצלונה. עכשיו הוא צריך מייג'ור מקסיקו מצוין.",
-      "matches": [
-        {
-          "winner": "ברגמיני/גאלה",
-          "loser": "אלונסו/גוני",
-          "score": "6-4, 6-2"
-        }
-      ],
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/fip-platinum-aguascalientes-bergamini-gala-creent-la-surprise-et-soffrent-le-titre-alonso-goni-manquent-une-belle-occasion-pour-les-finals/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "results-padelmagazine-fip-tour-bronze-qf-2026-11-22",
-      "publishedAt": "2026-11-22T07:48:46Z",
-      "category": "results",
-      "gender": "both",
-      "title": "👨👩 טורנירי FIP Bronze: 6-0, 6-0 פעמיים בגאנה",
-      "summary": "ב-FIP Bronze באקרה (גאנה) סירקס/דה ווכט ניצחו פעמיים 6-0, 6-0 ועלו לחצי הגמר. בבלגיה (רושפור) קורן/מיוסר ניצחו 6-3, 6-4 ועלו לחצי הגמר. בספרד (יורטה) סולאן/ארטטה ניצחו 5-7, 6-2, 7-6 ברבע הגמר. בנאפולי סטלטו/סוסרלו, המדורגות 1, ניצחו 7-6, 6-1.",
-      "matches": [
-        {
-          "winner": "סירקס/דה ווכט",
-          "loser": "גוראייב/גרוואל",
-          "score": "6-0, 6-0"
-        },
-        {
-          "winner": "קורן/מיוסר",
-          "loser": "דלואייה/האריס",
-          "score": "6-3, 6-4"
-        },
-        {
-          "winner": "סולאן/ארטטה",
-          "loser": "סנז'אן/בונאר",
-          "score": "5-7, 6-2, 7-6"
-        },
-        {
-          "winner": "סטלטו/סוסרלו",
-          "loser": "מנסאר/דרדן",
-          "score": "7-6, 6-1"
-        }
-      ],
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/fip-tour-courrin-muesser-merah-et-sireix-derniers-espoirs-francais-plusieurs-tricolores-sarretent-en-quarts/",
-        "lang": "צרפתית"
-      }
-    },
-    {
       "id": "opinion-padelmagazine-fip-silver-como-pay-to-train-2026-11-21",
       "publishedAt": "2026-11-21T12:17:43Z",
       "category": "opinion",
@@ -353,30 +349,6 @@
       "source": {
         "name": "Padel Magazine (בנז'מן דופואי)",
         "url": "https://padelmagazine.fr/ari-sanchez-avant-le-mexico-major-cest-un-tournoi-qui-ne-ma-jamais-reussi-jaimerais-vraiment-le-gagner/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-juanjo-gutierrez-lebron-level-2026-11-21",
-      "publishedAt": "2026-11-21T08:55:59Z",
-      "category": "opinion",
-      "title": "💬 מאמן ספרד: \"לברון ברמה של קואייו, טאפיה וגלאן\"",
-      "summary": "חואנחו גוטיירס, מאמן נבחרת ספרד, הסביר לראשונה את ההחלטות שלו בגמר אליפות העולם בדוחא. הוא שלח את לברון עם אימאר גוני למשחק הראשון, ושמר את קואייו וקוקי נייטו למשחק המכריע. לדבריו, זה היה הסיכוי הכי טוב לנצח, והוא היה עושה את אותה בחירה שוב. לברון וגוני פיגרו, אבל חזרו וניצחו את די נינו/אוגסבורגר 5-7, 7-5, 6-2. גוטיירס אמר שלברון \"באותה רמה\" כמו קואייו, טאפיה וגלאן בתנאים האלה. הדברים נאמרו באירוע של Europa Press במדריד.",
-      "source": {
-        "name": "Padel Magazine (בנז'מן דופואי)",
-        "url": "https://padelmagazine.fr/juanjo-gutierrez-lebron-est-au-meme-niveau-que-coello-tapia-ou-galan/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-leal-guerrero-vs-libaak-alfonso-acapulco-2026-11-21",
-      "publishedAt": "2026-11-21T08:42:14Z",
-      "category": "opinion",
-      "title": "⚖️ לאל/גררו או ליבאק/אלפונסו – מי מגיע חזק יותר לאקפולקו?",
-      "summary": "אנטואן טריקולה ב-Padel Magazine משווה בין שני זוגות שנלחמים על מקום בצמרת. ברבע הגמר במקסיקו לאל/גררו ניצחו את ליבאק/אלפונסו 6-4, 6-4, אבל במפגשים ביניהם ליבאק/אלפונסו עדיין מובילים 2-1. לדעתו, ליבאק/אלפונסו הראו יותר בטורנירים הגדולים: חצי גמר במייג'ור כווית וגמר בדובאי P1. לפי הכותב, חצי גמר בטורניר Platinum שווה פחות מחצי גמר במייג'ור. מה הלאה: מייג'ור מקסיקו באקפולקו יהיה המבחן של שני הזוגות.",
-      "source": {
-        "name": "Padel Magazine (אנטואן טריקולה)",
-        "url": "https://padelmagazine.fr/leal-guerrero-ou-libaak-alfonso-qui-arrive-le-mieux-lance-a-acapulco/",
         "lang": "צרפתית"
       }
     },
@@ -474,32 +446,32 @@
     }
   ],
   "rankings": {
-    "date": "16.11.2026",
-    "checkedAt": "2026-11-16T09:40:00Z",
+    "date": "23.11.2026",
+    "checkedAt": "2026-11-23T09:40:00Z",
     "men": [
       {
         "rank": 1,
         "name": "ארטורו קואייו",
         "country": "ESP",
-        "points": 20283
+        "points": 20211
       },
       {
         "rank": 1,
         "name": "אגוסטין טאפיה",
         "country": "ARG",
-        "points": 20283
+        "points": 20211
       },
       {
         "rank": 3,
         "name": "אלחנדרו גלאן",
         "country": "ESP",
-        "points": 14076
+        "points": 14033
       },
       {
         "rank": 3,
         "name": "פדריקו צ'ינגוטו",
         "country": "ARG",
-        "points": 14076
+        "points": 14033
       },
       {
         "rank": 5,
@@ -511,7 +483,7 @@
         "rank": 6,
         "name": "לאנדרו אוגסבורגר",
         "country": "ARG",
-        "points": 8496
+        "points": 8483
       },
       {
         "rank": 7,
@@ -521,45 +493,45 @@
       },
       {
         "rank": 8,
-        "name": "פקיטו נבארו",
+        "name": "ז'ון סאנס",
         "country": "ESP",
-        "points": 5266
+        "points": 5243
       },
       {
         "rank": 9,
-        "name": "ז'ון סאנס",
+        "name": "פקיטו נבארו",
         "country": "ESP",
-        "points": 5256
+        "points": 5241
       },
       {
         "rank": 10,
         "name": "מרטין די נֶנו",
         "country": "ARG",
-        "points": 4826
+        "points": 4813
       },
       {
         "rank": 11,
         "name": "מיגל יאנגואס",
         "country": "ESP",
-        "points": 4821
+        "points": 4796
       },
       {
         "rank": 12,
         "name": "פראן גררו",
         "country": "ESP",
-        "points": 4608
+        "points": 4391
       },
       {
         "rank": 13,
         "name": "מומו גונסלס",
         "country": "ESP",
-        "points": 4076
+        "points": 3813
       },
       {
         "rank": 14,
         "name": "חואן טייו",
         "country": "ARG",
-        "points": 3936
+        "points": 3803
       },
       {
         "rank": 15,
@@ -569,33 +541,33 @@
       },
       {
         "rank": 16,
-        "name": "גונסלו אלפונסו",
+        "name": "מקסי ארסה",
         "country": "ARG",
-        "points": 3596
+        "points": 3600
       },
       {
         "rank": 17,
-        "name": "מקסי ארסה",
+        "name": "גונסלו אלפונסו",
         "country": "ARG",
-        "points": 3595
+        "points": 3598
       },
       {
         "rank": 18,
         "name": "חבייר לאל",
         "country": "ESP",
-        "points": 3451
+        "points": 3488
       },
       {
         "rank": 19,
-        "name": "לוקאס קמפניולו",
-        "country": "BRA",
-        "points": 3393
+        "name": "טינו ליבאק",
+        "country": "ARG",
+        "points": 3358
       },
       {
         "rank": 20,
-        "name": "טינו ליבאק",
-        "country": "ARG",
-        "points": 3361
+        "name": "לוקאס קמפניולו",
+        "country": "BRA",
+        "points": 3346
       }
     ],
     "women": [
@@ -603,121 +575,121 @@
         "rank": 1,
         "name": "ג'מה טריאי",
         "country": "ESP",
-        "points": 15903
+        "points": 15831
       },
       {
         "rank": 1,
         "name": "דלפי ברעה",
         "country": "ARG",
-        "points": 15903
+        "points": 15831
       },
       {
         "rank": 3,
         "name": "ביאה גונסלס",
         "country": "ESP",
-        "points": 13951
+        "points": 13926
       },
       {
         "rank": 4,
         "name": "אריאנה סאנצ'ס",
         "country": "ESP",
-        "points": 12376
+        "points": 12333
       },
       {
         "rank": 5,
         "name": "קלאודיה פרננדס",
         "country": "ESP",
-        "points": 12331
+        "points": 12306
       },
       {
         "rank": 6,
         "name": "אנדראה אוסטרו",
         "country": "ESP",
-        "points": 12103
+        "points": 12096
       },
       {
         "rank": 7,
         "name": "פאולה חוסמריה",
         "country": "ESP",
-        "points": 11266
+        "points": 11223
       },
       {
         "rank": 8,
         "name": "מרטינה קלבו",
         "country": "ESP",
-        "points": 8643
+        "points": 8636
       },
       {
         "rank": 9,
-        "name": "סופיה אראוז'ו",
-        "country": "POR",
-        "points": 5436
+        "name": "קלאודיה ינסן",
+        "country": "ARG",
+        "points": 5548
       },
       {
         "rank": 10,
-        "name": "קלאודיה ינסן",
-        "country": "ARG",
-        "points": 5351
+        "name": "סופיה אראוז'ו",
+        "country": "POR",
+        "points": 5423
       },
       {
         "rank": 11,
         "name": "מרתה אורטגה",
         "country": "ESP",
-        "points": 4706
+        "points": 4693
       },
       {
         "rank": 12,
         "name": "תמרה איקרדו",
         "country": "ESP",
-        "points": 4631
+        "points": 4618
       },
       {
         "rank": 13,
         "name": "אלחנדרה אלונסו",
         "country": "ESP",
-        "points": 3973
+        "points": 3966
       },
       {
         "rank": 14,
         "name": "מרינה גינרט",
         "country": "ESP",
-        "points": 3943
+        "points": 3936
       },
       {
         "rank": 15,
         "name": "ורוניקה וירסדה",
         "country": "ESP",
-        "points": 3321
+        "points": 3296
       },
       {
         "rank": 16,
-        "name": "אלחנדרה סלסר",
-        "country": "ESP",
-        "points": 3291
+        "name": "ארנצאסו אוסורו",
+        "country": "ARG",
+        "points": 3273
       },
       {
         "rank": 17,
-        "name": "ארנצאסו אוסורו",
-        "country": "ARG",
-        "points": 3276
+        "name": "אלחנדרה סלסר",
+        "country": "ESP",
+        "points": 3266
       },
       {
         "rank": 18,
         "name": "ביאטריס קלדרה",
         "country": "ESP",
-        "points": 3246
+        "points": 3233
       },
       {
         "rank": 19,
         "name": "כרמן גואנגה",
         "country": "ESP",
-        "points": 3096
+        "points": 3083
       },
       {
         "rank": 20,
         "name": "רקל אאוחניו",
         "country": "ESP",
-        "points": 2966
+        "points": 2918
       }
     ],
     "ilpa": {
