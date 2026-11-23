@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T09:45:00Z",
+  "updatedAt": "2026-11-23T12:32:45Z",
   "live": {
     "title": "מייג'ור מקסיקו באקפולקו – הסיבוב האחרון של המוקדמות",
     "date": "2026-11-24",
@@ -34,10 +34,80 @@
         "time": "02:00",
         "what": "👨 מוקדמות: ואלדס/נוניס נגד סגורה/די פרנצ'סקו (שעה משוערת)",
         "result": ""
+      },
+      {
+        "time": "03:00",
+        "what": "👩 טבלה ראשית: גודאלייה/ולנסואלה נגד פולו/מרטינס פורטון (לא לפני 03:00) · 📺 יוטיוב של Premier Padel",
+        "result": ""
+      },
+      {
+        "time": "03:00",
+        "what": "👨 טבלה ראשית: גישאר/חינס נגד ריברו/קסטרו (לא לפני 03:00) · 📺 יוטיוב של Premier Padel",
+        "result": ""
       }
     ]
   },
   "items": [
+    {
+      "id": "world-padelmagazine-fip-ranking-race-osoro-2026-11-23",
+      "publishedAt": "2026-11-23T12:14:00Z",
+      "category": "world",
+      "title": "🔥 מרוץ גמר העונה: אוסורו רק 35 נקודות מהכרטיס",
+      "summary": "ארנסה אוסורו זכתה עם קלאודיה ינסן בטורניר FIP Platinum באגואסקליינטס וקיבלה 300 נקודות. היא עלתה למקום 17 במרוץ, רק 35 נקודות ממקום 16 – המקום האחרון שעולה לגמר העונה. אצל הגברים מומו גונסלס במקום 16, וקוקי נייטו צמוד במקום 17. בדירוג העולמי ג'ון סאנס עקף את פאקיטו נבארו (5,243 מול 5,241 נקודות). מה הלאה: המנצחים במקסיקו מקבלים 2,000 נקודות – וגמר העונה בברצלונה ב-10–13.12.",
+      "source": {
+        "name": "Padel Magazine (Benjamin Dupouy)",
+        "url": "https://padelmagazine.fr/classement-fip-osoro-revient-a-35-points-des-finals-la-lutte-sintensifie-chez-les-hommes-avant-le-mexico-major/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "world-padelmagazine-premier-padel-2027-paris-bordeaux-brussels-2026-11-23",
+      "publishedAt": "2026-11-23T11:58:00Z",
+      "category": "world",
+      "title": "📅 נקבעו התאריכים: פריז, בורדו ובריסל ב-2027",
+      "summary": "Premier Padel קבעה שלושה תאריכים לעונה הבאה. בריסל P2: ‏18–25.4.2027 בגאר מריטים. בורדו P2: ‏14–20.6.2027, שבועיים מוקדם יותר מהשנה. מייג'ור פריז: ‏5–12.9.2027 ברולאן גארוס. לוח השנה המלא של 2027 עוד לא פורסם.",
+      "source": {
+        "name": "Padel Magazine (Benjamin Dupouy)",
+        "url": "https://padelmagazine.fr/premier-padel-2027-les-dates-du-paris-major-du-bordeaux-p2-et-du-brussels-p2-sont-connues/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "world-padeladdict-mexico-major-conditions-court-2026-11-23",
+      "publishedAt": "2026-11-23T11:32:33Z",
+      "category": "world",
+      "title": "🌴 אקפולקו: מגרש חדש, חום של 32 מעלות – ובלי גלאן",
+      "summary": "הטבלה הראשית של מייג'ור מקסיקו מתחילה היום באקפולקו, במגרשים פתוחים. יש יצרן מגרשים חדש (Green Set), אבל אותו כדור כמו בשנה שעברה. התחזית: 26–32 מעלות, לחות גבוהה ואולי יום או יומיים של גשם. קואייו/טאפיה זכו כאן ב-2024 וב-2025, וזכו השנה ברומא, בפריז ובכווית. ניצחון יביא להם את כל המייג'ורים של 2026 ו-14 תארים בעונה. גלאן וצ'ינגוטו לא משחקים. מה הלאה: קואייו/טאפיה פותחים ביום רביעי, 25.11.",
+      "source": {
+        "name": "Padel Addict (Adriana Díaz Pérez)",
+        "url": "https://www.padeladdict.com/mexico-major-condiciones-clima-pista-bola/",
+        "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "calendar-where-to-watch-mexico-major-2026",
+      "publishedAt": "2026-11-23T11:30:00Z",
+      "category": "calendar",
+      "title": "📺 איפה לראות את מייג'ור מקסיקו הלילה",
+      "summary": "הסיבוב הראשון של הטבלה הראשית משודר ביוטיוב של Premier Padel, לפי Padel Magazine. המשחקים בערב בשעון מקסיקו – כלומר בלילה בישראל. משחקים מסוימים מתחילים לא לפני 03:00 שעון ישראל (19:00 במקסיקו). השעות יכולות לזוז לפי אורך המשחקים הקודמים. בעולם, מרבע הגמר השידור עובר ל-Red Bull TV.",
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/mexico-major-guichard-et-godallier-lancent-leur-tournoi-ou-voir-les-francais-et-a-quelle-heure/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "opinion-padelmagazine-alonso-goni-two-weaknesses-2026-11-23",
+      "publishedAt": "2026-11-23T10:13:00Z",
+      "category": "opinion",
+      "title": "🧠 ב-Padel Magazine: שתי החולשות של אלונסו/גוני",
+      "summary": "לפי Padel Magazine, אדו אלונסו ואימאר גוני יכולים לנצח זוגות חזקים, אבל חסרה להם יציבות. החולשה הראשונה: הבקהנד של גוני – הוא צריך לשמור על הנקודה ולא רק לסמוך על הכוח. החולשה השנייה: הסמאש של אלונסו בכדורים גבוהים. אלונסו עצמו אמר שאם שניהם ישתפרו, הם יהיו \"זוג הרבה יותר חזק\". השנה הם הגיעו לחצי גמר בכווית ולגמר באגואסקליינטס (הפסד 6-4, 6-2 לברגמיני/גאלה).",
+      "source": {
+        "name": "Padel Magazine (Antoine Tricolet)",
+        "url": "https://padelmagazine.fr/alonso-goni-deux-faiblesses-a-corriger-pour-viser-plus-haut/",
+        "lang": "צרפתית"
+      }
+    },
     {
       "id": "opinion-padelmagazine-lebron-augsburger-coello-tapia-bete-noire-2026-11-23",
       "publishedAt": "2026-11-23T08:31:31Z",
@@ -280,43 +350,6 @@
       }
     },
     {
-      "id": "results-padelmagazine-p1000-padel-campus-arena-sf-2026-11-22",
-      "publishedAt": "2026-11-22T11:26:12Z",
-      "category": "results",
-      "gender": "men",
-      "title": "👨 😱 מ-0-5 בטייברייק לגמר! קאמבק בצרפת",
-      "summary": "חצי הגמר בטורניר P1000 Padel Campus Arena בצרפת. מורבן/גורצוניאן (מדורגים 2) ניצחו את סטודג'י/דורבן 6-3, 4-6, 7-6. בטייברייק של המערכה השלישית הם פיגרו 0-5 וניצחו 8-6. המשחק נמשך כמעט שעתיים. בחצי הגמר השני דקנויט/פורישון (מדורגים 1) ניצחו 6-1, 6-2. מה הלאה: גמר בין שני הזוגות המובילים, בשידור חי ב-Padel Mag TV.",
-      "matches": [
-        {
-          "winner": "מורבן/גורצוניאן",
-          "loser": "סטודג'י/דורבן",
-          "score": "6-3, 4-6, 7-6"
-        },
-        {
-          "winner": "דקנויט/פורישון",
-          "loser": "מאקי/ברטראן",
-          "score": "6-1, 6-2"
-        }
-      ],
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/p1000-padel-campus-arena-morvan-et-gortzounian-obtiennent-leur-place-en-finale-au-bout-du-suspense-le-choc-100-club-aura-bien-lieu-face-a-deknuydt-forichon/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "world-padeladdict-mexico-major-draws-2026-11-22",
-      "publishedAt": "2026-11-22T10:26:57Z",
-      "category": "world",
-      "title": "🏆 ההגרלה של מייג'ור מקסיקו: מאבק על מקום 1 אצל הנשים",
-      "summary": "פורסמו ההגרלות של מייג'ור מקסיקו באקפולקו (עד 29.11), הטורניר הגדול האחרון לפני גמר העונה. אצל הגברים: קואייו/טאפיה מדורגים 1, לברון/אוגסבורגר 2. גלאן וצ'ינגוטו לא משחקים. אצל הנשים: טריאי/ברעה יבטיחו את מקום 1 בסוף השנה אם יגיעו לחצי הגמר. רק סאנצ'ס/אוסטרו יכולות לעצור אותן, ורק בגמר. למה זה חשוב: הנקודות כאן יקבעו מי ייכנס לגמר העונה בברצלונה.",
-      "source": {
-        "name": "Padel Addict",
-        "url": "https://www.padeladdict.com/cuadros-mexico-major-2026/",
-        "lang": "ספרדית"
-      }
-    },
-    {
       "id": "opinion-padelmagazine-sanchez-ustero-gap-triay-brea-2026-11-22",
       "publishedAt": "2026-11-22T08:51:08Z",
       "category": "opinion",
@@ -325,30 +358,6 @@
       "source": {
         "name": "Padel Magazine – אנטואן טריקולה",
         "url": "https://padelmagazine.fr/sanchez-ustero-2-600-points-de-retard-sur-triay-brea-mais-seulement-600-sur-les-tournois-communs/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-fip-silver-como-pay-to-train-2026-11-21",
-      "publishedAt": "2026-11-21T12:17:43Z",
-      "category": "opinion",
-      "title": "💸 משלמים כדי להתאמן? הוויכוח על טורנירי FIP Silver",
-      "summary": "אנטואן טריקולה ב-Padel Magazine כותב על בעיה בטורניר FIP Silver בקומו שבאיטליה: השחקנים צריכים לשלם על מגרשי אימון ועל כדורים לאימון. את זה סיפר השחקן ז'ול מארי בסרטון שלו. גם בנאפולי האימונים בתשלום, אבל בקאן בינואר הם היו בחינם. ההרשמה עולה 40 יורו לשחקן, ומי שמפסיד בסיבוב הראשון לא מקבל כסף. לדעת הכותב, צריך להחליט מי משלם על מה – המארגנים או השחקנים – ולתת לשחקנים מידע ברור מראש.",
-      "source": {
-        "name": "Padel Magazine (אנטואן טריקולה)",
-        "url": "https://padelmagazine.fr/fip-silver-quand-les-joueurs-doivent-encore-payer-pour-sentrainer/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-ari-sanchez-before-mexico-major-2026-11-21",
-      "publishedAt": "2026-11-21T11:27:37Z",
-      "category": "opinion",
-      "title": "💬 ארי סאנצ'ס: \"מקסיקו אף פעם לא הלך לי – רוצה לנצח\"",
-      "summary": "ארי סאנצ'ס מודה לפני מייג'ור מקסיקו: זה טורניר שאף פעם לא הצליח לה. התוצאה הכי טובה שלה שם היא חצי גמר, והיא אומרת שהיא \"מאוד רוצה\" לזכות בו. העונה היא ואנדראה אוסטרו זכו בפריז, ברוטרדם ובמילאנו, והן רודפות אחרי טריאי/ברעה על המקום הראשון בעולם. לזוכות במייג'ור יש 2,000 נקודות. סאנצ'ס מקווה גם לשיא קהל בגמר העונה בברצלונה, מול המשפחה והאוהדים שלה.",
-      "source": {
-        "name": "Padel Magazine (בנז'מן דופואי)",
-        "url": "https://padelmagazine.fr/ari-sanchez-avant-le-mexico-major-cest-un-tournoi-qui-ne-ma-jamais-reussi-jaimerais-vraiment-le-gagner/",
         "lang": "צרפתית"
       }
     },
