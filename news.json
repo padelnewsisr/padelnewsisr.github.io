@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T14:33:14Z",
+  "updatedAt": "2026-11-24T16:33:54Z",
   "live": {
     "title": "מייג'ור מקסיקו באקפולקו – יום שני של סיבוב 32",
     "date": "2026-11-25",
@@ -38,6 +38,18 @@
     ]
   },
   "items": [
+    {
+      "id": "opinion-padelmagazine-4padel-france-saturation-2026-11-24",
+      "publishedAt": "2026-11-24T16:28:54Z",
+      "category": "opinion",
+      "title": "🏟️ ב-Padel Magazine: הפאדל בצרפת לא מתפוצץ – רק משתנה",
+      "summary": "שני מנהלים ברשת המועדונים 4PADEL אומרים ל-Padel Magazine: הפאדל בצרפת לא הגיע לרוויה. לדעתם, השוק נמצא בערך באמצע הדרך. גיום דבלמה מעריך שבצרפת יכולים להיות בסוף כ-10,000 מגרשים. היום יש כ-4,520 מגרשים, לפי איגוד הטניס הצרפתי. הבעיה לדבריהם מקומית: הרבה מועדונים נפתחו קרוב אחד לשני. למה זה חשוב: לדעתם השאלה היא כבר לא כמה מגרשים לבנות, אלא איפה ובשביל מי – וגם בישראל רואים הרבה מועדונים חדשים.",
+      "source": {
+        "name": "Padel Magazine (ראיון עם גיום דבלמה ומרק דסניס, 4PADEL)",
+        "url": "https://padelmagazine.fr/le-padel-francais-est-il-deja-en-train-de-saturer-guillaume-debelmas-et-marc-dessenis-4padel-repondent/",
+        "lang": "צרפתית"
+      }
+    },
     {
       "id": "opinion-padeladdict-bea-gonzalez-best-x3-smash-2026-11-24",
       "publishedAt": "2026-11-24T12:28:16Z",
