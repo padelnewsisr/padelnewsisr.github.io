@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T09:32:20Z",
+  "updatedAt": "2026-11-24T12:33:29Z",
   "live": {
     "title": "מייג'ור מקסיקו באקפולקו – יום שני של סיבוב 32",
     "date": "2026-11-25",
@@ -38,6 +38,30 @@
     ]
   },
   "items": [
+    {
+      "id": "opinion-padeladdict-bea-gonzalez-best-x3-smash-2026-11-24",
+      "publishedAt": "2026-11-24T12:28:16Z",
+      "category": "opinion",
+      "title": "💥 באה גונסלס בוחרת: מי הכי טובה בסמאש החוצה?",
+      "summary": "ב-Padel Addict ביקשו מבאה גונסלס לבחור, בכל פעם בין שתי שחקניות, מי עושה הכי טוב סמאש x3 – סמאש שהכדור יוצא בו מהמגרש. ג'וליה דאל פוצו ניצחה כמעט את כולן, אבל הפסידה לכרמן גואנגה. באה צחקה על עצמה ואמרה שהיא תהיה האחרונה. בדו-קרב האחרון היא בחרה באנדראה אוסטרו על פני פאולה חוסמריה, ואמרה שגם פאולה טובה מאוד.",
+      "source": {
+        "name": "Padel Addict – Adriana Díaz Pérez",
+        "url": "https://www.padeladdict.com/bea-gonzalez-mejores-rematadoras-x3/",
+        "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "calendar-where-to-watch-mexico-major-2026",
+      "publishedAt": "2026-11-24T11:29:00Z",
+      "category": "calendar",
+      "title": "📺 מייג'ור מקסיקו בחינם ביוטיוב – עד הגמרים",
+      "summary": "לפי Padel Magazine, כל המשחקים בטבלה הראשית, עד הגמרים ב-29.11, משודרים בשידור חי ובחינם ביוטיוב של Premier Padel. המשחקים מתחילים ב-16:00 שעון מקסיקו – 00:00 בלילה בישראל – וממשיכים לתוך הלילה. לפי El Neverazo, מרבע הגמר (28.11) המשחקים גם ב-Red Bull TV ברוב העולם. מה הלאה: הלילה (25.11) מ-00:00 – יום שני של סיבוב 32, ובלילה שאחריו מ-23:00 – שמינית הגמר.",
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/mexico-major-ou-voir-les-matchs-du-dernier-major-de-la-saison-2026/",
+        "lang": "צרפתית"
+      }
+    },
     {
       "id": "opinion-padelmagazine-lebron-smash-technique-2026-11-24",
       "publishedAt": "2026-11-24T08:56:14Z",
@@ -110,7 +134,7 @@
       "category": "results",
       "gender": "men",
       "title": "👨 🍀 למפרטי הפסיד – וקיבל חיים נוספים באקפולקו",
-      "summary": "מיגל למפרטי ואוקטביו אלוורס הפסידו בסיבוב האחרון של המוקדמות לפטיניוטיס/רופר, 7-6, 7-6. אבל גלאן וצ'ינגוטו לא משחקים, ולכן למפרטי/אלוורס נכנסו לטבלה הראשית כ\"לאקי לוזר\". לפי Padel Spain, זה הטורניר האחרון של למפרטי בסבב Premier Padel. עלו מהמוקדמות גם ארגון/רוגלאן, ואלדס/נוניס וסאפאטה/נרנחו. בטבלה הראשית ניצחו גם קילס/מוריניו (3-6, 6-4, 6-4) וחינס/גישאר (6-3, 6-0). מה הלאה: למפרטי/אלוורס נגד גואנגה/קויאדו.",
+      "summary": "מיגל למפרטי ואוקטביו אלוורס הפסידו בסיבוב האחרון של המוקדמות לפטיניוטיס/רופר, 7-6, 7-6. אבל גלאן וצ'ינגוטו לא משחקים, ולכן למפרטי/אלוורס נכנסו לטבלה הראשית כ\"לאקי לוזר\". לפי Padel Spain, זה הטורניר האחרון של למפרטי בסבב Premier Padel. עלו מהמוקדמות גם ארגון/רוגלאן, ואלדס/נוניס וסאפאטה/נרנחו. בטבלה הראשית ניצחו גם קילס/מוריניו (3-6, 6-4, 6-4) וחינס/גישאר (6-3, 6-0). מה הלאה: הלילה, אחרי 00:00 שעון ישראל, למפרטי (48) ואלוורס הצעיר נגד גואנגה/קויאדו, המועמדים לנצח. 📺 יוטיוב של Premier Padel.",
       "matches": [
         {
           "winner": "פטיניוטיס/רופר",
@@ -211,66 +235,6 @@
       }
     },
     {
-      "id": "world-padelmagazine-fip-ranking-race-osoro-2026-11-23",
-      "publishedAt": "2026-11-23T12:14:00Z",
-      "category": "world",
-      "title": "🔥 מרוץ גמר העונה: אוסורו רק 35 נקודות מהכרטיס",
-      "summary": "ארנסה אוסורו זכתה עם קלאודיה ינסן בטורניר FIP Platinum באגואסקליינטס וקיבלה 300 נקודות. היא עלתה למקום 17 במרוץ, רק 35 נקודות ממקום 16 – המקום האחרון שעולה לגמר העונה. אצל הגברים, לפי Padel Addict: גונסאלו אלפונסו במקום 15 (3,325 נקודות), מומו גונסלס במקום 16 (3,310) וקוקי נייטו במקום 17 (3,284) – רק 41 נקודות בין מקום 15 למקום 17. בדירוג העולמי ג'ון סאנס עקף את פאקיטו נבארו (5,243 מול 5,241 נקודות). מה הלאה: המנצחים במקסיקו מקבלים 2,000 נקודות – וגמר העונה בברצלונה ב-10–13.12.",
-      "source": {
-        "name": "Padel Magazine (Benjamin Dupouy)",
-        "url": "https://padelmagazine.fr/classement-fip-osoro-revient-a-35-points-des-finals-la-lutte-sintensifie-chez-les-hommes-avant-le-mexico-major/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "world-padelmagazine-premier-padel-2027-paris-bordeaux-brussels-2026-11-23",
-      "publishedAt": "2026-11-23T11:58:00Z",
-      "category": "world",
-      "title": "📅 נקבעו התאריכים: פריז, בורדו ובריסל ב-2027",
-      "summary": "Premier Padel קבעה שלושה תאריכים לעונה הבאה. בריסל P2: ‏18–25.4.2027 בגאר מריטים. בורדו P2: ‏14–20.6.2027, שבועיים מוקדם יותר מהשנה. מייג'ור פריז: ‏5–12.9.2027 ברולאן גארוס. לוח השנה המלא של 2027 עוד לא פורסם.",
-      "source": {
-        "name": "Padel Magazine (Benjamin Dupouy)",
-        "url": "https://padelmagazine.fr/premier-padel-2027-les-dates-du-paris-major-du-bordeaux-p2-et-du-brussels-p2-sont-connues/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "world-padeladdict-mexico-major-conditions-court-2026-11-23",
-      "publishedAt": "2026-11-23T11:32:33Z",
-      "category": "world",
-      "title": "🌴 אקפולקו: מגרש חדש, חום של 32 מעלות – ובלי גלאן",
-      "summary": "הטבלה הראשית של מייג'ור מקסיקו מתחילה היום באקפולקו, במגרשים פתוחים. יש יצרן מגרשים חדש (Green Set), אבל אותו כדור כמו בשנה שעברה. התחזית: 26–32 מעלות, לחות גבוהה ואולי יום או יומיים של גשם. קואייו/טאפיה זכו כאן ב-2024 וב-2025, וזכו השנה ברומא, בפריז ובכווית. ניצחון יביא להם את כל המייג'ורים של 2026 ו-14 תארים בעונה. גלאן וצ'ינגוטו לא משחקים. מה הלאה: קואייו/טאפיה פותחים ביום רביעי, 25.11.",
-      "source": {
-        "name": "Padel Addict (Adriana Díaz Pérez)",
-        "url": "https://www.padeladdict.com/mexico-major-condiciones-clima-pista-bola/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "world-padelmagazine-mexico-major-main-draw-tonight-french-2026-11-23",
-      "publishedAt": "2026-11-23T11:30:00Z",
-      "category": "world",
-      "title": "👀 הלילה: הטבלה הראשית במקסיקו נפתחת",
-      "summary": "הלילה מתחיל הסיבוב הראשון של הטבלה הראשית במייג'ור מקסיקו באקפולקו. גודאלייה/ולנסואלה (מדורגות 25) נגד פולו/מרטינס פורטון – לא לפני 03:00 לפי שעון ישראל. גישאר/חינס נגד הזוג המקומי ריברו/קסטרו – לא לפני 03:00. המנצחים יפגשו כנראה את מונטס/בארה (נשים) ואת באוטיסטה/ברגמיני, המדורגים 1 (גברים). מה הלאה: המשחקים בשידור חי ביוטיוב של Premier Padel. השעות יכולות לזוז.",
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/mexico-major-guichard-et-godallier-lancent-leur-tournoi-ou-voir-les-francais-et-a-quelle-heure/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "calendar-where-to-watch-mexico-major-2026",
-      "publishedAt": "2026-11-23T11:00:32Z",
-      "category": "calendar",
-      "title": "📺 מייג'ור מקסיקו: כל השעות ואיפה לראות",
-      "summary": "כל המשחקים במקסיקו בלילה לפי שעון ישראל. לפי El Neverazo: ראשון הטבלה הראשית – 24.11 מ-03:00 ומ-25.11 ב-00:00; שמינית הגמר – 25.11 מ-23:00; רבע הגמר – 28.11 ב-00:00; חצי הגמר – 29.11 ב-00:00; הגמרים – 30.11 מ-01:00 (כל השעות שעון ישראל). עד יום חמישי: יוטיוב של Premier Padel, בספרד ובמדינות שלא נמכרו בהן זכויות שידור. מרבע הגמר: Red Bull TV ברוב העולם, חוץ מרשימת מדינות שלא כוללת בכתבה את ישראל. בעולם גם: Movistar Plus+ (ספרד), ESPN/Disney+ (אמריקה הלטינית), Canal+ (צרפת), beIN Sports (המזרח התיכון וצפון אפריקה). השעות יכולות לזוז לפי אורך המשחקים.",
-      "source": {
-        "name": "El Neverazo",
-        "url": "https://www.elneverazo.com/mexico-major-premier-padel-2026-horarios-y-donde-ver-los-partidos-en-directo/",
-        "lang": "ספרדית"
-      }
-    },
-    {
       "id": "opinion-padelmagazine-alonso-goni-two-weaknesses-2026-11-23",
       "publishedAt": "2026-11-23T10:13:00Z",
       "category": "opinion",
@@ -311,18 +275,6 @@
         "name": "Padel Magazine – אנטואן טריקולה",
         "url": "https://padelmagazine.fr/lucas-bergamini-retrouve-de-lelan-apres-une-saison-longtemps-contrariee/",
         "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-analistaspadel-mexico-major-draws-favorites-2026-11-22",
-      "publishedAt": "2026-11-22T11:31:00Z",
-      "category": "opinion",
-      "title": "🔮 ב-Analistas Padel: כך ייראו רבעי הגמר באקפולקו",
-      "summary": "ז'ורדי מרטינס ב-Analistas Padel כותב שקואייו/טאפיה הם הפייבוריטים הברורים במייג'ור מקסיקו, בלי גלאן/צ'ינגוטו. לפי הדירוג הוא צופה רבע גמר של קואייו/טאפיה נגד טייו/ארסה, ושל לברון/אוגסבורגר נגד קוקי נייטו/ינגואס. לדעתו יהיה שוויון גדול אצל הגברים, אחרי ההפתעות באגואסקליינטס. בנשים: לפי הכתבה, אם טריאי/ברעה יגיעו לחצי הגמר, מקום 1 של 2026 שלהן. למה זה חשוב: זה הטורניר האחרון לפני גמר העונה בברצלונה.",
-      "source": {
-        "name": "Analistas Padel – ז'ורדי מרטינס",
-        "url": "https://www.analistaspadel.com/cuadros-mexico-major-2026-favoritos-cruces/",
-        "lang": "ספרדית"
       }
     },
     {
