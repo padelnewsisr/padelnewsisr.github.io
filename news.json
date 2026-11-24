@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T18:33:49Z",
+  "updatedAt": "2026-11-24T20:33:01Z",
   "live": {
     "title": "מייג'ור מקסיקו באקפולקו – יום שני של סיבוב 32",
     "date": "2026-11-25",
@@ -48,6 +48,18 @@
         "name": "Padel Magazine (ראיון עם גיום דבלמה ומרק דסניס, 4PADEL)",
         "url": "https://padelmagazine.fr/le-padel-francais-est-il-deja-en-train-de-saturer-guillaume-debelmas-et-marc-dessenis-4padel-repondent/",
         "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "world-padeladdict-mexico-major-tonight-20-matches-2026-11-24",
+      "publishedAt": "2026-11-24T13:45:20Z",
+      "category": "world",
+      "title": "👀 הלילה באקפולקו: 20 משחקים בחמישה מגרשים",
+      "summary": "הלילה נמשך סיבוב 32 במייג'ור מקסיקו: 20 משחקים של גברים ונשים. כל המגרשים מתחילים ב-00:00 לפי שעון ישראל (16:00 באקפולקו). במגרש המרכזי פותחות שריפובה/קולומבון נגד לובו/קנובס. גם למפרטי/אלוורס (נכנסו כמפסידים בני מזל) נגד גואנגה/קויאדו, ואראגון/רוגלאן נגד סינטס/סמורה. קואייו/טאפיה ולברון/אוגסבורגר לא משחקים הלילה – הם מתחילים בסיבוב הבא. מה הלאה: עד שמינית הגמר – שידור חי ביוטיוב של Premier Padel; מרבע הגמר – Red Bull TV.",
+      "source": {
+        "name": "Padel Addict",
+        "url": "https://www.padeladdict.com/partidos-horarios-retransmision-treintaidosavos-mexico-major-2026/",
+        "lang": "ספרדית"
       }
     },
     {
@@ -255,6 +267,18 @@
       "source": {
         "name": "Padel Addict – Ángel González (על הסרט ביוטיוב של אוגסבורגר)",
         "url": "https://www.padeladdict.com/leo-augsburger-abre-la-herida-del-mundial-en-su-documental-pressure/",
+        "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "opinion-padeladdict-mexico-major-heat-new-court-2026-11-23",
+      "publishedAt": "2026-11-23T11:32:33Z",
+      "category": "opinion",
+      "title": "🌡️ ב-Padel Addict: חום, לחות ומגרש חדש יכריעו באקפולקו",
+      "summary": "לפי ניתוח של אדריאנה דיאס פרס ב-Padel Addict, התנאים במקסיקו יהיו קשים. משחקים בחוץ, בחום של 26–32 מעלות ולחות של עד 83%. ייתכנו גם יום או יומיים של גשם, שיכולים לשנות את לוח המשחקים. לדעתה החום יעייף את השחקנים, בעיקר במערכה השלישית. חדש השנה: יצרן המגרשים הוחלף, וההשפעה תתברר רק אחרי המשחקים הראשונים. הכדור נשאר אותו כדור כמו ב-2025.",
+      "source": {
+        "name": "Padel Addict – אדריאנה דיאס פרס",
+        "url": "https://www.padeladdict.com/mexico-major-condiciones-clima-pista-bola/",
         "lang": "ספרדית"
       }
     },
