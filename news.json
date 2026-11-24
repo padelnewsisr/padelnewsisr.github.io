@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T12:33:29Z",
+  "updatedAt": "2026-11-24T14:33:14Z",
   "live": {
     "title": "מייג'ור מקסיקו באקפולקו – יום שני של סיבוב 32",
     "date": "2026-11-25",
@@ -48,6 +48,18 @@
         "name": "Padel Addict – Adriana Díaz Pérez",
         "url": "https://www.padeladdict.com/bea-gonzalez-mejores-rematadoras-x3/",
         "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "world-padelmagazine-lucky-loser-explained-2026-11-24",
+      "publishedAt": "2026-11-24T12:26:14Z",
+      "category": "world",
+      "title": "🍀 הפסדת במוקדמות? אולי עוד תשחק – מה זה Lucky Loser",
+      "summary": "אחרי הסיפור של למפרטי באקפולקו, Padel Magazine מסבירים את החוק. כשזוג בטבלה הראשית פורש לפני המשחק הראשון שלו, זוג שהפסיד במוקדמות יכול להיכנס במקומו. בטבלה מסמנים אותו LL, ומי שעלה מהמוקדמות מסומן Q. הזוג צריך להירשם אצל המפקח בערך 30 דקות לפני המשחק הראשון של היום. למה זה חשוב: מפסיד בר מזל לא מקבל את בונוס הנקודות של מי שעבר את המוקדמות.",
+      "source": {
+        "name": "Padel Magazine (אנטואן טריקולה)",
+        "url": "https://padelmagazine.fr/lucky-loser-pourquoi-perdre-en-qualifications-ne-signifie-pas-toujours-rentrer-chez-soi/",
+        "lang": "צרפתית"
       }
     },
     {
