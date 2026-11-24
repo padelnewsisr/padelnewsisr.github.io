@@ -1,61 +1,97 @@
 {
-  "updatedAt": "2026-11-24T07:45:00Z",
+  "updatedAt": "2026-11-24T09:32:20Z",
   "live": {
-    "title": "מייג'ור מקסיקו באקפולקו – סוף המוקדמות ויום ראשון בטבלה הראשית",
-    "date": "2026-11-24",
-    "note": "✅ כל המשחקים של הלילה הסתיימו. הלילה (25.11) מ-00:00 לפי שעון ישראל: יום שני של סיבוב 32. 📺 איפה לראות: עד שמינית הגמר – יוטיוב של Premier Padel; מרבע הגמר – Red Bull TV.",
+    "title": "מייג'ור מקסיקו באקפולקו – יום שני של סיבוב 32",
+    "date": "2026-11-25",
+    "note": "הלילה (25.11) מ-00:00 לפי שעון ישראל, בחמישה מגרשים במקביל. השעה היא של המשחק הראשון בכל מגרש; שאר המשחקים אחריו. 📺 איפה לראות: יוטיוב של Premier Padel (שידור חי).",
     "matches": [
       {
         "time": "00:00",
-        "what": "👨 מוקדמות: אייאטס/אמיליו סאנצ'ס נגד סאפאטה/נרנחו",
-        "result": "סאפאטה/נרנחו ניצחו 6-2, 3-6, 6-3",
-        "live": false
+        "what": "👩 שריפובה/קולומבון נגד לובו/קנובס (מגרש מרכזי) · 📺 יוטיוב של Premier Padel",
+        "result": ""
       },
       {
         "time": "00:00",
-        "what": "👨 מוקדמות: ארגון/רוגלאן נגד מלדונדו/פופו",
-        "result": "ארגון/רוגלאן ניצחו 6-2, 6-3",
-        "live": false
+        "what": "👨 פרינו/דומינגס נגד דיאסטרו/פרננדס לנצ'ה",
+        "result": ""
       },
       {
         "time": "00:00",
-        "what": "👩 מוקדמות: קסאלי/גרסיה טרייה נגד ואל/באורל",
-        "result": "ואל/באורל ניצחו 6-3, 6-3",
-        "live": false
+        "what": "👨 ארויו/ינסן נגד סאפאטה/נרנחו",
+        "result": ""
       },
       {
         "time": "00:00",
-        "what": "👩 מוקדמות: רוז/לוטיקהאוס נגד מרקס/ריביירו",
-        "result": "רוז/לוטיקהאוס ניצחו 6-2, 7-6",
-        "live": false
+        "what": "👨 בהמשך: גואנגה/קויאדו נגד למפרטי/אלוורס (למפרטי – מפסיד בר מזל, המייג'ור האחרון שלו)",
+        "result": ""
       },
       {
-        "time": "02:00",
-        "what": "👨 מוקדמות: פטיניוטיס/רופר נגד אלוורס/למפרטי (שעה משוערת)",
-        "result": "פטיניוטיס/רופר ניצחו 7-6, 7-6",
-        "live": false
+        "time": "00:00",
+        "what": "👩 בהמשך: טלאבן/סאיס נגד ואל/באורל",
+        "result": ""
       },
       {
-        "time": "02:00",
-        "what": "👨 מוקדמות: ואלדס/נוניס נגד סגורה/די פרנצ'סקו (שעה משוערת)",
-        "result": "ואלדס/נוניס ניצחו 6-1, 6-2",
-        "live": false
-      },
-      {
-        "time": "03:00",
-        "what": "👩 טבלה ראשית: גודאלייה/ולנסואלה נגד פולו/מרטינס פורטון (לא לפני 03:00) · 📺 יוטיוב של Premier Padel",
-        "result": "גודאלייה/ולנסואלה ניצחו 6-2, 7-5",
-        "live": false
-      },
-      {
-        "time": "03:00",
-        "what": "👨 טבלה ראשית: גישאר/חינס נגד ריברו/קסטרו (לא לפני 03:00) · 📺 יוטיוב של Premier Padel",
-        "result": "גישאר/חינס ניצחו 6-3, 6-0",
-        "live": false
+        "time": "00:00",
+        "what": "👨 בהמשך: קפרה/סאנצ'ס נגד סולאנו/פריירה",
+        "result": ""
       }
     ]
   },
   "items": [
+    {
+      "id": "opinion-padelmagazine-lebron-smash-technique-2026-11-24",
+      "publishedAt": "2026-11-24T08:56:14Z",
+      "category": "opinion",
+      "title": "💥 ב-Padel Magazine: הסוד של הסמאש של לברון – לא רק כוח",
+      "summary": "ניתוח טכני ב-Padel Magazine (אנטואן טריקולה): הסמאש של לברון יעיל בגלל מיקום הגוף מתחת לכדור, כיוון התנועה והסיבוב (ספין). המאמן אגוסטין גומס סילינגו אומר שלברון נותן לכדור להגיע רחוק מאחוריו ומכה כלפי מעלה. הספין מוריד את הכדור חזרה למגרש, כך שמכה מהירה נשארת בפנים. מחקר על 1,015 סמאשים מ-2019 מצא שסמאשים קרוב לרשת יעילים יותר.",
+      "source": {
+        "name": "Padel Magazine – Antoine Tricolet",
+        "url": "https://padelmagazine.fr/le-smash-de-lebron-pourquoi-la-puissance-ne-suffit-pas-a-expliquer-son-efficacite/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "opinion-padelmagazine-sanchez-ustero-miracle-number-one-2026-11-24",
+      "publishedAt": "2026-11-24T08:30:43Z",
+      "category": "opinion",
+      "title": "🧮 ב-Padel Magazine: סאנצ'ס/אוסטרו צריכות נס כדי להיות מספר 1",
+      "summary": "לפי Padel Magazine, טריאי/ברעה מובילות במרוץ עם 14,200 נקודות. לסאנצ'ס/אוסטרו יש 11,600 – פער של 2,600. נשארו רק 3,500 נקודות: 2,000 למייג'ור מקסיקו ו-1,500 לגמר העונה. לדעת הכתב, טריאי/ברעה צריכות רק להגיע לחצי הגמר באקפולקו כדי להבטיח את המקום הראשון. סאנצ'ס/אוסטרו צריכות לזכות בשני הטורנירים, ושהיריבות ייפלו מוקדם – \"כמעט בלתי אפשרי\", אבל לא סגור.",
+      "source": {
+        "name": "Padel Magazine – Benjamin Dupouy",
+        "url": "https://padelmagazine.fr/numero-1-mondiale-ari-sanchez-et-andrea-ustero-peuvent-encore-renverser-triay-brea-mais-il-faudra-un-miracle/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "results-mexico-major-2026-day1-main-draw-godallier-guichard",
+      "publishedAt": "2026-11-24T07:59:18Z",
+      "category": "results",
+      "gender": "both",
+      "title": "👨👩 🇫🇷 אקפולקו: גודאלייה וגישאר פתחו בניצחון",
+      "summary": "הלילה נפתחה הטבלה הראשית במייג'ור מקסיקו. 👩 גודאלייה/ולנסואלה ניצחו את פולו/מרטינס פורטון 6-2, 7-5. 👨 גישאר/חינס ניצחו את הזוג המקסיקני ריברו/קסטרו (הזמנה מיוחדת) 6-3, 6-0. במוקדמות: באורל/ואל ניצחו את המדורגות 1, קסאלי/גרסיה טרייה, 6-3, 6-3. מה הלאה: גודאלייה/ולנסואלה נגד מונטס/בררה (מדורגות 15), גישאר/חינס נגד באוטיסטה/ברגמיני (מדורגים 11).",
+      "matches": [
+        {
+          "winner": "גודאלייה/ולנסואלה",
+          "loser": "פולו/מרטינס פורטון",
+          "score": "6-2, 7-5"
+        },
+        {
+          "winner": "גישאר/חינס",
+          "loser": "ריברו/קסטרו",
+          "score": "6-3, 6-0"
+        },
+        {
+          "winner": "באורל/ואל",
+          "loser": "קסאלי/גרסיה טרייה",
+          "score": "6-3, 6-3"
+        }
+      ],
+      "source": {
+        "name": "Padel Magazine – Benjamin Dupouy",
+        "url": "https://padelmagazine.fr/mexico-major-bahurel-fait-le-gros-coup-en-qualifications-godallier-et-guichard-reussissent-leur-entree-dans-le-tableau-principal/",
+        "lang": "צרפתית"
+      }
+    },
     {
       "id": "opinion-padelmagazine-seeding-one-place-changes-draw-2026-11-24",
       "publishedAt": "2026-11-24T07:26:00Z",
@@ -259,46 +295,6 @@
       }
     },
     {
-      "id": "results-padelmagazine-p1000-gallery-republique-final-2026-11-23",
-      "publishedAt": "2026-11-23T08:29:43Z",
-      "category": "results",
-      "gender": "men",
-      "title": "👨 🔄 קאמבק בפריז: ארט-אורקה/גרו זכו בתואר שלישי",
-      "summary": "בגמר טורניר P1000 Gallery République בצרפת, אלכסיס ארט-אורקה/בנז'מן גרו (מדורגים 2) הפסידו במערכה הראשונה. הם חזרו וניצחו את אליו סרה/ז'ולן פבאס (מדורגים 3) 5-7, 6-2, 7-5. לפי Padel Magazine, זה התואר השלישי העונה לכל אחד מהם.",
-      "matches": [
-        {
-          "winner": "ארט-אורקה/גרו",
-          "loser": "סרה/פבאס",
-          "score": "5-7, 6-2, 7-5"
-        }
-      ],
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/p1000-gallery-republique-arette-hourquet-et-grue-renversent-la-finale-et-decrochent-chacun-leur-troisieme-titre-de-la-saison/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "results-padelmagazine-fip-bronze-accra-women-final-2026-11-23",
-      "publishedAt": "2026-11-23T08:14:15Z",
-      "category": "results",
-      "gender": "women",
-      "title": "👩 🏆 גאנה: המדורגות 1 זכו, וסירקס הפסידה גמר שמיני",
-      "summary": "בגמר הנשים של FIP Bronze באקרה (גאנה) ניצחו קאייטנה סאנצ'ס ורה/כריסטינה נטאנו (מדורגות 1) את קמי סירקס/טס דה ווכט (מדורגות 2) 6-3, 6-4. סירקס/דה ווכט הגיעו לגמר אחרי ניצחונות ענק 6-0, 6-0. לפי Padel Magazine, זה הגמר השמיני שהצרפתייה סירקס מפסידה. היא עדיין מחכה לתואר הראשון שלה.",
-      "matches": [
-        {
-          "winner": "סאנצ'ס ורה/נטאנו",
-          "loser": "סירקס/דה ווכט",
-          "score": "6-3, 6-4"
-        }
-      ],
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/fip-bronze-accra-huitieme-finale-perdue-pour-camille-sireix-toujours-en-quete-de-son-premier-titre/",
-        "lang": "צרפתית"
-      }
-    },
-    {
       "id": "opinion-padelmagazine-bergamini-momentum-2026-11-23",
       "publishedAt": "2026-11-23T07:54:00Z",
       "category": "opinion",
@@ -330,18 +326,6 @@
       }
     },
     {
-      "id": "opinion-padelmagazine-sanchez-ustero-gap-triay-brea-2026-11-22",
-      "publishedAt": "2026-11-22T08:51:08Z",
-      "category": "opinion",
-      "title": "🎯 ניתוח ב-Padel Magazine: הפער האמיתי – רק 600 נקודות",
-      "summary": "אנטואן טריקולה ב-Padel Magazine בדק את המרוץ למקום הראשון בנשים. בדירוג הרשמי טריאי/ברעה מובילות על סאנצ'ס/אוסטרו ב-2,600 נקודות. אבל בעשרים הטורנירים ששתי הזוגות שיחקו, הפער רק 600 נקודות. לדעתו רוב הפער בא ממלאגה ופרטוריה, שסאנצ'ס/אוסטרו לא שיחקו בגלל פציעה של אוסטרו. מה הלאה: מייג'ור מקסיקו באקפולקו, ואחריו גמר העונה בברצלונה.",
-      "source": {
-        "name": "Padel Magazine – אנטואן טריקולה",
-        "url": "https://padelmagazine.fr/sanchez-ustero-2-600-points-de-retard-sur-triay-brea-mais-seulement-600-sur-les-tournois-communs/",
-        "lang": "צרפתית"
-      }
-    },
-    {
       "id": "ilpa-ranking-nov-2026-new-leaders",
       "publishedAt": "2026-11-12T14:20:00Z",
       "category": "israel",
@@ -360,7 +344,7 @@
   "upcoming": [
     {
       "when": "25.11 · 00:00",
-      "what": "מייג'ור מקסיקו: יום שני של סיבוב 32 · 📺 יוטיוב של Premier Padel"
+      "what": "מייג'ור מקסיקו: יום שני של סיבוב 32 (שריפובה/קולומבון, למפרטי/אלוורס, ואל/באורל ועוד) · 📺 יוטיוב של Premier Padel"
     },
     {
       "when": "25.11 · 23:00",
