@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-25T07:33:40Z",
+  "updatedAt": "2026-11-25T09:32:43Z",
   "live": {
-    "title": "מייג'ור מקסיקו באקפולקו – יום שני של סיבוב 32 (הסתיים)",
+    "title": "מייג'ור מקסיקו באקפולקו – סיבוב 64, יום שני (הסתיים)",
     "date": "2026-11-25",
-    "note": "כל המשחקים של הלילה (25.11) הסתיימו. הלילה ב-23:00 לפי שעון ישראל: שמינית הגמר, גברים ונשים. 📺 איפה לראות: יוטיוב של Premier Padel (שידור חי).",
+    "note": "כל המשחקים של הלילה (25.11) הסתיימו. הלילה ב-23:00 לפי שעון ישראל: סיבוב 32, גברים ונשים. 4 המדורגים הבכירים יעלו רק בשמינית הגמר. 📺 איפה לראות: יוטיוב של Premier Padel (שידור חי).",
     "matches": [
       {
         "time": "00:00",
@@ -44,6 +44,100 @@
     ]
   },
   "items": [
+    {
+      "id": "opinion-padelmagazine-lamperti-farewell-2026-11-25",
+      "publishedAt": "2026-11-25T09:19:15Z",
+      "category": "opinion",
+      "title": "👋 ב-Padel Magazine: למפרטי – אגדה שגרמה לדור שלם לאהוב פאדל",
+      "summary": "מיגל למפרטי מארגנטינה, בן 48, סיים הלילה קריירה של יותר מ-25 שנה. בטור של מאסאו זרהאט ב-Padel Magazine הוא מתואר כאחד השחקנים הכי מזוהים עם הפאדל. הוא זכה פעמיים באליפות העולם עם ארגנטינה (2014, 2016) ועזר לשחקנים צעירים כמו קואייו, ינגואס וג'ון סאנס. לדעת הכותב, השואו שלו על המגרש גרם להרבה אנשים להתחיל לשחק. מה הלאה: למפרטי מתכנן כמה טורנירי FIP ולאמן צעירים.",
+      "source": {
+        "name": "Padel Magazine – Maceo Zerhat",
+        "url": "https://padelmagazine.fr/miguel-lamperti-les-adieux-dune-legende-qui-a-fait-aimer-le-padel-a-toute-une-generation/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "opinion-padelmagazine-six-contenders-finals-2026-11-25",
+      "publishedAt": "2026-11-25T08:50:29Z",
+      "category": "opinion",
+      "title": "🧮 ב-Padel Magazine: שישה שחקנים, שני כרטיסים לברצלונה",
+      "summary": "לפי מאסאו זרהאט ב-Padel Magazine, רק 90 נקודות מפרידות בין מקום 15 למקום 20 ב-Race. אלפונסו (15) ומומו גונסלס (16) מחזיקים עכשיו בשני המקומות האחרונים לגמר העונה. לדעתו לקוקי נייטו (17) יש הגרלה נוחה יותר, ורבע גמר יכול להכניס אותו. ליבאק (20) צריך כמעט נס: רבע גמר וגם שכל ארבעת היריבים יפסידו מוקדם.",
+      "source": {
+        "name": "Padel Magazine – Maceo Zerhat",
+        "url": "https://padelmagazine.fr/mexico-major-que-doivent-faire-les-six-pretendants-aux-masters-finals-pour-decrocher-leur-billet/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "results-mexico-major-2026-r64-day2-women",
+      "publishedAt": "2026-11-25T07:59:57Z",
+      "category": "results",
+      "gender": "women",
+      "title": "👩 🇫🇷 קולומבון ובהורל הודחו באקפולקו",
+      "summary": "שתי הצרפתיות הפסידו הלילה במייג'ור מקסיקו. לובו/קנובס ניצחו את שריפובה/קולומבון 6-3, 7-6, במשחק של כמעט שעתיים. טלאבן/סאיס ניצחו את ואל/בהורל 6-3, 6-4 בשעה ו-16 דקות. לוסיה סאינס ומנקיו ניצחו 7-6, 7-6 אחרי יותר משעתיים. קרסקוסה/פרננדס הפסידו במערכת הראשונה, ואז לקחו 12 מתוך 13 המשחקונים האחרונים. מה הלאה: הלילה ב-23:00 סיבוב 32.",
+      "matches": [
+        {
+          "winner": "לובו/קנובס",
+          "loser": "שריפובה/קולומבון",
+          "score": "6-3, 7-6"
+        },
+        {
+          "winner": "טלאבן/סאיס",
+          "loser": "ואל/בהורל",
+          "score": "6-3, 6-4"
+        },
+        {
+          "winner": "סאינס/מנקיו",
+          "loser": "אגילר/אסקסנה",
+          "score": "7-6, 7-6"
+        },
+        {
+          "winner": "קרסקוסה/פרננדס",
+          "loser": "רמה/רודריגס",
+          "score": "3-6, 6-1, 6-0"
+        }
+      ],
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/mexico-major-collombon-et-bahurel-eliminees-miguel-lamperti-fait-ses-adieux/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "results-mexico-major-2026-r64-day2-men",
+      "publishedAt": "2026-11-25T08:30:52Z",
+      "category": "results",
+      "gender": "men",
+      "title": "👨 אקפולקו: 3 שוברי שוויון ו-3 שעות – סאפאטה/נרנחו בפנים",
+      "summary": "הלילה במייג'ור מקסיקו היה ארוך מאוד. סאפאטה/נרנחו (מהמוקדמות) ניצחו את ארויו/ינסן 7-6, 6-7, 7-6. כל שלוש המערכות נגמרו בשובר שוויון, והמשחק נמשך 3 שעות ו-4 דקות. ולנסואלה/חיל הפסידו במערכת הראשונה וחזרו לנצח 5-7, 6-2, 7-6. מיגל למפרטי, בן 48, הפסיד לגואנגה/קויאדו 7-6, 6-4 – זה היה המשחק האחרון שלו ב-Premier Padel. מה הלאה: הלילה ב-23:00 משחקי סיבוב 32. המדורגים הבכירים יעלו למגרש רק בשמינית הגמר.",
+      "matches": [
+        {
+          "winner": "סאפאטה/נרנחו",
+          "loser": "ארויו/ינסן",
+          "score": "7-6, 6-7, 7-6"
+        },
+        {
+          "winner": "ולנסואלה/חיל",
+          "loser": "בראהונה/פיוטו",
+          "score": "5-7, 6-2, 7-6"
+        },
+        {
+          "winner": "גואנגה/קויאדו",
+          "loser": "למפרטי/אלוורס",
+          "score": "7-6, 6-4"
+        },
+        {
+          "winner": "קפרה/סאנצ'ס",
+          "loser": "סולאנו/פריירה",
+          "score": "6-3, 5-7, 6-4"
+        }
+      ],
+      "source": {
+        "name": "Padel Addict",
+        "url": "https://www.padeladdict.com/resultados-treintaidosavos-mexico-major-2026/",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "opinion-padeladdict-race-finals-41-points-2026-11-23",
       "publishedAt": "2026-11-23T13:30:36Z",
@@ -141,36 +235,6 @@
       }
     },
     {
-      "id": "results-mexico-major-2026-day1-main-draw-godallier-guichard",
-      "publishedAt": "2026-11-24T07:59:18Z",
-      "category": "results",
-      "gender": "both",
-      "title": "👨👩 🇫🇷 אקפולקו: גודאלייה וגישאר פתחו בניצחון",
-      "summary": "הלילה נפתחה הטבלה הראשית במייג'ור מקסיקו. 👩 גודאלייה/ולנסואלה ניצחו את פולו/מרטינס פורטון 6-2, 7-5. 👨 גישאר/חינס ניצחו את הזוג המקסיקני ריברו/קסטרו (הזמנה מיוחדת) 6-3, 6-0. במוקדמות: באורל/ואל ניצחו את המדורגות 1, קסאלי/גרסיה טרייה, 6-3, 6-3. מה הלאה: גודאלייה/ולנסואלה נגד מונטס/בררה (מדורגות 15), גישאר/חינס נגד באוטיסטה/ברגמיני (מדורגים 11).",
-      "matches": [
-        {
-          "winner": "גודאלייה/ולנסואלה",
-          "loser": "פולו/מרטינס פורטון",
-          "score": "6-2, 7-5"
-        },
-        {
-          "winner": "גישאר/חינס",
-          "loser": "ריברו/קסטרו",
-          "score": "6-3, 6-0"
-        },
-        {
-          "winner": "באורל/ואל",
-          "loser": "קסאלי/גרסיה טרייה",
-          "score": "6-3, 6-3"
-        }
-      ],
-      "source": {
-        "name": "Padel Magazine – Benjamin Dupouy",
-        "url": "https://padelmagazine.fr/mexico-major-bahurel-fait-le-gros-coup-en-qualifications-godallier-et-guichard-reussissent-leur-entree-dans-le-tableau-principal/",
-        "lang": "צרפתית"
-      }
-    },
-    {
       "id": "opinion-padelmagazine-seeding-one-place-changes-draw-2026-11-24",
       "publishedAt": "2026-11-24T07:26:00Z",
       "category": "opinion",
@@ -219,37 +283,6 @@
       }
     },
     {
-      "id": "opinion-padelmagazine-lebron-augsburger-coello-tapia-bete-noire-2026-11-23",
-      "publishedAt": "2026-11-23T08:31:31Z",
-      "category": "opinion",
-      "title": "🧠 ניתוח ב-Padel Magazine: למה לברון/אוגסבורגר לא מצליחים מול קואייו/טאפיה?",
-      "summary": "הכתב אנטואן טריקולה ב-Padel Magazine בדק את העונה של לברון/אוגסבורגר. מול גלאן/צ'ינגוטו הם ניצחו 3 מתוך 7 משחקים. מול קואייו/טאפיה הם ניצחו רק פעם אחת – בגמר בריסל. לדעתו, קואייו/טאפיה יודעים לעצור את הקצב המהיר שלהם ולהאריך את הנקודות. הוא כותב שאוגסבורגר צריך לבחור טוב יותר מתי לתקוף, לא לחבוט חזק יותר. מה הלאה: מפגש אפשרי במקסיקו השבוע.",
-      "source": {
-        "name": "Padel Magazine – אנטואן טריקולה",
-        "url": "https://padelmagazine.fr/lebron-augsburger-pourquoi-coello-tapia-restent-leur-bete-noire/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-bergamini-momentum-2026-11-23",
-      "publishedAt": "2026-11-23T07:54:00Z",
-      "category": "opinion",
-      "title": "⭐ ברגמיני חוזר לנצח: 3 תארי FIP השנה – עם 3 שותפים",
-      "summary": "לפי Padel Magazine, לוקאס ברגמיני מוצא שוב את הדרך אחרי קיץ קשה. עם דוד גאלה הוא זכה באגואסקליינטס: בחצי הגמר חזרו מ-1-6 וניצחו 1-6, 7-6, 6-4, ובגמר ניצחו 6-4, 6-2. זה התואר השלישי שלו העונה, כל פעם עם שותף אחר. לדעת הכותב, עדיין חסר לו חצי גמר בפרימייר פאדל – השיא שלו השנה הוא 6 רבעי גמר. מה הלאה: באקפולקו הוא חוזר לשחק עם ז'איירו באוטיסטה.",
-      "profile": {
-        "icon": "⭐",
-        "flag": "🇧🇷",
-        "name": "לוקאס ברגמיני",
-        "line": "3 תארי FIP ב-2026, כל אחד עם שותף אחר",
-        "stat": "6 רבעי גמר בפרימייר פאדל"
-      },
-      "source": {
-        "name": "Padel Magazine – אנטואן טריקולה",
-        "url": "https://padelmagazine.fr/lucas-bergamini-retrouve-de-lelan-apres-une-saison-longtemps-contrariee/",
-        "lang": "צרפתית"
-      }
-    },
-    {
       "id": "ilpa-ranking-nov-2026-new-leaders",
       "publishedAt": "2026-11-12T14:20:00Z",
       "category": "israel",
@@ -268,7 +301,7 @@
   "upcoming": [
     {
       "when": "25.11 · 23:00",
-      "what": "מייג'ור מקסיקו: שמינית הגמר, גברים ונשים · 📺 יוטיוב של Premier Padel"
+      "what": "מייג'ור מקסיקו: סיבוב 32, גברים ונשים · 📺 יוטיוב של Premier Padel"
     },
     {
       "when": "28.11 · 00:00",
