@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T18:33:50Z",
+  "updatedAt": "2026-11-25T20:33:28Z",
   "live": {
     "title": "מייג'ור מקסיקו באקפולקו – סיבוב 32 (הלילה)",
     "date": "2026-11-25",
@@ -400,7 +400,14 @@
       "what": "Red Bull Padel Cross במדריד – לברון, גלאן, נבארו, סטופאצ'וק, ינגואס ואוגסבורגר, אחד על אחד · 📺 Red Bull TV"
     }
   ],
-  "watch": [],
+  "watch": [
+    {
+      "label": "אקפולקו – סיבוב 32 (גברים ונשים)",
+      "url": "https://www.youtube.com/@PremierPadelOfficial/streams",
+      "live": false,
+      "note": "יוטיוב של Premier Padel · בחינם · 23:00"
+    }
+  ],
   "israeliPlayers": [
     {
       "he": "אהרון כהן",
