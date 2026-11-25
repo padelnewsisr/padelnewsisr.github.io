@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T14:33:20Z",
+  "updatedAt": "2026-11-25T16:33:54Z",
   "live": {
     "title": "מייג'ור מקסיקו באקפולקו – סיבוב 32 (הלילה)",
     "date": "2026-11-25",
@@ -49,38 +49,14 @@
   },
   "items": [
     {
-      "id": "opinion-padelspain-fep-president-piris-interview-2026-11-25",
-      "publishedAt": "2026-11-25T07:13:40Z",
-      "category": "opinion",
-      "title": "🎙️ נשיא התאחדות ספרד ב-Padel Spain: \"עובדים כקבוצה\"",
-      "summary": "חאבייר רודריגס פיריס, נשיא התאחדות הפאדל של ספרד, סיכם ב-Padel Spain את השנה הראשונה שלו בתפקיד. לדבריו זו שנה טובה, בעיקר בפאדל צעירים ובכספים של ההתאחדות. הוא אומר שעוד צריך לשפר את התיאום בין ההתאחדויות האזוריות ואת ההשפעה של ספרד ב-FIP. לפי הראיון, ההתאחדות עובדת על חוזה חדש למאמן הנבחרת חואנחו גוטיירס אחרי המונדיאל המוצלח, ואליפות ספרד מתוכננת ל-2027.",
-      "source": {
-        "name": "Padel Spain",
-        "url": "https://www.padelspain.net/entrevistas/836201/javier-rguez-piris-fep-hemos-conseguido-que-la-fep-trabaje-como-un-equipo-que-todo-funcione-como-debe-hacerlo/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "world-padelmagazine-paris-padel-maroc-circuit-2026-11-25",
-      "publishedAt": "2026-11-25T09:23:34Z",
+      "id": "world-padelmagazine-guichard-godallier-mexico-r32-2026-11-25",
+      "publishedAt": "2026-11-25T14:20:09Z",
       "category": "world",
-      "title": "🇲🇦 סבב חדש: 8 טורנירים בין פריז למרוקו",
-      "summary": "עמותת Paris Padel Maroc משיקה סבב של 8 טורנירים, מדצמבר 2026 עד יולי 2027. ארבעה טורנירים ייערכו ליד פריז, וארבעה במרוקו: מרקש, רבאט וקזבלנקה. הטורניר הראשון ב-12.12 נותן נקודות לדירוג הצרפתי. בכל טורניר יש גם תחרות לנשים בלבד. לפי ההתאחדות המרוקאית, מספר מגרשי הפאדל במרוקו עלה מ-96 ל-200 בשנתיים.",
+      "title": "🇫🇷 גישאר וגודלייה: התקווה הצרפתית האחרונה של 2026",
+      "summary": "שני צרפתים עדיין במייג'ור מקסיקו, הטורניר הגדול האחרון של העונה. דילן גישאר וקלמן חנס ניצחו בסיבוב הראשון, והלילה הם פוגשים את באוטיסטה/ברגמיני, המדורגים 11. לאה גודלייה ודאיירה ולנסואלה ניצחו את פולו/מרטינס, והלילה הן פוגשות את מונטס/באררה, המדורגות 15. מה הלאה: המשחקים מתחילים מאוחר בלילה לפי שעון ישראל, ביוטיוב של Premier Padel.",
       "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/paris-padel-maroc-lance-un-circuit-de-huit-etapes-entre-la-france-et-le-maroc/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "world-padelmagazine-womens-padel-book-50-stories-2026-11-25",
-      "publishedAt": "2026-11-25T07:50:00Z",
-      "category": "world",
-      "title": "📖 ספר חדש: 50 נשים מ-14 מדינות מספרות על פאדל",
-      "summary": "יצא ספר גדול על פאדל נשים: 310 עמודים, 50 סיפורים מ-14 מדינות. כתבה אותו קריסטין קירש, עיתונאית לשעבר ושחקנית תחרותית. משתתפות בו בין היתר אליקס קולומבון, קרולינה נבארו ולוסיה סאינס, והאחרית דבר של פרננדו בלסטגין. הספר מדבר על פציעות, חזרה למגרש, ביטחון עצמי, הריון ומשחק אחרי גיל 50. הוא יצא בצרפתית, ספרדית, פורטוגזית ואנגלית.",
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/le-padel-feminin-a-desormais-son-grand-livre-50-temoignages-venus-de-14-pays/",
+        "name": "Padel Magazine (מאסאו זרהט)",
+        "url": "https://padelmagazine.fr/mexico-major-guichard-et-godallier-les-deux-derniers-espoirs-francais-de-lannee/",
         "lang": "צרפתית"
       }
     },
@@ -97,27 +73,27 @@
       }
     },
     {
-      "id": "world-padelmagazine-guichard-godallier-mexico-r32-2026-11-25",
-      "publishedAt": "2026-11-25T14:20:09Z",
-      "category": "world",
-      "title": "🇫🇷 גישאר וגודלייה: התקווה הצרפתית האחרונה של 2026",
-      "summary": "שני צרפתים עדיין במייג'ור מקסיקו, הטורניר הגדול האחרון של העונה. דילן גישאר וקלמן חנס ניצחו בסיבוב הראשון, והלילה הם פוגשים את באוטיסטה/ברגמיני, המדורגים 11. לאה גודלייה ודאיירה ולנסואלה ניצחו את פולו/מרטינס, והלילה הן פוגשות את מונטס/באררה, המדורגות 15. מה הלאה: המשחקים מתחילים מאוחר בלילה לפי שעון ישראל, ביוטיוב של Premier Padel.",
+      "id": "opinion-padelspain-arenas-rafa-nadal-academy-kuwait-2026-11-25",
+      "publishedAt": "2026-11-25T11:30:00Z",
+      "category": "opinion",
+      "title": "🎾 באקדמיה של נדאל גאים: השחקנים בחרו בכווית",
+      "summary": "אנטוניו ארנס, מנהל התקשורת של אקדמיית רפא נדאל, התראיין ל-Padel Spain. לדבריו, זה \"אומר הרבה\" לאקדמיה שהשחקנים נתנו לטורניר בכווית את הציון הכי גבוה. האקדמיה מארחת טורנירים מקצועיים גדולים ומגדלת שחקנים צעירים. בראיון הוא מדבר גם על התוכניות הבאות של האקדמיה.",
       "source": {
-        "name": "Padel Magazine (מאסאו זרהט)",
-        "url": "https://padelmagazine.fr/mexico-major-guichard-et-godallier-les-deux-derniers-espoirs-francais-de-lannee/",
-        "lang": "צרפתית"
+        "name": "Padel Spain",
+        "url": "https://www.padelspain.net/entrevistas/836206/antonio-arenas-rafa-nadal-academy-que-la-cita-de-kuwait-sea-la-mejor-valorada-por-los-jugadores-significa-mucho-para-nuestra-academia/",
+        "lang": "ספרדית"
       }
     },
     {
-      "id": "opinion-padelmagazine-deaf-padel-coordination-2026-11-25",
-      "publishedAt": "2026-11-25T09:53:24Z",
-      "category": "opinion",
-      "title": "🤟 ב-Padel Magazine: מה שחקנים חירשים מלמדים על משחק בזוג",
-      "summary": "כתבה של אנטואן טריקולה ב-Padel Magazine: שחקני פאדל חירשים מתאמים עם השותף בלי מילים – בתנועות ידיים, בקשר עין ובשפת גוף. הכתבה מגיעה אחרי סיום הסבב האירופי של פאדל חירשים 2026 בסביליה (20–21.11). בתחרויות האלה משחקים בלי מכשירי שמיעה. השחקן דניס אלווארס מספר שהוא ושותפו מחליטים מראש מי לוקח איזה כדור. לדעת הכותב, גם שחקנים שומעים יכולים ללמוד מזה: לסכם תפקידים לפני המשחק ולתת הערות ברורות בין הנקודות.",
+      "id": "calendar-where-to-watch-mexico-major-2026",
+      "publishedAt": "2026-11-25T10:26:00Z",
+      "category": "calendar",
+      "title": "📺 הלילה באקפולקו: סיבוב 32 בחינם ביוטיוב",
+      "summary": "לפי Padel Addict, הלילה (25.11) מתחיל סיבוב 32 של מייג'ור מקסיקו בשישה מגרשים. המשחק הראשון בכל מגרש ב-23:00 לפי שעון ישראל, והשאר אחריו. בספרד: שידור חי בחינם ביוטיוב של Premier Padel, עד שמינית הגמר. בארגנטינה ובדרום אמריקה: ESPN ו-Disney+. המקור לא אומר מה זמין בישראל.",
       "source": {
-        "name": "Padel Magazine – Antoine Tricolet",
-        "url": "https://padelmagazine.fr/se-coordonner-sans-annonces-vocales-ce-que-le-padel-sourd-peut-nous-apprendre-du-jeu-a-deux/",
-        "lang": "צרפתית"
+        "name": "Padel Addict",
+        "url": "https://www.padeladdict.com/horarios-partidos-donde-ver-dieciseisavos-mexico-major-2026/",
+        "lang": "ספרדית"
       }
     },
     {
@@ -133,39 +109,27 @@
       }
     },
     {
-      "id": "world-padeladdict-finals-barcelona-qualified-2026-11-25",
-      "publishedAt": "2026-11-25T08:00:49Z",
-      "category": "world",
-      "title": "🎟️ 8 גברים ו-12 נשים כבר בגמר העונה בברצלונה",
-      "summary": "לפי Padel Addict, לפני סיבוב 32 באקפולקו כבר הבטיחו מקום בגמר העונה 8 גברים: קואייו, טאפיה, גלאן, צ'ינגוטו, אוגסבורגר, לברון, סטופאצ'וק וינגואס. אצל הנשים כבר בפנים 12 שחקניות, ונשארו רק 4 מקומות. אצל הגברים נשארו 8 מקומות, והמאבק צמוד מאוד: כ-100 נקודות בלבד בין מקום 15 למקום 21. מה הלאה: מייג'ור מקסיקו הוא הטורניר האחרון לפני גמר העונה (10–13.12).",
-      "source": {
-        "name": "Padel Addict – Adriana Díaz Pérez",
-        "url": "https://www.padeladdict.com/clasificados-finals-barcelona-2026-lucha/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "opinion-analistaspadel-tapia-coello-four-majors-2026-11-24",
-      "publishedAt": "2026-11-24T13:31:39Z",
+      "id": "opinion-padelmagazine-deaf-padel-coordination-2026-11-25",
+      "publishedAt": "2026-11-25T09:53:24Z",
       "category": "opinion",
-      "title": "🏆 ב-AnalistasPadel: טאפיה/קואייו מול ההיסטוריה – 4 מייג'ורים בעונה",
-      "summary": "לדעת איבן לופס ב-AnalistasPadel, אקפולקו יכול להיות הרבה יותר מעוד תואר לטאפיה וקואייו. הם כבר זכו העונה ברומא, בפריז ובכווית. אם ינצחו גם במקסיקו – הם יהיו הזוג הראשון בעידן Premier Padel שזוכה בכל 4 המייג'ורים בעונה אחת. הכותב מזהיר: יש הרבה זוגות חזקים והעייפות מצטברת. טאפיה אמר שהוא ב-100% אחרי שהם לא שיחקו בדובאי.",
+      "title": "🤟 ב-Padel Magazine: מה שחקנים חירשים מלמדים על משחק בזוג",
+      "summary": "כתבה של אנטואן טריקולה ב-Padel Magazine: שחקני פאדל חירשים מתאמים עם השותף בלי מילים – בתנועות ידיים, בקשר עין ובשפת גוף. הכתבה מגיעה אחרי סיום הסבב האירופי של פאדל חירשים 2026 בסביליה (20–21.11). בתחרויות האלה משחקים בלי מכשירי שמיעה. השחקן דניס אלווארס מספר שהוא ושותפו מחליטים מראש מי לוקח איזה כדור. לדעת הכותב, גם שחקנים שומעים יכולים ללמוד מזה: לסכם תפקידים לפני המשחק ולתת הערות ברורות בין הנקודות.",
       "source": {
-        "name": "AnalistasPadel – Iván López",
-        "url": "https://www.analistaspadel.com/tapia-y-coello-frente-a-la-historia/",
-        "lang": "ספרדית"
+        "name": "Padel Magazine – Antoine Tricolet",
+        "url": "https://padelmagazine.fr/se-coordonner-sans-annonces-vocales-ce-que-le-padel-sourd-peut-nous-apprendre-du-jeu-a-deux/",
+        "lang": "צרפתית"
       }
     },
     {
-      "id": "world-elneverazo-mexico-r32-tonight-coello-tapia-2026-11-25",
-      "publishedAt": "2026-11-25T09:13:01Z",
+      "id": "world-padelmagazine-paris-padel-maroc-circuit-2026-11-25",
+      "publishedAt": "2026-11-25T09:23:34Z",
       "category": "world",
-      "title": "👀 הלילה באקפולקו: קואייו/טאפיה, לברון/אוגסבורגר והכוכבים עולים",
-      "summary": "הלילה סיבוב 32 במייג'ור מקסיקו, ושחקני הצמרת מתחילים לשחק. במגרש המרכזי: לברון/אוגסבורגר נגד גאלה/רוביני, סטופאצ'וק/ג'ון סאנס נגד אגירה/ליחו, ובסוף הערב קואייו/טאפיה נגד מוריניו/קילס. גם המאבק על גמר העונה ממשיך: אלפונסו/ליבאק, ניטו/ינגואס ומומו גונסלס/קמפניולו משחקים הלילה. מה הלאה: המשחקים הראשונים ב-23:00 לפי שעון ישראל, בשידור חי ביוטיוב של Premier Padel.",
+      "title": "🇲🇦 סבב חדש: 8 טורנירים בין פריז למרוקו",
+      "summary": "עמותת Paris Padel Maroc משיקה סבב של 8 טורנירים, מדצמבר 2026 עד יולי 2027. ארבעה טורנירים ייערכו ליד פריז, וארבעה במרוקו: מרקש, רבאט וקזבלנקה. הטורניר הראשון ב-12.12 נותן נקודות לדירוג הצרפתי. בכל טורניר יש גם תחרות לנשים בלבד. לפי ההתאחדות המרוקאית, מספר מגרשי הפאדל במרוקו עלה מ-96 ל-200 בשנתיים.",
       "source": {
-        "name": "El Neverazo",
-        "url": "https://www.elneverazo.com/mexico-major-premier-padel-2026-horarios-y-retransmision-de-los-dieciseisavos-de-final/",
-        "lang": "ספרדית"
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/paris-padel-maroc-lance-un-circuit-de-huit-etapes-entre-la-france-et-le-maroc/",
+        "lang": "צרפתית"
       }
     },
     {
@@ -181,6 +145,18 @@
       }
     },
     {
+      "id": "world-elneverazo-mexico-r32-tonight-coello-tapia-2026-11-25",
+      "publishedAt": "2026-11-25T09:13:01Z",
+      "category": "world",
+      "title": "👀 הלילה באקפולקו: קואייו/טאפיה, לברון/אוגסבורגר והכוכבים עולים",
+      "summary": "הלילה סיבוב 32 במייג'ור מקסיקו, ושחקני הצמרת מתחילים לשחק. במגרש המרכזי: לברון/אוגסבורגר נגד גאלה/רוביני, סטופאצ'וק/ג'ון סאנס נגד אגירה/ליחו, ובסוף הערב קואייו/טאפיה נגד מוריניו/קילס. גם המאבק על גמר העונה ממשיך: אלפונסו/ליבאק, ניטו/ינגואס ומומו גונסלס/קמפניולו משחקים הלילה. מה הלאה: המשחקים הראשונים ב-23:00 לפי שעון ישראל, בשידור חי ביוטיוב של Premier Padel.",
+      "source": {
+        "name": "El Neverazo",
+        "url": "https://www.elneverazo.com/mexico-major-premier-padel-2026-horarios-y-retransmision-de-los-dieciseisavos-de-final/",
+        "lang": "ספרדית"
+      }
+    },
+    {
       "id": "opinion-padelmagazine-six-contenders-finals-2026-11-25",
       "publishedAt": "2026-11-25T08:50:29Z",
       "category": "opinion",
@@ -189,41 +165,6 @@
       "source": {
         "name": "Padel Magazine – Maceo Zerhat",
         "url": "https://padelmagazine.fr/mexico-major-que-doivent-faire-les-six-pretendants-aux-masters-finals-pour-decrocher-leur-billet/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "results-mexico-major-2026-r64-day2-women",
-      "publishedAt": "2026-11-25T07:59:57Z",
-      "category": "results",
-      "gender": "women",
-      "title": "👩 🇫🇷 קולומבון ובהורל הודחו באקפולקו",
-      "summary": "שתי הצרפתיות הפסידו הלילה במייג'ור מקסיקו. לובו/קנובס ניצחו את שריפובה/קולומבון 6-3, 7-6, במשחק של כמעט שעתיים. טלאבן/סאיס ניצחו את ואל/בהורל 6-3, 6-4 בשעה ו-16 דקות. לוסיה סאינס ומנקיו ניצחו 7-6, 7-6 אחרי יותר משעתיים. קרסקוסה/פרננדס הפסידו במערכת הראשונה, ואז לקחו 12 מתוך 13 המשחקונים האחרונים. מה הלאה: הלילה ב-23:00 סיבוב 32.",
-      "matches": [
-        {
-          "winner": "לובו/קנובס",
-          "loser": "שריפובה/קולומבון",
-          "score": "6-3, 7-6"
-        },
-        {
-          "winner": "טלאבן/סאיס",
-          "loser": "ואל/בהורל",
-          "score": "6-3, 6-4"
-        },
-        {
-          "winner": "סאינס/מנקיו",
-          "loser": "אגילר/אסקסנה",
-          "score": "7-6, 7-6"
-        },
-        {
-          "winner": "קרסקוסה/פרננדס",
-          "loser": "רמה/רודריגס",
-          "score": "3-6, 6-1, 6-0"
-        }
-      ],
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/mexico-major-collombon-et-bahurel-eliminees-miguel-lamperti-fait-ses-adieux/",
         "lang": "צרפתית"
       }
     },
@@ -263,6 +204,77 @@
       }
     },
     {
+      "id": "world-padeladdict-finals-barcelona-qualified-2026-11-25",
+      "publishedAt": "2026-11-25T08:00:49Z",
+      "category": "world",
+      "title": "🎟️ 8 גברים ו-12 נשים כבר בגמר העונה בברצלונה",
+      "summary": "לפי Padel Addict, לפני סיבוב 32 באקפולקו כבר הבטיחו מקום בגמר העונה 8 גברים: קואייו, טאפיה, גלאן, צ'ינגוטו, אוגסבורגר, לברון, סטופאצ'וק וינגואס. אצל הנשים כבר בפנים 12 שחקניות, ונשארו רק 4 מקומות. אצל הגברים נשארו 8 מקומות, והמאבק צמוד מאוד: כ-100 נקודות בלבד בין מקום 15 למקום 21. מה הלאה: מייג'ור מקסיקו הוא הטורניר האחרון לפני גמר העונה (10–13.12).",
+      "source": {
+        "name": "Padel Addict – Adriana Díaz Pérez",
+        "url": "https://www.padeladdict.com/clasificados-finals-barcelona-2026-lucha/",
+        "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "results-mexico-major-2026-r64-day2-women",
+      "publishedAt": "2026-11-25T07:59:57Z",
+      "category": "results",
+      "gender": "women",
+      "title": "👩 🇫🇷 קולומבון ובהורל הודחו באקפולקו",
+      "summary": "שתי הצרפתיות הפסידו הלילה במייג'ור מקסיקו. לובו/קנובס ניצחו את שריפובה/קולומבון 6-3, 7-6, במשחק של כמעט שעתיים. טלאבן/סאיס ניצחו את ואל/בהורל 6-3, 6-4 בשעה ו-16 דקות. לוסיה סאינס ומנקיו ניצחו 7-6, 7-6 אחרי יותר משעתיים. קרסקוסה/פרננדס הפסידו במערכת הראשונה, ואז לקחו 12 מתוך 13 המשחקונים האחרונים. מה הלאה: הלילה ב-23:00 סיבוב 32.",
+      "matches": [
+        {
+          "winner": "לובו/קנובס",
+          "loser": "שריפובה/קולומבון",
+          "score": "6-3, 7-6"
+        },
+        {
+          "winner": "טלאבן/סאיס",
+          "loser": "ואל/בהורל",
+          "score": "6-3, 6-4"
+        },
+        {
+          "winner": "סאינס/מנקיו",
+          "loser": "אגילר/אסקסנה",
+          "score": "7-6, 7-6"
+        },
+        {
+          "winner": "קרסקוסה/פרננדס",
+          "loser": "רמה/רודריגס",
+          "score": "3-6, 6-1, 6-0"
+        }
+      ],
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/mexico-major-collombon-et-bahurel-eliminees-miguel-lamperti-fait-ses-adieux/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "world-padelmagazine-womens-padel-book-50-stories-2026-11-25",
+      "publishedAt": "2026-11-25T07:50:00Z",
+      "category": "world",
+      "title": "📖 ספר חדש: 50 נשים מ-14 מדינות מספרות על פאדל",
+      "summary": "יצא ספר גדול על פאדל נשים: 310 עמודים, 50 סיפורים מ-14 מדינות. כתבה אותו קריסטין קירש, עיתונאית לשעבר ושחקנית תחרותית. משתתפות בו בין היתר אליקס קולומבון, קרולינה נבארו ולוסיה סאינס, והאחרית דבר של פרננדו בלסטגין. הספר מדבר על פציעות, חזרה למגרש, ביטחון עצמי, הריון ומשחק אחרי גיל 50. הוא יצא בצרפתית, ספרדית, פורטוגזית ואנגלית.",
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/le-padel-feminin-a-desormais-son-grand-livre-50-temoignages-venus-de-14-pays/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "opinion-padelspain-fep-president-piris-interview-2026-11-25",
+      "publishedAt": "2026-11-25T07:13:40Z",
+      "category": "opinion",
+      "title": "🎙️ נשיא התאחדות ספרד ב-Padel Spain: \"עובדים כקבוצה\"",
+      "summary": "חאבייר רודריגס פיריס, נשיא התאחדות הפאדל של ספרד, סיכם ב-Padel Spain את השנה הראשונה שלו בתפקיד. לדבריו זו שנה טובה, בעיקר בפאדל צעירים ובכספים של ההתאחדות. הוא אומר שעוד צריך לשפר את התיאום בין ההתאחדויות האזוריות ואת ההשפעה של ספרד ב-FIP. לפי הראיון, ההתאחדות עובדת על חוזה חדש למאמן הנבחרת חואנחו גוטיירס אחרי המונדיאל המוצלח, ואליפות ספרד מתוכננת ל-2027.",
+      "source": {
+        "name": "Padel Spain",
+        "url": "https://www.padelspain.net/entrevistas/836201/javier-rguez-piris-fep-hemos-conseguido-que-la-fep-trabaje-como-un-equipo-que-todo-funcione-como-debe-hacerlo/",
+        "lang": "ספרדית"
+      }
+    },
+    {
       "id": "opinion-padelmagazine-4padel-france-saturation-2026-11-24",
       "publishedAt": "2026-11-24T16:28:54Z",
       "category": "opinion",
@@ -275,6 +287,18 @@
       }
     },
     {
+      "id": "opinion-analistaspadel-tapia-coello-four-majors-2026-11-24",
+      "publishedAt": "2026-11-24T13:31:39Z",
+      "category": "opinion",
+      "title": "🏆 ב-AnalistasPadel: טאפיה/קואייו מול ההיסטוריה – 4 מייג'ורים בעונה",
+      "summary": "לדעת איבן לופס ב-AnalistasPadel, אקפולקו יכול להיות הרבה יותר מעוד תואר לטאפיה וקואייו. הם כבר זכו העונה ברומא, בפריז ובכווית. אם ינצחו גם במקסיקו – הם יהיו הזוג הראשון בעידן Premier Padel שזוכה בכל 4 המייג'ורים בעונה אחת. הכותב מזהיר: יש הרבה זוגות חזקים והעייפות מצטברת. טאפיה אמר שהוא ב-100% אחרי שהם לא שיחקו בדובאי.",
+      "source": {
+        "name": "AnalistasPadel – Iván López",
+        "url": "https://www.analistaspadel.com/tapia-y-coello-frente-a-la-historia/",
+        "lang": "ספרדית"
+      }
+    },
+    {
       "id": "opinion-padeladdict-bea-gonzalez-best-x3-smash-2026-11-24",
       "publishedAt": "2026-11-24T12:28:16Z",
       "category": "opinion",
@@ -283,18 +307,6 @@
       "source": {
         "name": "Padel Addict – Adriana Díaz Pérez",
         "url": "https://www.padeladdict.com/bea-gonzalez-mejores-rematadoras-x3/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "calendar-where-to-watch-mexico-major-2026",
-      "publishedAt": "2026-11-25T10:26:00Z",
-      "category": "calendar",
-      "title": "📺 הלילה באקפולקו: סיבוב 32 בחינם ביוטיוב",
-      "summary": "לפי Padel Addict, הלילה (25.11) מתחיל סיבוב 32 של מייג'ור מקסיקו בשישה מגרשים. המשחק הראשון בכל מגרש ב-23:00 לפי שעון ישראל, והשאר אחריו. בספרד: שידור חי בחינם ביוטיוב של Premier Padel, עד שמינית הגמר. בארגנטינה ובדרום אמריקה: ESPN ו-Disney+. המקור לא אומר מה זמין בישראל.",
-      "source": {
-        "name": "Padel Addict",
-        "url": "https://www.padeladdict.com/horarios-partidos-donde-ver-dieciseisavos-mexico-major-2026/",
         "lang": "ספרדית"
       }
     },
@@ -332,18 +344,6 @@
         "name": "Padel Magazine (אנטואן טריקולה)",
         "url": "https://padelmagazine.fr/premier-padel-pourquoi-une-seule-place-peut-changer-tout-un-tableau/",
         "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padeladdict-augsburger-documentary-pressure-2026-11-23",
-      "publishedAt": "2026-11-23T15:44:19Z",
-      "category": "opinion",
-      "title": "🎬 אוגסבורגר בסרט \"PRESSURE\": \"לא עמדתי במילה שלי\"",
-      "summary": "ליאו אוגסבורגר (22) פרסם ביוטיוב שלו סרט תיעודי בשם \"PRESSURE\" (לחץ), על הימים אחרי ההפסד של ארגנטינה לספרד בגמר מונדיאל הפאדל בדוחה. לפי Padel Addict, הוא לוקח אחריות: הוא ודי נינו הובילו 7-5 ו-4-2, ולדבריו הוא הרגיש שאכזב אנשים אחרים, לא רק את עצמו. הפסיכולוגית שלו מספרת שמצאה אותו \"שבור לגמרי\", ואומרת שאי אפשר להעלים לחץ – רק ללמוד לנהל אותו. מה הלאה: אוגסבורגר מספר שנעזר בניסיון של חואן לברון, ושבוע אחר כך הם זכו יחד בדובאי P1.",
-      "source": {
-        "name": "Padel Addict – Ángel González (על הסרט ביוטיוב של אוגסבורגר)",
-        "url": "https://www.padeladdict.com/leo-augsburger-abre-la-herida-del-mundial-en-su-documental-pressure/",
-        "lang": "ספרדית"
       }
     },
     {
