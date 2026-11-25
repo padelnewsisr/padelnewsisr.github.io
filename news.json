@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T12:33:20Z",
+  "updatedAt": "2026-11-25T14:33:20Z",
   "live": {
     "title": "מייג'ור מקסיקו באקפולקו – סיבוב 32 (הלילה)",
     "date": "2026-11-25",
@@ -48,6 +48,66 @@
     ]
   },
   "items": [
+    {
+      "id": "opinion-padelspain-fep-president-piris-interview-2026-11-25",
+      "publishedAt": "2026-11-25T07:13:40Z",
+      "category": "opinion",
+      "title": "🎙️ נשיא התאחדות ספרד ב-Padel Spain: \"עובדים כקבוצה\"",
+      "summary": "חאבייר רודריגס פיריס, נשיא התאחדות הפאדל של ספרד, סיכם ב-Padel Spain את השנה הראשונה שלו בתפקיד. לדבריו זו שנה טובה, בעיקר בפאדל צעירים ובכספים של ההתאחדות. הוא אומר שעוד צריך לשפר את התיאום בין ההתאחדויות האזוריות ואת ההשפעה של ספרד ב-FIP. לפי הראיון, ההתאחדות עובדת על חוזה חדש למאמן הנבחרת חואנחו גוטיירס אחרי המונדיאל המוצלח, ואליפות ספרד מתוכננת ל-2027.",
+      "source": {
+        "name": "Padel Spain",
+        "url": "https://www.padelspain.net/entrevistas/836201/javier-rguez-piris-fep-hemos-conseguido-que-la-fep-trabaje-como-un-equipo-que-todo-funcione-como-debe-hacerlo/",
+        "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "world-padelmagazine-paris-padel-maroc-circuit-2026-11-25",
+      "publishedAt": "2026-11-25T09:23:34Z",
+      "category": "world",
+      "title": "🇲🇦 סבב חדש: 8 טורנירים בין פריז למרוקו",
+      "summary": "עמותת Paris Padel Maroc משיקה סבב של 8 טורנירים, מדצמבר 2026 עד יולי 2027. ארבעה טורנירים ייערכו ליד פריז, וארבעה במרוקו: מרקש, רבאט וקזבלנקה. הטורניר הראשון ב-12.12 נותן נקודות לדירוג הצרפתי. בכל טורניר יש גם תחרות לנשים בלבד. לפי ההתאחדות המרוקאית, מספר מגרשי הפאדל במרוקו עלה מ-96 ל-200 בשנתיים.",
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/paris-padel-maroc-lance-un-circuit-de-huit-etapes-entre-la-france-et-le-maroc/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "world-padelmagazine-womens-padel-book-50-stories-2026-11-25",
+      "publishedAt": "2026-11-25T07:50:00Z",
+      "category": "world",
+      "title": "📖 ספר חדש: 50 נשים מ-14 מדינות מספרות על פאדל",
+      "summary": "יצא ספר גדול על פאדל נשים: 310 עמודים, 50 סיפורים מ-14 מדינות. כתבה אותו קריסטין קירש, עיתונאית לשעבר ושחקנית תחרותית. משתתפות בו בין היתר אליקס קולומבון, קרולינה נבארו ולוסיה סאינס, והאחרית דבר של פרננדו בלסטגין. הספר מדבר על פציעות, חזרה למגרש, ביטחון עצמי, הריון ומשחק אחרי גיל 50. הוא יצא בצרפתית, ספרדית, פורטוגזית ואנגלית.",
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/le-padel-feminin-a-desormais-son-grand-livre-50-temoignages-venus-de-14-pays/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "world-padelmagazine-maldives-court-over-ocean-2026-11-25",
+      "publishedAt": "2026-11-25T13:18:54Z",
+      "category": "world",
+      "title": "🌊 מגרש פאדל מעל האוקיינוס באיים המלדיביים",
+      "summary": "באתר הנופש Meyyafushi באיים המלדיביים בנו מגרש פאדל על עמודים, מעל הלגונה. מגיעים אליו בשביל עץ מעל המים. לפי האתר זה המגרש הקבוע הראשון בעולם שנבנה מעל מים. האורחים מקבלים שעת משחק אחת ביום, והמגרש פתוח מ-6:00 עד 19:00. באתר אחר במלדיביים, SAii Lagoon, נערך בנובמבר טורניר FIP Silver ראשון לנשים במדינה.",
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/aux-maldives-un-incroyable-terrain-de-padel-construit-au-dessus-de-locean/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "world-padelmagazine-guichard-godallier-mexico-r32-2026-11-25",
+      "publishedAt": "2026-11-25T14:20:09Z",
+      "category": "world",
+      "title": "🇫🇷 גישאר וגודלייה: התקווה הצרפתית האחרונה של 2026",
+      "summary": "שני צרפתים עדיין במייג'ור מקסיקו, הטורניר הגדול האחרון של העונה. דילן גישאר וקלמן חנס ניצחו בסיבוב הראשון, והלילה הם פוגשים את באוטיסטה/ברגמיני, המדורגים 11. לאה גודלייה ודאיירה ולנסואלה ניצחו את פולו/מרטינס, והלילה הן פוגשות את מונטס/באררה, המדורגות 15. מה הלאה: המשחקים מתחילים מאוחר בלילה לפי שעון ישראל, ביוטיוב של Premier Padel.",
+      "source": {
+        "name": "Padel Magazine (מאסאו זרהט)",
+        "url": "https://padelmagazine.fr/mexico-major-guichard-et-godallier-les-deux-derniers-espoirs-francais-de-lannee/",
+        "lang": "צרפתית"
+      }
+    },
     {
       "id": "opinion-padelmagazine-deaf-padel-coordination-2026-11-25",
       "publishedAt": "2026-11-25T09:53:24Z",
@@ -203,18 +263,6 @@
       }
     },
     {
-      "id": "opinion-padeladdict-race-finals-41-points-2026-11-23",
-      "publishedAt": "2026-11-23T13:30:36Z",
-      "category": "opinion",
-      "title": "🧮 ב-Padel Addict: 41 נקודות מפרידות בין 3 שחקנים על הכרטיס לברצלונה",
-      "summary": "הכתב אנחל גונסלס ב-Padel Addict בדק את ה-Race אחרי פלטינום אגואסקליינטס. רק 16 הראשונים עולים לגמר העונה בברצלונה. אצל הגברים: אלפונסו (15), מומו גונסלס (16) וקוקי נייטו (17) – רק 41 נקודות ביניהם. אצל הנשים: אוסורו עלתה למקום 17, רק 35 נקודות מאחורי וירסדה. מה הלאה: לדעתו, מייג'ור מקסיקו (2,000 נקודות) יכריע מי עולה, וטריאי/ברעה יבטיחו את המקום הראשון אם יגיעו לחצי הגמר.",
-      "source": {
-        "name": "Padel Addict · אנחל גונסלס",
-        "url": "https://www.padeladdict.com/ranking-fip/",
-        "lang": "ספרדית"
-      }
-    },
-    {
       "id": "opinion-padelmagazine-4padel-france-saturation-2026-11-24",
       "publishedAt": "2026-11-24T16:28:54Z",
       "category": "opinion",
@@ -224,18 +272,6 @@
         "name": "Padel Magazine (ראיון עם גיום דבלמה ומרק דסניס, 4PADEL)",
         "url": "https://padelmagazine.fr/le-padel-francais-est-il-deja-en-train-de-saturer-guillaume-debelmas-et-marc-dessenis-4padel-repondent/",
         "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "world-padeladdict-mexico-major-tonight-20-matches-2026-11-24",
-      "publishedAt": "2026-11-24T13:45:20Z",
-      "category": "world",
-      "title": "👀 הלילה באקפולקו: 20 משחקים בחמישה מגרשים",
-      "summary": "הלילה נמשך סיבוב 32 במייג'ור מקסיקו: 20 משחקים של גברים ונשים. כל המגרשים מתחילים ב-00:00 לפי שעון ישראל (16:00 באקפולקו). במגרש המרכזי פותחות שריפובה/קולומבון נגד לובו/קנובס. גם למפרטי/אלוורס (נכנסו כמפסידים בני מזל) נגד גואנגה/קויאדו, ואראגון/רוגלאן נגד סינטס/סמורה. קואייו/טאפיה ולברון/אוגסבורגר לא משחקים הלילה – הם מתחילים בסיבוב הבא. מה הלאה: עד שמינית הגמר – שידור חי ביוטיוב של Premier Padel; מרבע הגמר – Red Bull TV.",
-      "source": {
-        "name": "Padel Addict",
-        "url": "https://www.padeladdict.com/partidos-horarios-retransmision-treintaidosavos-mexico-major-2026/",
-        "lang": "ספרדית"
       }
     },
     {
