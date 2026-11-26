@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T18:34:03Z",
+  "updatedAt": "2026-11-26T20:34:54Z",
   "live": {
     "title": "מייג'ור מקסיקו באקפולקו – שמינית הגמר (הלילה)",
     "date": "2026-11-27",
@@ -88,6 +88,37 @@
     ]
   },
   "items": [
+    {
+      "id": "opinion-analistas-race-six-players-two-spots-2026-11-26",
+      "publishedAt": "2026-11-26T20:19:00Z",
+      "category": "opinion",
+      "title": "🧮 ב-Analistas Pádel: שישה שחקנים, שני כרטיסים לברצלונה",
+      "summary": "לפי Jordi Martínez ב-Analistas Pádel, שישה שחקנים נלחמים על שני המקומות האחרונים בגמר העונה: אלפונסו (3,460), מומו גונסלס (3,445), קוקי נייטו (3,442), קמפניולו (3,390), ליאל (3,372) וליבאק (3,370). לדעתו לאלפונסו יש יתרון, מומו מגן על המקום האחרון, ולקוקי נייטו יש הזדמנות טובה. הכותב אומר שהמאבק \"פתוח מתמיד\" ושאקפולקו תחליט. מה הלאה: כולם משחקים הלילה בשמינית הגמר.",
+      "source": {
+        "name": "Analistas Pádel (Jordi Martínez)",
+        "url": "https://www.analistaspadel.com/race-premier-padel-finals-2026-opciones/",
+        "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "world-analistas-salazar-last-match-2026-11-26",
+      "publishedAt": "2026-11-26T18:41:00Z",
+      "category": "world",
+      "profile": {
+        "icon": "👀",
+        "flag": "🇪🇸",
+        "name": "אלחנדרה סלאסר",
+        "line": "מתכוננת לפרוש בסוף 2026",
+        "stat": "מקום 15 ב-Race"
+      },
+      "title": "👀 הלילה: אולי המשחק האחרון של סלאסר?",
+      "summary": "אלחנדרה סלאסר אמרה ש-2026 היא העונה האחרונה שלה. היא רוצה לפרוש בגמר העונה בברצלונה. אבל היא במקום 15 ב-Race עם 3,110 נקודות, ורק 16 הראשונות עולות. הלילה היא ואוסורו נגד קלדרה/גואנגה בשמינית הגמר באקפולקו, בערך ב-03:00 לפי שעון ישראל. מה הלאה: גם אם יפסידו, הן עוד יכולות לעלות לברצלונה – זה תלוי בתוצאות של דאל פוצו, נ. רודריגס ואאוחניו.",
+      "source": {
+        "name": "Analistas Pádel (Iván López)",
+        "url": "https://www.analistaspadel.com/salazar-puede-jugar-su-ultimo-partido-padel/",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "world-padelmagazine-galan-academy-madrid-2026-11-26",
       "publishedAt": "2026-11-26T14:36:59Z",
@@ -468,7 +499,14 @@
       "what": "Red Bull Padel Cross במדריד – לברון, גלאן, נבארו, סטופאצ'וק, ינגואס ואוגסבורגר, אחד על אחד · 📺 Red Bull TV"
     }
   ],
-  "watch": [],
+  "watch": [
+    {
+      "label": "שמינית הגמר באקפולקו – גברים ונשים",
+      "url": "https://www.youtube.com/premierpadelTV",
+      "live": false,
+      "note": "יוטיוב של Premier Padel · 00:00"
+    }
+  ],
   "israeliPlayers": [
     {
       "he": "אהרון כהן",
