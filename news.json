@@ -1,18 +1,33 @@
 {
-  "updatedAt": "2026-11-26T07:55:00Z",
+  "updatedAt": "2026-11-26T09:33:10Z",
   "live": {
     "title": "מייג'ור מקסיקו באקפולקו – שמינית הגמר (הלילה)",
-    "date": "2026-11-26",
-    "note": "📺 איפה לראות: יוטיוב של Premier Padel (שידור חי, עד שמינית הגמר). המשחקים הראשונים ב-00:00 לפי שעון ישראל (16:00 במקסיקו). השעות של השאר משוערות. התוצאות של סיבוב 32: ראו בכרטיסי התוצאות.",
+    "date": "2026-11-27",
+    "note": "📺 איפה לראות: יוטיוב של Premier Padel (בספרד ובמדינות בלי ערוץ, עד שמינית הגמר). במקסיקו ובדרום אמריקה: ESPN ו-Disney+. המקור לא אומר מה זמין בישראל. ארבעה מגרשים, המשחקים הראשונים ב-00:00 לפי שעון ישראל (16:00 באקפולקו). השעות של השאר משוערות. לפי El Neverazo.",
     "matches": [
       {
         "time": "00:00",
-        "what": "👩 סאנצ'ס/אוסטרו נגד וירסדה/מ. פסיו · 📺 יוטיוב של Premier Padel",
+        "what": "👩 נ. רודריגס/דאל פוצו נגד חוסמריה/באה גונסלס · מגרש מרכזי · 📺 יוטיוב של Premier Padel",
         "result": ""
       },
       {
         "time": "00:00",
-        "what": "👩 חוסמריה/באה גונסלס נגד נ. רודריגס/דאל פוצו",
+        "what": "👩 סאנצ'ס/אוסטרו נגד פסיו/וירסדה",
+        "result": ""
+      },
+      {
+        "time": "00:00",
+        "what": "👩 איקרדו/ינסן נגד לובו/קאנובאס",
+        "result": ""
+      },
+      {
+        "time": "00:00",
+        "what": "👩 קסטיו/לאיה רודריגס נגד גינארט/אלונסו",
+        "result": ""
+      },
+      {
+        "time": "01:30",
+        "what": "👨 מאקסי סאנצ'ס/סאניו גוטיירס נגד לברון/אוגסבורגר · מגרש מרכזי (בערך)",
         "result": ""
       },
       {
@@ -22,17 +37,27 @@
       },
       {
         "time": "01:30",
-        "what": "👨 לאל/גררו נגד אדו אלונסו/גוני (בערך)",
+        "what": "👨 קוקי נייטו/ינגואס נגד ז'ופרה/אסברי (בערך)",
+        "result": ""
+      },
+      {
+        "time": "01:30",
+        "what": "👨 אדו אלונסו/גוני נגד לאל/גררו (בערך)",
         "result": ""
       },
       {
         "time": "03:00",
-        "what": "👩 ברעה/טריאי נגד ולסקו/אאוחניו (בערך)",
+        "what": "👩 ברעה/טריאי נגד ולסקו/אאוחניו · מגרש מרכזי (לא לפני 03:00)",
         "result": ""
       },
       {
         "time": "03:00",
-        "what": "👩 קלבו/קלאודיה פרננדס נגד רופו/איגלסיאס (בערך)",
+        "what": "👩 רופו/איגלסיאס נגד קלבו/קלאודיה פרננדס (בערך)",
+        "result": ""
+      },
+      {
+        "time": "03:00",
+        "what": "👩 אורטגה/אראוז'ו נגד מונטס/בררה (בערך)",
         "result": ""
       },
       {
@@ -42,7 +67,22 @@
       },
       {
         "time": "04:30",
-        "what": "👨 קואייו/טאפיה נגד אלכס רואיס/חאבי גרסיה (בערך)",
+        "what": "👨 קואייו/טאפיה נגד אלכס רואיס/חאבי גרסיה · מגרש מרכזי (בערך)",
+        "result": ""
+      },
+      {
+        "time": "04:30",
+        "what": "👨 חימנס/צ'וסאס נגד די נינו/נבארו (בערך)",
+        "result": ""
+      },
+      {
+        "time": "04:30",
+        "what": "👨 מומו גונסלס/קמפניולו נגד באוטיסטה/ברגמיני (בערך)",
+        "result": ""
+      },
+      {
+        "time": "04:30",
+        "what": "👨 ולנסואלה/חיל נגד סינטס/קוקיטו סמורה (בערך)",
         "result": ""
       }
     ]
@@ -127,6 +167,18 @@
       "source": {
         "name": "Padel Spain",
         "url": "https://www.padelspain.net/padel-profesional/836235/caen-tello-y-arce-y-la-race-se-agita-por-la-zona-baja/",
+        "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "world-padelspain-brazil-clubs-storms-2026-11-26",
+      "publishedAt": "2026-11-26T06:00:00Z",
+      "category": "world",
+      "title": "🌪️ סערות הרסו 3 מועדוני פאדל בברזיל",
+      "summary": "סופות קשות בנובמבר פגעו מאוד בשלושה מועדוני פאדל בדרום ברזיל. בטופנסירטה, סערה ב-20.11 הרסה כמעט את כל מתחם Arena, מועדון עם 20 שנות פעילות, וגם המועדון Set Sports נפגע קשה. במרינגה, רוח חזקה ב-2.11 הפילה חלק מהגג של Village Padel Club על המגרשים, והמועדון סגור בלי תאריך לפתיחה. שחקנים, מאמנים ואוהדים פתחו מבצעים לאיסוף כסף, חומרי בנייה ועזרה בעבודה.",
+      "source": {
+        "name": "Padel Spain (לפי Super Padel)",
+        "url": "https://www.padelspain.net/padel-internacional/836225/brasil-movilizacion-total-para-ayudar-en-la-reconstruccion-de-sus-clubes/",
         "lang": "ספרדית"
       }
     },
@@ -315,18 +367,6 @@
       }
     },
     {
-      "id": "world-padelmagazine-paris-padel-maroc-circuit-2026-11-25",
-      "publishedAt": "2026-11-25T09:23:34Z",
-      "category": "world",
-      "title": "🇲🇦 סבב חדש: 8 טורנירים בין פריז למרוקו",
-      "summary": "עמותת Paris Padel Maroc משיקה סבב של 8 טורנירים, מדצמבר 2026 עד יולי 2027. ארבעה טורנירים ייערכו ליד פריז, וארבעה במרוקו: מרקש, רבאט וקזבלנקה. הטורניר הראשון ב-12.12 נותן נקודות לדירוג הצרפתי. בכל טורניר יש גם תחרות לנשים בלבד. לפי ההתאחדות המרוקאית, מספר מגרשי הפאדל במרוקו עלה מ-96 ל-200 בשנתיים.",
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/paris-padel-maroc-lance-un-circuit-de-huit-etapes-entre-la-france-et-le-maroc/",
-        "lang": "צרפתית"
-      }
-    },
-    {
       "id": "opinion-padelmagazine-lamperti-farewell-2026-11-25",
       "publishedAt": "2026-11-25T09:19:15Z",
       "category": "opinion",
@@ -339,18 +379,6 @@
       }
     },
     {
-      "id": "world-elneverazo-mexico-r32-tonight-coello-tapia-2026-11-25",
-      "publishedAt": "2026-11-25T09:13:01Z",
-      "category": "world",
-      "title": "👀 הלילה באקפולקו: קואייו/טאפיה, לברון/אוגסבורגר והכוכבים עולים",
-      "summary": "הלילה סיבוב 32 במייג'ור מקסיקו, ושחקני הצמרת מתחילים לשחק. במגרש המרכזי: לברון/אוגסבורגר נגד גאלה/רוביני, סטופאצ'וק/ג'ון סאנס נגד אגירה/ליחו, ובסוף הערב קואייו/טאפיה נגד מוריניו/קילס. גם המאבק על גמר העונה ממשיך: אלפונסו/ליבאק, ניטו/ינגואס ומומו גונסלס/קמפניולו משחקים הלילה. מה הלאה: המשחקים הראשונים ב-23:00 לפי שעון ישראל, בשידור חי ביוטיוב של Premier Padel.",
-      "source": {
-        "name": "El Neverazo",
-        "url": "https://www.elneverazo.com/mexico-major-premier-padel-2026-horarios-y-retransmision-de-los-dieciseisavos-de-final/",
-        "lang": "ספרדית"
-      }
-    },
-    {
       "id": "opinion-padelmagazine-six-contenders-finals-2026-11-25",
       "publishedAt": "2026-11-25T08:50:29Z",
       "category": "opinion",
@@ -359,100 +387,6 @@
       "source": {
         "name": "Padel Magazine – Maceo Zerhat",
         "url": "https://padelmagazine.fr/mexico-major-que-doivent-faire-les-six-pretendants-aux-masters-finals-pour-decrocher-leur-billet/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "results-mexico-major-2026-r64-day2-men",
-      "publishedAt": "2026-11-25T08:30:52Z",
-      "category": "results",
-      "gender": "men",
-      "title": "👨 אקפולקו: 3 שוברי שוויון ו-3 שעות – סאפאטה/נרנחו בפנים",
-      "summary": "הלילה במייג'ור מקסיקו היה ארוך מאוד. סאפאטה/נרנחו (מהמוקדמות) ניצחו את ארויו/ינסן 7-6, 6-7, 7-6. כל שלוש המערכות נגמרו בשובר שוויון, והמשחק נמשך 3 שעות ו-4 דקות. ולנסואלה/חיל הפסידו במערכת הראשונה וחזרו לנצח 5-7, 6-2, 7-6. מיגל למפרטי, בן 48, הפסיד לגואנגה/קויאדו 7-6, 6-4 – זה היה המשחק האחרון שלו ב-Premier Padel. מה הלאה: הלילה ב-23:00 משחקי סיבוב 32. המדורגים הבכירים יעלו למגרש רק בשמינית הגמר.",
-      "matches": [
-        {
-          "winner": "סאפאטה/נרנחו",
-          "loser": "ארויו/ינסן",
-          "score": "7-6, 6-7, 7-6"
-        },
-        {
-          "winner": "ולנסואלה/חיל",
-          "loser": "בראהונה/פיוטו",
-          "score": "5-7, 6-2, 7-6"
-        },
-        {
-          "winner": "גואנגה/קויאדו",
-          "loser": "למפרטי/אלוורס",
-          "score": "7-6, 6-4"
-        },
-        {
-          "winner": "קפרה/סאנצ'ס",
-          "loser": "סולאנו/פריירה",
-          "score": "6-3, 5-7, 6-4"
-        }
-      ],
-      "source": {
-        "name": "Padel Addict",
-        "url": "https://www.padeladdict.com/resultados-treintaidosavos-mexico-major-2026/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "world-padeladdict-finals-barcelona-qualified-2026-11-25",
-      "publishedAt": "2026-11-25T08:00:49Z",
-      "category": "world",
-      "title": "🎟️ 8 גברים ו-12 נשים כבר בגמר העונה בברצלונה",
-      "summary": "לפי Padel Addict, לפני סיבוב 32 באקפולקו כבר הבטיחו מקום בגמר העונה 8 גברים: קואייו, טאפיה, גלאן, צ'ינגוטו, אוגסבורגר, לברון, סטופאצ'וק וינגואס. אצל הנשים כבר בפנים 12 שחקניות, ונשארו רק 4 מקומות. אצל הגברים נשארו 8 מקומות, והמאבק צמוד מאוד: כ-100 נקודות בלבד בין מקום 15 למקום 21. מה הלאה: מייג'ור מקסיקו הוא הטורניר האחרון לפני גמר העונה (10–13.12).",
-      "source": {
-        "name": "Padel Addict – Adriana Díaz Pérez",
-        "url": "https://www.padeladdict.com/clasificados-finals-barcelona-2026-lucha/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "results-mexico-major-2026-r64-day2-women",
-      "publishedAt": "2026-11-25T07:59:57Z",
-      "category": "results",
-      "gender": "women",
-      "title": "👩 🇫🇷 קולומבון ובהורל הודחו באקפולקו",
-      "summary": "שתי הצרפתיות הפסידו הלילה במייג'ור מקסיקו. לובו/קנובס ניצחו את שריפובה/קולומבון 6-3, 7-6, במשחק של כמעט שעתיים. טלאבן/סאיס ניצחו את ואל/בהורל 6-3, 6-4 בשעה ו-16 דקות. לוסיה סאינס ומנקיו ניצחו 7-6, 7-6 אחרי יותר משעתיים. קרסקוסה/פרננדס הפסידו במערכת הראשונה, ואז לקחו 12 מתוך 13 המשחקונים האחרונים. מה הלאה: הלילה ב-23:00 סיבוב 32.",
-      "matches": [
-        {
-          "winner": "לובו/קנובס",
-          "loser": "שריפובה/קולומבון",
-          "score": "6-3, 7-6"
-        },
-        {
-          "winner": "טלאבן/סאיס",
-          "loser": "ואל/בהורל",
-          "score": "6-3, 6-4"
-        },
-        {
-          "winner": "סאינס/מנקיו",
-          "loser": "אגילר/אסקסנה",
-          "score": "7-6, 7-6"
-        },
-        {
-          "winner": "קרסקוסה/פרננדס",
-          "loser": "רמה/רודריגס",
-          "score": "3-6, 6-1, 6-0"
-        }
-      ],
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/mexico-major-collombon-et-bahurel-eliminees-miguel-lamperti-fait-ses-adieux/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "world-padelmagazine-womens-padel-book-50-stories-2026-11-25",
-      "publishedAt": "2026-11-25T07:50:00Z",
-      "category": "world",
-      "title": "📖 ספר חדש: 50 נשים מ-14 מדינות מספרות על פאדל",
-      "summary": "יצא ספר גדול על פאדל נשים: 310 עמודים, 50 סיפורים מ-14 מדינות. כתבה אותו קריסטין קירש, עיתונאית לשעבר ושחקנית תחרותית. משתתפות בו בין היתר אליקס קולומבון, קרולינה נבארו ולוסיה סאינס, והאחרית דבר של פרננדו בלסטגין. הספר מדבר על פציעות, חזרה למגרש, ביטחון עצמי, הריון ומשחק אחרי גיל 50. הוא יצא בצרפתית, ספרדית, פורטוגזית ואנגלית.",
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/le-padel-feminin-a-desormais-son-grand-livre-50-temoignages-venus-de-14-pays/",
         "lang": "צרפתית"
       }
     },
@@ -502,30 +436,6 @@
         "name": "Padel Addict – Adriana Díaz Pérez",
         "url": "https://www.padeladdict.com/bea-gonzalez-mejores-rematadoras-x3/",
         "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-lebron-smash-technique-2026-11-24",
-      "publishedAt": "2026-11-24T08:56:14Z",
-      "category": "opinion",
-      "title": "💥 ב-Padel Magazine: הסוד של הסמאש של לברון – לא רק כוח",
-      "summary": "ניתוח טכני ב-Padel Magazine (אנטואן טריקולה): הסמאש של לברון יעיל בגלל מיקום הגוף מתחת לכדור, כיוון התנועה והסיבוב (ספין). המאמן אגוסטין גומס סילינגו אומר שלברון נותן לכדור להגיע רחוק מאחוריו ומכה כלפי מעלה. הספין מוריד את הכדור חזרה למגרש, כך שמכה מהירה נשארת בפנים. מחקר על 1,015 סמאשים מ-2019 מצא שסמאשים קרוב לרשת יעילים יותר.",
-      "source": {
-        "name": "Padel Magazine – Antoine Tricolet",
-        "url": "https://padelmagazine.fr/le-smash-de-lebron-pourquoi-la-puissance-ne-suffit-pas-a-expliquer-son-efficacite/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-sanchez-ustero-miracle-number-one-2026-11-24",
-      "publishedAt": "2026-11-24T08:30:43Z",
-      "category": "opinion",
-      "title": "🧮 ב-Padel Magazine: סאנצ'ס/אוסטרו צריכות נס כדי להיות מספר 1",
-      "summary": "לפי Padel Magazine, טריאי/ברעה מובילות במרוץ עם 14,200 נקודות. לסאנצ'ס/אוסטרו יש 11,600 – פער של 2,600. נשארו רק 3,500 נקודות: 2,000 למייג'ור מקסיקו ו-1,500 לגמר העונה. לדעת הכתב, טריאי/ברעה צריכות רק להגיע לחצי הגמר באקפולקו כדי להבטיח את המקום הראשון. סאנצ'ס/אוסטרו צריכות לזכות בשני הטורנירים, ושהיריבות ייפלו מוקדם – \"כמעט בלתי אפשרי\", אבל לא סגור.",
-      "source": {
-        "name": "Padel Magazine – Benjamin Dupouy",
-        "url": "https://padelmagazine.fr/numero-1-mondiale-ari-sanchez-et-andrea-ustero-peuvent-encore-renverser-triay-brea-mais-il-faudra-un-miracle/",
-        "lang": "צרפתית"
       }
     },
     {
