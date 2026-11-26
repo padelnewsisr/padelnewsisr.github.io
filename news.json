@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T12:33:10Z",
+  "updatedAt": "2026-11-26T14:32:11Z",
   "live": {
     "title": "מייג'ור מקסיקו באקפולקו – שמינית הגמר (הלילה)",
     "date": "2026-11-27",
@@ -88,6 +88,18 @@
     ]
   },
   "items": [
+    {
+      "id": "opinion-padelmagazine-galan-future-number-one-2026-11-26",
+      "publishedAt": "2026-11-26T12:38:00Z",
+      "category": "opinion",
+      "title": "🔮 ב-Padel Magazine: איך יודעים שילד יהיה מספר 1? המקרה של גלאן",
+      "summary": "גם גלאן לא נראה תמיד כמו כוכב עתידי. אנטואן טריקולה ב-Padel Magazine מזכיר: אנדרס בריטוס סירב לשחק איתו ב-2015, ולדבריו בגלל וולה חלשה. המאמן חורחה מרטינס אמר שהיו לו כדור מהיר ו\"קסם\", אבל הוא הפסיד הרבה כי לקח סיכונים. כבר ב-2017 איש של StarVie צפה שגלאן יהיה מספר 1. המסקנה של הכותב: קשה לנחש פוטנציאל. צריך לראות מה השחקן כבר יודע, מה הוא לומד לתקן ואיזו תמיכה יש לו.",
+      "source": {
+        "name": "Padel Magazine · אנטואן טריקולה",
+        "url": "https://padelmagazine.fr/comment-reconnait-on-le-potentiel-dun-futur-numero-1-le-cas-galan/",
+        "lang": "צרפתית"
+      }
+    },
     {
       "id": "calendar-where-to-watch-mexico-major-2026",
       "publishedAt": "2026-11-26T09:33:19Z",
@@ -180,6 +192,18 @@
         "name": "Padel Spain",
         "url": "https://www.padelspain.net/padel-profesional/836237/alejandra-salazar-y-aranza-osoro-salvan-su-primer-match-ball-de-las-finals/",
         "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "opinion-padelmagazine-iznasni-fip-tour-money-2026-11-26",
+      "publishedAt": "2026-11-26T07:15:00Z",
+      "category": "opinion",
+      "title": "💸 השחקן הצרפתי סמי איזנסני: סבב FIP הוא \"מאבק כספי\"",
+      "summary": "לשחק בסבב FIP עולה הרבה כסף. כך אומר השחקן הצרפתי סמי איזנסני בראיון ל-Padel Magazine. הוא מממן את העונה מספונסרים ומאימון באנז'ה, והנסיעות מעייפות ויקרות. לדעתו זוג שזוכה בטורניר P3000 בצרפת צריך לקבל לפחות 5,000 יורו. הוא גם רוצה שלשחקנים תהיה יותר השפעה על הטורנירים, למשל על אוכל ומים במועדונים.",
+      "source": {
+        "name": "Padel Magazine · רפאל דז'ירונד",
+        "url": "https://padelmagazine.fr/sami-iznasni-jouer-le-fip-tour-cest-dabord-un-combat-financier-en-france-les-p3000-doivent-proposer-au-moins-5000e-pour-les-vainqueurs/",
+        "lang": "צרפתית"
       }
     },
     {
@@ -319,30 +343,6 @@
       }
     },
     {
-      "id": "world-padelmagazine-guichard-godallier-mexico-r32-2026-11-25",
-      "publishedAt": "2026-11-25T14:20:09Z",
-      "category": "world",
-      "title": "🇫🇷 גישאר וגודלייה: התקווה הצרפתית האחרונה של 2026",
-      "summary": "שני צרפתים עדיין במייג'ור מקסיקו, הטורניר הגדול האחרון של העונה. דילן גישאר וקלמן חנס ניצחו בסיבוב הראשון, והלילה הם פוגשים את באוטיסטה/ברגמיני, המדורגים 11. לאה גודלייה ודאיירה ולנסואלה ניצחו את פולו/מרטינס, והלילה הן פוגשות את מונטס/באררה, המדורגות 15. מה הלאה: המשחקים מתחילים מאוחר בלילה לפי שעון ישראל, ביוטיוב של Premier Padel.",
-      "source": {
-        "name": "Padel Magazine (מאסאו זרהט)",
-        "url": "https://padelmagazine.fr/mexico-major-guichard-et-godallier-les-deux-derniers-espoirs-francais-de-lannee/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "world-padelmagazine-maldives-court-over-ocean-2026-11-25",
-      "publishedAt": "2026-11-25T13:18:54Z",
-      "category": "world",
-      "title": "🌊 מגרש פאדל מעל האוקיינוס באיים המלדיביים",
-      "summary": "באתר הנופש Meyyafushi באיים המלדיביים בנו מגרש פאדל על עמודים, מעל הלגונה. מגיעים אליו בשביל עץ מעל המים. לפי האתר זה המגרש הקבוע הראשון בעולם שנבנה מעל מים. האורחים מקבלים שעת משחק אחת ביום, והמגרש פתוח מ-6:00 עד 19:00. באתר אחר במלדיביים, SAii Lagoon, נערך בנובמבר טורניר FIP Silver ראשון לנשים במדינה.",
-      "source": {
-        "name": "Padel Magazine",
-        "url": "https://padelmagazine.fr/aux-maldives-un-incroyable-terrain-de-padel-construit-au-dessus-de-locean/",
-        "lang": "צרפתית"
-      }
-    },
-    {
       "id": "opinion-padelspain-arenas-rafa-nadal-academy-kuwait-2026-11-25",
       "publishedAt": "2026-11-25T11:30:00Z",
       "category": "opinion",
@@ -424,18 +424,6 @@
         "name": "Padel Magazine (ראיון עם גיום דבלמה ומרק דסניס, 4PADEL)",
         "url": "https://padelmagazine.fr/le-padel-francais-est-il-deja-en-train-de-saturer-guillaume-debelmas-et-marc-dessenis-4padel-repondent/",
         "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-analistaspadel-tapia-coello-four-majors-2026-11-24",
-      "publishedAt": "2026-11-24T13:31:39Z",
-      "category": "opinion",
-      "title": "🏆 ב-AnalistasPadel: טאפיה/קואייו מול ההיסטוריה – 4 מייג'ורים בעונה",
-      "summary": "לדעת איבן לופס ב-AnalistasPadel, אקפולקו יכול להיות הרבה יותר מעוד תואר לטאפיה וקואייו. הם כבר זכו העונה ברומא, בפריז ובכווית. אם ינצחו גם במקסיקו – הם יהיו הזוג הראשון בעידן Premier Padel שזוכה בכל 4 המייג'ורים בעונה אחת. הכותב מזהיר: יש הרבה זוגות חזקים והעייפות מצטברת. טאפיה אמר שהוא ב-100% אחרי שהם לא שיחקו בדובאי.",
-      "source": {
-        "name": "AnalistasPadel – Iván López",
-        "url": "https://www.analistaspadel.com/tapia-y-coello-frente-a-la-historia/",
-        "lang": "ספרדית"
       }
     },
     {
