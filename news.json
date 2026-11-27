@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T09:32:59Z",
+  "updatedAt": "2026-11-27T12:32:03Z",
   "live": {
     "title": "מייג'ור מקסיקו באקפולקו – רבע הגמר (הלילה)",
     "date": "2026-11-28",
@@ -49,6 +49,18 @@
   },
   "items": [
     {
+      "id": "opinion-padelmagazine-right-side-player-finish-point-2026-11-27",
+      "publishedAt": "2026-11-27T09:20:00Z",
+      "category": "opinion",
+      "title": "🎯 ב-Padel Magazine: שחקן ימין צריך גם לסגור נקודות",
+      "summary": "אנטואן טריקולה כותב ב-Padel Magazine: שחקן בצד ימין לא רק בונה את הנקודה – הוא צריך גם לדעת לגמור אותה. לדבריו, הגנה טובה יוצרת הזדמנות, וההתקפה הופכת אותה לנקודה. הכתבה מזכירה שדי נינו אמר שהוא רוצה להיות יותר אגרסיבי, וצ'ינגוטו אמר ששחקן ימין מקבל את רוב הכדורים ומחליט הרבה בשביל הזוג.",
+      "source": {
+        "name": "Padel Magazine (אנטואן טריקולה)",
+        "url": "https://padelmagazine.fr/joueur-de-droite-construire-le-point-mais-savoir-aussi-le-finir/",
+        "lang": "צרפתית"
+      }
+    },
+    {
       "id": "opinion-padelmagazine-lebron-tribute-lamperti-2026-11-27",
       "publishedAt": "2026-11-27T08:42:00Z",
       "category": "opinion",
@@ -69,6 +81,18 @@
       "source": {
         "name": "Padel Magazine (Maceo Zerhat)",
         "url": "https://padelmagazine.fr/mexico-major-coki-nieto-prive-de-masters-finals-leal-et-libaak-vont-se-disputer-le-dernier-billet-pour-barcelone/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "opinion-padelmagazine-ovide-coello-third-match-2026-11-27",
+      "publishedAt": "2026-11-27T08:01:00Z",
+      "category": "opinion",
+      "title": "🫏 מאמן ארגנטינה: \"חואנחו גיבור, ואנחנו חמורים\"",
+      "summary": "רודרי אובידה, מאמן ארגנטינה יחד עם גבי רקה, דיבר על גמר מונדיאל הפאדל בקטאר. לדבריו, ארגנטינה לא ציפתה שספרד תשאיר את קואייו, מספר 1 בעולם, למשחק השלישי. אובידה אמר שזו הייתה החלטה מסוכנת מאוד של מאמן ספרד חואנחו גוטיירס. אבל ההימור הצליח: קואייו וקוקי נייטו ניצחו את אלפונסו/ליבאק 6-2, 6-2, וספרד זכתה בתואר.",
+      "source": {
+        "name": "Padel Magazine (מאסאו זרהט)",
+        "url": "https://padelmagazine.fr/rodri-ovide-revient-sur-le-choix-de-laisser-coello-en-troisieme-match-juanjo-est-un-heros-et-nous-des-anes/",
         "lang": "צרפתית"
       }
     },
@@ -275,18 +299,6 @@
       }
     },
     {
-      "id": "calendar-where-to-watch-mexico-major-2026",
-      "publishedAt": "2026-11-26T09:33:19Z",
-      "category": "calendar",
-      "title": "📺 הלילה באקפולקו: שמינית הגמר בחינם ביוטיוב",
-      "summary": "הלילה שמינית הגמר של מייג'ור מקסיקו, גברים ונשים, בארבעה מגרשים. לפי Padel Addict, בספרד המשחקים משודרים בחינם ביוטיוב של Premier Padel – וזה היום האחרון ביוטיוב. מרבע הגמר: Red Bull TV ו-Movistar Plus+ בספרד. במקסיקו ובאמריקה הלטינית: ESPN ו-Disney+. המקור לא אומר מה זמין בישראל. מה הלאה: המשחקים הראשונים ב-00:00 (שעון ישראל), ברעה/טריאי לא לפני 03:00, ואחריהן קואייו/טאפיה.",
-      "source": {
-        "name": "Padel Addict",
-        "url": "https://www.padeladdict.com/horarios-partidos-donde-ver-octavos-mexico-major-2026/",
-        "lang": "ספרדית"
-      }
-    },
-    {
       "id": "opinion-padelmagazine-bergeron-collot-padel-guide-2026-11-26",
       "publishedAt": "2026-11-26T08:05:00Z",
       "category": "opinion",
@@ -319,42 +331,6 @@
       "source": {
         "name": "Padel Magazine (מאסאו זרהט)",
         "url": "https://padelmagazine.fr/mexico-major-la-course-aux-master-finals-saccelere-coello-et-tapia-en-quete-dhistoire/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelspain-arenas-rafa-nadal-academy-kuwait-2026-11-25",
-      "publishedAt": "2026-11-25T11:30:00Z",
-      "category": "opinion",
-      "title": "🎾 באקדמיה של נדאל גאים: השחקנים בחרו בכווית",
-      "summary": "אנטוניו ארנס, מנהל התקשורת של אקדמיית רפא נדאל, התראיין ל-Padel Spain. לדבריו, זה \"אומר הרבה\" לאקדמיה שהשחקנים נתנו לטורניר בכווית את הציון הכי גבוה. האקדמיה מארחת טורנירים מקצועיים גדולים ומגדלת שחקנים צעירים. בראיון הוא מדבר גם על התוכניות הבאות של האקדמיה.",
-      "source": {
-        "name": "Padel Spain",
-        "url": "https://www.padelspain.net/entrevistas/836206/antonio-arenas-rafa-nadal-academy-que-la-cita-de-kuwait-sea-la-mejor-valorada-por-los-jugadores-significa-mucho-para-nuestra-academia/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "opinion-padeladdict-lamperti-wants-to-coach-2026-11-25",
-      "publishedAt": "2026-11-25T10:02:12Z",
-      "category": "opinion",
-      "title": "🎙️ למפרטי ב-Padel Addict: \"הגוף שלי אומר שאני רוצה לשחק\"",
-      "summary": "מיגל למפרטי סיים את הדרך שלו ב-Premier Padel, אבל לדבריו הוא לא פורש מהפאדל. במשחק האחרון שלו הוא ושותפו אוקטביו אלווארס הפסידו לגואנגה/קויאדו 7-6, 6-4. למפרטי אמר ל-Padel Addict שהוא אוהב לשחק ו\"חולם לשחק לתמיד\". מה הלאה: הוא ישחק עוד כמה טורנירי FIP ותצוגות, וילמד שנה להיות מאמן – החלום שלו הוא לעזור לשחקנים צעירים.",
-      "source": {
-        "name": "Padel Addict",
-        "url": "https://www.padeladdict.com/miguel-lamperti-despedida-premier-padel/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-deaf-padel-coordination-2026-11-25",
-      "publishedAt": "2026-11-25T09:53:24Z",
-      "category": "opinion",
-      "title": "🤟 ב-Padel Magazine: מה שחקנים חירשים מלמדים על משחק בזוג",
-      "summary": "כתבה של אנטואן טריקולה ב-Padel Magazine: שחקני פאדל חירשים מתאמים עם השותף בלי מילים – בתנועות ידיים, בקשר עין ובשפת גוף. הכתבה מגיעה אחרי סיום הסבב האירופי של פאדל חירשים 2026 בסביליה (20–21.11). בתחרויות האלה משחקים בלי מכשירי שמיעה. השחקן דניס אלווארס מספר שהוא ושותפו מחליטים מראש מי לוקח איזה כדור. לדעת הכותב, גם שחקנים שומעים יכולים ללמוד מזה: לסכם תפקידים לפני המשחק ולתת הערות ברורות בין הנקודות.",
-      "source": {
-        "name": "Padel Magazine – Antoine Tricolet",
-        "url": "https://padelmagazine.fr/se-coordonner-sans-annonces-vocales-ce-que-le-padel-sourd-peut-nous-apprendre-du-jeu-a-deux/",
         "lang": "צרפתית"
       }
     },
