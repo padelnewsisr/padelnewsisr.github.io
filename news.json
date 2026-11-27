@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T16:32:49Z",
+  "updatedAt": "2026-11-27T18:32:34Z",
   "live": {
     "title": "מייג'ור מקסיקו באקפולקו – רבע הגמר (הלילה)",
     "date": "2026-11-28",
@@ -48,6 +48,18 @@
     ]
   },
   "items": [
+    {
+      "id": "world-analistas-race-bergamini-bautista-need-final-2026-11-27",
+      "publishedAt": "2026-11-27T15:14:00Z",
+      "category": "world",
+      "title": "🧮 גם מומו וקמפניולו בחוץ: מי עוד יכול להגיע לברצלונה?",
+      "summary": "לפי Analistas Pádel, שלושה שחקנים נוספים איבדו את גמר העונה: מומו גונסלס (מקום 18), קמפניולו (מקום 20) ואדו אלונסו. קוקי נייטו במקום 19 עם 3,442 נקודות. אלפונסו (מקום 14, 3,640 נקודות) קרוב מאוד לכרטיס, אבל עוד לא בטוח. באוטיסטה/ברגמיני (מקומות 22 ו-23) צריכים להגיע לפחות לגמר באקפולקו כדי לעלות. אז הם יכולים להוציא את טייו, ארסה או אלפונסו. מה הלאה: הלילה באוטיסטה/ברגמיני נגד די נינו/נבארו, בערך ב-05:00 שעון ישראל.",
+      "source": {
+        "name": "Analistas Pádel – ג'ורדי מרטינס",
+        "url": "https://www.analistaspadel.com/coki-nieto-sin-finals-race-mexico-major/",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "calendar-where-to-watch-mexico-major-2026-quarters",
       "publishedAt": "2026-11-27T14:05:25Z",
@@ -355,18 +367,6 @@
       "source": {
         "name": "Padel Magazine · רפאל דז'ירונד",
         "url": "https://padelmagazine.fr/sami-iznasni-jouer-le-fip-tour-cest-dabord-un-combat-financier-en-france-les-p3000-doivent-proposer-au-moins-5000e-pour-les-vainqueurs/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-race-finals-coello-tapia-history-2026-11-25",
-      "publishedAt": "2026-11-25T17:16:14Z",
-      "category": "opinion",
-      "title": "🧮 ב-Padel Magazine: קוקי ניטו צריך רבע גמר כדי להגיע לברצלונה",
-      "summary": "הכתב מאסאו זרהט ב-Padel Magazine כותב שהמרוץ לגמר העונה מתחמם הלילה באקפולקו. לדעתו, קוקי ניטו (מקום 17 ב-Race) צריך כנראה להגיע לרבע הגמר כדי לקבל כרטיס. הוא מסמן גם את אלפונסו/ליבאק נגד גואנגה/קויאדו, ואת ליאל/גררו נגד שני הספרדים הצעירים קסטניו/הרננדס. קואייו/טאפיה כבר זכו במייג'ורים של איטליה, פריז וכווית – ניצחון במקסיקו יהפוך אותם לזוג הראשון שזוכה בכל ארבעת המייג'ורים בעונה אחת. מה הלאה: קואייו/טאפיה נגד קילס/מוריניו בערך ב-05:00 לפי שעון ישראל.",
-      "source": {
-        "name": "Padel Magazine (מאסאו זרהט)",
-        "url": "https://padelmagazine.fr/mexico-major-la-course-aux-master-finals-saccelere-coello-et-tapia-en-quete-dhistoire/",
         "lang": "צרפתית"
       }
     },
