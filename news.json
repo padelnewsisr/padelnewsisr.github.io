@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T07:33:01Z",
+  "updatedAt": "2026-11-27T09:32:59Z",
   "live": {
     "title": "מייג'ור מקסיקו באקפולקו – רבע הגמר (הלילה)",
     "date": "2026-11-28",
@@ -48,6 +48,42 @@
     ]
   },
   "items": [
+    {
+      "id": "opinion-padelmagazine-lebron-tribute-lamperti-2026-11-27",
+      "publishedAt": "2026-11-27T08:42:00Z",
+      "category": "opinion",
+      "title": "💛 לברון באינסטגרם ללמפרטי: \"בשבילי אתה מספר 1\"",
+      "summary": "חואן לברון כתב פוסט באינסטגרם אחרי המשחק האחרון של מיגל למפרטי ב-Premier Padel באקפולקו. לדעתו, למפרטי שינה את הפאדל – בעיקר הסמאש שמוציא את הכדור החוצה והסמאש עם הסיבוב שמחזיר את הכדור. לברון אומר שהמכות האלה הן היום רגילות בסבב המקצועני. הוא הודה לו על העצות והאימונים יחד, ושיבח אותו כאדם צנוע ושמח. לפי Padel Magazine, למפרטי ממשיך בסבב FIP, במשחקי ראווה ובאימון.",
+      "source": {
+        "name": "Padel Magazine (על פוסט של לברון באינסטגרם)",
+        "url": "https://padelmagazine.fr/que-se-serait-il-passe-sans-miguel-lamperti-le-bel-hommage-de-juan-lebron/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "world-padelmagazine-leal-libaak-last-ticket-barcelona-2026-11-27",
+      "publishedAt": "2026-11-27T08:38:38Z",
+      "category": "world",
+      "title": "🎟️ ליאל נגד ליבאק: מי שמנצח – נוסע לברצלונה",
+      "summary": "קוקי נייטו לא יגיע לגמר העונה בברצלונה. הוא וינגואס הפסידו בשמינית הגמר לג'ופרה/אסברי. עכשיו הכרטיס האחרון אצל ליאל (מקום 16, 3,552 נקודות) או ליבאק (מקום 17, 3,550 נקודות). הם נפגשים הלילה ברבע הגמר: ליאל/גררו נגד אלפונסו/ליבאק. מה הלאה: המנצח עולה לגמר העונה (10–13.12), המפסיד מסיים את העונה רגע מחוץ לרשימה.",
+      "source": {
+        "name": "Padel Magazine (Maceo Zerhat)",
+        "url": "https://padelmagazine.fr/mexico-major-coki-nieto-prive-de-masters-finals-leal-et-libaak-vont-se-disputer-le-dernier-billet-pour-barcelone/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "opinion-padelmagazine-guerrero-leal-ustero-2026-11-27",
+      "publishedAt": "2026-11-27T07:48:00Z",
+      "category": "opinion",
+      "title": "😄 פראן גררו צוחק על הוויבורה של ליאל",
+      "summary": "פראן גררו ענה על שאלות של Padel Magazine באירוע של HEAD באוסטריה. הוא אמר שהוא מעדיף בן זוג שמדבר הרבה, ולא שחקן ביישן. כשנשאל איזו מכה של שחקן אחר הוא לא רוצה – ענה בצחוק: הוויבורה של בן הזוג שלו, ליאל. על אנדראה אוסטרו סיפר שהיא מציירת יפה מאוד. הלילה גררו וליאל משחקים ברבע הגמר במקסיקו.",
+      "source": {
+        "name": "Padel Magazine (Franck Binisti)",
+        "url": "https://padelmagazine.fr/fran-guerrero-chambre-javi-leal-et-devoile-un-talent-cache-dandrea-ustero/",
+        "lang": "צרפתית"
+      }
+    },
     {
       "id": "results-mexico-major-2026-r16-men-late",
       "publishedAt": "2026-11-27T07:31:00Z",
@@ -263,76 +299,6 @@
       }
     },
     {
-      "id": "results-mexico-major-2026-r32-men-late",
-      "publishedAt": "2026-11-26T07:40:00Z",
-      "category": "results",
-      "gender": "men",
-      "title": "👨 🔥 קואייו/טאפיה: 6-3, 6-2 בבכורה באקפולקו",
-      "summary": "המדורגים 1 בעולם פתחו את מייג'ור מקסיקו בלי בעיות. קואייו/טאפיה ניצחו את קילס/מוריניו 6-3, 6-2. די נינו/נבארו ניצחו את מונטיאל/סנטיגוסה 6-4, 6-3. הפתעה: ולנסואלה/חיל הדיחו את ארסה/טייו 7-6, 7-5. חימנס/צ'וסאס ניצחו 7-6, 7-5. מה הלאה: בשמינית הגמר (הלילה, שעון ישראל) קואייו/טאפיה נגד אלכס רואיס/חאבי גרסיה, בערך ב-04:30, ודי נינו/נבארו נגד חימנס/צ'וסאס.",
-      "matches": [
-        {
-          "winner": "קואייו/טאפיה",
-          "loser": "קילס/מוריניו",
-          "score": "6-3, 6-2"
-        },
-        {
-          "winner": "די נינו/נבארו",
-          "loser": "מונטיאל/סנטיגוסה",
-          "score": "6-4, 6-3"
-        },
-        {
-          "winner": "ולנסואלה/חיל",
-          "loser": "ארסה/טייו",
-          "score": "7-6, 7-5"
-        },
-        {
-          "winner": "חימנס/צ'וסאס",
-          "loser": "רודריגס/גרסיה",
-          "score": "7-6, 7-5"
-        }
-      ],
-      "source": {
-        "name": "StudyPadel – תוצאות חיות",
-        "url": "https://www.studypadel.com/tournaments/2026/mexico-major-2026/matches",
-        "lang": "אנגלית"
-      }
-    },
-    {
-      "id": "results-mexico-major-2026-r32-women-late",
-      "publishedAt": "2026-11-26T07:40:00Z",
-      "category": "results",
-      "gender": "women",
-      "title": "👩 🎟️ סלאסר/אוסורו ניצחו 6-2, 6-2 – והמרוץ לברצלונה חם",
-      "summary": "מקום אחד אחרון פתוח בגמר העונה של הנשים, וכל המתמודדות ניצחו באקפולקו. סלאסר/אוסורו ניצחו את טלאבן/סאיס 6-2, 6-2. ורו וירסדה מחזיקה עכשיו במקום האחרון עם 2,900 נקודות. מאחוריה: אוסורו (2,865), נוריה רודריגס (2,850), ג'וליה דאל פוצו (2,820) וראקל אאוחניו (2,690). עוד תוצאות: אורטגה/אראוז'ו ניצחו 6-2, 7-5, מונטס/בררה ניצחו 6-3, 6-4, וקסטיו/לאיה רודריגס ניצחו בשלוש מערכות. מה הלאה: שמינית הגמר הלילה, ברעה/טריאי נגד ולסקו/אאוחניו בערך ב-03:00 (שעון ישראל).",
-      "matches": [
-        {
-          "winner": "סלאסר/אוסורו",
-          "loser": "טלאבן/סאיס",
-          "score": "6-2, 6-2"
-        },
-        {
-          "winner": "אורטגה/אראוז'ו",
-          "loser": "קרסקוסה/פרננדס",
-          "score": "6-2, 7-5"
-        },
-        {
-          "winner": "מונטס/בררה",
-          "loser": "גודלייה/ולנסואלה",
-          "score": "6-3, 6-4"
-        },
-        {
-          "winner": "ולסקו/אאוחניו",
-          "loser": "א. לופס/ק. פסיו",
-          "score": "6-4, 6-3"
-        }
-      ],
-      "source": {
-        "name": "Padel Spain",
-        "url": "https://www.padelspain.net/padel-profesional/836237/alejandra-salazar-y-aranza-osoro-salvan-su-primer-match-ball-de-las-finals/",
-        "lang": "ספרדית"
-      }
-    },
-    {
       "id": "opinion-padelmagazine-iznasni-fip-tour-money-2026-11-26",
       "publishedAt": "2026-11-26T07:15:00Z",
       "category": "opinion",
@@ -389,30 +355,6 @@
       "source": {
         "name": "Padel Magazine – Antoine Tricolet",
         "url": "https://padelmagazine.fr/se-coordonner-sans-annonces-vocales-ce-que-le-padel-sourd-peut-nous-apprendre-du-jeu-a-deux/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-lamperti-farewell-2026-11-25",
-      "publishedAt": "2026-11-25T09:19:15Z",
-      "category": "opinion",
-      "title": "👋 ב-Padel Magazine: למפרטי – אגדה שגרמה לדור שלם לאהוב פאדל",
-      "summary": "מיגל למפרטי מארגנטינה, בן 48, סיים הלילה קריירה של יותר מ-25 שנה. בטור של מאסאו זרהאט ב-Padel Magazine הוא מתואר כאחד השחקנים הכי מזוהים עם הפאדל. הוא זכה פעמיים באליפות העולם עם ארגנטינה (2014, 2016) ועזר לשחקנים צעירים כמו קואייו, ינגואס וג'ון סאנס. לדעת הכותב, השואו שלו על המגרש גרם להרבה אנשים להתחיל לשחק. מה הלאה: למפרטי מתכנן כמה טורנירי FIP ולאמן צעירים.",
-      "source": {
-        "name": "Padel Magazine – Maceo Zerhat",
-        "url": "https://padelmagazine.fr/miguel-lamperti-les-adieux-dune-legende-qui-a-fait-aimer-le-padel-a-toute-une-generation/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-six-contenders-finals-2026-11-25",
-      "publishedAt": "2026-11-25T08:50:29Z",
-      "category": "opinion",
-      "title": "🧮 ב-Padel Magazine: שישה שחקנים, שני כרטיסים לברצלונה",
-      "summary": "לפי מאסאו זרהאט ב-Padel Magazine, רק 90 נקודות מפרידות בין מקום 15 למקום 20 ב-Race. אלפונסו (15) ומומו גונסלס (16) מחזיקים עכשיו בשני המקומות האחרונים לגמר העונה. לדעתו לקוקי נייטו (17) יש הגרלה נוחה יותר, ורבע גמר יכול להכניס אותו. ליבאק (20) צריך כמעט נס: רבע גמר וגם שכל ארבעת היריבים יפסידו מוקדם.",
-      "source": {
-        "name": "Padel Magazine – Maceo Zerhat",
-        "url": "https://padelmagazine.fr/mexico-major-que-doivent-faire-les-six-pretendants-aux-masters-finals-pour-decrocher-leur-billet/",
         "lang": "צרפתית"
       }
     },
