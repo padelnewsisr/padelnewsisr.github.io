@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T12:32:03Z",
+  "updatedAt": "2026-11-27T12:33:38Z",
   "live": {
     "title": "מייג'ור מקסיקו באקפולקו – רבע הגמר (הלילה)",
     "date": "2026-11-28",
@@ -48,6 +48,30 @@
     ]
   },
   "items": [
+    {
+      "id": "world-analistas-women-race-salazar-virseda-2026-11-27",
+      "publishedAt": "2026-11-27T11:51:39Z",
+      "category": "world",
+      "title": "🎟️ הלילה: קלדרה/גואנגה יכולות להוציא את סלאסר ממסיבת הסיום",
+      "summary": "ב-Race של הנשים נשארו רק שני מקומות לגמר העונה בברצלונה. 14 שחקניות כבר בפנים. אראנסה אוסורו בחוץ, אחרי הפסד לקלדרה/גואנגה 6-3, 6-4. אם קלדרה/גואנגה יעלו לחצי הגמר, הן ייקחו את שני המקומות – וסלאסר ווירסדה יישארו בחוץ. מה הלאה: ברבע הגמר הן פוגשות את ברעה/טריאי, המדורגות 1, בערך ב-03:30 בלילה (שעון ישראל), ב-Red Bull TV.",
+      "source": {
+        "name": "Analistas Pádel",
+        "url": "https://www.analistaspadel.com/ale-salazar-fuera-finals-race-femenina-2026/",
+        "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "opinion-padelspain-acapulco-last-goodbye-season-2026-11-27",
+      "publishedAt": "2026-11-27T09:30:15Z",
+      "category": "opinion",
+      "title": "🍂 ב-PadelSpain: אקפולקו היא הפרידה מהעונה",
+      "summary": "מערכת PadelSpain כותבת שמייג'ור מקסיקו באקפולקו מרגיש כמו פרידה מהעונה. זה המייג'ור האחרון של השנה, ויש בו 2,000 נקודות. לפי הכותבים, חלק מהשחקנים מרוצים וחלק מתוסכלים. לדעתם, גם מי שלא זכה בתואר השנה אבל נתן את הכול – מגיע לו כבוד.",
+      "source": {
+        "name": "PadelSpain (המערכת)",
+        "url": "https://www.padelspain.net/padel-profesional/836261/acapulco-el-ultimo-adios-a-una-temporada-que-ya-se-acaba/",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "opinion-padelmagazine-right-side-player-finish-point-2026-11-27",
       "publishedAt": "2026-11-27T09:20:00Z",
