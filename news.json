@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T03:32:23Z",
+  "updatedAt": "2026-11-27T03:34:36Z",
   "live": {
     "title": "מייג'ור מקסיקו באקפולקו – שמינית הגמר (עכשיו)",
     "date": "2026-11-27",
@@ -555,8 +555,8 @@
     {
       "label": "שמינית הגמר באקפולקו – גברים ונשים",
       "url": "https://www.youtube.com/premierpadelTV",
-      "live": false,
-      "note": "יוטיוב של Premier Padel · 00:00"
+      "live": true,
+      "note": "יוטיוב של Premier Padel · משחקים עכשיו"
     }
   ],
   "israeliPlayers": [
