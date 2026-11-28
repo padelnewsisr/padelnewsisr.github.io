@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-28T07:34:39Z",
+  "updatedAt": "2026-11-28T09:33:00Z",
   "live": {
     "title": "מייג'ור מקסיקו באקפולקו – חצי הגמר (הלילה)",
     "date": "2026-11-29",
-    "note": "📺 איפה לראות: Red Bull TV (חינם ברוב העולם, לפי Padel Addict ישראל לא ברשימת המדינות החסומות). מתחילים ב-00:00 שעון ישראל. שאר השעות משוערות – כל משחק מתחיל אחרי הקודם.",
+    "note": "📺 איפה לראות: Red Bull TV (חינם ברוב העולם, לפי Padel Addict ישראל לא ברשימת המדינות החסומות). בצרפת, לפי Padel Magazine: גם ביוטיוב של Premier Padel. מתחילים ב-00:00 שעון ישראל, וכל משחק מתחיל אחרי הקודם. חצי הגמר השני של הנשים – לא לפני 03:00.",
     "matches": [
       {
         "time": "00:00",
@@ -11,23 +11,79 @@
         "result": ""
       },
       {
-        "time": "02:00",
-        "what": "👨 אלפונסו/ליבאק נגד ג'ופרה/אסברי (בערך)",
+        "time": "01:30",
+        "what": "👨 אלפונסו/ליבאק נגד ג'ופרה/אסברי (אחרי המשחק הראשון)",
         "result": ""
       },
       {
-        "time": "03:30",
-        "what": "👩 ברעה/טריאי נגד קלבו/קלאודיה פרננדס (בערך)",
+        "time": "03:00",
+        "what": "👩 ברעה/טריאי נגד קלבו/קלאודיה פרננדס (לא לפני 03:00)",
         "result": ""
       },
       {
-        "time": "05:30",
-        "what": "👨 קואייו/טאפיה נגד באוטיסטה/ברגמיני (בערך)",
+        "time": "04:30",
+        "what": "👨 קואייו/טאפיה נגד באוטיסטה/ברגמיני (אחרי המשחק הקודם)",
         "result": ""
       }
     ]
   },
   "items": [
+    {
+      "id": "world-padelmagazine-salazar-farewell-barcelona-2026-11-28",
+      "publishedAt": "2026-11-28T08:57:30Z",
+      "category": "world",
+      "title": "👋 אלה סלאסר בגמר העונה – הטורניר האחרון בקריירה",
+      "summary": "אלה סלאסר (40) תשחק בגמר העונה בברצלונה, 10–13.12. זה יהיה הטורניר האחרון שלה – היא פורשת. היא סיימה במקום ה-15 ב-Race עם 3,110 נקודות. ורוניקה וירסדה נכנסה במקום ה-16, האחרון, עם 2,990 נקודות. ארנצה אוסורו, השותפה הרגילה של סלאסר, נשארה בחוץ – חסרו לה רק 35 נקודות. לכן בברצלונה סלאסר תשחק עם וירסדה. למה זה חשוב: לפי Padel Magazine, לסלאסר יש 58 תארים ב-WPT וב-Premier Padel.",
+      "profile": {
+        "icon": "👋",
+        "flag": "🇪🇸",
+        "name": "אלה סלאסר",
+        "line": "הטורניר האחרון בקריירה – בברצלונה",
+        "stat": "58 תארים"
+      },
+      "source": {
+        "name": "Padel Magazine (Benjamin Dupouy)",
+        "url": "https://padelmagazine.fr/sauvee-par-triay-brea-salazar-disputera-bien-les-finals-de-barcelone-virseda-laccompagnera-pour-ses-adieux/",
+        "lang": "צרפתית"
+      }
+    },
+    {
+      "id": "world-padeladdict-finals-ticket-alfonso-2026-11-28",
+      "publishedAt": "2026-11-28T08:49:54Z",
+      "category": "world",
+      "gender": "both",
+      "title": "🎟️ גונסה אלפונסו בפנים: יש לו כרטיס לברצלונה",
+      "summary": "גונסה אלפונסו הבטיח מקום בגמר העונה בברצלונה. זה קרה אחרי שהוא וטינו ליבאק ניצחו ברבע הגמר את ליאל/גררו 7-6, 7-5. לפי Padel Addict, ליבאק במרחק צעד אחד מלהצטרף אליו – הכול תלוי בחצי הגמר הלילה נגד ג'ופרה/אסברי. אצל הנשים: סלאסר ווירסדה הבטיחו מקום, אחרי שברעה/טריאי ניצחו את קלדרה/גואנגה. מה הלאה: חצי הגמר מתחיל הלילה ב-00:00 שעון ישראל.",
+      "matches": [
+        {
+          "winner": "אלפונסו/ליבאק",
+          "loser": "ליאל/גררו",
+          "score": "7-6, 7-5"
+        },
+        {
+          "winner": "ברעה/טריאי",
+          "loser": "קלדרה/גואנגה",
+          "score": "6-2, 4-6, 7-5"
+        }
+      ],
+      "source": {
+        "name": "Padel Addict (Ángel González)",
+        "url": "https://padeladdict.com/resultados-de-los-cuartos-del-mexico-major-2026-gonza-se-clasifica-para-barcelona-y-libaak-a-medio-paso",
+        "lang": "ספרדית"
+      }
+    },
+    {
+      "id": "calendar-where-to-watch-mexico-major-2026-semis",
+      "publishedAt": "2026-11-28T08:45:20Z",
+      "category": "calendar",
+      "title": "📺 איפה לראות הלילה את חצי הגמר באקפולקו",
+      "summary": "חצי הגמר של מייג'ור מקסיקו מתחיל הלילה ב-00:00 שעון ישראל: סאנצ'ס/אוסטרו נגד חוסמריה/באה גונסלס, ואחריהן אלפונסו/ליבאק נגד ג'ופרה/אסברי. לא לפני 03:00: ברעה/טריאי נגד קלבו/קלאודיה פרננדס, ואחריהן קואייו/טאפיה נגד באוטיסטה/ברגמיני. כל המשחקים במגרש המרכזי. בצרפת, לפי Padel Magazine: שידור חי בחינם ביוטיוב של Premier Padel. בעולם ובישראל: Red Bull TV (לפי Padel Addict, ישראל לא ברשימת המדינות החסומות).",
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/mexico-major-ou-voir-les-demi-finales-programme-horaires-et-diffusion-en-direct/",
+        "lang": "צרפתית"
+      }
+    },
     {
       "id": "results-mexico-major-2026-qf-men",
       "publishedAt": "2026-11-28T07:33:00Z",
@@ -121,18 +177,6 @@
       }
     },
     {
-      "id": "calendar-where-to-watch-mexico-major-2026-quarters",
-      "publishedAt": "2026-11-27T14:05:25Z",
-      "category": "calendar",
-      "title": "📺 איפה לראות הלילה את רבע הגמר באקפולקו",
-      "summary": "רבע הגמר של מייג'ור מקסיקו מתחיל הלילה ב-00:00 שעון ישראל, בשני מגרשים. לפי Padel Addict, Red Bull TV משדר בחינם בכל העולם, חוץ מכמה מדינות (למשל צרפת, בלגיה, הולנד, שווייץ ופולין). ישראל לא ברשימת המדינות האלה, אבל הכתבה לא מדברת על ישראל. בספרד: Red Bull TV ו-Movistar Plus+. במקסיקו ובארגנטינה: ESPN ו-Disney+. במזרח התיכון: beIN SPORTS ו-TOD. מה הלאה: קואייו/טאפיה נגד ולנסואלה/חיל סוגרים את הלילה במגרש המרכזי.",
-      "source": {
-        "name": "Padel Addict",
-        "url": "https://www.padeladdict.com/horarios-partidos-donde-ver-cuartos-mexico-major-2026/",
-        "lang": "ספרדית"
-      }
-    },
-    {
       "id": "world-analistas-acapulco-quarters-preview-2026-11-27",
       "publishedAt": "2026-11-27T12:43:00Z",
       "category": "world",
@@ -193,18 +237,6 @@
       }
     },
     {
-      "id": "world-padelmagazine-leal-libaak-last-ticket-barcelona-2026-11-27",
-      "publishedAt": "2026-11-27T08:38:38Z",
-      "category": "world",
-      "title": "🎟️ ליאל נגד ליבאק: מי שמנצח – נוסע לברצלונה",
-      "summary": "קוקי נייטו לא יגיע לגמר העונה בברצלונה. הוא וינגואס הפסידו בשמינית הגמר לג'ופרה/אסברי. עכשיו הכרטיס האחרון אצל ליאל (מקום 16, 3,552 נקודות) או ליבאק (מקום 17, 3,550 נקודות). הם נפגשים הלילה ברבע הגמר: ליאל/גררו נגד אלפונסו/ליבאק. מה הלאה: המנצח עולה לגמר העונה (10–13.12), המפסיד מסיים את העונה רגע מחוץ לרשימה.",
-      "source": {
-        "name": "Padel Magazine (Maceo Zerhat)",
-        "url": "https://padelmagazine.fr/mexico-major-coki-nieto-prive-de-masters-finals-leal-et-libaak-vont-se-disputer-le-dernier-billet-pour-barcelone/",
-        "lang": "צרפתית"
-      }
-    },
-    {
       "id": "opinion-padelmagazine-ovide-coello-third-match-2026-11-27",
       "publishedAt": "2026-11-27T08:01:00Z",
       "category": "opinion",
@@ -249,18 +281,6 @@
       "source": {
         "name": "Padel Magazine · אנטואן טריקולה",
         "url": "https://padelmagazine.fr/comment-reconnait-on-le-potentiel-dun-futur-numero-1-le-cas-galan/",
-        "lang": "צרפתית"
-      }
-    },
-    {
-      "id": "opinion-padelmagazine-bergeron-collot-padel-guide-2026-11-26",
-      "publishedAt": "2026-11-26T08:05:00Z",
-      "category": "opinion",
-      "title": "📘 ב-Padel Magazine: ברז'רון וקולו כתבו מדריך פאדל",
-      "summary": "המאמן ז'והאן ברז'רון והעיתונאי סיריל קולו מספרים ב-Padel Magazine על הספר \"Le Guide du padel\". לדבריהם, לא היה בצרפת מדריך כזה, והכתיבה לקחה כמעט שנה. ברז'רון הביא את הטכניקה והטקטיקה מהשנים שלו בספרד, וקולו כתב והוסיף את ההיסטוריה של הענף. הספר מיועד לשחקנים מתחילים ובינוניים, ויש בו 15 מכות, 20 עצות טקטיקה ותרגילים לבית. המטרה שלהם, לדבריהם: שאנשים ייהנו לקרוא וישתפרו.",
-      "source": {
-        "name": "Padel Magazine (מאסאו זרהט)",
-        "url": "https://padelmagazine.fr/johan-bergeron-et-cyril-collot-le-but-cest-que-les-gens-prennent-du-plaisir-a-le-lire-et-progressent/",
         "lang": "צרפתית"
       }
     },
