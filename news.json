@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-28T09:33:00Z",
+  "updatedAt": "2026-11-28T12:33:16Z",
   "live": {
     "title": "מייג'ור מקסיקו באקפולקו – חצי הגמר (הלילה)",
     "date": "2026-11-29",
-    "note": "📺 איפה לראות: Red Bull TV (חינם ברוב העולם, לפי Padel Addict ישראל לא ברשימת המדינות החסומות). בצרפת, לפי Padel Magazine: גם ביוטיוב של Premier Padel. מתחילים ב-00:00 שעון ישראל, וכל משחק מתחיל אחרי הקודם. חצי הגמר השני של הנשים – לא לפני 03:00.",
+    "note": "📺 איפה לראות: Red Bull TV (חינם ברוב העולם, לפי Padel Addict ישראל לא ברשימת המדינות החסומות). בצרפת, לפי Padel Magazine: גם ביוטיוב של Premier Padel. מתחילים ב-00:00 שעון ישראל, וכל משחק מתחיל אחרי הקודם. חצי הגמר השני של הנשים – לא לפני 03:00. 🌧️ לפי Padel Review: צפוי גשם באקפולקו היום. אם לא ישחקו – חצי הגמר יעבור ליום ראשון 29.11, והגמרים ליום שני 30.11.",
     "matches": [
       {
         "time": "00:00",
@@ -28,6 +28,18 @@
     ]
   },
   "items": [
+    {
+      "id": "opinion-padelspain-soto-borja-acapulco-economy-2026-11-28",
+      "publishedAt": "2026-11-28T10:20:00Z",
+      "category": "opinion",
+      "title": "🌴 מייסד הפאדל: הפאדל עוזר לאקפולקו לקום מחדש",
+      "summary": "איגנסיו סוטו בורחה, ממייסדי ענף הפאדל, דיבר במייג'ור מקסיקו באקפולקו. לדבריו, הפאדל הוא תופעה עולמית שיוצרת מקומות עבודה: בניית מגרשים, מועדונים, ציוד וטורנירים. לדעתו, הטורניר עוזר לאקפולקו להחזיר תיירים אחרי אסונות טבע, וגם למלונות, למסעדות ולחנויות. הוא הזכיר שהפאדל נולד באקפולקו ב-1969.",
+      "source": {
+        "name": "PadelSpain",
+        "url": "https://www.padelspain.net/padel-internacional/836289/ignacio-soto-borja-destaca-el-impacto-del-padel-en-la-economia-y-el-turismo-de-acapulco/",
+        "lang": "ספרדית"
+      }
+    },
     {
       "id": "world-padelmagazine-salazar-farewell-barcelona-2026-11-28",
       "publishedAt": "2026-11-28T08:57:30Z",
@@ -165,6 +177,18 @@
       }
     },
     {
+      "id": "opinion-padelmagazine-4padel-debelmas-french-padel-halfway-2026-11-28",
+      "publishedAt": "2026-11-28T07:11:00Z",
+      "category": "opinion",
+      "title": "🇫🇷 מנהל 4PADEL: הפאדל בצרפת רק באמצע הדרך",
+      "summary": "גיום דבלמה, ממנהלי קבוצת PLAYERS (בעלת רשת 4PADEL), אמר ל-Padel Magazine שהפאדל בצרפת רק באמצע הדרך. לדעתו, צרפת יכולה להגיע לכ-10,000 מגרשים – היום יש בערך 5,000. הוא אומר שהשחקנים דורשים יותר: מיקום טוב, תקרה גבוהה, מאמנים ואווירה. לדבריו, מועדונים בינוניים הם בסיכון הכי גדול, והצמיחה תבוא גם מנשים וילדים.",
+      "source": {
+        "name": "Padel Magazine",
+        "url": "https://padelmagazine.fr/le-padel-francais-est-a-la-moitie-du-chemin-4padel-parie-sur-les-clubs-premium/",
+        "lang": "צרפתית"
+      }
+    },
+    {
       "id": "world-analistas-race-bergamini-bautista-need-final-2026-11-27",
       "publishedAt": "2026-11-27T15:14:00Z",
       "category": "world",
@@ -185,18 +209,6 @@
       "source": {
         "name": "Analistas Pádel (מרתה פסקואל)",
         "url": "https://www.analistaspadel.com/cuartos-de-final-mexico-major-2026/",
-        "lang": "ספרדית"
-      }
-    },
-    {
-      "id": "world-analistas-women-race-salazar-virseda-2026-11-27",
-      "publishedAt": "2026-11-27T11:51:39Z",
-      "category": "world",
-      "title": "🎟️ הלילה: קלדרה/גואנגה יכולות להוציא את סלאסר ממסיבת הסיום",
-      "summary": "ב-Race של הנשים נשארו רק שני מקומות לגמר העונה בברצלונה. 14 שחקניות כבר בפנים. אראנסה אוסורו בחוץ, אחרי הפסד לקלדרה/גואנגה 6-3, 6-4. אם קלדרה/גואנגה יעלו לחצי הגמר, הן ייקחו את שני המקומות – וסלאסר ווירסדה יישארו בחוץ. מה הלאה: ברבע הגמר הן פוגשות את ברעה/טריאי, המדורגות 1, בערך ב-03:30 בלילה (שעון ישראל), ב-Red Bull TV.",
-      "source": {
-        "name": "Analistas Pádel",
-        "url": "https://www.analistaspadel.com/ale-salazar-fuera-finals-race-femenina-2026/",
         "lang": "ספרדית"
       }
     },
